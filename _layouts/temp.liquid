@@ -1,0 +1,27 @@
+{% capture name%}{{page.first_name}} {{page.last_name}}{%endcapture%}
+
+{% capture title%}{{name}}{% if page.phd == true%}, PhD{%endif%}{%endcapture%}
+
+{% assign page.title = {{title}}%}
+
+{%if page.image_src contains "."%}
+{% capture img_src%} ../images/{{page.image_src}} {%endcapture%}
+{%else%}
+{%assign img_src = "../images/transmission.png"%}
+{%endif%}
+
+<!DOCTYPE html>
+<html>
+{%include head.html%}
+<body>
+{%include header.html%}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+{%include profile.html %}
+{{content}}
+      </section>
+    </div>
+{%include footer.html %}
+</body>
+</html>

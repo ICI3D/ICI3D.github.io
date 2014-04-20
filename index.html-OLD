@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-Hello world
-=======
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>ICI3D by ICI3D</title>
+    <title>ICI3D</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -95,4 +92,3 @@ Hello world
 
   </body>
 </html>
->>>>>>> FETCH_HEAD

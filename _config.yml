@@ -1,0 +1,2 @@
+exclude: ['index.html-OLD','people.md-OLD',temp.md,redirect.html,README.md]
+markdown: kramdown
