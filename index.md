@@ -34,4 +34,4 @@ The ICI3D program is supported by the [National Institute of General Medical Sci
 
 ## Contact
 
-For questions or assistance, please contact us at ici3d [at] epi <dot> ufl <dot> edu.
+For questions or assistance, please contact us at <ici3d [at] epi.ufl.edu>.
