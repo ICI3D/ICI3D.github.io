@@ -8,6 +8,6 @@ Funding is available to cover room, board and travel costs for a limited number 
 
 **The deadline for receipt of applications for MMED 2014 is February 17, 2014. Late or incomplete applications will not be considered. Application instructions are available on the Application Form.**
 
-### Note to applicants based at institutions in Africa:
+#### Note to applicants based at institutions in Africa:
 
 [SACEMA](http://www.sacema.com/ "SACEMA") runs the applications process for applicants based at African institutions and has a later deadline. You may submit your application directly to SACEMA by following the instructions on their website. If you submit an application through the ICI3D Program website by the February 17 deadline, your application will be automatically forwarded to SACEMA for consideration.
