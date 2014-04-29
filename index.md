@@ -35,3 +35,5 @@ The ICI3D program is supported by the [National Institute of General Medical Sci
 ## Contact
 
 For questions or assistance, please contact us at <ici3d [at] epi.ufl.edu>.
+
+[Follow this link](http://ici3d.github.io/people/ "Faculty and Staff") for a list of ICI3D Program faculty and staff.
