@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICI3D
+title: Faculty & Staff
 subtitle: International Clinics on Infectious Disease Dynamics and Data
 ---
 
