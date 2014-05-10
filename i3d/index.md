@@ -10,7 +10,7 @@ To be considered for the I3D Research Scholars Exchange Program, participants mu
 ##Upcoming Deadlines
 
 ### September 15, 2014
-For exchages starting on or after January 1, 2015 <br>
+For exchanges starting on or after January 1, 2015 <br>
 Applicants will be notified of their status by October 1
 
 ### March 15, 2015

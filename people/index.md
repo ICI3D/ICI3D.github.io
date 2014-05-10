@@ -34,7 +34,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 Professor <br>
 Department of Epidemiology and Biostatistics <br>
 Department of Ophthalmology <br>
-Francis I Proctor Institute for Reseearch in Ophthalmology <br>
+Francis I Proctor Institute for Research in Ophthalmology <br>
 University of California – San Francisco, San Francisco, CA, USA
 
 **Juliet Pulliam, PhD** ([link](http://pulliamlab-ufl.github.io/people/pulliam "Juliet Pulliam"), [cv](https://dl.dropbox.com/u/40277704/PulliamCV.pdf "Pulliam CV")) <br>
@@ -72,5 +72,5 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 **Jacob Ball, MA** <br>
 *ICI3D Program Assistant* <br>
-Emerging Pathogens Insitute <br>
+Emerging Pathogens Institute <br>
 University of Florida, Gainesville, FL USA
