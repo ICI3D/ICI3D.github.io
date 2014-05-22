@@ -16,4 +16,4 @@ This clinic targets public health researchers and population biologists interest
 
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to fifteen places for applicants from US-based institutions and up to four places for applicants based at African institutions.
 
-See the [Request for Applications](./rfa.html "Request for Applications") for additional information. To apply for this clinic, please submit your application via the [Application Form](http://epi.ufl.edu/ici3d/daidd-application-form/ "DAIDD Application Form") on the UF Emerging Pathogens Institute's website.
+See the [Request for Applications](./rfa.html "Request for Applications") for additional information. 

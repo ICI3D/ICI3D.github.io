@@ -16,4 +16,4 @@ This clinic targets quantitative scientists, including mathematicians, statistic
 
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined. Funding is being sought to support participants based at Canadian institutions.
 
-See the [Request for Applications](./rfa.html "Request for Applications") for additional information. To apply for this clinic, please submit your application via the [Application Form](http://epi.ufl.edu/ici3d/mmed-application-form/ "MMED Application Form") on the UF Emerging Pathogens Institute's website.
+See the [Request for Applications](./rfa.html "Request for Applications") for additional information. 
