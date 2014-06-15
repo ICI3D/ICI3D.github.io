@@ -8,13 +8,13 @@ The ICI3D Program provides junior researchers from the US and Africa with opport
 
 ## Upcoming Events
 
-### Clinic on the Meaningful Modeling of Epidemiological Data ([MMED](http://ici3d.github.io/mmed/ "MMED"))
-
-June 2-13, 2014, Muizenberg, Cape Town, South Africa
-
 ### Clinic on Dynamical Approaches to Infectious Disease Data ([DAIDD](http://ici3d.github.io/daidd/ "DAIDD"))
 
 December 2014, Gainesville, Florida, USA
+
+### Clinic on the Meaningful Modeling of Epidemiological Data ([MMED](http://ici3d.github.io/mmed/ "MMED"))
+
+June 2015, Muizenberg, Cape Town, South Africa
 
 ## Program information
 
