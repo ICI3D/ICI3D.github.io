@@ -1,14 +1,14 @@
 ---
 layout: page
 title: MMED 2015
-subtitle: Clinic on Meaningful Modeling of Infectious Disease Data
+subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 ---
 
 The MMED 2015 program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
 The schedule below contains links to many different elements of the program, which will be made available through this page. Note that some links will be available only to workshop participants. If a link is red, this means the material is not yet available.
 
-*The schedule below is **preliminary** and subject to change. Materials linked from this page are also subject to change should not be considered final until the conclusion of the relevant session.*
+*The schedule below is **preliminary** and subject to change. Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.*
 
 # Schedule
 
@@ -198,8 +198,7 @@ The schedule below contains links to many different elements of the program, whi
 Links
 -----
 
-*Return to the [Instructor wiki](http://lalashan.mcmaster.ca/theobio/mmbd/index.php/)*
-
+*Return to the [Instructor wiki](http://lalashan.mcmaster.ca/theobio/mmbd/index.php/)*  
 *Return to the [Participant wiki](http://lalashan.mcmaster.ca/theobio/MMEDclinic/)*
 
 <Category:2015> <Category:MMED> <Category:ICI3D>
