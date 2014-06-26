@@ -1,6 +1,7 @@
 ---
 layout: main_page
 title: ICI3D
+subtitle: International Clinics on Infectious Disease Dynamics and Data
 ---
 #### Welcome to the ICI3D Program!
 
