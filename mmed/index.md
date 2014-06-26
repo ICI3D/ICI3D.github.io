@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MMED
-subtitle: Clinic on Meaningful Modeling of Infectious Disease Data
+subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 ---
 
 The fifth annual **Clinic on the Meaningful Modeling of Epidemiological Data (MMED)** was held at the African Institute for Mathematical Science in Muizenberg, South Africa on June 2-13, 2014. The next MMED will be held in May/June 2015, and this site will be updated in January with application instructions.
