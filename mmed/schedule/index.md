@@ -26,7 +26,7 @@ The schedule below contains links to many different elements of the program, whi
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     -   If you still need wifi access, please see Jan in the IT office (Room 110) between 13:30 and 14:00 to get this set up.
 -   14:00 – 15:00 **_Exercise_**: [Dynamical Fever and Model Worlds](Exercise 1 "wikilink") (in pairs) and discussion (Moderator: Welte)
--   15:00 – 15:30 **_Discussion:_**: [Dynamical Fever and Model Worlds](Exercise 1 "wikilink") (Pulliam)
+-   15:00 – 15:30 **_Discussion_**: [Dynamical Fever and Model Worlds](Exercise 1 "wikilink") (Pulliam)
 -   15:30 – 16:00 *Tea* and **poster set-up** (for all poster sessions)
 -   16:00 – 17:00 **_Parallel sessions_**
     -   **Track A:** [Introduction to infectious disease data](IntroIDData "wikilink") (Pulliam)
