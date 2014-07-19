@@ -19,6 +19,7 @@ subtitle: International Disease Dynamics and Data Research Scholars Exchange Pro
 ### One month before the exchange
 - Gavin contacts the scholar and supervisor to gather information about pre-exchange expectations
 - Scholars continue to coordinate with the ICI3D faculty supervisor to complete preliminary work
+- Scholars complete required CITI Program training module in International Research
 
 ### During the exchange
 - Scholars follow host institution's guidelines regarding check-in for international visitors
