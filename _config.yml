@@ -1,5 +1,5 @@
 absoluteurl: http://ICI3D.github.io
 baseurl: ''
 markdown: kramdown
-exclude: ['index.html-OLD','people.md-OLD',temp.md,redirect.html,README.md,run.sh]
+exclude: ['index.html-OLD','people.md-OLD',redirect.html,README.md,run.sh]
 highlighter: pygments
