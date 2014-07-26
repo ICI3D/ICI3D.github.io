@@ -1,11 +1,17 @@
 ---
-layout: main_page
+layout: main
 title: ICI3D
 subtitle: International Clinics on Infectious Disease Dynamics and Data
+welcome: Welcome to the ICI3D Program!
+summary: The ICI3D Program provides junior researchers from the US and Africa with opportunities to develop the toolsets necessary to conduct integrative research in infectious disease dynamics and to communicate their questions, methods, and findings across disciplinary boundaries.
 ---
-#### Welcome to the ICI3D Program!
 
-The ICI3D Program provides junior researchers from the US and Africa with opportunities to develop the toolsets necessary to conduct integrative research in infectious disease dynamics and to communicate their questions, methods, and findings across disciplinary boundaries.
+![ICI3D Program]({{site.url}}/images/ici3d.png "ICI3D Program"){:width="655" style="margin:0px auto; display: block;"}
+
+![ICI3D Program and AIMS]({{site.url}}/images/ICI3D&AIMS.png "ICI3D Program and AIMS"){:height="116" style="margin:0px auto; display: block;"}
+
+
+[![View on GitHub]({{ site.absoluteurl }}{{ site.baseurl }}/images/octocat-logo.png)](https://github.com/ICI3D/ "View on GitHub")
 
 ## Upcoming Events
 
