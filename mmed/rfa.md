@@ -2,6 +2,7 @@
 layout: page
 title: Request for Applications
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
+tab: MMED
 ---
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the sixth annual Clinic on the Meaningful Modeling of Epidemiological Data (MMED), which will be held at the African Institute for Mathematical Science in Muizenberg, South Africa in May/June 2015.
 
