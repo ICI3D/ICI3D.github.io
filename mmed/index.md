@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MMED
+tab: MMED
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 ---
 
