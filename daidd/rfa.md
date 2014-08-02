@@ -13,4 +13,4 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 Funding is available to cover room, board and travel costs for a limited number of Clinic participants from the US and Africa. The application process for the Clinic is expected to be highly competitive.
 
-**The deadline for receipt of applications is September 16, 2013.  Late or incomplete applications will not be considered. Application instructions are available on the [Application Form](http://epi.ufl.edu/ici3d/daidd-application-form/ "DAIDD Application Form") on the UF Emerging Pathogens Institute's website.**
+**The deadline for receipt of applications is September 15, 2014.  Late or incomplete applications will not be considered. Application instructions are available on the [Application Form](http://epi.ufl.edu/ici3d/daidd-application-form/ "DAIDD Application Form") on the UF Emerging Pathogens Institute's website.**
