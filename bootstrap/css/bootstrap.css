@@ -895,7 +895,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -1341,7 +1341,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: "Ubuntu Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 code {
   padding: 2px 4px;
@@ -4556,7 +4556,7 @@ a.list-group-item.active > .badge,
 }
 .jumbotron p {
   margin-bottom: 10px;
-  font-size: 21px;
+  font-size: 19px;
   font-weight: 200;
 }
 .jumbotron > hr {
