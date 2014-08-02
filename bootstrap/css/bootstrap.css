@@ -4545,8 +4545,8 @@ a.list-group-item.active > .badge,
   margin-left: 3px;
 }
 .jumbotron {
-  padding: 30px;
-  margin-bottom: 30px;
+  padding: 20px;
+  margin-bottom: 20px;
   color: inherit;
   background-color: #eee;
 }
@@ -4555,7 +4555,7 @@ a.list-group-item.active > .badge,
   color: inherit;
 }
 .jumbotron p {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   font-size: 21px;
   font-weight: 200;
 }
@@ -4570,12 +4570,12 @@ a.list-group-item.active > .badge,
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 32px;
+    padding-bottom: 32px;
   }
   .container .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 40px;
+    padding-left: 40px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
