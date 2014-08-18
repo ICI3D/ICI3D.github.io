@@ -31,7 +31,7 @@ subtitle: International Disease Dynamics and Data Research Scholars Exchange Pro
 ### After the exchange
 - Scholars work with the supervisor to complete any remaining work
 - Gavin solicits post-exchange feedback from the scholar and ICI3D faculty supervisor
-- *No later than 6 weeks* after the exchange, scholars submit research reports to the ICI3D faculty. Each report should take the form of a manuscript formatted for submission to a specified scientific journal.
+- _No later than 6 weeks_  after the exchange, scholars submit research reports to the ICI3D faculty. Each report should take the form of a manuscript formatted for submission to a specified scientific journal.
 - Gavin coordinates ICI3D review of the submitted report, prior to journal submission
 - Scholars work with the supervisor to finalize the manuscript for journal submission
 - Gavin compiles a final report and evaluation summarizing and evaluating the I3D exchange experience, including progress made and lessons learned for future exchanges

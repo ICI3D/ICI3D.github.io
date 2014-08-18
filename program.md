@@ -10,11 +10,12 @@ more: false
 
 ## Upcoming Events
 
-### Clinic on Dynamical Approaches to Infectious Disease Data ([DAIDD](http://ici3d.github.io/daidd/ "DAIDD"))
+
+### Clinic on Dynamical Approaches to Infectious Disease Data ([DAIDD]({{ site.absoluteurl }}{{ site.baseurl }}/daidd/ "DAIDD"))
 
 December 2014, Gainesville, Florida, USA
 
-### Clinic on the Meaningful Modeling of Epidemiological Data ([MMED](http://ici3d.github.io/mmed/ "MMED"))
+### Clinic on the Meaningful Modeling of Epidemiological Data ([MMED]({{ site.absoluteurl }}{{ site.baseurl }}/mmed/ "MMED"))
 
 June 2015, Muizenberg, Cape Town, South Africa
 
@@ -34,8 +35,4 @@ The ICI3D program is supported by the [National Institute of General Medical Sci
 - McMaster University, Hamilton, Ontario, Canada ([link](http://www.mcmaster.ca/ "McMaster"))
 - The Francis I. Proctor Foundation for Research in Ophthalmology, University of California, San Francisco, California, USA ([link](http://www.proctor.ucsf.edu/ "Proctor Foundation @ UCSF"))
 
-## Contact
-
-For questions or assistance, please contact us at <ici3d [at] epi.ufl.edu>.
-
-[Follow this link](http://ici3d.github.io/people/ "Faculty and Staff") for a list of ICI3D Program faculty and staff.
+{%include contact.html %}
