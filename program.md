@@ -8,16 +8,10 @@ summary: The ICI3D Program provides junior researchers from the US and Africa wi
 more: false
 ---
 
-## Upcoming Events
+## Upcoming Events  
 
-
-### Clinic on Dynamical Approaches to Infectious Disease Data ([DAIDD]({{ site.absoluteurl }}{{ site.baseurl }}/daidd/ "DAIDD"))
-
-December 2014, Gainesville, Florida, USA
-
-### Clinic on the Meaningful Modeling of Epidemiological Data ([MMED]({{ site.absoluteurl }}{{ site.baseurl }}/mmed/ "MMED"))
-
-June 2015, Muizenberg, Cape Town, South Africa
+<br>
+{% include upcoming.html %}
 
 ## Program information
 
