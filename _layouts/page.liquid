@@ -10,7 +10,12 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-{{content}}
+        {% if page.alertmsg contains "" %}
+                <div class="alert alert-{{page.alerttype}}" role="alert">
+                    {{ page.alertmsg }}
+                </div>
+        {%endif%}
+        {{content}}
       </section>
     </div>
 {%include footer.html %}
