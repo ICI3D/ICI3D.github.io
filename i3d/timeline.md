@@ -12,10 +12,11 @@ _Applicants will be notified of their status at least 3 months prior to the prop
 - Jake works with the scholar to make travel arrangements
 - Jake notifies Gavin of scholar's exchange schedule and initiates the subaward process
 - **Scholars coming from Africa to a US-based institution must submit J-1 visa application materials to the host institution _no later than_ 60 days prior to the proposed arrival date.** These materials should be submitted as soon as possible to avoid administrative delays.
+- Scholar and supervisor plan and begin preliminary work
 
 ### Two months before the exchange
 - Scholar works with the host institution to identify housing options
-- Scholar coordinates with the ICI3D faculty supervisor to complete preliminary work
+- Scholar and ICI3D faculty supervisor continue preliminary work
 
 ### One month before the exchange
 - Gavin contacts the scholar and supervisor to gather information about pre-exchange expectations
