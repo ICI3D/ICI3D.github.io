@@ -31,6 +31,6 @@ We will start earlier on Monday, with shuttles at 8:00 and 8:15 and welcome/intr
 
 **The full DAIDD 2014 schedule will be available by December 5.**
 
-{%if alerttype == info%}
+{%if page.alerttype == info%}
 [Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
