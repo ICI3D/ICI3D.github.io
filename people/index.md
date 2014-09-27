@@ -29,6 +29,11 @@ McMaster University, Hamilton, ON, Canada
 Senior Research Fellow and former Director <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
+**Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "AIMS welcomes Ndifon")) <br>
+*Faculty Member, DAIDD clinic* <br>
+Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
+African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
+
 **Travis Porco, MPH, PhD** ([link](https://proctor.ucsf.edu/faculty/porco "Travis Porco")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Professor <br>
