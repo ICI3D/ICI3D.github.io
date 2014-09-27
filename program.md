@@ -28,5 +28,6 @@ The ICI3D program is supported by the [National Institute of General Medical Sci
 - Colby College, Waterville, Maine, USA ([link](http://www.colby.edu/ "Colby"))
 - McMaster University, Hamilton, Ontario, Canada ([link](http://www.mcmaster.ca/ "McMaster"))
 - The Francis I. Proctor Foundation for Research in Ophthalmology, University of California, San Francisco, California, USA ([link](http://www.proctor.ucsf.edu/ "Proctor Foundation @ UCSF"))
+- University of Texas at Austin ([link](http://www.utexas.edu/ "UT"))
 
 {%include contact.html %}
