@@ -7,6 +7,8 @@ subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 
 ## Currently missing:
 -   More stochastic simulation models and an example ([Jim Scott]({{site.url}}/people/))
+-   Hargrove/Williams session - to be combined w HIV spreadsheets
+-   Discussion: Assigned reading ([Jim Scott]({{site.url}}/people/))
 
 Friday, 12 Dec
 --------------
@@ -18,11 +20,11 @@ Friday, 12 Dec
 Monday, 15 Dec
 --------------
 
--   8:30 Welcome and introductions
--   9:00-9:15 What are we doing here? ([Juliet Pulliam]({{site.url}}/people/))
--   9:15-10:00 What is Science: models and data ([Steve Bellan]({{site.url}}/people/))
--   10:30-11:15 Discussion: Assigned reading ([Jim Scott]({{site.url}}/people/))
--   11:15-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.url}}/people/))
+-   9:00-9:30 Welcome and introductions
+-   9:30-9:45 What are we doing here? ([Juliet Pulliam]({{site.url}}/people/))
+-   9:45-10:30 What is Science: models and data ([Steve Bellan]({{site.url}}/people/))
+-   10:30-11:00 Morning break - _Make sure your slides are uploaded for next session!_
+-   11:00-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.url}}/people/))
 -   1:00 - 2:15 Intuitive aspects of dynamics - simplification for generalization 1 ([Juliet Pulliam]({{site.url}}/people/))
 -   2:15-3:00 Dynamical Fever - computer exercise (All [faculty]({{site.url}}/people))
 -   3:15-4:00 Dynamical Fever - discussion ([John Hargrove]({{site.url}}/people/))
