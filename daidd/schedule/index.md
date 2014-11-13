@@ -6,7 +6,9 @@ subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 **Note:** All sessions that are 1 hour and 45 minutes long include a 45 minute lecture on the topic, a 45 minute practicum, and a 15 minute discussion of the practicum in relation to the lecture material and the session's learning objectives.
 
 ## Currently missing:
--   1:30-2:15 Model evaluation and comparison ([Jim Scott]({{site.url}}/people/))
+-   More stochastic simulation models and an example ([Jim Scott]({{site.url}}/people/))
+-   Hargrove/Williams session - to be combined w HIV spreadsheets
+-   Discussion: Assigned reading ([Jim Scott]({{site.url}}/people/))
 
 Friday, 12 Dec
 --------------
@@ -18,11 +20,11 @@ Friday, 12 Dec
 Monday, 15 Dec
 --------------
 
--   8:30 Welcome and introductions
--   9:00-9:15 What are we doing here? ([Juliet Pulliam]({{site.url}}/people/))
--   9:15-10:00 What is Science: models and data ([Steve Bellan]({{site.url}}/people/))
--   10:30-11:15 Discussion: Assigned reading ([Jim Scott]({{site.url}}/people/))
--   11:15-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.url}}/people/))
+-   9:00-9:30 Welcome and introductions
+-   9:30-9:45 What are we doing here? ([Juliet Pulliam]({{site.url}}/people/))
+-   9:45-10:30 What is Science: models and data ([Steve Bellan]({{site.url}}/people/))
+-   10:30-11:00 Morning break - _Make sure your slides are uploaded for next session!_
+-   11:00-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.url}}/people/))
 -   1:00 - 2:15 Intuitive aspects of dynamics - simplification for generalization 1 ([Juliet Pulliam]({{site.url}}/people/))
 -   2:15-3:00 Dynamical Fever - computer exercise (All [faculty]({{site.url}}/people))
 -   3:15-4:00 Dynamical Fever - discussion ([John Hargrove]({{site.url}}/people/))
@@ -37,7 +39,7 @@ Tuesday, 16 Dec
 -   9:00-10:45 The SIR model family - conceptual framework and introduction to difference and differential equations ([Jonathan Dushoff]({{site.url}}/people/))
 -   11:15-12:15 Writing exercise: formulating research questions for modeling projects ([Juliet Pulliam]({{site.url}}/people/))
 -   1:15-2:45 Reed-Frost models ([Travis Porco]({{site.url}}/people/))
--   3:00-4:30 More stochastic simulation models and an example ([Jim Scott]({{site.url}}/people/))
+-   3:00-4:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.url}}/people/))
 -   4:30-6:00 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.url}}/people/), and all [faculty]({{site.url}}/people/))
 
 Wednesday, 17 Dec
@@ -46,7 +48,7 @@ Wednesday, 17 Dec
 -   9:00-10:45 Impact of contact patterns, consequences of heterogeneity, and modeling options and tutorial ([Jonathan Dushoff]({{site.url}}/people/))
 -   11:15-12:15 Use of models in study design for dynamic systems: Trachoma elimination ([Travis Porco]({{site.url}}/people/))
 -   1:15-2:00 Use of models in study design for dynamic systems: Trachoma elimination (cont'd)
--   2:00-3:15 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.url}}/people/))
+-   2:00-3:15 Model evaluation and comparison ([Jim Scott]({{site.url}}/people/))
 -   3:30-5:00 Small-group session: matching models to questions (All [faculty]({{site.url}}/people))
 -   5:00-6:00 Mid-session feedback ([Gavin Hitchcock]({{site.url}}/people/))
 
@@ -67,7 +69,7 @@ Thursday, 18 Dec
 Friday, 19 Dec
 --------------
 
--   9:00-10:00 Ebola virus vaccine trials: Ethical considerations (TBD)
+-   9:00-10:00 Ebola virus vaccine trials: Ethical considerations ([Steve Bellan]({{site.url}}/people/))
 -   10:00-11:00 Models and the bigger picture - simplification for generalization 2 ([Juliet Pulliam]({{site.url}}/people/))
 -   11:30-12:30 Mentored working session (All [faculty]({{site.url}}/people))
 -   1:30-2:00 Writing exercise (All [faculty]({{site.url}}/people)) - revise based on peer feedback and plan for moving forward (including identified resources and potential collaborators)
