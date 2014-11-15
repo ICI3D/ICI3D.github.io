@@ -16,7 +16,7 @@ Friday, 12 Dec
 --------------
 **Required for international participants only**
 
--   9:00 Check-in for international participants (J-1 visa holders) at UF International Center ([Jake Ball]({{site.url}}/people/))
+-   9:00 Check-in for J-1 visa holders at UF International Center ([Jake Ball]({{site.url}}/people/))
 -   11:30 Tour of Emerging Pathogens Institute ([Jake Ball]({{site.url}}/people/))
 -   12:30 Lunch with ICI3D faculty and local alumni
 -   1:30-5:00 Meetings with local researchers
