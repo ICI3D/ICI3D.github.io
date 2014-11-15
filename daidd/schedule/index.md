@@ -80,6 +80,6 @@ Friday, 19 Dec
 Saturday, 20 Dec
 ----------------
 
-- Optional field trip (Location TBA)
+- Optional field trip ([Paynes Prairie](http://en.wikipedia.org/wiki/Paynes_Prairie_Preserve_State_Park))
 
 <Category:ICI3D> <Category:DAIDD> <Category:2013>
