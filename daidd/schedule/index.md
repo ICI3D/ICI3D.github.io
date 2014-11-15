@@ -2,17 +2,16 @@
 layout: page
 title: DAIDD 2014
 subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
+welcome: Third annual Clinic on Dynamical Approaches to Infectious Disease Data
+summary: December 15-19, 2014, UF Emerging Pathogens Institute, Gainesville, FL, USA
 ---
 **Note:** All sessions that are 1 hour and 45 minutes long include a 45 minute lecture on the topic, a 45 minute practicum, and a 15 minute discussion of the practicum in relation to the lecture material and the session's learning objectives.
 
-## Currently missing:
--   More stochastic simulation models and an example ([Jim Scott]({{site.url}}/people/))
--   Hargrove/Williams session - to be combined w HIV spreadsheets
--   Discussion: Assigned reading ([Jim Scott]({{site.url}}/people/))
-
 Friday, 12 Dec
 --------------
--   9:00 Check-in for international participants (J-1 visa holders) at UF International Center ([Jake Ball]({{site.url}}/people/))
+**Required for international participants only**
+
+-   9:00 Check-in for J-1 visa holders at UF International Center ([Jake Ball]({{site.url}}/people/))
 -   11:30 Tour of Emerging Pathogens Institute ([Jake Ball]({{site.url}}/people/))
 -   12:30 Lunch with ICI3D faculty and local alumni
 -   1:30-5:00 Meetings with local researchers
@@ -81,6 +80,6 @@ Friday, 19 Dec
 Saturday, 20 Dec
 ----------------
 
-- Optional field trip (Location TBA)
+- Optional field trip ([Paynes Prairie](http://en.wikipedia.org/wiki/Paynes_Prairie_Preserve_State_Park))
 
 <Category:ICI3D> <Category:DAIDD> <Category:2013>
