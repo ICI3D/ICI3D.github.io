@@ -7,11 +7,6 @@ summary: December 15-19, 2014, UF Emerging Pathogens Institute, Gainesville, FL,
 ---
 **Note:** All sessions that are 1 hour and 45 minutes long include a 45 minute lecture on the topic, a 45 minute practicum, and a 15 minute discussion of the practicum in relation to the lecture material and the session's learning objectives.
 
-## Currently missing:
--   More stochastic simulation models and an example ([Jim Scott]({{site.url}}/people/))
--   Hargrove/Williams session - to be combined w HIV spreadsheets
--   Discussion: Assigned reading ([Jim Scott]({{site.url}}/people/))
-
 Friday, 12 Dec
 --------------
 **Required for international participants only**
