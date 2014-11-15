@@ -2,6 +2,8 @@
 layout: page
 title: DAIDD 2014
 subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
+welcome: Third annual Clinic on Dynamical Approaches to Infectious Disease Data
+summary: December 15-19, 2014, UF Emerging Pathogens Institute, Gainesville, FL, USA
 ---
 **Note:** All sessions that are 1 hour and 45 minutes long include a 45 minute lecture on the topic, a 45 minute practicum, and a 15 minute discussion of the practicum in relation to the lecture material and the session's learning objectives.
 
@@ -12,6 +14,8 @@ subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 
 Friday, 12 Dec
 --------------
+**Required for international participants only**
+
 -   9:00 Check-in for international participants (J-1 visa holders) at UF International Center ([Jake Ball]({{site.url}}/people/))
 -   11:30 Tour of Emerging Pathogens Institute ([Jake Ball]({{site.url}}/people/))
 -   12:30 Lunch with ICI3D faculty and local alumni

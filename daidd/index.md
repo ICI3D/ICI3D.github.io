@@ -16,6 +16,10 @@ This clinic targets public health researchers and population biologists interest
 
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to fifteen places for applicants from US-based institutions and up to four places for applicants based at African institutions.
 
+{%if page.alerttype == info%}
+[Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%endif%}
+
 ## Schedule
 
 The general daily structure will be as follows:
@@ -31,6 +35,5 @@ We will start earlier on Monday, with shuttles at 8:00 and 8:15 and welcome/intr
 
 **The full DAIDD 2014 schedule will be available by December 5.**
 
-{%if page.alerttype == info%}
-[Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
-{%endif%}
+> Schedules from previous years:
+ [DAIDD 2013](./schedule/2013.html "DAIDD 2013 schedule")
