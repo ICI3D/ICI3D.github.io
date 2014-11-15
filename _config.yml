@@ -3,3 +3,5 @@ baseurl: ''
 markdown: kramdown
 exclude: ['index.html-OLD','people.md-OLD',redirect.html,README.md,run.sh,.wiki]
 highlighter: pygments
+gems:
+  - jemoji
