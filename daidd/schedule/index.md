@@ -25,7 +25,7 @@ Monday, 15 Dec
 -   10:00-10:30 Working with the DAIDD 2014 GitHub repository
 -   10:30-11:00 Morning break - _Make sure your slides are uploaded for next session!_
 -   11:00-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.url}}/people/))
--   1:00 - 2:15 Intuitive aspects of dynamics - simplification for generalization 1 ([Juliet Pulliam]({{site.url}}/people/))
+-   1:00 - 2:15 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.url}}/people/))
 -   2:15-3:00 Dynamical Fever - computer exercise (All [faculty]({{site.url}}/people))
 -   3:15-4:00 Dynamical Fever - discussion ([John Hargrove]({{site.url}}/people/))
 -   4:00-4:30 Dynamical Fever - model description, modeling terminology ([Juliet Pulliam]({{site.url}}/people/))
@@ -48,7 +48,7 @@ Wednesday, 17 Dec
 -   9:00-10:45 Impact of contact patterns, consequences of heterogeneity, and modeling options and tutorial ([Jonathan Dushoff]({{site.url}}/people/))
 -   11:15-12:15 Use of models in study design for dynamic systems: Trachoma elimination ([Travis Porco]({{site.url}}/people/))
 -   1:15-2:00 Use of models in study design for dynamic systems: Trachoma elimination (cont'd)
--   2:00-3:15 Model evaluation and comparison ([Jim Scott]({{site.url}}/people/))
+-   2:00-3:15 Models and data: introduction to model fitting ([Steve Bellan]({{site.url}}/people/))
 -   3:30-5:00 Small-group session: matching models to questions (All [faculty]({{site.url}}/people))
 -   5:00-6:00 Mid-session feedback ([Gavin Hitchcock]({{site.url}}/people/))
 
@@ -59,18 +59,19 @@ Thursday, 18 Dec
 -   9:20-10:50 Writing exercise - description of proposed model and assumptions ([Steve Bellan]({{site.url}}/people/))
 -   10:50-11:00 Group Photo
 -   11:00-11:30 Break
--   11:30-12:30 Models and data: introduction to model fitting ([Steve Bellan]({{site.url}}/people/))
--   1:30-2:45 Exercise: Model fitting tutorial: HIV in Harare (All [faculty]({{site.url}}/people))
+-   11:30-12:30 HIV models to understand transmission and control options (Hargrove)
+-   1:30-2:15 Exercise: Model fitting tutorial: HIV in Harare (All [faculty]({{site.url}}/people))
     -   [Slides on box car models](http://lalashan.mcmaster.ca/theobio/mmed/images/2/25/Distributed_Delay.pdf)
--   3:00-4:45 Modeling measurement uncertainty and within-host processes ([Wilfred Ndifon]({{site.url}}/people/))
--   4:45-6:00 Writing exercise & mentored working session (All [faculty]({{site.url}}/people))
+-   2:15-3:45 Modeling measurement uncertainty and within-host processes ([Wilfred Ndifon]({{site.url}}/people/))
+-   4:00-5:00 Model evaluation and comparison ([Jim Scott]({{site.url}}/people/))
+-   5:00-6:00 Writing exercise & mentored working session (All [faculty]({{site.url}}/people))
 -   7:00 ICI3D dinner (optional)
 
 Friday, 19 Dec
 --------------
 
 -   9:00-10:00 Ebola virus vaccine trials: Ethical considerations ([Steve Bellan]({{site.url}}/people/))
--   10:00-11:00 Models and the bigger picture - simplification for generalization 2 ([Juliet Pulliam]({{site.url}}/people/))
+-   10:00-11:00 Simplification for generalization 2: Models and the bigger picture ([Juliet Pulliam]({{site.url}}/people/))
 -   11:30-12:30 Mentored working session (All [faculty]({{site.url}}/people))
 -   1:30-2:00 Writing exercise (All [faculty]({{site.url}}/people)) - revise based on peer feedback and plan for moving forward (including identified resources and potential collaborators)
 -   2:00-3:15 [Discussion of research plans/proposals](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/DAIDD_2013_participants) (Moderator: [Jonathan Dushoff]({{site.url}}/people/))

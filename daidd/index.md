@@ -33,7 +33,7 @@ The general daily structure will be as follows:
 
 We will start earlier on Monday, with shuttles at 8:00 and 8:15 and welcome/introductions from 8:30-9:00. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 5pm on Friday, though there will be an optional field trip on Saturday morning.
 
-**The [preliminary schedule](./schedule/ "DAIDD 2014 schedule") for DAIDD 2014 is now available.**
+**The [preliminary schedule](./schedule/ "DAIDD 2014 schedule") for DAIDD 2014 is now available.** Additional program information for participants is available [here](./DAIDD_2014_ProgramInfo.pdf).
 
 Schedules from previous years:
 
