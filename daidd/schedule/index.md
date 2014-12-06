@@ -19,9 +19,10 @@ Friday, 12 Dec
 Monday, 15 Dec
 --------------
 
--   9:00-9:30 Welcome and introductions
--   9:30-9:45 What are we doing here? ([Juliet Pulliam]({{site.url}}/people/))
--   9:45-10:30 What is Science: models and data ([Steve Bellan]({{site.url}}/people/))
+-   8:30-9:00 Welcome and introductions
+-   9:00-9:15 What are we doing here? ([Juliet Pulliam]({{site.url}}/people/))
+-   9:15-10:00 What is Science: models and data ([Steve Bellan]({{site.url}}/people/))
+-   10:00-10:30 Working with the DAIDD 2014 GitHub repository
 -   10:30-11:00 Morning break - _Make sure your slides are uploaded for next session!_
 -   11:00-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.url}}/people/))
 -   1:00 - 2:15 Intuitive aspects of dynamics - simplification for generalization 1 ([Juliet Pulliam]({{site.url}}/people/))
