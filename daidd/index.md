@@ -8,6 +8,10 @@ alerttype: primary
 alertmsg: The third annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held December 15-19, 2014 at the University of Florida’s Emerging Pathogens Institute in Gainesville, FL.
 ---
 
+{%if page.alerttype == "primary"%}
+[Go to DAIDD 2014 »](http://daidd2014.ici3d.org/ "DAIDD 2014"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%endif%}
+
 ## Intended audience
 
 This clinic targets public health researchers and population biologists interested in studying infectious diseases.
@@ -18,10 +22,6 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 {%if page.alerttype == "info"%}
 [Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
-{%endif%}
-
-{%if page.alerttype == "primary"%}
-[Go to DAIDD 2014 »](http://daidd2014.ici3d.org/ "DAIDD 2014"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
 
 ## Schedule
