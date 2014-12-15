@@ -20,6 +20,10 @@ Selection of participants will be on the basis of the applicant’s academic bac
 [Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
 
+{%if page.alerttype == "primary"%}
+[Go to DAIDD 2014 »](http://daidd2014.ici3d.org/ "DAIDD 2014"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%endif%}
+
 ## Schedule
 
 The general daily structure will be as follows:
