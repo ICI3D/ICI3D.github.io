@@ -43,3 +43,7 @@ Schedules from previous years:
 
 - [DAIDD 2013](./schedule/2013.html "DAIDD 2013 schedule")
 - [DAIDD 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_DAIDD_Schedule "DAIDD 2012 schedule")
+
+{%if page.alerttype == "primary"%}
+[Go to DAIDD 2014 »](http://daidd2014.ici3d.org/ "DAIDD 2014"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%endif%}
