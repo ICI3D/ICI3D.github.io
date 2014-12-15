@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: redirect
+redirect: http://daidd2014.ici3d.org/schedule.html
 title: DAIDD 2014
 subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 welcome: Third annual Clinic on Dynamical Approaches to Infectious Disease Data
