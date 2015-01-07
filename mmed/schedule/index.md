@@ -12,7 +12,7 @@ The schedule below contains links to many different elements of the program, whi
 
 # Schedule
 
-### Monday, X June
+### Monday, 1 June
 
 -   8:00 – 8:30 Registration and welcome, AIMS lobby
     -   If you have a laptop, please see Waseem in the IT office (Room 110) during registration to get set up with wifi access.
@@ -36,7 +36,7 @@ The schedule below contains links to many different elements of the program, whi
 -   19:00 – 19:30 **Social Activity:** Ice breakers
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
-### Tuesday, X June
+### Tuesday, 2 June
 
 -   8:30 – 9:15 **Lecture:** [ Mathematical assumptions of simple ODE models](Media:ODE_Assumptions.pdf "wikilink") (Pulliam)
 -   9:15 – 10:00 **Lecture:** [ Introduction to spreadsheet models](Media:SpreadsheetModels.pdf "wikilink") (Pulliam)
@@ -57,7 +57,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Computer Session:** [Wiki, wiki, wiki!](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Wiki_Wiki_Wiki_2014) [Introduction to the wiki](Introduction to the wiki "wikilink") (Mentors)
 
-### Wednesday, X June
+### Wednesday, 3 June
 
 -   8:30 – 9:15 **Lecture:** [ Consequences of heterogeneity, and modeling options](Heterogeneity lecture "wikilink") (Dushoff)
 -   9:15 – 10:00 **Computer Session:** Lab: [consequences of heterogeneity](consequences of heterogeneity "wikilink") (All instructors)
@@ -77,7 +77,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** [Faculty Research Lecture \#1](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2014_Research_Talks#Faculty) (TBD)
 
-### Thursday, X June
+### Thursday, 4 June
 
 -   8:30 – 10:00 '' **Parallel sessions** ''
     -   **Track A:** **Lecture:** [ \*NEW\* R code for Variability, Sampling Distributions, and Simulation Lecture](Media:permuteANDconfoundingSIMS.R "wikilink") (Bellan)
@@ -95,7 +95,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
-### Friday, X June
+### Friday, 5 June
 
 -   8:30 – 10:00 '' **Parallel sessions** ''
     -   **Track A:** **Lecture and lab:** [Study Design and Analysis in Epidemiology II: RCT's](Study Design and Analysis in Epidemiology II: RCT's "wikilink") (Porco) and [Lab 4: Study Design for Clinical Trials](R_tutorials "wikilink")
@@ -111,7 +111,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (*Outbreak*)
 
-### Saturday, X June
+### Saturday, 6 June
 
 -   9:00 – 10:30 **Exercise:** Description of proposed model and assumptions (Dushoff and Hargrove)
 -   10:30 – 11:00 Final chance to sign up for [project groups](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2014_Project_groups) and *Coffee break*
@@ -119,12 +119,12 @@ The schedule below contains links to many different elements of the program, whi
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
-### Sunday, X June
+### Sunday, 7 June
 
 -   Free day – optional [group trip](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Weekend) to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 10:00.*
 
-### Monday, X June
+### Monday, 8 June
 
 -   8:30 – 9:15 **Lecture:** [ Doing Science](Media:Doing_science_bw.pdf "wikilink") (Williams)
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week (Pulliam)
@@ -139,7 +139,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** [Faculty Research Lecture \#2](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2014_Research_Talks#Faculty) (TBD)
 
-### Tuesday, XX June
+### Tuesday, 9 June
 
 -   8:30 – 10:00 [Modeling for policy](Modeling for policy "wikilink") (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -153,7 +153,7 @@ The schedule below contains links to many different elements of the program, whi
 -   19:00 – 20:00 **Real-world example (optional lecture):** [Faculty Research Lecture \#3](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2014_Research_Talks#Faculty) (Williams)
 -   20:00 - 22:00 **Social Activities**: Casino Lesson & Other Card Games (**Optional**)
 
-### Wednesday, XX June
+### Wednesday, 10 June
 
 -   9:00 – 10:30 **Work Session** (All instructors)
 -   10:00 – 10:30 *Coffee break*
@@ -165,7 +165,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** [Faculty Research Lecture \#4](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2014_Research_Talks#Faculty) (TBD)
 
-### Thursday, XX June
+### Thursday, 11 June
 
 -   8:30 – 10:00 **Lecture** (Main lecture hall): [ Introduction to Monte Carlo Markov Chains (MCMC)](Media:Mcmc-porco.pdf‎ "wikilink") (Porco)
 -   10:00 – 10:30 *Coffee break*
@@ -177,7 +177,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** [Faculty Research Lecture \#5](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2014_Research_Talks#Faculty) (TBD)
 
-### Friday, XX June
+### Friday, 12 June
 
 -   8:30 – 10:00 **Work Session & [Mentoring Session](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Mentoring_sessions_2014)** (All instructors)
 -   10:00 – 10:30 *Coffee break*
@@ -190,7 +190,7 @@ The schedule below contains links to many different elements of the program, whi
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social Activity** (TBD)
 
-### Saturday, XX June
+### Saturday, 13 June
 
 -   Park run (possible)
 -   Clinic officially ends on Friday, but there will be an optional [group trip](http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Weekend) on Saturday.
