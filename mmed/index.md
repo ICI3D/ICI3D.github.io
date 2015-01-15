@@ -19,3 +19,26 @@ Selection of participants will be on the basis of the applicant’s academic bac
 {%if page.alerttype == "info"%}
 [Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
+
+## Schedule
+
+The general daily structure will be as follows:
+
+- 8:30-10:00 Lecture/discussion and/or tutorial
+- 10:00-10:30 Coffee break
+- 10:30-12:30 Lecture/discussion and/or tutorial
+- 12:30-14:00 Lunch break (*Lunch is served from 12:30 to 13:00.*)
+- 14:00-15:30 Lecture/discussion and/or tutorial
+- 15:30-16:00 Tea break
+- 16:00-17:00 Lecture/discussion and/or tutorial
+- 17:00-18:00 Poster session or mentored working session
+- 18:00-19:00 Dinner break (*Dinner is served from 18:00 to 18:30.*)
+- 19:00-20:00 Faculty research talk, computer session, or social activity
+
+We will start earlier on the first day. The Clinic will officially end by 5pm on Friday 12 June, though there will be an optional field trip on Saturday for participants who wish to attend.
+
+**The preliminary schedule for MMED 2015 is available [here](./schedule/ "MMEDD 2015 schedule").**
+
+{%if page.alerttype == "primary"%}
+[Go to MMED 2015 »](http://mmed2015.ici3d.org/ "MMED 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%endif%}
