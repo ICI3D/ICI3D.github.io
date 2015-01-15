@@ -3,6 +3,7 @@ layout: page
 title: Request for Applications
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 tab: MMED
+alerttype: info
 ---
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the sixth annual Clinic on the Meaningful Modeling of Epidemiological Data (MMED), which will be held at the African Institute for Mathematical Science in Muizenberg, South Africa in May/June 2015.
 
@@ -13,3 +14,8 @@ The Clinic will consist of a series of discussions and tutorials that will guide
 Funding is available to cover room, board and travel costs for a limited number of Clinic participants from the US and Africa. The application process for the Clinic is expected to be highly competitive.
 
 **The deadline for receipt of applications for MMED 2014 has passed. Please check back in January for information on MMED 2015.**
+
+
+{%if page.alerttype == "info"%}
+[Apply now »](http://epi.ufl.edu/ici3d/mmed-application-form/ "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%endif%}
