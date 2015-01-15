@@ -13,8 +13,7 @@ The Clinic will consist of a series of discussions and tutorials that will guide
 
 Funding is available to cover room, board and travel costs for a limited number of Clinic participants from the US and Africa. The application process for the Clinic is expected to be highly competitive.
 
-**The deadline for receipt of applications for MMED 2014 has passed. Please check back in January for information on MMED 2015.**
-
+**The deadline for receipt of applications for MMED 2015 is February 15, 2014 at 5pm Eastern. Late or incomplete applications will not be considered. Application instructions are available on the Application Form.**
 
 {%if page.alerttype == "info"%}
 [Apply now »](http://epi.ufl.edu/ici3d/mmed-application-form/ "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg"}
