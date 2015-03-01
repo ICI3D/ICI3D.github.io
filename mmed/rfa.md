@@ -3,7 +3,7 @@ layout: page
 title: Request for Applications
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 tab: MMED
-alerttype: success
+alerttype: info
 ---
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the sixth annual Clinic on the Meaningful Modeling of Epidemiological Data (MMED), which will be held at the African Institute for Mathematical Science in Muizenberg, South Africa in May/June 2015.
 
@@ -13,8 +13,8 @@ The Clinic will consist of a series of discussions and tutorials that will guide
 
 Funding is available to cover room, board and travel costs for a limited number of Clinic participants from the US and Africa. The application process for the Clinic is expected to be highly competitive. Preference will be given to applicants that have the most to gain from Clinic participation.
 
-- The deadline for receipt of applications from _individuals based at North American institutions_ for MMED 2015 is February 15, 2014 at 5pm Eastern.
-- The deadline for receipt of applications from _individuals based at African institutions_ for MMED 2015 is March 1, 2014 at 5pm Eastern.
+- The deadline for receipt of applications from _individuals based at North American institutions_ for MMED 2015 has passed.
+- The deadline for receipt of applications from _individuals based at African institutions_ for MMED 2015 is March 1, 2015 at 5pm Eastern.
 
 Late or incomplete applications will not be considered. Application instructions are available on the Application Form.
 
