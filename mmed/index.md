@@ -4,8 +4,8 @@ title: MMED
 tab: MMED
 welcome: Clinic on Meaningful Modeling of Epidemiological Data
 summary: This 2­‐week modeling clinic will emphasize the use of data in understanding infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, with the goal of engaging participants in epidemiological modeling projects that use real data to grapple with practical questions in a meaningful way.
-alertmsg: The ICI3D program invites applications to the sixth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong>, which will be held June 1-12, 2015 at the African Institute for Mathematical Science in Muizenberg, South Africa.
-alerttype: info
+alertmsg: The sixth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held June 1-12, 2015 at the African Institute for Mathematical Science in Muizenberg, South Africa. Applications for MMED 2015 are now closed.
+alerttype: success
 ---
 
 ## Intended audience
