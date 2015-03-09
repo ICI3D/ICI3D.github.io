@@ -6,16 +6,15 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 
 ## Program Faculty
 
+{% include topTable.html %}
+
+### Core Faculty
+
 **Steve Bellan, MPH, PhD** ([link](http://www.bio.utexas.edu/research/meyers/steve_bellan/ "Steve Bellan"), [cv](http://www.bio.utexas.edu/research/meyers/steve_bellan/Steve_Bellan_CV.pdf "Bellan CV")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Postdoctoral Researcher <br>
 Center for Computational Biology and Bioinformatics <br>
 University of Texas – Austin
-
-**Wim Delva, MD, PhD** ([link](http://www.sacema.com/people/staff/ "Wim Delva")) <br>
-*Faculty Member, MMED clinic* <br>
-Deputy Director <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
 **Jonathan Dushoff, PhD** ([link](http://www.biology.mcmaster.ca/dushoff/ "Jonathan Dushoff")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
@@ -28,11 +27,6 @@ McMaster University, Hamilton, ON, Canada
 *Faculty Member, MMED and DAIDD clinics* <br>
 Senior Research Fellow and former Director <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
-
-**Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "AIMS welcomes Ndifon")) <br>
-*Faculty Member, DAIDD clinic* <br>
-Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
-African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
 
 **Travis Porco, MPH, PhD** ([link](https://proctor.ucsf.edu/faculty/porco "Travis Porco")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
@@ -65,6 +59,24 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 *Faculty Member, MMED and DAIDD clinics* <br>
 Visiting Senior Research Fellow <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
+
+{% include centerTable.html %}
+
+### Workshop Faculty
+
+**Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "AIMS welcomes Ndifon")) <br>
+*Faculty Member, MMED 2015* <br>
+Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
+African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
+
+### Adjunct Faculty
+
+**Wim Delva, MD, PhD** ([link](http://www.sacema.com/people/staff/ "Wim Delva")) <br>
+*Faculty Member, MMED 2010-2012* <br>
+Deputy Director <br>
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
+
+{% include bottomTable.html %}
 
 ## Program Evaluation
 
