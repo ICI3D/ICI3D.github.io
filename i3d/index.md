@@ -10,9 +10,9 @@ alerttype: primary
 
 ##Upcoming Deadlines
 
-### March 15, 2015
+### April 15, 2015
 For exchanges starting on or after July 1, 2015  
-Applicants will be notified of their status by April 1
+Applicants will be notified of their status by May 1
 
 ### September 15, 2015
 For exchanges starting on or after January 1, 2016  
