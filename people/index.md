@@ -55,7 +55,7 @@ Colby College, Waterville, ME, USA
 Director <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA")) <br>
 
-**Brian Williams, PhD** ([link](http://www.sacema.com/people/staff/ "Alex Welte")) <br>
+**Brian Williams, PhD** ([link](http://www.sacema.com/people/staff/ "Brian Williams")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Visiting Senior Research Fellow <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
@@ -64,10 +64,16 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ### Workshop Faculty
 
-**Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "AIMS welcomes Ndifon")) <br>
+**Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "Wilfred Ndifon")) <br>
 *Faculty Member, MMED 2015* <br>
 Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
 African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
+
+
+**Faikah Bruce, MSc** ([link](http://sacema.com/people/students "Faikah Bruce")) <br>
+*Faculty Member, MMED 2015* <br>
+PhD candidate <br>
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA")) 
 
 ### Adjunct Faculty
 
