@@ -28,7 +28,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
 -   15:30 – 16:00 *Tea* and **poster set-up** (for all poster sessions)
 -   16:00 – 17:00 **_Parallel sessions_**
     -   **Track A:** Introduction to infectious disease data (Bruce)
-    -   **Track B:** Foundations of dynamic modeling (Dushoff or Pulliam)
+    -   **Track B:** Foundations of dynamic modeling (Dushoff)
 -   17:00 – 18:00 **Poster session I**
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 19:30 **Social Activity:** Ice breakers
@@ -36,7 +36,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
 
 ### Tuesday, 2 June
 
--   8:30 – 9:15 **Lecture:** Mathematical assumptions of simple ODE models (Pulliam or Dushoff)
+-   8:30 – 9:15 **Lecture:** Mathematical assumptions of simple ODE models (Pulliam)
 -   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to spreadsheet models (Scott)
     -   **Practice spreadsheet:** Measles example
 -   10:00 – 10:30 *Coffee break*
@@ -57,7 +57,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
 
 ### Wednesday, 3 June
 
--   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options (Dushoff or Porco)
+-   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options (Porco)
 -   9:15 – 10:00 **Computer Session:** Lab: consequences of heterogeneity (All instructors)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:00 **Lecture:** Work with spreadsheets as a group on projector (Hargrove)
@@ -73,7 +73,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
     -   **Track B:** Formulating Research Questions B (Pulliam)
 -   17:00 – 18:00 **Poster session III**
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (TBD)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (Welte or TBD)
 
 ### Thursday, 4 June
 
@@ -83,17 +83,17 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
 -   12:00 – 12:30 **Discussion:** MMED research projects (Pulliam)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? (Scott) and Lab 3: Study Design in Epidemiology
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? (Bellan) and Lab 3: Study Design in Epidemiology
     -   **Track B:** **Lecture** and **Computer Session:** Use of models in study design for dynamic systems: Trachoma elimination (Porco)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood (Bellan or Pulliam)
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood (Pulliam)
 -   16:45 – 18:00 **Computer Session:** Lab 5: Introduction to Likelihood lab (All instructors)
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
 ### Friday, 5 June
 
--   8:30 – 10:00 **Lecture:** R code for Variability, Sampling Distributions, and Simulation Lecture (Bellan)
+-   8:30 – 10:00 **Lecture:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture (Bellan, with Pulliam)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness (Pulliam)
 -   11:15 – 12:30 **Computer session:** MLE fitting of an SIR model to prevalence data (All instructors)
@@ -131,7 +131,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2 (TBD)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2 (Bellan)
 
 ### Tuesday, 9 June
 
@@ -161,7 +161,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
 
 ### Thursday, 11 June
 
--   8:30 – 10:00 Modeling for policy (Williams)
+-   8:30 – 10:00 **Lecture**: Modeling for policy (Williams)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (All instructors)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
