@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: redirect
+redirect: http://mmed2015.ici3d.org/schedule.html
 title: MMED 2015
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 ---
