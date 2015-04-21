@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: redirect
+redirect: http://mmed2015.ici3d.org/schedule.html
 title: MMED 2015
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 ---
@@ -73,7 +74,7 @@ The MMED 2015 program includes a number of parallel sessions for participants wi
     -   **Track B:** Formulating Research Questions B (Pulliam)
 -   17:00 – 18:00 **Poster session III**
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (Welte or TBD)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (Welte or Porco)
 
 ### Thursday, 4 June
 
