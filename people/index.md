@@ -73,7 +73,7 @@ African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh
 **Faikah Bruce, MSc** ([link](http://sacema.com/people/students "Faikah Bruce")) <br>
 *Faculty Member, MMED 2015* <br>
 PhD candidate <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA")) 
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
 ### Adjunct Faculty
 
@@ -86,7 +86,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ## Program Evaluation
 
-**Gavin Hitchcock, PhD** ([link](http://www.sacema.com/people/staff/ "Alex Welte")) <br>
+**Gavin Hitchcock, PhD** ([link](http://www.sacema.com/people/staff/ "Gavin Hitchcock")) <br>
 *ICI3D Program Evaluation Consultant* <br>
 Assistant Director for Training <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
