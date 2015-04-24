@@ -1,0 +1,10 @@
+
+<img src="{{img_src}}" alt="{{page.name}}" title="{{page.name}}" width="240" style="float:right;"/>
+
+<h3 id="{{page.role}}">{{page.role}}, {{page.involvement}}</h3>
+
+<p>{{page.position}}</p>
+
+{%if page.github contains ""%}<h3 id="background_and_research_interests" style="clear:both;">Background and Research Interests</h3>{%endif%}
+
+<p>{%if page.cv_url contains ".pdf"%}<a href="{{page.cv_url}}" title="{{page.last_name}} CV">Download CV</a><br />{%endif%}{%if page.gscholar_url contains "scholar.google.com"%}<a href="{{page.gscholar_url}}" title="{{page.pub_name}}">Google Scholar profile</a><br />{%endif%}{%if page.github contains ""%}<a href="https://github.com/{{page.github}}" title="{{page.name}}">GitHub profile</a>{%endif%}</p>
