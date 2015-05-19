@@ -69,7 +69,6 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
 African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
 
-
 **Faikah Bruce, MSc** ([link](http://sacema.com/people/students "Faikah Bruce")) <br>
 *Faculty Member, MMED 2015* <br>
 PhD candidate <br>
