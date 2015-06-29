@@ -4,8 +4,8 @@ title: MMED
 tab: MMED
 welcome: Clinic on Meaningful Modeling of Epidemiological Data
 summary: This 2­‐week modeling clinic will emphasize the use of data in understanding infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, with the goal of engaging participants in epidemiological modeling projects that use real data to grapple with practical questions in a meaningful way.
-alerttype: primary
-alertmsg: The sixth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held June 1-12, 2015 at the African Institute for Mathematical Science in Muizenberg, South Africa.
+alerttype: success
+alertmsg: The seventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held at the African Institute for Mathematical Science in Muizenberg, South Africa in June 2016. This site will be updated in January with application instructions.
 ---
 
 {%if page.alerttype == "primary"%}
@@ -39,10 +39,11 @@ The general daily structure will be as follows:
 - 18:00-19:00 Dinner break (*Dinner is served from 18:00 to 18:30.*)
 - 19:00-20:00 Faculty research talk, computer session, or social activity
 
-We will start earlier on the first day, and end early on Saturday 6 June. The Clinic will officially end by 5pm on Friday 12 June. There will be an optional field trip on Saturday 13 June for participants who wish to attend. **The preliminary schedule for MMED 2015 is available [here](./schedule/ "MMEDD 2015 schedule").**
+We will start earlier on the first day, and end early on Saturday of the first week. The Clinic will officially end by 5pm on Friday of the second week. There will be an optional field trip on Saturday of the second week for participants who wish to attend. **The preliminary schedule for MMED 2016 is not yet available.**
 
 Schedules from previous years:
 
+- [MMED 2015](./schedule/2015 "MMED 2015 schedule")
 - [MMED 2014](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2014_Clinic_Schedule "MMED 2014 schedule")
 - [MMED 2013](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2013_Clinic_Schedule "MMED 2013 schedule")
 - [MMED 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_Clinic_Schedule "MMED 2012 schedule")
