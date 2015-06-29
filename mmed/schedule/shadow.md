@@ -3,6 +3,8 @@ layout: page
 redirect: http://mmed2016.ici3d.org/schedule
 title: MMED 2016
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
+alerttype: success
+alertmsg: Note that links on this page do not work!
 ---
 
 The MMED 2016 program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
