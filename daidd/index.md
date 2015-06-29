@@ -9,7 +9,7 @@ alertmsg: The fourth annual <strong>Clinic on Dynamical Approaches to Infectious
 ---
 
 {%if page.alerttype == "primary"%}
-[Go to DAIDD 2014 »](http://daidd2014.ici3d.org/ "DAIDD 2014"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
 
 ## Intended audience
@@ -37,13 +37,14 @@ The general daily structure will be as follows:
 
 We will start earlier on Monday, with shuttles at 8:00 and 8:15 and welcome/introductions from 8:30-9:00. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 5pm on Friday, though there will be an optional field trip on Saturday morning.
 
-**The [preliminary schedule](./schedule/ "DAIDD 2014 schedule") for DAIDD 2014 is now available.** Additional program information for participants is available [here](./DAIDD_2014_ProgramInfo.pdf).
+**The preliminary schedule for DAIDD 2015 is not yet available.**
 
 Schedules from previous years:
 
-- [DAIDD 2013](./schedule/2013.html "DAIDD 2013 schedule")
+- [DAIDD 2013](./schedule/2014 "DAIDD 2014 schedule")
+- [DAIDD 2013](./schedule/2013 "DAIDD 2013 schedule")
 - [DAIDD 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_DAIDD_Schedule "DAIDD 2012 schedule")
 
 {%if page.alerttype == "primary"%}
-[Go to DAIDD 2014 »](http://daidd2014.ici3d.org/ "DAIDD 2014"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
