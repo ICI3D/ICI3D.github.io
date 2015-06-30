@@ -57,7 +57,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   16:00 – 17:00 **Computer Session:** [R Tutorials](./tutorials) continued (All instructors) **& Mentoring session**
 -   17:00 – 18:00 [**Poster session II**](./posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (Snoep)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (TBD)
 
 ### Wednesday, XX June
 
@@ -78,7 +78,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     -   **Track B:** Formulating Research Questions B (Pulliam)
 -   17:00 – 18:00 [**Poster session III**](./posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2 (Ndifon)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2 (TBD)
 
 ### Thursday, XX June
 
@@ -138,13 +138,12 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** [Statistical power and validity of Ebola vaccine trials in Sierra Leone](./lectures/BellanEbolaVaccSL.pdf) (Bellan)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#3 (TBD)
 
 ### Tuesday, XX June
 
 -   8:30 – 10:00 **Lecture**: [Introduction to Monte Carlo Markov Chains (MCMC)](./lectures/IntrotoMCMC.pdf) (Bellan)
-	-   Movies from this lecture are available in the Desktop/Public/MCMCmovs folder on
-    the AIMS network.
+	-   Movies from this lecture are available in the Desktop/Public/MCMCmovs folder on the AIMS network.
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](./tutorials) (All instructors)
 -   11:30 – 12:30 **Work Session** (All instructors)
@@ -153,14 +152,13 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#4 (Hargrove)
--   20:00 - 22:00 **Social Activities**: Casino Lesson & Other Card Games (**Optional**)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#4 (TBD)
 
 ### Wednesday, XX June
 
--   9:00 – 10:15 **Reading Session (all groups):** [Gandhi 2006](https://github.com/ICI3D/MMED2015/raw/master/Readings/Gandhi2006.pdf) (Williams)
--   10:15 – 10:45 *Coffee break*
--   10:45 – 12:30 **Work Session** (All instructors)
+-   8:30 – 10:00 **Reading Session (all groups):** [Gandhi 2006](https://github.com/ICI3D/MMED2015/raw/master/Readings/Gandhi2006.pdf) (Williams)
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 12:30 **Work Session** (All instructors)
     - 10:45 – 11:15 _Optional Session:_ Resolving merge conflicts (Pearson)
     - 11:30 – 12:00 _Optional Session:_ Data cleaning (Pulliam) - [Slides](./lectures/DataManageClean.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
@@ -170,9 +168,8 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     - The model diagram developed during this session is available [here](./lectures/slitrModelDiagram.pdf).
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
--   17:30 – 18:00 *Dinner*
-    - There will be load shedding from 18:00 – 20:30.
-    - Travis's research lecture has been tentatively rescheduled for 14:00 on Thursday.
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#5 (TBD)
 
 ### Thursday, XX June
 
@@ -198,8 +195,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   16:05 – 17:05 **Final Feedback Session** (Moderator: *Hitchcock*)
 -   17:15 – 17:45 Closing session
 -   18:00 – 18:30 *Dinner*
--   20:30 – 21:30 **Social Activity**: Dance party (or ghost stories, or...?)
-    - Load shedding has been cancelled.
+-   21:00 – 23:00 **Social Activity**: TBD
 
 ### Saturday, XX June
 
