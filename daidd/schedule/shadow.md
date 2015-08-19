@@ -17,26 +17,31 @@ alertmsg: Note that some links on this page do not work!
 -   12:30 Lunch with ICI3D faculty and local alumni
 -   1:30-5:00 Meetings with local researchers
 
-### Monday, XX Dec
-
+### Sunday, XX Dec
 -   8:30-9:00 Welcome and introductions
 -   9:00-9:15 What are we doing here? ([Juliet Pulliam]({{site.absoluteurl}}/people/))  - [Download roadmap](./Materials/DAIDD2014roadmap.pdf)
 -   9:15-10:00 What is Science: models and data ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Bellan_ModelsAndData.pdf)
 -   10:00-10:30 Working with the DAIDD 2014 GitHub repository ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 -   10:30-11:00 Morning break - _Make sure your slides are uploaded for next session!_
+-   4:45-5:00 Ice breakers ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
+
+
+### Monday, XX Dec
+
 -   11:00-12:00 Research pitches (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
 -   1:00 - 2:30 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Pulliam_S4G1.pdf), Reference: [Tran _et al_ 2014](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114479 "Tran et al 2014")
 -   2:45-3:45 Dynamical Fever - computer exercise (All [faculty]({{site.absoluteurl}}/people)) - [Download](./Tutorials/DynamicalFever.zip)
 -   3:45-4:30 Dynamical Fever - discussion ([John Hargrove]({{site.absoluteurl}}/people/))
 -   4:30-4:40 Dynamical Fever - model description, modeling terminology ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 -   4:40-4:45 Model taxonomy ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Download](./Materials/modelTaxonomy.html)
+-   11:15-12:25 Writing exercise: formulating research questions for modeling projects ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Step-by-step guide](./Materials/researchQuestions.html)
 -   4:45-5:00 Ice breakers ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
 -   6:00-8:00 DAIDD Mixer
 
 ### Tuesday, XX Dec
 
 -   9:00-10:45 The SIR model family - conceptual framework and introduction to difference and differential equations ([Jonathan Dushoff]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Dushoff_SIRmodelFamily.pdf), [Source for slides](http://lalashan.mcmaster.ca/theobio/mmed/index.php/SIR_model_family), [Exercise](./Tutorials/SIRmodelFamily.html)
--   11:15-12:25 Writing exercise: formulating research questions for modeling projects ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Step-by-step guide](./Materials/researchQuestions.html)
+-   11:15-12:25 Small group session: research questions for modeling projects ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 -   1:30-2:50 Reed-Frost models ([Travis Porco]({{site.absoluteurl}}/people/)) - [Lecture Notes](./Lectures/Porco_ReedFrost.pdf), [Exercise](./Tutorials/ReedFrost.zip)
 -   2:50 - 3:05 Afternoon break - _Make sure your research question is on the repository before the next session!_
 -   3:05-4:40 Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.absoluteurl}}/people/)) - [Slides](https://github.com/ICI3D/DAIDD2014/blob/master/Materials/Hargrove_LifeCycle.pdf?raw=true)
