@@ -17,6 +17,8 @@ _Paper-writing workshops are made possible by the [Center for Inference and Dyna
 - Other proposals should be submitted at least 6 weeks before the proposed workshop dates.
 - All paper-writing workshops for MMED 2015 project groups should be completed no later than May 31, 2015.
 
+> **Note to applicants:** The [I3D P&P timeline](./timeline) outlines what is expected of groups receiving paper-writing support before, during, and after the paper-writing workshop.  Submission of an application for support will be considered an indication of your commitment to meet these expectations if your application is accepted.
+
 ## Presentation support
 
 Limited funds are available to support scientific conference presentations by ICI3D program participants on work developed at the [MMED clinic](../mmed), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d). Requests should be sent, with a copy of the abstract and acceptance letter, to <pandp@ici3d.org>.
