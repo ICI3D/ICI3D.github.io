@@ -10,9 +10,7 @@ alertmsg: To be considered for the I3D Research Scholars Exchange Program, parti
 
 ## Upcoming Deadlines
 
-### September 15, 2015
-For exchanges starting on or after January 1, 2016  
-Applicants will be notified of their status by October 1
+We do not have an upcoming deadlines. If we establish another deadline for I3D funding applications in the future, we will notify eligible program participants.
 
 <br>
 
