@@ -3,7 +3,7 @@ layout: page
 title: I3D
 subtitle: International Disease Dynamics and Data Research Scholars Exchange Program
 ---
-##Exchange Timeline
+## Exchange Timeline
 
 _Applicants will be notified of their status at least 3 months prior to the proposed exchange._
 
@@ -22,6 +22,7 @@ _Applicants will be notified of their status at least 3 months prior to the prop
 - Gavin contacts the scholar and supervisor to gather information about pre-exchange expectations
 - Scholar continues to coordinate with the ICI3D faculty supervisor to complete preliminary work
 - Scholar completes required CITI Program training module in International Research (contact PA for details)
+- Two weeks prior to the exchange, scholar submits a summary of preliminary work and updated research plan (1-2 pages) to the ICI3D faculty
 
 ### During the exchange
 - Scholar follows host institution's guidelines regarding check-in for international visitors
@@ -33,7 +34,7 @@ _Applicants will be notified of their status at least 3 months prior to the prop
 ### After the exchange
 - Scholar works with the supervisor to complete any remaining work
 - Gavin solicits post-exchange feedback from the scholar and ICI3D faculty supervisor within 1 week of the conclusion of the exchange
-- _No later than 6 weeks_  after the exchange, scholar submits a research report to the ICI3D faculty. Research reports should take the form of a manuscript formatted for submission to a specified scientific journal.
+- _No later than 6 weeks_  after the exchange, scholar submits a research report to the ICI3D faculty (via Gavin). Research reports should take the form of a manuscript formatted for submission to a specified scientific journal.
 - Gavin coordinates ICI3D review of the submitted report, prior to journal submission
 - Scholar receives feedback on the research report within 2-3 weeks of submission to the faculty
 - Scholar works with the supervisor to finalize the manuscript for journal submission
