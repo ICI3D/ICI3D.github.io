@@ -94,6 +94,7 @@ alertmsg: Note that some links on this page do not work!
 - 10:00-10:10 Short break
 - 10:10-11:00 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
 - 11:00-11:10 Short break
-- 11:10-12:30 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
+- 11:10-12:00 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
+- 12:00-12:30 Lunch break
 - 12:30-1:45 Final feedback session ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
 - 1:45-2:00 Closing session ([Juliet Pulliam]({{site.absoluteurl}}/people/))

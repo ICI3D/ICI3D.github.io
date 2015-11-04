@@ -26,10 +26,20 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Schedule
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19.
+Specific session times will vary by day, but the general daily structure will be as follows:
 
-**The preliminary schedule for DAIDD 2015 is not yet available.** An outline of the general daily structure will be added soon.
+- 9:00-10:30 Lecture/discussion and/or tutorial
+- 10:30-11:00 Morning break
+- 11:00-12:30 Lecture/discussion and/or tutorial
+- 12:30-2:00 Lunch break
+- 3:00-3:30 Lecture/discussion and/or tutorial
+- 3:30-4:00 Afternoon break
+- 4:00-5:00 Lecture/discussion and/or tutorial
+- 5:00-6:00 Exercise or working session
+- 6:00-7:30 Dinner break
+- 7:30-8:30 Faculty research talk, computer session, or social activity
 
+The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19. **The preliminary schedule for DAIDD 2015 is not yet available.**
 
 Schedules from previous years:
 
