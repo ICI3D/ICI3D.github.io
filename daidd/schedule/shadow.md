@@ -19,7 +19,7 @@ alertmsg: Note that some links on this page do not work!
 - 16:00-16:30 Welcome and introductions
 - 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.absoluteurl}}/people/))  - [Download roadmap](./Materials/DAIDD2015roadmap.pdf)
 - 16:45-17:30 What is Science: models and data ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Bellan_ModelsAndData.pdf)
-- 17:30-18:00 Working with the DAIDD 2015 GitHub repository ([Juliet Pulliam]({{site.absoluteurl}}/people/))
+- 17:30-18:00 Working with the DAIDD 2015 GitHub repository ([Pulliam or Borchering]({{site.absoluteurl}}/people/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 18:00-18:30 Ice breakers ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
 - 18:30 Dinner as a group
@@ -31,12 +31,12 @@ alertmsg: Note that some links on this page do not work!
 - 11:00 - 12:30 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Pulliam_S4G1.pdf), Reference: [Tran _et al_ 2014](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114479 "Tran et al 2014")
 - 12:30-2:00 Lunch
 - 2:00-3:00 Dynamical Fever - computer exercise (All [faculty]({{site.absoluteurl}}/people)) - [Download](./Tutorials/DynamicalFever.zip)
-- 3:00-3:45 Dynamical Fever - discussion ([TBD]({{site.absoluteurl}}/people/))
+- 3:00-3:45 Dynamical Fever - discussion ([Cara Brook]({{site.absoluteurl}}/people/))
 - 3:45-4:15 Afternoon break
-- 4:15-4:30 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Download](./Materials/modelTaxonomy.html)
+- 4:15-4:30 Dynamical Fever - model description, modeling terminology and taxonomy ([Jonathan Dushoff]({{site.absoluteurl}}/people/)) - [Download](./Materials/modelTaxonomy.html)
 - 4:30-4:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.absoluteurl}}/people/))
-- 4:45-6:00 Writing exercise: formulating research questions for modeling projects ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Step-by-step guide](./Materials/researchQuestions.html)
-- 7:30-8:30 Faculty research presentations
+- 4:45-6:00 Writing exercise: formulating research questions for modeling projects ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Step-by-step guide](./Materials/researchQuestions.html)
+- 7:30-8:30 Faculty research presentations ([Becky Borchering]({{site.absoluteurl}}/people/), [Travis Porco]({{site.absoluteurl}}/people/))
 
 ### Tuesday, 15 Dec
 
@@ -46,15 +46,15 @@ alertmsg: Note that some links on this page do not work!
 - 11:45-12:30 Reed-Frost models ([Travis Porco]({{site.absoluteurl}}/people/)) - [Lecture Notes](./Lectures/Porco_ReedFrost.pdf)
 - 12:30-2:00 Lunch break
 - 2:00-3:00 Reed-Frost models continued ([Travis Porco]({{site.absoluteurl}}/people/)) -  [Exercise](./Tutorials/ReedFrost.zip)
-- 3:00-4:15 Modeling in practice: The life cycle of a modeling project, from conception to publication ([TBD]({{site.absoluteurl}}/people/))
+- 3:00-4:15 Modeling in practice: The life cycle of a modeling project, from conception to publication ([Steve Bellan]({{site.absoluteurl}}/people/))
 - 4:15-4:45 Afternoon break - _Make sure your research question is on the repository before the next session!_
 - 4:45-6:00 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Step-by-step guide](./Materials/modelWorld.html) - [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
-- 7:30-8:30 Faculty research presentations
+- 7:30-8:30 Faculty research presentations ([Juliet Pulliam]({{site.absoluteurl}}/people/), [Cara Brook]({{site.absoluteurl}}/people/))
 
 ### Wednesday, 16 Dec
-- 9:00-10:30 Stochastic simulation models ([TBD]({{site.absoluteurl}}/people/))
+- 9:00-10:30 Stochastic simulation models ([Becky Borchering]({{site.absoluteurl}}/people/))
 - 10:30-11:00 Morning break
-- 11:00-12:30 Use of models in study design for dynamic systems ([TBD]({{site.absoluteurl}}/people/))
+- 11:00-12:30 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 - 12:30-2:00 Lunch break
 - 2:00-3:45 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Dushoff_Heterogeneity.pdf), [Source for slides](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Heterogeneity_lecture), [Exercise](./Tutorials/heterogeneityTutorial.zip), [Exercise summary](./Tutorials/heterogeneityTutorialSummary.pdf)
 - 3:45-4:15 Afternoon break
@@ -64,8 +64,8 @@ alertmsg: Note that some links on this page do not work!
 
 ### Thursday, 17 Dec
 
-- 9:00-10:45 Writing exercise - description of proposed model and assumptions ([TBD]({{site.absoluteurl}}/people/))
-- 10:45-10:55 Regroup after feedback
+- 9:00-10:45 Writing exercise - description of proposed model and assumptions ([Cara Brook]({{site.absoluteurl}}/people/))
+- 10:45-10:55 Regroup after feedback ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 - 10:55-11:00 Group Photo
 - 11:00-11:30 Break
 - 11:30-1:00 Game Drive
@@ -81,7 +81,7 @@ alertmsg: Note that some links on this page do not work!
 
 - 9:00-10:30 Use of models in study design for dynamic systems ([Travis Porco]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Porco_trachomaExample.pdf), [Exercise](./Tutorials/trachomaTutorial.zip)
 - 10:30-11:00 Morning break
-- 11:00-12:00 Model evaluation and comparison ([TBD]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Scott_ModelEvaluation.pdf)
+- 11:00-12:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Scott_ModelEvaluation.pdf)
 - 12:00-12:30 Simplification for generalization 2: Models and the bigger picture ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Slides](https://github.com/ICI3D/DAIDD2014/blob/master/Lectures/Pulliam_S4G2.pdf?raw=true)
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Mentored working session (All [faculty]({{site.absoluteurl}}/people))
