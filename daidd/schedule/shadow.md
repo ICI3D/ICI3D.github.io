@@ -19,7 +19,7 @@ alertmsg: Note that some links on this page do not work!
 - 16:00-16:30 Welcome and introductions
 - 16:30-16:45 What are we doing here? ([Juliet Pulliam]({{site.absoluteurl}}/people/))  - [Download roadmap](./Materials/DAIDD2015roadmap.pdf)
 - 16:45-17:30 What is Science: models and data ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Bellan_ModelsAndData.pdf)
-- 17:30-18:00 Working with the DAIDD 2015 GitHub repository ([Pulliam or Borchering]({{site.absoluteurl}}/people/))
+- 17:30-18:00 Working with the DAIDD 2015 GitHub repository ([Juliet Pulliam]({{site.absoluteurl}}/people/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 18:00-18:30 Ice breakers ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
 - 18:30 Dinner as a group
@@ -72,7 +72,7 @@ alertmsg: Note that some links on this page do not work!
 - 1:00-2:00 Lunch
 - 2:00-3:15 Models and data: introduction to model fitting
     ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](./Lectures/Bellan_ModelFitting.pdf)
-- 3:15-4:00 Model fitting tutorial
+- 3:15-4:00 Model fitting tutorial (All [faculty]({{site.absoluteurl}}/people))
 - 4:00-4:30 Afternoon break
 - 4:30-6:00 Writing exercise & mentored working session (All [faculty]({{site.absoluteurl}}/people))
 -   7:00 ICI3D dinner
