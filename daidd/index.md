@@ -4,7 +4,7 @@ title: DAIDD
 tab: DAIDD
 welcome: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: This 1­‐week modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
-alerttype: success
+alerttype: primary
 alertmsg: The fourth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Florida’s Emerging Pathogens Institute, will be held December 13-19, 2015.
 ---
 
