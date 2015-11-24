@@ -4,7 +4,7 @@ title: DAIDD
 tab: DAIDD
 welcome: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: This 1­‐week modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
-alerttype: success
+alerttype: primary
 alertmsg: The fourth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Florida’s Emerging Pathogens Institute, will be held December 13-19, 2015.
 ---
 
@@ -39,7 +39,7 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-7:30 Dinner break
 - 7:30-8:30 Faculty research talk, computer session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19. **The preliminary schedule for DAIDD 2015 is not yet available.**
+The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19. **The [preliminary schedule for DAIDD 2015](http://daidd2015.ici3d.org/schedule) is now available.**
 
 Schedules from previous years:
 
