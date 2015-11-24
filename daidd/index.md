@@ -39,7 +39,7 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-7:30 Dinner break
 - 7:30-8:30 Faculty research talk, computer session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19. **The preliminary schedule for DAIDD 2015 is not yet available.**
+The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19. **The [preliminary schedule for DAIDD 2015](http://daidd2015.ici3d.org/schedule) is now available.**
 
 Schedules from previous years:
 
