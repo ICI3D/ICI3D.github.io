@@ -64,6 +64,12 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ### Workshop Faculty
 
+**Rebecca Borchering** ([link](http://http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
+*Faculty Member, DAIDD 2015* <br>
+PhD candidate <br>
+Department of Mathematics <br>
+University of Florida, Gainesville, FL, USA
+
 **Cara Brook** ([link](http://www.princeton.edu/eeb/people/display_person.xml?netid=caraeb&display=Graduate "Cara Brook")) <br>
 *Faculty Member, DAIDD 2015* <br>
 PhD candidate <br>
