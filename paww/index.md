@@ -3,7 +3,7 @@ layout: page
 title: I3D PaWW
 subtitle: Paper-writing workshops
 welcome: Infectious disease dynamics and data paper-writing workshops
-summary: I3D PaWW support provides an opportunity for ICI3D program participants to share their research through peer-reviewed publications and presentation at scientific conferences.
+summary: I3D PaWW support provides an opportunity for MMED project groups to reconvene and finalize a manuscript based on their work for publication.
 alerttype: primary
 alertmsg: To be considered for a paper-writing workshop, groups must be nominated by the ICI3D faculty. Application instructions are included in the letter of nomination sent to nominated groups.
 ---
@@ -21,4 +21,4 @@ _Paper-writing workshops are made possible by the [Center for Inference and Dyna
 
 ### Reminder
 
-All publications resulting from work developed at the [MMED clinic](../mmed), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d) are expected to acknowledge the ICI3D program and support for the program provided by the National Institute of General Medical Sciences of the National Institutes of Health under award number R25GM102149. In addition, publications must comply with the open access policy for NIH-funded research.
+All publications resulting from work developed at the [MMED clinic](../mmed), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d) must comply with the open access policy for NIH-funded research and are expected to acknowledge the ICI3D program and support for the program provided by the National Institute of General Medical Sciences of the National Institutes of Health under award number R25GM102149. **In addition, publications from groups receiving PaWW support must acknowledge the [Center for Inference and Dynamics of Infectious Diseases](http://www.cidid.org/) and funding provided through MIDAS-National Institute of General Medical Sciences under award U54GM111274.**

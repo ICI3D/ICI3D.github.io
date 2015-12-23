@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I3D PaWW
+title: I3D Paper-writing workshops
 subtitle: Paper-writing workshops
 ---
 
