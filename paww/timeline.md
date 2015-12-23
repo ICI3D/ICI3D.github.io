@@ -12,7 +12,7 @@ _We will attempt to review proposals and notify applicants of the outcome within
 - The group finalizes workshop dates with the host institution and ICI3D faculty supervisor and emails <ici3d [at] epi.ufl.edu> specifying the confirmed travel dates
 - The ICI3D Program Assistant (PA) works with the group members to make travel arrangements
 - PA notifies Gavin and Juliet of the workshop schedule
-- **Scholars coming from Africa to a US-based institution must submit J-1 visa application materials to the host institution _no later than_ 60 days prior to the proposed arrival date.** These materials should be submitted as soon as possible to avoid administrative delays. Also note that some host institutions may require earlier submission.
+- **Group members coming from Africa to a US-based institution must submit J-1 visa application materials to the host institution _no later than_ 60 days prior to the proposed arrival date.** These materials should be submitted as soon as possible to avoid administrative delays. Also note that some host institutions may require earlier submission.
 - The group continues work on the project and manuscript preparation
 
 ### One month before the workshop
