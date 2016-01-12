@@ -9,12 +9,12 @@ alertmsg: The seventh annual <strong>Clinic on the Meaningful Modeling of Epidem
 ---
 
 {%if page.alerttype == "primary"%}
-[Go to MMED 2015 »](http://mmed2015.ici3d.org/ "MMED 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Go to MMED 2015 »](http://mmed2016.ici3d.org/ "MMED 2016"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
 
 ## Intended audience
 
-This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and selected infectious disease epidemiologists. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
+This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
 
 ## Selection criteria
 
