@@ -1,0 +1,67 @@
+'''Note:''' All sessions that are 1 hour and 45 minutes long include a 45 minute lecture on the topic, a 45 minute practicum, and a 15 minute discussion of the practicum in relation to the lecture material and the session's learning objectives.
+
+==Monday, 16 Dec==
+
+*8:30 [[Welcome and introductions]]
+*9:00-9:15 What are we doing here? ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam])
+*9:15-10:00 [[Media: Bellan - What is Science.pdf | What is Science: models and data]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Steve_Bellan Steve Bellan])
+*10:30-11:15 Discussion: [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/2013_DAIDD_Reading Assigned reading] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jonathan_Dushoff Jonathan Dushoff])
+*11:15-12:00 [http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/DAIDD_2013_posters Poster pitches] (Moderator: [http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jonathan_Dushoff Jonathan Dushoff])
+*1:00 - 2:15 [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Intuitive_aspects_of_dynamics Intuitive aspects of dynamics] - outbreaks and reproduction numbers ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Brian_Williams Brian Williams])
+*2:15-3:00 Dynamical Fever - [http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Non-independence_and_herd_immunity computer exercise] (All [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty])
+*3:15-4:00 Dynamical Fever - [[Media:DAIDDex1.pdf|discussion]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/John_Hargrove John Hargrove])
+*4:00-4:30 Dynamical Fever - model description, modeling terminology ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam])
+*4:30-4:45  [[Media:DAIDD_Model_Taxonomy.pdf|Model taxonomy]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam])
+*4:45-5:00  Ice breakers ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Gavin_Hitchcock Gavin Hitchcock])
+*7:00-9:00 [http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/DAIDD_2013_posters Poster session]
+
+==Tuesday, 17 Dec==
+
+*9:00-10:45 The [[SIR model family]] - conceptual framework and introduction to difference and differential equations ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jonathan_Dushoff Jonathan Dushoff])
+*11:15-12:15 Writing exercise: [[DAIDD Research Questions Exercise|formulating research questions for modeling projects]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam])
+* 1:15-2:45 [[Reed-Frost models]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Travis_Porco Travis Porco]) 
+* 3:00-4:30 [[Heterogeneity lecture | Impact of contact patterns]], consequences of heterogeneity, and modeling options and [http://lalashan.mcmaster.ca/theobio/mmed/index.php/Impact_of_contact_patterns#Practical_exercise tutorial] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jonathan_Dushoff Jonathan Dushoff])
+*4:30-6:00 Exercise: [[Creating a model world to address a research question]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam], and all [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty])
+
+==Wednesday, 18 Dec==
+
+*9:00-10:45 [[Stochastic simulation models]] and an example ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jim_Scott Jim Scott])
+*11:15-12:15 [[Use of models in study design for dynamic systems]]: [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Trachoma Trachoma] elimination ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Travis_Porco Travis Porco])
+*1:15-2:00 [[Use of models in study design for dynamic systems]]: [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Trachoma Trachoma] elimination (cont'd)
+*2:00-3:45 Use of models in study design for dynamic systems: Treatment as Prevention for [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:HIV HIV] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Brian_Williams Brian Williams])
+*4:00-5:00 Exercise: matching models to questions (All [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty])
+*5:00-6:00 Mid-session feedback ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Gavin_Hitchcock Gavin Hitchcock])
+
+==Thursday, 19 Dec==
+
+*9:00-9:20 Regroup after feedback
+*9:20-10:50 Writing exercise - [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/ExampleModelDiagram description of proposed model and assumptions] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Steve_Bellan Steve Bellan])
+*10:50-11:00 Group Photo
+*11:00-11:30 Break
+*11:30-12:30 [[Media:Bellan - Model fitting.pdf | Models and data: introduction to model fitting]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Steve_Bellan Steve Bellan])
+*1:30-2:15 [[Model evaluation and comparison]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jim_Scott Jim Scott])
+*2:25-3:40 Modeling in practice: The life cycle of a modeling project, from conception to publication ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/John_Hargrove John Hargrove]) [[Media:Hargrove_model_life_cycle.pptx | Lecture slides]]
+*3:40-5:00 Exercise: [[Model fitting tutorial: HIV in Harare]] (All [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty])
+** [http://lalashan.mcmaster.ca/theobio/mmed/images/2/25/Distributed_Delay.pdf Slides on box car models]
+*5:00-6:00 Writing [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/ExampleModelDiagram exercise] & mentored working session (All [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty])
+*7:00 ICI3D dinner (optional)
+
+==Friday, 20 Dec==
+
+*9:00-10:00 [[The institutional review process for human subjects research]] ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Travis_Porco Travis Porco])
+*10:10-11:10 [[Models and the bigger picture]] - simplification for generalization ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam])
+*11:15-12:15 [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/ExampleModelDiagram Writing  exercise] (All [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty])
+*1:15-2:00 Mentored working session (All [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/Category:Faculty faculty]) - revise based on peer feedback and plan for moving forward (including identified resources and potential collaborators)
+*2:15-3:15 [http://lalashan.mcmaster.ca/theobio/MMEDclinic/index.php/DAIDD_2013_participants Discussion of research plans/proposals] (Moderator: [http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Jonathan_Dushoff Jonathan Dushoff])
+*3:30-4:45 Final feedback session ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Gavin_Hitchcock Gavin Hitchcock])
+*4:45-5:00 Closing session ([http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Juliet_Pulliam Juliet Pulliam])
+*7:00-9:00 Social activity: Game night (optional)
+
+==Saturday, 21 Dec==
+
+*[http://yushan.mcmaster.ca/theobio/MMEDclinic/index.php/Weekend Optional field trip]
+
+[[Category:ICI3D]]
+[[Category:DAIDD]]
+[[Category:2013]]
+

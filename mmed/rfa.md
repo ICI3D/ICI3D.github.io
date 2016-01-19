@@ -16,8 +16,8 @@ Students and researchers with a demonstrated interest in infectious disease rese
 
 Funding is available to cover room, board and travel costs for a limited number of Clinic participants from the US and Africa. The application process for the Clinic is highly competitive. Preference will be given to applicants that have the most to gain from Clinic participation.
 
-- The deadline for receipt of applications from _individuals based at North American institutions_ for MMED 2015 is February 15, 2014 at 5pm Eastern.
-- The deadline for receipt of applications from _individuals based at African institutions_ for MMED 2015 is March 1, 2015 at 5pm Eastern.
+- The deadline for receipt of applications from _individuals based at North American institutions_ for MMED 2016 is February 15, 2016 at 5pm Eastern.
+- The deadline for receipt of applications from _individuals based at African institutions_ for MMED 2016 is March 1, 2016 at 5pm Eastern.
 
 Late or incomplete applications will not be considered. Application instructions are available on the Application Form.
 
