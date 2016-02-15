@@ -82,7 +82,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 
 ### Thursday, 2 June
 
--   8:30 – 10:00 **Exercise:** Creating a model world to address a research question (TBD) - [Assignment and examples](./modelWorlds/)
+-   8:30 – 10:00 **Lecture:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture (Bellan)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy (Dushoff) - [Slides](./lectures/statisticalPhilosophy.pdf), [Additional material](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Philosophy_lecture)
 -   12:00 – 12:30 **Discussion:** MMED research projects (TBD)
@@ -90,7 +90,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology: Where does modeling fit?](./lectures/EpiStudyDesign.pdf) (TBD) and [Lab: Study Design in Epidemiology](./tutorials)
-    -   **Track B:** **Lecture** and **Computer Session:** Use of models in study design for dynamic systems: Trachoma elimination (Porco) - [Lab](./tutorials)
+    -   **Track B:** **Exercise:** Creating a model world to address a research question (TBD) - [Assignment and examples](./modelWorlds/)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** [Introduction to Likelihood](./lectures/IntroLikeliihood.pdf) (TBD)
 -   16:45 – 18:00 **Computer Session:** Lab 5: [Introduction to Likelihood Lab](./tutorials) (All instructors)
@@ -101,7 +101,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 
 -   8:30 – 10:00  _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's (Porco) and [Lab: Study Design for Clinical Trials](./tutorials)
-    -   **Track B:** **Lecture** and **Computer Session:** Use of models in study design for dynamic systems: Ebola vaccine trial design (TBD) - [Lab](./tutorials)
+    -   **Track B:** **Exercise:** Description of proposed model and assumptions (TBD)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness (TBD)
 -   11:15 – 12:30 **Computer session:** MLE fitting of an SIR model to prevalence data (All instructors) - [Lab](./tutorials)
@@ -116,9 +116,9 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 
 ### Saturday, 4 June
 
--   9:00 – 10:30 **Exercise:** Description of proposed model and assumptions (TBD)
+-   9:00 – 10:30 **Lecture:** Participatory coding of a dynamical model (Bellan, with Pulliam)
 -   10:30 – 11:00 First chance to sign up for project groups and *Coffee break*
--   11:00 – 12:30 **Lecture:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture (Bellan)
+-   11:00 – 12:30 **TBD**  
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -165,7 +165,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     - 11:30 – 12:00 _Optional Session:_ Data cleaning (Pulliam) - [Slides](./lectures/DataManageClean.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Work Session** (All instructors)
-    - 14:00 – 15:30 _Optional Session:_ Live coding of a dynamical model (Bellan, with Pulliam)
+    - 14:00 – 15:30 _Optional Session:_ TBD
     - Code from this session is available from the [tutorials page](./tutorials).
     - The model diagram developed during this session is available [here](./lectures/slitrModelDiagram.pdf).
 -   15:30 – 16:00 *Tea*
