@@ -31,7 +31,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 **_Parallel sessions_**
     -   **Track A:** Introduction to infectious disease data (Bruce) - [Slides](./lectures/IntroIDdata.pdf)
-    -   **Track B:** Foundations of dynamic modeling (Dushoff) - [Slides](./lectures/foundationsDynamicModeling.pdf), [Additional material](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Foundations_of_dynamic_modeling)
+    -   **Track B:** Foundations of dynamic modeling (Ndifon)
 -   17:00 – 18:00 [**Poster session I**](./posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 19:30 **Social Activity:** Ice breakers
@@ -48,7 +48,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     - All R tutorials and labs are linked from [this page](./tutorials)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 _**Parallel sessions**_
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II (TBD)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II (Delva)
     -   **Track B:** **Lecture:** Basic stochastic simulation models (Borchering) - [Slides](./lectures/BasicStochasticModels_2015.pdf)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](./tutorials) I-III, Lab 1: ODE models in R, or Tutorial 4: Visualizing Infectious Disease Data in R (as needed)
@@ -82,17 +82,17 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 
 ### Thursday, 2 June
 
--   8:30 – 10:00 **Lecture:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture (Bellan)
+-   8:30 – 10:00 _**Parallel sessions**_
+    -   **Track A:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology: Where does modeling fit?](./lectures/EpiStudyDesign.pdf) (TBD) and [Lab: Study Design in Epidemiology](./tutorials)
+    -   **Track B:** **Exercise:** Creating a model world to address a research question (TBD) - [Assignment and examples](./modelWorlds/)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy (Dushoff) - [Slides](./lectures/statisticalPhilosophy.pdf), [Additional material](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Philosophy_lecture)
 -   12:00 – 12:30 **Discussion:** MMED research projects (TBD)
     - [Potential project groups](./projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology: Where does modeling fit?](./lectures/EpiStudyDesign.pdf) (TBD) and [Lab: Study Design in Epidemiology](./tutorials)
-    -   **Track B:** **Exercise:** Creating a model world to address a research question (TBD) - [Assignment and examples](./modelWorlds/)
+-   14:00 – 15:30 **Lecture:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture (Bellan)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** [Introduction to Likelihood](./lectures/IntroLikeliihood.pdf) (TBD)
+-   16:00 – 16:45 **Lecture:** [Introduction to Likelihood](./lectures/IntroLikeliihood.pdf) (Ngonghala)
 -   16:45 – 18:00 **Computer Session:** Lab 5: [Introduction to Likelihood Lab](./tutorials) (All instructors)
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
@@ -117,8 +117,10 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 ### Saturday, 4 June
 
 -   9:00 – 10:30 **Lecture:** Participatory coding of a dynamical model (Bellan, with Pulliam)
+    - Code from this session is available from the [tutorials page](./tutorials).
+    - The model diagram developed during this session is available [here](./lectures/slitrModelDiagram.pdf).
 -   10:30 – 11:00 First chance to sign up for project groups and *Coffee break*
--   11:00 – 12:30 **TBD**  
+-   11:00 – 12:30 **Exercise:** Working with Git and GitHub (Pearson)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -165,9 +167,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     - 11:30 – 12:00 _Optional Session:_ Data cleaning (Pulliam) - [Slides](./lectures/DataManageClean.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Work Session** (All instructors)
-    - 14:00 – 15:30 _Optional Session:_ TBD
-    - Code from this session is available from the [tutorials page](./tutorials).
-    - The model diagram developed during this session is available [here](./lectures/slitrModelDiagram.pdf).
+    - 14:00 – 15:30 _Optional Session:_ Model assessment (Dushoff)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
