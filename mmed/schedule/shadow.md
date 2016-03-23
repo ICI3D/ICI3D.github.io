@@ -40,10 +40,10 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 ### Tuesday, 31 May
 
 -   8:30 – 9:15 **Lecture:** Mathematical assumptions of simple ODE models (Pulliam) - [Slides](./lectures/assumptionsODE_2015.pdf)
--   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to spreadsheet models (TBD) - [Slides](./lectures/SpreadsheetModels.pdf)
-    -   **Practice spreadsheet:** [Measles example](./lectures/ExampleSIRMeasles.ods)
+-   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to model implementation (TBD) - [Slides](./lectures/SpreadsheetModels.pdf)
+    -   **Practice example:** [Measles](./lectures/ExampleSIRMeasles.ods)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Computer Session:** [R Tutorials](./tutorials) I-III (All instructors); **BScH break-out group** (Bellan)
+-   10:30 – 12:30 **Computer Session:** [R Tutorials](./tutorials) I-III (All instructors); **BScH break-out group** (Bellan, Borchering)
     -   When you have completed R Tutorials I-III, work on one of the following: Lab 1: ODE models (required) in R and Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
     - All R tutorials and labs are linked from [this page](./tutorials)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
