@@ -65,33 +65,36 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 ### Workshop Faculty
 
 **Rebecca Borchering** ([link](http://http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
-*Faculty Member, DAIDD 2015* <br>
+*Faculty Member, DAIDD 2015, MMED 2016* <br>
 PhD candidate <br>
 Department of Mathematics <br>
 University of Florida, Gainesville, FL, USA
 
 **Cara Brook** ([link](http://www.princeton.edu/eeb/people/display_person.xml?netid=caraeb&display=Graduate "Cara Brook")) <br>
-*Faculty Member, DAIDD 2015* <br>
+*Faculty Member, DAIDD 2015, MMED 2016* <br>
 PhD candidate <br>
 Department of Ecology and Evolutionary Biology <br>
 Princeton University, Princeton, NJ, USA
 
 **Faikah Bruce, MSc** ([link](http://sacema.com/people/students "Faikah Bruce")) <br>
-*Faculty Member, MMED 2015* <br>
+*Faculty Member, MMED 2015-2016* <br>
 PhD candidate <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
+**Wim Delva, MD, PhD** ([link](http://www.sacema.com/people/staff/ "Wim Delva")) <br>
+*Faculty Member, MMED 2010-2012 & 2016* <br>
+Deputy Director for Research<br>
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
+
 **Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "Wilfred Ndifon")) <br>
-*Faculty Member, MMED 2015* <br>
+*Faculty Member, MMED 2015-2016* <br>
 Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
 African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
 
-### Adjunct Faculty
-
-**Wim Delva, MD, PhD** ([link](http://www.sacema.com/people/staff/ "Wim Delva")) <br>
-*Faculty Member, MMED 2010-2012* <br>
-Deputy Director <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
+**Calistus Ngonghala, PhD** ([link](http://ghsm.hms.harvard.edu/person/postdoctoral-fellows/calistus-ngonghala "Calistus Ngonghala")) <br>
+*Faculty Member, MMED 2016* <br>
+Research Fellow in Global Health and Social Medicine<br>
+Harvard Medical School, Boston, MA, USA
 
 {% include bottomTable.html %}
 
