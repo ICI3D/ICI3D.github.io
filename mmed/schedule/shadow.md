@@ -120,7 +120,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     - Code from this session is available from the [tutorials page](./tutorials).
     - The model diagram developed during this session is available [here](./lectures/slitrModelDiagram.pdf).
 -   10:30 – 11:00 First chance to sign up for project groups and *Coffee break*
--   11:00 – 12:30 **Exercise:** Working with Git and GitHub (Pearson)
+-   11:00 – 12:30 **Exercise:** Working with Git and GitHub (TBD)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -181,6 +181,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     - [Sign up to go to Mzoli's by 13:00](https://github.com/ICI3D/MMED2015/blob/master/Mzolis.md). (You will need to be logged into GitHub to sign up.)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Work Session** (All instructors)
+    - 14:00 – 15:30 _Optional Session:_ Advanced stochastic modeling (Ndifon)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
