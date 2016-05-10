@@ -87,7 +87,7 @@ Deputy Director for Research<br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
 **Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "Wilfred Ndifon")) <br>
-*Faculty Member, MMED 2015-2016* <br>
+*Faculty Member, MMED 2015* <br>
 Joint AIMS Career Development Research Chair in Quantitative Immunology and Bioinformatics <br>
 African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh/ "AIMS-Ghana") and [AIMS-South Africa](http://www.aims.ac.za/ "AIMS-SA"))
 
