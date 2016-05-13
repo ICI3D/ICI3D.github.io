@@ -1,0 +1,229 @@
+/* Skin: Brown */
+a {
+  color: #45158a; }
+  a:hover, a:focus {
+    color: #331067; }
+
+.btn-primary {
+  background-color: #45158a;
+  border-color: #3e137d; }
+  .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active,
+  .btn-primary .open > .dropdown-toggle.btn-primary {
+    background-color: #3e137d;
+    border-color: #331067; }
+  .btn-primary:active:focus {
+    background-color: #331067;
+    border-color: #2a0d55; }
+
+.navbar-toggle {
+  background-color: #45158a; }
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #331067; }
+
+.navbar-nav .dropdown-menu {
+  border-top: 2px solid #2f0e5e; }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #331067; }
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #331067; }
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #331067; }
+
+@media screen and (max-width: 992px) {
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,
+  .navbar-default .navbar-nav > .active.open > a, .navbar-default .navbar-nav > .active.open > a:hover, .navbar-default .navbar-nav > .active.open > a:focus {
+    background-color: #45158a;
+    color: #fff; } }
+.hero-unit-animated .hero-button {
+  background-color: #45158a; }
+  .hero-unit-animated .hero-button:hover, .hero-unit-animated .hero-button:focus {
+    background-color: #3e137d; }
+
+.hero-unit-slider .hero-button:hover, .hero-unit-slider .hero-button:focus {
+  background: #45158a;
+  color: #fff; }
+
+.boxed-content > i {
+  color: #45158a; }
+.boxed-content.left-boxed-icon i {
+  background: #45158a; }
+
+.section-heading:after {
+  color: #45158a; }
+
+.full-width-section {
+  background-color: #45158a; }
+
+/* latest news */
+.news-item a:hover, .news-item a:focus {
+  color: #45158a; }
+
+/* blog list */
+.blog .entry-title a:hover, .blog .entry-title a:focus {
+  color: #45158a; }
+.blog .meta-line a:hover, .blog .meta-line a:focus {
+  color: #45158a; }
+
+.tag-list li a {
+  background-color: #45158a; }
+
+.category-list li a:hover, .category-list li a:focus {
+  color: #45158a; }
+
+.panel-group-faq.top-faq .panel-heading .number {
+  background-color: #45158a; }
+
+.team-member .team-name {
+  background-color: #45158a; }
+
+.portfolio-item .overlay {
+  background-color: rgba(69, 21, 138, 0.9); }
+.portfolio-item .btn {
+  background-color: #4c1797;
+  border: 1px solid #3a1274; }
+  .portfolio-item .btn:hover, .portfolio-item .btn:focus {
+    background-color: #45158a; }
+
+.portfolio-item-filters li a:hover, .portfolio-item-filters li a:focus {
+  color: #45158a; }
+.portfolio-item-filters li a.active {
+  background-color: #45158a;
+  color: #fff; }
+
+/* tabs */
+@media screen and (max-width: 480px) {
+  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #45158a; } }
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+  background-color: #45158a; }
+
+.custom-tabs-line.tabs-line-top .active a {
+  border-top-color: #45158a; }
+.custom-tabs-line.tabs-line-bottom .active a {
+  border-bottom: 1px solid #45158a; }
+
+.pagination > li > a,
+.pagination > li > span {
+  color: #45158a; }
+.pagination > li > a:hover, .pagination > li > span:hover,
+.pagination > li > a:focus, .pagination > li > span:focus {
+  background-color: #571aad;
+  border-color: #45158a;
+  color: #fff; }
+.pagination > .active > a, .pagination > .active > span {
+  background-color: #45158a;
+  border-color: #3a1274; }
+
+.pagination.borderless > li.active > a,
+.pagination.borderless > li.active > span {
+  background-color: #45158a; }
+  .pagination.borderless > li.active > a:hover, .pagination.borderless > li.active > a:focus,
+  .pagination.borderless > li.active > span:hover,
+  .pagination.borderless > li.active > span:focus {
+    background-color: #45158a; }
+
+.pager li > a:hover, .pager li > a:focus {
+  background-color: #45158a;
+  border-color: #3e137d; }
+
+.slick-next,
+.slick-prev {
+  background-color: #45158a; }
+  .slick-next:hover, .slick-next:focus,
+  .slick-prev:hover,
+  .slick-prev:focus {
+    background-color: #3a1274; }
+
+.newsletter-form .input-group-lg > .input-group-btn > .btn {
+  background-color: #45158a; }
+  .newsletter-form .input-group-lg > .input-group-btn > .btn:hover, .newsletter-form .input-group-lg > .input-group-btn > .btn:focus {
+    background-color: #3a1274; }
+
+ul.sidebar-nav li a:hover {
+  color: #45158a; }
+ul.sidebar-nav li a.current a {
+  color: #45158a; }
+ul.sidebar-nav li.current a {
+  color: #45158a; }
+ul.sidebar-nav li.has-submenu.active > a,
+ul.sidebar-nav li.has-submenu.active li.active > a {
+  color: #45158a; }
+
+.breadcrumb > li.active {
+  color: #45158a; }
+.breadcrumb a:hover, .breadcrumb a:focus {
+  color: #45158a; }
+.breadcrumb.link-accent a {
+  color: #45158a; }
+  .breadcrumb.link-accent a:hover, .breadcrumb.link-accent a:focus {
+    color: #331067; }
+
+.fancy-checkbox input[type="checkbox"]:checked + span:before {
+  background: #45158a;
+  border: 1px solid #45158a; }
+
+.fancy-radio input[type="radio"]:checked + span i:after {
+  background-color: #45158a; }
+
+/* switch checkbox and radio */
+.switch-input input:checked + i {
+  border-color: #45158a; }
+.switch-input i:before {
+  background-color: #45158a; }
+
+.single-pricing-table .btn span {
+  color: #7227de; }
+
+.text-accent-color {
+  color: #45158a; }
+
+/* date picker */
+.datepicker td.active:active, .datepicker td.active.active {
+  background-color: #45158a;
+  border-color: #2f0e5e; }
+.datepicker td.active:hover:active, .datepicker td.active:hover.active {
+  background-color: #45158a;
+  border-color: #2f0e5e; }
+.datepicker table tr td.active:hover, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover:hover, .datepicker table tr td.active:active, .datepicker table tr td.active:hover:active, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active:hover.disabled, .datepicker table tr td.active.disabled.disabled, .datepicker table tr td.active.disabled:hover.disabled,
+.datepicker table tr td.active [disabled], .datepicker table tr td.active:hover[disabled], .datepicker table tr td.active.disabled[disabled], .datepicker table tr td.active.disabled:hover[disabled] {
+  background-color: #45158a;
+  border-color: #2f0e5e; }
+
+/* date range picker */
+.daterangepicker td.active, .daterangepicker td.active:hover {
+  background-color: #45158a;
+  border-color: #2f0e5e; }
+.daterangepicker td.in-range {
+  background: #a677ea; }
+
+.dropcap {
+  background-color: #45158a; }
+
+.testimonial-fancy i {
+  color: #45158a; }
+
+/* ----------------------------------------------------- */
+/* SHOP TEMPLATES
+/* style affecting shop templates
+/* ----------------------------------------------------- */
+.shop-header .service-item i {
+  border-color: #45158a;
+  color: #45158a; }
+
+.slick-text-pagination .slick-dots li.slick-active button {
+  border-color: #45158a; }
+
+.shop-main .custom-tabs-line ul > li.active a {
+  color: #45158a; }
+
+.fuelux .checkout-wizard ul.steps > li.active .step-number {
+  background: #45158a; }
+
+/*# sourceMappingURL=ici3dIndigo.css.map */
