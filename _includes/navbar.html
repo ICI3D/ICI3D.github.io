@@ -6,9 +6,11 @@
         <span class="sr-only">Toggle Navigation</span>
         <i class="fa fa-bars"></i>
       </button>
-      <a href="index.html" class="navbar-brand navbar-logo">
+      {%unless page.title == "ICI3D"%}
+      <a href="index.html" class="navbar-brand navbar-logo-bigger">
         <img src="assets/img/logo/ici3d-logo-light.png" alt="International Clinics on Infectious Disease Dynamics and Data" />
       </a>
+      {%endunless%}
     </div>
     <!-- MAIN NAVIGATION -->
     <div id="main-nav" class="navbar-collapse collapse navbar-mega-menu">
