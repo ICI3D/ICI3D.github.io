@@ -1,4 +1,5 @@
 absoluteurl: http://ICI3D.org
+url: http://www.ICI3D.org
 baseurl: ''
 markdown: kramdown
 exclude: ['index.html-OLD','people.md-OLD',redirect.html,README.md,run.sh,.wiki]
