@@ -1,16 +1,57 @@
 <!-- NAVBAR -->
+{% if page.layout == 'main' %}
 <nav class="navbar navbar-default navbar-transparent " role="navigation">
+{% else %}
+<nav class="navbar navbar-default " role="navigation">
+{% endif %}
   <div class="container">
+    {% unless page.layout == "main" %}
+    <a href="index.html" class="navbar-brand navbar-logo-bigger">
+      <img src="{{site.url}}/assets/img/logo/ici3d-logo-nav.png" alt="International Clinics on Infectious Disease Dynamics and Data" width=10%/>
+    </a>
+    <!-- TOPBAR -->
+    <div class="topbar">
+      <ul class="list-inline top-nav">
+        <li>
+          <div class="btn-group">
+            <button type="button" class="btn btn-link dropdown-toggle btn-xs" data-toggle="dropdown"><img src="{{site.url}}/assets/img/flags/United-Kingdom.png" alt="United Kingdom"> United Kingdom <span class="caret"></span></button>
+            <ul class="dropdown-menu dropdown-menu-right country-selector" role="menu">
+              <li>
+                <a href="#"><img src="{{site.url}}/assets/img/flags/United-Kingdom.png" alt="United Kingdom"> United Kingdom</a>
+              </li>
+              <li>
+                <a href="#"><img src="{{site.url}}/assets/img/flags/Japan.png" alt="Japan"> Japan</a>
+              </li>
+              <li>
+                <a href="#"><img src="{{site.url}}/assets/img/flags/China.png" alt="China"> China</a>
+              </li>
+              <li>
+                <a href="#"><img src="{{site.url}}/assets/img/flags/Germany.png" alt="Germany"> Germany</a>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">Help</a></li>
+        <li><a href="#">Support</a></li>
+      </ul>
+      <div class="searchbox">
+        <form method="post">
+          <div class="input-group input-group-sm">
+            <input type="text" class="form-control" placeholder="search ...">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+            </span>
+          </div>
+        </form>
+      </div>
+    </div>
+    <!-- END TOPBAR -->
+    {% endunless %}
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
         <span class="sr-only">Toggle Navigation</span>
         <i class="fa fa-bars"></i>
       </button>
-      {%unless page.title == "ICI3D"%}
-      <a href="index.html" class="navbar-brand navbar-logo-bigger">
-        <img src="{{site.url}}/assets/img/logo/ici3d-logo-light.png" alt="International Clinics on Infectious Disease Dynamics and Data" />
-      </a>
-      {%endunless%}
     </div>
     <!-- MAIN NAVIGATION -->
     <div id="main-nav" class="navbar-collapse collapse navbar-mega-menu">
