@@ -6,9 +6,11 @@
 {% endif %}
   <div class="container">
     {% unless page.layout == "main" %}
-    <div class="left">
-      <img src="{{site.url}}/assets/img/logo/ici3d-logo-nav.png"  alt="International Clinics on Infectious Disease Dynamics and Data" width=20% />
-    </div>
+    <div class="row">
+      <div class="col-lg-3">
+          <img src="{{site.url}}/assets/img/logo/ici3d-logo-nav.png"  alt="International Clinics on Infectious Disease Dynamics and Data" width=80% />
+      </div>
+      <div class="col-lg-9">
     <!-- TOPBAR -->
     <div class="topbar">
       <ul class="list-inline top-nav">
@@ -48,6 +50,10 @@
       </button>
     </div>
     {% include navStructure.html %}
+    {% unless page.layout == "main" %}
+  </div>
+</div>
+    {% endunless %}
   </div>
 </nav>
 <!-- END NAVBAR -->
