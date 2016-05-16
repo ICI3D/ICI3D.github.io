@@ -2,13 +2,14 @@
 <div class="page-header has-intro">
   <div class="container">
     <div class="left pull-left">
-      <h1 class="page-title">{{page.title}}</h1>
+      <h1 class="page-title">{{page.longtitle}}</h1>
       <p class="page-header-intro">{{page.summary}}</p>
     </div>
     <ol class="breadcrumb link-accent">
       <li><a href="#">Home</a></li>
-      <li><a href="#">Features</a></li>
-      <li class="active">Page Header</li>
+      <li><a href="#">{{ page.tab }}</a></li>
+      {% if page.parent contains "" %} <li><a href="#">{{page.parent}}</a></li> {% endif %}
+      <li class="active">{{page.title}}</li>
     </ol>
   </div>
 </div>
