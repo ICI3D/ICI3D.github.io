@@ -73,7 +73,7 @@ The general daily structure will be as follows:
 - 18:00-19:00 Dinner break (*Dinner is served from 18:00 to 18:30.*)
 - 19:00-20:00 Faculty research talk, computer session, or social activity
 
-We will start earlier on the first day, and end early on Saturday of the first week. The Clinic will officially end by 5pm on Friday of the second week. There will be an optional field trip on Saturday of the second week for participants who wish to attend. **The preliminary schedule for MMED 2016 is not yet available.**
+We will start earlier on the first day, and end early on Saturday of the first week. The Clinic will officially end by 5pm on Friday of the second week. There will be an optional field trip on Saturday of the second week for participants who wish to attend. **The preliminary schedule for MMED 2016 is [available here](./schedule).**
 
 Schedules from previous years:
 
@@ -86,5 +86,5 @@ Schedules from previous years:
 
 <br>
 {%if page.alerttype == "primary"%}
-[Go to MMED 2015 »](http://mmed2015.ici3d.org/ "MMED 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Go to MMED 2016 »](http://mmed2016.ici3d.org/ "MMED 2016"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
