@@ -64,7 +64,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ### Workshop Faculty
 
-**Rebecca Borchering, MS** ([link](http://http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
+**Rebecca Borchering, MS** ([link](http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
 *Faculty Member, DAIDD 2015, MMED 2016* <br>
 PhD candidate <br>
 Department of Mathematics <br>
