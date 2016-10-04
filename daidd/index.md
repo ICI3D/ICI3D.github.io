@@ -5,7 +5,9 @@ tab: DAIDD
 welcome: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: This 1­‐week modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
 alerttype: success
-alertmsg: The fourth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Florida’s Emerging Pathogens Institute, was held December 13-19, 2015.
+alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to
+Infectious Disease Data (DAIDD)</strong>, hosted by the University of
+Georgia ’s Department of Epidemiology and Biostatistics will be held December 4-10, 2016.
 ---
 
 {%if page.alerttype == "primary"%}
@@ -39,10 +41,17 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-8:00 Dinner break (dinner is served at 7)
 - 8:00-9:00 Faculty research talk, computer session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 13. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 19. **The [schedule for DAIDD 2015](http://daidd2015.ici3d.org/schedule) is now available.**
+The introductory and closing sessions will be held in Jacksonville,
+FL. The Clinic will begin the afternoon of Sunday, December 4. On
+Monday morning, we will travel as a group to
+[White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/)
+in Yulee, FL. There will be a mid-session evaluation on Wednesday
+evening. The Clinic will officially end by 2pm on Saturday,
+December 10. The 2016 schedule will be available shortly.
 
 Schedules from previous years:
 
+- [DAIDD 2015](./schedule/2015 "DAIDD 2015 schedule")
 - [DAIDD 2014](./schedule/2014 "DAIDD 2014 schedule")
 - [DAIDD 2013](./schedule/2013 "DAIDD 2013 schedule")
 - [DAIDD 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_DAIDD_Schedule "DAIDD 2012 schedule")
