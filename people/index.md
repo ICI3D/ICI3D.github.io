@@ -65,7 +65,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 ### Workshop Faculty
 
 **Rebecca Borchering, MS** ([link](http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
-*Faculty Member, DAIDD 2015, MMED 2016* <br>
+*Faculty Member, DAIDD 2015-2016, MMED 2016* <br>
 PhD candidate <br>
 Department of Mathematics <br>
 University of Florida, Gainesville, FL, USA
@@ -95,6 +95,21 @@ African Institute for Mathematical Sciences ([AIMS-Ghana](http://www.aims.edu.gh
 *Faculty Member, MMED 2016* <br>
 Research Fellow in Global Health and Social Medicine<br>
 Harvard Medical School, Boston, MA, USA
+
+**Carl Pearson, MSES, PhD** ([link](http://www.pulliamlab.org/people/pearson/ "Carl Pearson")) <br>
+*Faculty Member, DAIDD 2016* <br>
+Sole Proprietor <br>
+Very Good Research and Development
+
+**Eva Ujeneza, MSc** ([link](http://sacema.com/people/students "Eva Ujeneza")) <br>
+*Faculty Member, DAIDD 2016* <br>
+PhD candidate <br>
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
+
+**Cari van Schalkwyk, MComm** ([link](http://sacema.com/people/staff "Cari van Schalkwyk")) <br>
+*Faculty Member, DAIDD 2016* <br>
+Researcher in Statistics <br>
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
 {% include bottomTable.html %}
 
