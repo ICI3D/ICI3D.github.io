@@ -10,11 +10,12 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 
 ### Core Faculty
 
-**Steve Bellan, MPH, PhD** ([link](http://www.bio.utexas.edu/research/meyers/steve_bellan/ "Steve Bellan"), [cv](http://www.bio.utexas.edu/research/meyers/steve_bellan/Steve_Bellan_CV.pdf "Bellan CV")) <br>
+**Steve Bellan, MPH, PhD** ([link](http://bellanlab.uga.edu "Steve Bellan"), [cv](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/Steve_Bellan_CV.pdf "Bellan CV")) <br>
+*ICI3D Program Director* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
-Postdoctoral Researcher <br>
-Center for Computational Biology and Bioinformatics <br>
-University of Texas – Austin
+Assistant Professor <br>
+Department of Epidemiology and Biostatistics <br>
+University of Georgia
 
 **Jonathan Dushoff, PhD** ([link](http://www.biology.mcmaster.ca/dushoff/ "Jonathan Dushoff")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
@@ -37,11 +38,11 @@ Francis I Proctor Institute for Research in Ophthalmology <br>
 University of California – San Francisco, San Francisco, CA, USA
 
 **Juliet Pulliam, PhD** ([link](http://pulliamlab-ufl.github.io/people/pulliam "Juliet Pulliam"), [cv](https://dl.dropbox.com/u/40277704/PulliamCV.pdf "Pulliam CV")) <br>
-*ICI3D Program Director* <br>
+*ICI3D Program Director for Africa* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
-Assistant Professor of Biology <br>
-Emerging Pathogens Institute <br>
-University of Florida, Gainesville, FL, USA
+Director <br>
+South African Centre for Epidemiological Modelling and Analysis
+([SACEMA](http://www.sacema.com/ "SACEMA")) <br>
 
 **Jim Scott, MPH, PhD** ([link](http://www.colby.edu/directory_cs/jcscott/ "Jim Scott")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
@@ -50,9 +51,8 @@ Department of Mathematics and Statistics <br>
 Colby College, Waterville, ME, USA
 
 **Alex Welte, PhD** ([link](http://www.sacema.com/people/staff/ "Alex Welte")) <br>
-*ICI3D Program Director for Africa* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
-Director <br>
+Research Professor <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA")) <br>
 
 **Brian Williams, PhD** ([link](http://www.sacema.com/people/staff/ "Brian Williams")) <br>
