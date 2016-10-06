@@ -98,7 +98,7 @@ Harvard Medical School, Boston, MA, USA
 
 **Carl Pearson, MSES, PhD** ([link](http://www.pulliamlab.org/people/pearson/ "Carl Pearson")) <br>
 *Faculty Member, DAIDD 2016* <br>
-Sole Proprietor <br>
+Founder <br>
 Very Good Research and Development
 
 **Eva Ujeneza, MSc** ([link](http://sacema.com/people/students "Eva Ujeneza")) <br>
