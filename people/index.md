@@ -122,7 +122,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ## Program Assistant
 
-**Rebecca Borchering, MS** <br>
+**TBD** <br>
 *ICI3D Program Assistant* <br>
-Emerging Pathogens Institute <br>
-University of Florida, Gainesville, FL USA
+Department of Epidemiology and Biostatistics <br>
+University of Georgia, Athens, GA USA
