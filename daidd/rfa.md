@@ -15,11 +15,11 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 Funding is available to cover room and board for Clinic participants from the US and Africa. Additional funds to support travel are available for a small number of participants and may be requested during the application process but are not guaranteed. The application process for the Clinic is expected to be highly competitive.
 
-- The deadline for receipt of applications from _individuals based at US institutions_ for DAIDD 2016 is October 24, 2016 at 5pm Eastern.
-- The deadline for receipt of applications from _individuals based at African institutions_ for DAIDD 2016 is October 31, 2016 at 5pm Eastern.
+- The deadline for receipt of applications from _individuals based at African institutions_ for DAIDD 2016 is October 24, 2016 at 5pm Eastern.
+- The deadline for receipt of applications from _individuals based at US institutions_ for DAIDD 2016 is October 31, 2016 at 5pm Eastern.
 
 Late or incomplete applications will not be considered. **Application instructions are available via the application form on the UGA website.**
 
 {%if page.alerttype == "info"%}
-[Apply now »](http://epi.ufl.edu/ici3d/daidd-application-form/ "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Apply now »](https://ugeorgia.qualtrics.com/SE/?SID=SV_ePvwqr0s2XwMdaR "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg"}
 {%endif%}
