@@ -122,7 +122,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ## Program Assistant
 
-**TBD** <br>
+**Sara Ervin** <br>
 *ICI3D Program Assistant* <br>
 Department of Epidemiology and Biostatistics <br>
 University of Georgia, Athens, GA USA
