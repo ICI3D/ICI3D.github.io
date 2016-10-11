@@ -18,7 +18,7 @@ This clinic targets public health researchers and population biologists interest
 
 ## Selection criteria
 
-Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eighteen places for applicants from US-based institutions and up to six places for applicants based at African institutions.
+Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to sixteen places for applicants from US-based institutions and up to eight places for applicants based at African institutions.
 
 {%if page.alerttype == "info"%}
 [Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
