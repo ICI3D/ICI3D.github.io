@@ -13,6 +13,7 @@
       <div class="col-lg-9">
     <!-- TOPBAR -->
     <div class="topbar">
+      {% if page.layout == 'future' %}
       <ul class="list-inline top-nav">
         <li>
           <div class="btn-group">
@@ -40,6 +41,11 @@
           </div>
         </form>
       </div>
+      {% else %}
+      <h4 style='color: #15378a'>
+        International Clinics on Infectious Disease Dynamics and Data
+      </h4>
+      {% endif %}
     </div>
     <!-- END TOPBAR -->
     {% endunless %}
