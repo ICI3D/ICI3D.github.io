@@ -9,7 +9,7 @@ alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious 
 ---
 
 {%if page.alerttype == "primary"%}
-[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 
 ## Intended audience
@@ -21,7 +21,7 @@ This clinic targets public health researchers and population biologists interest
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to sixteen places for applicants from US-based institutions and up to eight places for applicants based at African institutions.
 
 {%if page.alerttype == "success"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 
 ## Schedule
@@ -49,5 +49,5 @@ Schedules from previous years:
 - [DAIDD 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_DAIDD_Schedule "DAIDD 2012 schedule")
 
 {%if page.alerttype == "primary"%}
-[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
+[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg  btn-rounded-3x"}
 {%endif%}
