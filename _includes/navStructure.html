@@ -19,22 +19,25 @@
         </li>
       </ul>
     </li>
+    <li class="dropdown {% if page.tab == 'Outputs' %}active{%endif%}">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">OUTPUTS <i class="fa fa-angle-down"></i></a>
+      <ul class="dropdown-menu" role="menu">
+        <li><a href="shop/index.html">Publications</a></li>
+        <li class="dropdown ">
+          <a href="#">Resources<i class="fa fa-angle-right"></i></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/tutorials">Tutorials</a></li>
+            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/exercises">Exercises</a></li>
+            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/presentations">Presentations</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
     <li class="dropdown {% if page.tab == 'People' %}active{%endif%}">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">PEOPLE <i class="fa fa-angle-down"></i></a>
       <ul class="dropdown-menu" role="menu">
         <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/people">Faculty and Staff</a></li>
         <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/scholars">I3D Exchange Scholars</a></li>
-      </ul>
-    </li>
-    <li class="dropdown {% if page.tab == 'Outputs' %}active{%endif%}">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">OUTPUTS <i class="fa fa-angle-down"></i></a>
-      <ul class="dropdown-menu" role="menu">
-        <li><a href="shop/index.html">Front Page</a></li>
-        <li><a href="shop/single-product-page.html">Single Product Page</a></li>
-        <li><a href="shop/product-filter-grid.html">Search Result with Filter</a></li>
-        <li><a href="shop/checkout.html">Checkout with Validation</a></li>
-        <li><a href="shop/shop-login.html">Login</a></li>
-        <li><a href="shop/shop-register.html">Register</a></li>
       </ul>
     </li>
   </ul>
