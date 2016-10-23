@@ -22,7 +22,7 @@
     <li class="dropdown {% if page.tab == 'Outputs' %}active{%endif%}">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">OUTPUTS <i class="fa fa-angle-down"></i></a>
       <ul class="dropdown-menu" role="menu">
-        <li><a href="shop/index.html">Publications</a></li>
+        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/publications">Publications</a></li>
         <li class="dropdown ">
           <a href="#">Resources<i class="fa fa-angle-right"></i></a>
           <ul class="dropdown-menu" role="menu">
@@ -36,7 +36,8 @@
     <li class="dropdown {% if page.tab == 'People' %}active{%endif%}">
       <a href="#" class="dropdown-toggle" data-toggle="dropdown">PEOPLE <i class="fa fa-angle-down"></i></a>
       <ul class="dropdown-menu" role="menu">
-        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/people">Faculty and Staff</a></li>
+        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/people/faculty">Program Faculty</a></li>
+        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/people/staff">Program Staff</a></li>
         <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/scholars">I3D Exchange Scholars</a></li>
       </ul>
     </li>
