@@ -4,7 +4,6 @@ tab: Programs
 title: Overview
 longtitle: ICI3D Program Overview
 summary:
-subtitle: International Clinics on Infectious Disease Dynamics and Data
 ---
 
 
