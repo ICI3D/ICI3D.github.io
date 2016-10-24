@@ -5,32 +5,11 @@
       <a href="{{ site.absoluteurl }}{{ site.baseurl }}/" class="dropdown-toggle">HOME </a>
     </li>
     <li class="dropdown {% if page.tab == 'Programs' %}active{%endif%}">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">PROGRAMS <i class="fa fa-angle-down"></i></a>
+      <a href="{{ site.absoluteurl }}{{ site.baseurl }}/programs/" class="dropdown-toggle" data-toggle="dropdown">PROGRAMS <i class="fa fa-angle-down"></i></a>
       <ul class="dropdown-menu" role="menu">
-        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/mmed">MMED</a></li>
-        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/daidd">DAIDD</a></li>
-        <li class="dropdown ">
-          <a href="#">I3D<i class="fa fa-angle-right"></i></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/i3d">Exchange Scholars</a></li>
-            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/paww">PaWW</a></li>
-            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/p_and_p">P & P</a></li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li class="dropdown {% if page.tab == 'Outputs' %}active{%endif%}">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">OUTPUTS <i class="fa fa-angle-down"></i></a>
-      <ul class="dropdown-menu" role="menu">
-        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/publications">Publications</a></li>
-        <li class="dropdown ">
-          <a href="#">Resources<i class="fa fa-angle-right"></i></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/tutorials">Tutorials</a></li>
-            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/exercises">Exercises</a></li>
-            <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/presentations">Presentations</a></li>
-          </ul>
-        </li>
+        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/mmed">MMED clinic</a></li>
+        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/daidd">DAIDD clinic</a></li>
+        <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/i3d">I3D exchange</a></li>
       </ul>
     </li>
     <li class="dropdown {% if page.tab == 'People' %}active{%endif%}">
@@ -41,6 +20,46 @@
         <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/people/scholars">I3D Exchange Scholars</a></li>
       </ul>
     </li>
+    <li class="dropdown {% if page.tab == 'Publications' %}active{%endif%}">
+      <a href="{{ site.absoluteurl }}{{ site.baseurl }}/publications" class="dropdown-toggle">PUBLICATIONS</a>
+    </li>
+    <li class="dropdown mega-menu">
+        <a href="#" data-toggle="dropdown">MORE <i class="fa fa-angle-down"></i></a>
+        <ul class="dropdown-menu mega-menu-container">
+          <li>
+            <div class="mega-menu-content">
+              <div class="row">
+                <div class="col-md-4">
+                  <h5 class="menu-heading">Resources</h5>
+                  <ul class="list-unstyled list-menu">
+                    <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/tutorials"><i class="fa fa-laptop"></i> Tutoirals</a></li>
+                    <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/exercises"><i class="fa fa-cogs"></i> Exercises</a></li>
+                    <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/presentations"><i class="fa fa-pie-chart"></i> Presentations</a></li>
+                  </ul>
+                </div>
+                <div class="col-md-4">
+                  <h5 class="menu-heading">Archive</h5>
+                  <ul class="list-unstyled list-menu">
+                    <li><a href="http://mmed2016.ici3d.org/"><i class="fa fa-link"></i> MMED 2016</a></li>
+                    <li><a href="http://daidd2015.ici3d.org/"><i class="fa fa-link"></i> DAIDD 2015</a></li>
+                    <li><a href="http://mmed2015.ici3d.org/"><i class="fa fa-link"></i> MMED 2015</a></li>
+                    <li><a href="http://daidd2014.ici3d.org/"><i class="fa fa-link"></i> DAIDD 2014</a></li>
+                  </ul>
+                </div>
+                <div class="col-md-4">
+                  <h5 class="menu-heading">For alumni</h5>
+                  <ul class="list-unstyled list-menu">
+                    <li><a href="http://forum.ici3d.org/"><i class="fa fa-group"></i> ICI3D Community Forum</a></li>
+                    <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/paww"><i class="fa fa-pencil-square"></i> PaWW</a></li>
+                    <li><a href="{{ site.absoluteurl }}{{ site.baseurl }}/p_and_p"><i class="fa fa-bar-chart"></i>P &amp; P</a></li>
+                    <li><a href="https://github.com/ICI3D/"><i class="fa fa-github-alt"></i>ICI3D on GitHub</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </li>
   </ul>
 </div>
 <!-- END MAIN NAVIGATION -->

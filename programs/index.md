@@ -29,7 +29,7 @@ summary:
 						</div>
 						<div class="col-md-4 col-sm-4">
 							<div class="pricing-item">
-								<i class="fa fa-cogs plan-icon"></i>
+								<i class="fa fa-user-md plan-icon"></i>
 								<h4>Clinic on Dynamical Approaches to Infectious Diseases Data</h4>
 								<p class="pricing-badge">
 									<span>APPLY NOW</span>
@@ -47,7 +47,7 @@ summary:
 						<div class="col-md-4 col-sm-4">
 							<div class="pricing-item">
 								<i class="fa fa-exchange plan-icon"></i>
-								<h4>Research Scholars Exchange Program</h4>
+								<h4>Infectious Disease Dynamics and Data Research Scholars Exchange</h4>
 								<strong class="price">I3D</strong>
 								<ul class="list-unstyled plan-detail-list">
 									<li><strong>Unlimited</strong> upload quota</li>

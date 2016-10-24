@@ -7,7 +7,7 @@
     </div>
     <ol class="breadcrumb link-accent">
       <li><a href="{{ site.absoluteurl }}">Home</a></li>
-      <li><a href="{{ site.url }}/programs/">{{ page.tab }}</a></li>
+      {% if page.tab != page.title %}<li><a href="{{ site.url }}/{{ page.tab | downcase }}/">{{ page.tab }}</a></li>{% endif %}
       {% if page.parent contains "" %} <li><a href=""{{ site.url }}/{{ page.parent }}/"">{{ page.parent }}</a></li> {% endif %}
       <li class="active">{{ page.title }}</li>
     </ol>
