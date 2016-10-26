@@ -3,7 +3,7 @@ layout: page
 tab: Programs
 title: Overview
 longtitle: ICI3D Program Overview
-summary:
+summary: ICI3D provides junior researchers from the US and Africa with the toolsets necessary to conduct integrative research in infectious disease dynamics and to communicate their questions, methods, and findings across disciplinary boundaries.
 ---
 
 

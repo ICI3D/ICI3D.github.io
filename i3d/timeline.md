@@ -1,14 +1,13 @@
 ---
 layout: page
 title: I3D
+tab: Programs
+longtitle: I3D Exchange Timeline
 subtitle: International Disease Dynamics and Data Research Scholars Exchange Program
+summary: Applicants will be notified of their status at least 3 months prior to the proposed exchange.
 ---
-## Exchange Timeline
-
-_Applicants will be notified of their status at least 3 months prior to the proposed exchange._
-
 ### Three months before the exchange
-- Scholar finalizes the dates of the exchange with the ICI3D faculty supervisor and emails <ici3d [at] epi.ufl.edu> specifying the confirmed travel dates
+- Scholar finalizes the dates of the exchange with the ICI3D faculty supervisor and emails <admin@ici3d.org> specifying the confirmed travel dates
 - The ICI3D Program Assistant (PA) works with the scholar to make travel arrangements
 - PA notifies Gavin of scholar's exchange schedule and initiates the subaward process
 - **Scholars coming from Africa to a US-based institution must submit J-1 visa application materials to the host institution _no later than_ 60 days prior to the proposed arrival date.** These materials should be submitted as soon as possible to avoid administrative delays. Also note that some host institutions may require earlier submission.
