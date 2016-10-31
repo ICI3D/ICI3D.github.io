@@ -37,10 +37,10 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 2:15-3:15 Dynamical Fever - computer exercise (All [faculty]({{site.absoluteurl}}/people)) - [Download](../Materials/DynamicalFever.zip)
 - 3:15-4:00 Dynamical Fever - discussion ([Eva Ujeneza]({{site.absoluteurl}}/people/))
 - 4:00-4:15 Afternoon break
-- 4:15-4:30 Dynamical Fever - model description, modeling terminology and taxonomy ([Jonathan Dushoff]({{site.absoluteurl}}/people/)) - [Download](../Materials/modelTaxonomy.html)
+- 4:15-4:30 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Download](../Materials/modelTaxonomy.html)
 - 4:30-4:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 - 4:45-6:00 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.absoluteurl}}/people/)) - [Step-by-step guide](../Materials/researchQuestions.html)
-- 8:00-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/), [TBD]({{site.absoluteurl}}/people/))
+- 8:00-9:00 [Faculty research presentations](../Materials/researchPresentations) ([Borchering]({{site.absoluteurl}}/people/), [Ujeneza]({{site.absoluteurl}}/people/))
 
 ### Tuesday, 6 Dec
 
@@ -53,7 +53,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 3:00-4:15 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](../Materials/DAIDD2015_EbolaTrialDesign.pdf)
 - 4:15-4:45 Afternoon break - _Make sure your research question is on the repository before the next session!_
 - 4:45-6:00 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Step-by-step guide](../Materials/modelWorld.html) - [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
-- 8:00-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/), [TBD]({{site.absoluteurl}}/people/))
+- 8:00-9:00 [Faculty research presentations](../Materials/researchPresentations) ([van Schalkwyk]({{site.absoluteurl}}/people/), [Williams]({{site.absoluteurl}}/people/))
 
 ### Wednesday, 7 Dec
 - 9:00-11:00 Stochastic simulation models ([Becky Borchering]({{site.absoluteurl}}/people/)) - [Slides](https://github.com/ICI3D/DAIDD2015/raw/master/Lectures/DAIDD2015_StochasticSimulationModels.pdf), [R exercise (Gillespie)](../Materials/spillover_introductins.R), [Excel tutorial](../Materials/WelteStochTutorial.xlsx), [R exercise based on Excel tutorial](../Materias/SimpleStochastic.zip)
@@ -69,7 +69,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 ### Thursday, 8 Dec
 
 - 9:00-10:45 Writing exercise - description of proposed model and assumptions ([Cari van Schalkwyk]({{site.absoluteurl}}/people/)) - [Groups](https://github.com/ICI3D/DAIDD2015/blob/master/ThursdayAM.md)
-- 10:45-10:55 Regroup after feedback ([Juliet Pulliam]({{site.absoluteurl}}/people/))
+- 10:45-10:55 Regroup after feedback ([Steve Bellan]({{site.absoluteurl}}/people/))
 - 10:55-11:00 Group Photo
 - 11:00-1:00 Game Drive
 - 1:00-2:00 Lunch
@@ -78,7 +78,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 3:15-3:45  Afternoon break
 - 3:45-4:30 [Model fitting tutorial](../Materials/modelFitting) (All [faculty]({{site.absoluteurl}}/people))
 - 4:30-6:00 Writing exercise & mentored working session (All [faculty]({{site.absoluteurl}}/people))
-- 8:00-9:00 Social activity ([Cara Brook]({{site.absoluteurl}}/people/), [Steve Bellan]({{site.absoluteurl}}/people/))
+- 8:00-9:00 Social activity ([Steve Bellan]({{site.absoluteurl}}/people/))
 
 ### Friday, 9 Dec
 
