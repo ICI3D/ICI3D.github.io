@@ -50,7 +50,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 11:45-12:30 Reed-Frost models ([Carl Pearson]({{site.absoluteurl}}/people/))
 - 12:30-2:00 Lunch break
 - 2:00-3:00 Reed-Frost models continued ([Carl Pearson]({{site.absoluteurl}}/people/)) -  [Exercise](../Materials/ReedFrost.zip)
-- 3:00-4:15 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Slides](../Materials/DAIDD2015_EbolaTrialDesign.pdf)
+- 3:00-4:15 Use of models in study design for dynamic systems: Ebola vaccine trial design ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](../Materials/DAIDD2015_EbolaTrialDesign.pdf)
 - 4:15-4:45 Afternoon break - _Make sure your research question is on the repository before the next session!_
 - 4:45-6:00 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Step-by-step guide](../Materials/modelWorld.html) - [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
 - 8:00-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/), [TBD]({{site.absoluteurl}}/people/))
@@ -82,7 +82,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 ### Friday, 9 Dec
 
-- 9:00-10:30 Use of models in study design for dynamic systems ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Slides](../Materials/Porco_trachomaExample.pdf), [Exercise](../Materials/trachomaTutorial.zip)
+- 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.absoluteurl}}/people/)) - Slides, Exercise
 - 10:30-11:00 Morning break
 - 11:00-12:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.absoluteurl}}/people/)) - [Slides](https://github.com/dushoff/ICI3D/blob/master/archive/evaluation.yulee.pdf)
 - 12:00-12:30 Simplification for generalization 2: Models and the bigger picture ([Juliet Pulliam]({{site.absoluteurl}}/people/)) - [Slides](https://github.com/ICI3D/DAIDD2015/raw/master/Lectures/DAIDD2015_Pulliam_S4G2.pdf)
