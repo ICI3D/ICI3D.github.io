@@ -98,11 +98,10 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 8:15-9:00 Breakfast (in the meeting room)
     - _Be sure to submit your [final research plan](https://github.com/ICI3D/DAIDDparticipants/blob/master/researchPlans) by 9:00_
     - We will meet in the Gravity room on the 6th floor.
-- 9:00-10:00 Ebola virus clinical trials: Ethical considerations ([Steve Bellan]({{site.absoluteurl}}/people/)) - [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
-- 10:00-10:10 Short break
-- 10:10-11:00 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
-- 11:00-11:10 Short break
-- 11:10-12:00 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
-- 12:00-12:30 Lunch break
-- 12:30-1:45 Final feedback session ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
-- 1:45-2:00 Closing session ([Juliet Pulliam]({{site.absoluteurl}}/people/))
+- 9:10-9:50 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
+- 9:50-10:00 Short break
+- 10:00-10:50 Discussion of research plans/proposals (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/))
+- 10:50-11:00 Short break
+- 11:30-12:15 Final feedback session ([Gavin Hitchcock]({{site.absoluteurl}}/people/))
+- 12:15-12:30 Closing session ([Steve Bellan]({{site.absoluteurl}}/people/))
+- 12:30-13:00 Lunch
