@@ -69,7 +69,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 ### Thursday, 8 Dec
 
 - 9:00-10:45 Writing exercise - description of proposed model and assumptions ([Cari van Schalkwyk]({{site.absoluteurl}}/people/)) - [Groups](https://github.com/ICI3D/DAIDD2015/blob/master/ThursdayAM.md)
-- 10:45-10:55 Regroup after feedback ([Steve Bellan]({{site.absoluteurl}}/people/))
+- 10:45-10:55 Regroup after feedback ([Juliet Pulliam]({{site.absoluteurl}}/people/))
 - 10:55-11:00 Group Photo
 - 11:00-1:00 Game Drive
 - 1:00-2:00 Lunch
