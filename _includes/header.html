@@ -1,14 +1,20 @@
 <!-- BREADCRUMBS -->
-<div class="page-header has-intro">
+<div class="page-header {% if page.tab != "About" %}has-intro{% endif %}">
   <div class="container">
     <div class="left pull-left">
       <h1 class="page-title">{{ page.longtitle }}</h1>
-      <p class="page-header-intro">{{ page.summary }}</p>
+      {% if page.summary contains "" %}
+        <p class="page-header-intro">{{ page.summary }}</p>
+      {% endif %}
     </div>
     <ol class="breadcrumb link-accent">
       <li><a href="{{ site.absoluteurl }}">Home</a></li>
-      {% if page.tab != page.title %}<li><a href="{{ site.url }}/{{ page.tab | downcase }}/">{{ page.tab }}</a></li>{% endif %}
-      {% if page.parent contains "" %} <li><a href=""{{ site.url }}/{{ page.parent }}/"">{{ page.parent }}</a></li> {% endif %}
+      {% if page.tab != page.title %}
+        <li><a href="{{ site.url }}/{{ page.tab | downcase }}/">{{ page.tab }}</a></li>
+      {% endif %}
+      {% if page.parent contains "" %}
+        <li><a href=""{{ site.url }}/{{ page.parent }}/"">{{ page.parent }}</a></li>
+      {% endif %}
       <li class="active">{{ page.title }}</li>
     </ol>
   </div>
