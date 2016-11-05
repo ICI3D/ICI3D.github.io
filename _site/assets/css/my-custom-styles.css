@@ -1,0 +1,14 @@
+/* your custom styles here */
+.hero-unit-fullscreen .overlay {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=85);
+  opacity: 0.85;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #15378a;
+}
+.hero-unit-fullscreen .container {
+    position: relative;
+    top: -10%;
+}
