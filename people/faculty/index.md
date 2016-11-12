@@ -27,7 +27,7 @@ McMaster University, Hamilton, ON, Canada
 **John Hargrove, PhD** ([link](http://www.sacema.org/people/staff/ "SACEMA")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Senior Research Fellow and former Director <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA")) <br>
 Stellenbosch University, Stellenbosch, Western Cape, South Africa
 
 **Travis Porco, MPH, PhD** ([link](https://proctor.ucsf.edu/faculty/porco "Travis Porco")) <br>
@@ -80,13 +80,13 @@ Princeton University, Princeton, NJ, USA
 **Faikah Bruce, MSc** ([link](http://sacema.org/people/students "Faikah Bruce")) <br>
 *Faculty Member, MMED 2015-2016* <br>
 PhD candidate, University of Cape Town and
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA")) <br>
 Stellenbosch University, Stellenbosch, Western Cape, South Africa
 
 **Wim Delva, MD, PhD** ([link](http://www.sacema.org/people/staff/ "Wim Delva")) <br>
 *Faculty Member, MMED 2010-2012 & 2016* <br>
 Deputy Director for Research<br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA")) <br>
 Stellenbosch University, Stellenbosch, Western Cape, South Africa
 
 **Wilfred Ndifon, PhD** ([link](http://www.nexteinstein.org/the-aims-network-welcomes-dr-wilfred-ndifon-and-dr-gaston-mazandu-into-the-aims-research-community "Wilfred Ndifon")) <br>
@@ -112,7 +112,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 *Faculty Member, DAIDD 2016* <br>
 PhD candidate, University of Cape Town and <br>
 Researcher in Statistics <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))
+South African Centre for Epidemiological Modelling and Analysis <br> ([SACEMA](http://www.sacema.org/ "SACEMA"))
 Stellenbosch University, Stellenbosch, Western Cape, South Africa
 
 {% include bottomTable.html %}
