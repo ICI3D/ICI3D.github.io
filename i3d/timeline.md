@@ -1,7 +1,8 @@
 ---
 layout: page
-title: I3D
+title: Timeline
 tab: Programs
+parent: I3D
 longtitle: I3D Exchange Timeline
 subtitle: International Disease Dynamics and Data Research Scholars Exchange Program
 summary: Applicants will be notified of their status at least 3 months prior to the proposed exchange.
