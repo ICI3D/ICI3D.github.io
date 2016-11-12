@@ -4,12 +4,12 @@ title: DAIDD
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: success
+alerttype: warning
 alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, will be held December 4-10, 2016.
 ---
 
-{%if page.alerttype == "primary"%}
-[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
+{%if page.alerttype == "warning"%}
+[Go to DAIDD 2016 »](http://www.ici3d.org/daidd2016/ "DAIDD 2016"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Intended audience
@@ -47,7 +47,3 @@ Schedules from previous years:
 - [DAIDD 2014](./schedule/2014 "DAIDD 2014 schedule")
 - [DAIDD 2013](./schedule/2013 "DAIDD 2013 schedule")
 - [DAIDD 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_DAIDD_Schedule "DAIDD 2012 schedule")
-
-{%if page.alerttype == "primary"%}
-[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg  btn-rounded-3x"}
-{%endif%}
