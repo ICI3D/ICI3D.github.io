@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: redirect
+redirect: ../development
 title: DAIDD
 year: 2016
 tab: Programs
