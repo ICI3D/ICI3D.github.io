@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MMED
+year: 2017
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
@@ -10,9 +11,10 @@ alerttype: danger
 alertmsg: The seventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held May 30 - June 10, 2016 at the African Institute for Mathematical Science in Muizenberg, South Africa. Information about MMED 2017 will be available in January.
 ---
 
-{%if page.alerttype == "primary"%}
-[Go to MMED 2016 »](http://mmed2016.ici3d.org/ "MMED 2016"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "warning"%}
+[Go to MMED {{page.year}} »](http://www.ici3d.org/mmed{{page.year}}/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
+
 
 <!-- BASIC TAB -->
 <ul class="nav nav-tabs" role="tablist">
@@ -53,9 +55,8 @@ alertmsg: The seventh annual <strong>Clinic on the Meaningful Modeling of Epidem
 <!-- END BASIC TAB -->
 
 
-
-{%if page.alerttype == "info"%}
-[Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "success"%}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 
 ## Schedule
@@ -83,8 +84,3 @@ Schedules from previous years:
 - [MMED 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_Clinic_Schedule "MMED 2012 schedule")
 - [MMED 2011](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2011_Clinic_Schedule "MMED 2011 schedule")
 - [MMED 2010](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2010_Clinic_Schedule "MMED 2010 schedule")
-
-<br>
-{%if page.alerttype == "primary"%}
-[Go to MMED 2016 »](http://mmed2016.ici3d.org/ "MMED 2016"){:class="btn btn-{{page.alerttype}} btn-lg"}
-{%endif%}
