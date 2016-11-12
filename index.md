@@ -1,5 +1,6 @@
 ---
-layout: main
+layout: redirect
+redirect: ./development
 title: ICI3D
 tab: Home
 subtitle: International Clinics on Infectious Disease Dynamics and Data
