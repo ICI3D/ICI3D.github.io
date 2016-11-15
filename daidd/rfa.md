@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Request for Applications
+longtitle: Request for Applications to Attend DAIDD 2016
 subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
-alerttype: info
-alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, will be held December 4-10, 2016.
+alerttype: success
+alertmsg: The application for US-based participants is open through October 31.
 ---
 
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the fifth annual Clinic on Dynamical Approaches to Infectious Disease Data, which will be held December 4-10, 2016 in Jacksonville and Yulee, Florida. This intensive, 1-week modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
@@ -20,6 +21,6 @@ Funding is available to cover room and board for Clinic participants from the US
 
 Late or incomplete applications will not be considered. **Application instructions are available via the application form on the UGA website.**
 
-{%if page.alerttype == "info"%}
-[Apply now »](https://ugeorgia.qualtrics.com/SE/?SID=SV_ePvwqr0s2XwMdaR "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "success"%}
+[Apply now »](https://ugeorgia.qualtrics.com/SE/?SID=SV_ePvwqr0s2XwMdaR "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}

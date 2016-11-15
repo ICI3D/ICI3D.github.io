@@ -1,11 +1,13 @@
 ---
 layout: page
-title: I3D P&P
+title: P &amp; P
+tab: P &amp; P
 subtitle: Publication and presentation support
-welcome: Infectious disease dynamics and data publication and presentation support
-summary: I3D P&P support provides an opportunity for ICI3D program participants to share their research through peer-reviewed publications and presentation at scientific conferences.
-alerttype: primary
-alertmsg: All publications and presentations supported through I3D P&P must acknowledge the ICI3D program and support for the program provided by the National Institute of General Medical Sciences of the National Institutes of Health under award number R25GM102149. In addition, publications must comply with the open access policy for NIH-funded research.
+longtitle: Infectious disease dynamics and data publication and presentation support
+summary: I3D P&amp;P support provides an opportunity for ICI3D program participants to share their research through peer-reviewed publications and presentation at scientific conferences.
+parent: For alumni
+alerttype: warning
+alertmsg: All publications and presentations supported through I3D P&P must acknowledge the ICI3D program and relevant funding sources, as specified in the P&P award letter. In addition, publications must comply with the open access policy for NIH-funded research.
 ---
 
 ## Presentation support

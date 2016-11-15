@@ -1,15 +1,18 @@
 ---
 layout: page
 title: MMED
-tab: MMED
-welcome: Clinic on Meaningful Modeling of Epidemiological Data
-summary: This 2­‐week modeling clinic will emphasize the use of data in understanding infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral scholars, and researchers from North America and Africa, with the goal of engaging participants in epidemiological modeling projects that use real data to grapple with practical questions in a meaningful way.
-alerttype: success
-alertmsg: The seventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held May 30 - June 10, 2016 at the African Institute for Mathematical Science in Muizenberg, South Africa.
+year: 2017
+tab: Programs
+longtitle: Clinic on Meaningful Modeling of Epidemiological Data
+summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
+audience: This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
+selection: Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined.
+alerttype: danger
+alertmsg: The seventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held May 30 - June 10, 2016 at the African Institute for Mathematical Science in Muizenberg, South Africa. Information about MMED 2017 will be available in January.
 ---
 
-{%if page.alerttype == "primary"%}
-[Go to MMED 2016 »](http://mmed2016.ici3d.org/ "MMED 2016"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "warning"%}
+[Go to MMED {{page.year}} »](http://www.ici3d.org/mmed{{page.year}}/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Intended audience
@@ -20,8 +23,8 @@ This clinic targets quantitative scientists, including mathematicians, statistic
 
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined.
 
-{%if page.alerttype == "info"%}
-[Request for Applications »](./rfa.html "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "success"%}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 
 ## Schedule
@@ -49,8 +52,3 @@ Schedules from previous years:
 - [MMED 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_Clinic_Schedule "MMED 2012 schedule")
 - [MMED 2011](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2011_Clinic_Schedule "MMED 2011 schedule")
 - [MMED 2010](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2010_Clinic_Schedule "MMED 2010 schedule")
-
-<br>
-{%if page.alerttype == "primary"%}
-[Go to MMED 2016 »](http://mmed2016.ici3d.org/ "MMED 2016"){:class="btn btn-{{page.alerttype}} btn-lg"}
-{%endif%}

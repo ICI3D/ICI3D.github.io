@@ -1,10 +1,12 @@
 ---
 layout: page
-title: I3D PaWW
+title: PaWW
+tab: PaWW
 subtitle: Paper-writing workshops
-welcome: Infectious disease dynamics and data paper-writing workshops
+longtitle: Infectious disease dynamics and data paper-writing workshops
 summary: I3D PaWW support provides an opportunity for MMED project groups to reconvene and finalize a manuscript based on their work for publication.
-alerttype: primary
+parent: For alumni
+alerttype: warning
 alertmsg: To be considered for a paper-writing workshop, groups must be nominated by the ICI3D faculty. Application instructions are included in the letter of nomination sent to nominated groups.
 ---
 

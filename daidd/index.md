@@ -1,15 +1,16 @@
 ---
 layout: page
 title: DAIDD
-tab: DAIDD
-welcome: Clinic on Dynamical Approaches to Infectious Disease Data
-summary: This 1­‐week modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
-alerttype: success
+year: 2016
+tab: Programs
+longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
+summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
+alerttype: info
 alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, will be held December 4-10, 2016.
 ---
 
-{%if page.alerttype == "primary"%}
-[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "warning"%}
+[Go to DAIDD {{page.year}} »](http://www.ici3d.org/daidd{{page.year}}/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Intended audience
@@ -20,8 +21,8 @@ This clinic targets public health researchers and population biologists interest
 
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to sixteen places for applicants from US-based institutions and up to eight places for applicants based at African institutions.
 
-{%if page.alerttype == "info"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg"}
+{%if page.alerttype == "success"%}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 
 ## Schedule
@@ -39,7 +40,7 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-8:00 Dinner break (dinner is served at 7)
 - 8:00-9:00 Faculty research talk, computer session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 4. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 10. **The schedule for DAIDD 2016 is not yet available.**
+The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 4. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 10. **The schedule for DAIDD {{page.year}} is not yet available.**
 
 Schedules from previous years:
 
@@ -47,7 +48,3 @@ Schedules from previous years:
 - [DAIDD 2014](./schedule/2014 "DAIDD 2014 schedule")
 - [DAIDD 2013](./schedule/2013 "DAIDD 2013 schedule")
 - [DAIDD 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_DAIDD_Schedule "DAIDD 2012 schedule")
-
-{%if page.alerttype == "primary"%}
-[Go to DAIDD 2015 »](http://daidd2015.ici3d.org/ "DAIDD 2015"){:class="btn btn-{{page.alerttype}} btn-lg"}
-{%endif%}

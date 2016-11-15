@@ -1,0 +1,299 @@
+/* Skin: Orange */
+a {
+  color: #FF4500;
+}
+a:hover, a:focus {
+  color: #d63a00;
+}
+
+.btn-primary {
+  background-color: #FF4500;
+  border-color: #f04100;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active,
+.btn-primary .open > .dropdown-toggle.btn-primary {
+  background-color: #f04100;
+  border-color: #d63a00;
+}
+.btn-primary:active:focus {
+  background-color: #d63a00;
+  border-color: #c23400;
+}
+
+.navbar-toggle {
+  background-color: #FF4500;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #d63a00;
+}
+
+.navbar-nav .dropdown-menu {
+  border-top: 2px solid #cc3700;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #d63a00;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #d63a00;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #d63a00;
+}
+
+@media screen and (max-width: 992px) {
+  .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,
+  .navbar-default .navbar-nav > .active.open > a, .navbar-default .navbar-nav > .active.open > a:hover, .navbar-default .navbar-nav > .active.open > a:focus {
+    background-color: #FF4500;
+    color: #fff;
+  }
+}
+.hero-unit-animated .hero-button {
+  background-color: #FF4500;
+}
+.hero-unit-animated .hero-button:hover, .hero-unit-animated .hero-button:focus {
+  background-color: #f04100;
+}
+
+.hero-unit-slider .hero-button:hover, .hero-unit-slider .hero-button:focus {
+  background: #FF4500;
+  color: #fff;
+}
+
+.boxed-content > i {
+  color: #FF4500;
+}
+.boxed-content.left-boxed-icon i {
+  background: #FF4500;
+}
+
+.section-heading:after {
+  color: #FF4500;
+}
+
+.full-width-section {
+  background-color: #FF4500;
+}
+
+/* latest news */
+.news-item a:hover, .news-item a:focus {
+  color: #FF4500;
+}
+
+/* blog list */
+.blog .entry-title a:hover, .blog .entry-title a:focus {
+  color: #FF4500;
+}
+.blog .meta-line a:hover, .blog .meta-line a:focus {
+  color: #FF4500;
+}
+
+.tag-list li a {
+  background-color: #FF4500;
+}
+
+.category-list li a:hover, .category-list li a:focus {
+  color: #FF4500;
+}
+
+.panel-group-faq.top-faq .panel-heading .number {
+  background-color: #FF4500;
+}
+
+.team-member .team-name {
+  background-color: #FF4500;
+}
+
+.portfolio-item .overlay {
+  background-color: rgba(255, 69, 0, 0.9);
+}
+.portfolio-item .btn {
+  background-color: #ff500f;
+  border: 1px solid #e63e00;
+}
+.portfolio-item .btn:hover, .portfolio-item .btn:focus {
+  background-color: #FF4500;
+}
+
+.portfolio-item-filters li a:hover, .portfolio-item-filters li a:focus {
+  color: #FF4500;
+}
+.portfolio-item-filters li a.active {
+  background-color: #FF4500;
+  color: #fff;
+}
+
+/* tabs */
+@media screen and (max-width: 480px) {
+  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #FF4500;
+  }
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+  background-color: #FF4500;
+}
+
+.custom-tabs-line.tabs-line-top .active a {
+  border-top-color: #FF4500;
+}
+.custom-tabs-line.tabs-line-bottom .active a {
+  border-bottom: 1px solid #FF4500;
+}
+
+.pagination > li > a,
+.pagination > li > span {
+  color: #FF4500;
+}
+.pagination > li > a:hover, .pagination > li > span:hover,
+.pagination > li > a:focus, .pagination > li > span:focus {
+  background-color: #ff6329;
+  border-color: #FF4500;
+  color: #fff;
+}
+.pagination > .active > a, .pagination > .active > span {
+  background-color: #FF4500;
+  border-color: #e63e00;
+}
+
+.pagination.borderless > li.active > a,
+.pagination.borderless > li.active > span {
+  background-color: #FF4500;
+}
+.pagination.borderless > li.active > a:hover, .pagination.borderless > li.active > a:focus,
+.pagination.borderless > li.active > span:hover,
+.pagination.borderless > li.active > span:focus {
+  background-color: #FF4500;
+}
+
+.pager li > a:hover, .pager li > a:focus {
+  background-color: #FF4500;
+  border-color: #f04100;
+}
+
+.slick-next,
+.slick-prev {
+  background-color: #FF4500;
+}
+.slick-next:hover, .slick-next:focus,
+.slick-prev:hover,
+.slick-prev:focus {
+  background-color: #e63e00;
+}
+
+.newsletter-form .input-group-lg > .input-group-btn > .btn {
+  background-color: #FF4500;
+}
+.newsletter-form .input-group-lg > .input-group-btn > .btn:hover, .newsletter-form .input-group-lg > .input-group-btn > .btn:focus {
+  background-color: #e63e00;
+}
+
+ul.sidebar-nav li a:hover {
+  color: #FF4500;
+}
+ul.sidebar-nav li a.current a {
+  color: #FF4500;
+}
+ul.sidebar-nav li.current a {
+  color: #FF4500;
+}
+ul.sidebar-nav li.has-submenu.active > a,
+ul.sidebar-nav li.has-submenu.active li.active > a {
+  color: #FF4500;
+}
+
+.breadcrumb > li.active {
+  color: #FF4500;
+}
+.breadcrumb a:hover, .breadcrumb a:focus {
+  color: #FF4500;
+}
+.breadcrumb.link-accent a {
+  color: #FF4500;
+}
+.breadcrumb.link-accent a:hover, .breadcrumb.link-accent a:focus {
+  color: #d63a00;
+}
+
+.fancy-checkbox input[type="checkbox"]:checked + span:before {
+  background: #FF4500;
+  border: 1px solid #FF4500;
+}
+
+.fancy-radio input[type="radio"]:checked + span i:after {
+  background-color: #FF4500;
+}
+
+/* switch checkbox and radio */
+.switch-input input:checked + i {
+  border-color: #FF4500;
+}
+.switch-input i:before {
+  background-color: #FF4500;
+}
+
+.single-pricing-table .btn span {
+  color: #ff8f66;
+}
+
+.text-accent-color {
+  color: #FF4500;
+}
+
+/* date picker */
+.datepicker td.active:active, .datepicker td.active.active {
+  background-color: #FF4500;
+  border-color: #cc3700;
+}
+.datepicker td.active:hover:active, .datepicker td.active:hover.active {
+  background-color: #FF4500;
+  border-color: #cc3700;
+}
+.datepicker table tr td.active:hover, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover:hover, .datepicker table tr td.active:active, .datepicker table tr td.active:hover:active, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active:hover.disabled, .datepicker table tr td.active.disabled.disabled, .datepicker table tr td.active.disabled:hover.disabled,
+.datepicker table tr td.active [disabled], .datepicker table tr td.active:hover[disabled], .datepicker table tr td.active.disabled[disabled], .datepicker table tr td.active.disabled:hover[disabled] {
+  background-color: #FF4500;
+  border-color: #cc3700;
+}
+
+/* date range picker */
+.daterangepicker td.active, .daterangepicker td.active:hover {
+  background-color: #FF4500;
+  border-color: #cc3700;
+}
+.daterangepicker td.in-range {
+  background: #ffd2c2;
+}
+
+.dropcap {
+  background-color: #FF4500;
+}
+
+.testimonial-fancy i {
+  color: #FF4500;
+}
+
+/* ----------------------------------------------------- */
+/* SHOP TEMPLATES
+/* style affecting shop templates
+/* ----------------------------------------------------- */
+.shop-header .service-item i {
+  border-color: #FF4500;
+  color: #FF4500;
+}
+
+.slick-text-pagination .slick-dots li.slick-active button {
+  border-color: #FF4500;
+}
+
+.shop-main .custom-tabs-line ul > li.active a {
+  color: #FF4500;
+}
+
+.fuelux .checkout-wizard ul.steps > li.active .step-number {
+  background: #FF4500;
+}
