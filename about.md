@@ -25,3 +25,5 @@ longtitle: About the ICI3D program
 					<hr>
 				</section>
 {% include directors.html %}
+</div>
+</div>
