@@ -17,7 +17,7 @@ longtitle: About the ICI3D program
 						</div>
 						<div class="col-md-5">
 							<div class="featured-video">
-								<img src="assets/img/MMED2015_tutorials.jpg" width="90%" alt="MMED 2015 participants"></iframe>
+								<img src="assets/img/MMED2015_tutorials.jpg" width="90%" alt="MMED 2015 participants"/>
 							</div>
 						</div>
 					</div>
