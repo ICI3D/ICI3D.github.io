@@ -10,7 +10,7 @@ alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious 
 ---
 
 {%if page.alerttype == "warning"%}
-[Go to DAIDD {{page.year}} »](http://www.ici3d.org/daidd{{page.year}}/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
+[Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD{{page.year}}/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Intended audience
