@@ -3,7 +3,7 @@ layout: page
 title: I3D Exchange Scholars
 tab: People
 longtitle: I3D Research Exchange Scholars Program Alumni
-summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
+summary: The I3D Exchange Program provides an opportunity for former participants in the MMED and DAIDD clinics to engage more deeply with infectious disease research problems in collaboration with the ICI3D faculty.
 ---
 
 {% include topTable.html %}
