@@ -26,7 +26,7 @@ McMaster University, Hamilton, ON, Canada
 
 **John Hargrove, PhD** ([link](http://www.sacema.org/people/staff/ "SACEMA")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
-Senior Research Fellow and former Director <br>
+Senior Research Fellow <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA")) <br>
 Stellenbosch University, Stellenbosch, Western Cape, South Africa
 
@@ -112,7 +112,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 *Faculty Member, DAIDD 2016* <br>
 PhD candidate, University of Cape Town and <br>
 Researcher in Statistics <br>
-South African Centre for Epidemiological Modelling and Analysis <br> ([SACEMA](http://www.sacema.org/ "SACEMA"))
+South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))  
 Stellenbosch University, Stellenbosch, Western Cape, South Africa
 
 {% include bottomTable.html %}
