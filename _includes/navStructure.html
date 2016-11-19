@@ -2,7 +2,11 @@
 <div id="main-nav" class="navbar-collapse collapse navbar-mega-menu">
   <ul class="nav navbar-nav navbar-right">
     <li class="dropdown {% if page.tab == 'Home' %}active{%endif%}">
-      <a href="{{ site.absoluteurl }}/" class="dropdown-toggle">HOME </a>
+      <a href="{{ site.absoluteurl }}/" class="dropdown-toggle" data-toggle="dropdown">HOME <i class="fa fa-angle-down"></i></a>
+      <ul class="dropdown-menu" role="menu">
+        <li><a href="{{ site.absoluteurl }}/about">About</a></li>
+        <li><a href="{{ site.absoluteurl }}/#partners">Partners</a></li>
+      </ul>
     </li>
     <li class="dropdown {% if page.tab == 'Programs' %}active{%endif%}">
       <a href="{{ site.absoluteurl }}/programs/" class="dropdown-toggle" data-toggle="dropdown">PROGRAMS <i class="fa fa-angle-down"></i></a>
