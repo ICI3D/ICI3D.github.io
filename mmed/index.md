@@ -46,6 +46,7 @@ We will start earlier on the first day, and end early on Saturday of the first w
 
 Schedules from previous years:
 
+- [MMED 2016](./schedule/2016 "MMED 2016 schedule")
 - [MMED 2015](./schedule/2015 "MMED 2015 schedule")
 - [MMED 2014](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2014_Clinic_Schedule "MMED 2014 schedule")
 - [MMED 2013](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2013_Clinic_Schedule "MMED 2013 schedule")
