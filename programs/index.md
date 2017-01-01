@@ -24,7 +24,7 @@ summary: ICI3D trains junior researchers from the US and Africa to conduct integ
 									<li>Focus on <strong>interdisciplinary group projects</strong></li>
 									<li><strong>Competitive application process</strong></li>
 								</ul>
-								<button type="button" class="btn btn-primary btn-rounded-3x">Learn more »</button>
+								<a href="{{ site.absoluteurl }}/mmed"><button type="button" class="btn btn-primary btn-rounded-3x">Learn more »</button></a>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4">
@@ -33,12 +33,12 @@ summary: ICI3D trains junior researchers from the US and Africa to conduct integ
 								<h4>Clinic on Dynamical Approaches to Infectious Diseases Data</h4>
 								<strong class="price">DAIDD</strong>
 								<ul class="list-unstyled plan-detail-list">
-									<li><strong>>70 participants</strong> since 2012</li>
+									<li><strong>>90 participants</strong> since 2012</li>
 									<li><strong>Annual clinic</strong> in Florida, USA</li>
 									<li>Focus on <strong>individual research plans</strong></li>
 									<li><strong>Competitive application process</strong></li>
 								</ul>
-								<button type="button" class="btn btn-primary btn-rounded-3x">Learn more »</button>
+								<a href="{{ site.absoluteurl }}/daidd"><button type="button" class="btn btn-primary btn-rounded-3x">Learn more »</button></a>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4">
@@ -55,7 +55,7 @@ summary: ICI3D trains junior researchers from the US and Africa to conduct integ
 									<li>Focus on <strong>high-quality research publications</strong></li>
 									<li><strong>Nomination required</strong></li>
 								</ul>
-								<button type="button" class="btn btn-primary btn-rounded-3x">Learn more »</button>
+								<a href="{{ site.absoluteurl }}/i3d"><button type="button" class="btn btn-primary btn-rounded-3x">Learn more »</button></a>
 							</div>
 						</div>
 					</div>
