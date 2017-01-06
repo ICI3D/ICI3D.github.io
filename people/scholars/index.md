@@ -45,6 +45,13 @@ PhD student, University of Ghent and SACEMA
 - I3D faculty mentor: Prof. Jonathan Dushoff
 - Project: evaluating the effect of age-mixing patterns on HIV transmission in Malawi
 
+**Bewketu Bekele** (2016)<br>
+Lecturer, Debre Markos University in Ethiopia
+
+- Host institution: McMaster University
+- I3D faculty mentor: Prof. Jonathan Dushoff
+- Project: epidemic dynamics of HIV with treatment dropout
+
 {% include centerTable.html %}
 
 ### Exchange visits to Africa
