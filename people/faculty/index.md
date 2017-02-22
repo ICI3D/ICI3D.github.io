@@ -68,7 +68,7 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 ### Workshop Faculty
 
 **Rebecca Borchering, MS** ([link](http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
-*Faculty Member, DAIDD 2015-2016, MMED 2016* <br>
+*Faculty Member, DAIDD 2015-2016, MMED 2016-2017* <br>
 PhD candidate, Department of Mathematics <br>
 University of Florida, Gainesville, FL, USA
 
@@ -109,7 +109,7 @@ PhD candidate, Stellenbosch University and <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))
 
 **Cari van Schalkwyk, MComm** ([link](http://sacema.org/people/staff "Cari van Schalkwyk")) <br>
-*Faculty Member, DAIDD 2016* <br>
+*Faculty Member, DAIDD 2016, MMED 2017* <br>
 PhD candidate, University of Cape Town and <br>
 Researcher in Statistics <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA"))  
