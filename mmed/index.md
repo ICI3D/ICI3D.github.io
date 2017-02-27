@@ -7,10 +7,9 @@ longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 audience: This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
 selection: Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined.
-alerttype: success
-alertmsg: The eighth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 29 - June 9, 2017 at the African Institute for Mathematical Science in Muizenberg, South Africa. <strong>Applications are due on February 6 for North American applicants and February 20 for African applicants.</strong>
+alerttype: info
+alertmsg: The eighth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 29 - June 9, 2017 at the African Institute for Mathematical Science in Muizenberg, South Africa. The application window for MMED 2017 has closed.
 ---
-
 {%if page.alerttype == "warning"%}
 [Go to MMED {{page.year}} »](http://www.ici3d.org/mmed{{page.year}}/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
