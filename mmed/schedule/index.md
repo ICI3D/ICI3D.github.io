@@ -1,50 +1,54 @@
 ---
-layout: redirect
-redirect: http://mmed2016.ici3d.org/schedule
-title: MMED 2016
-subtitle: Clinic on Meaningful Modeling of Epidemiological Data
+layout: page
+redirect: http://www.ici3d.org/MMED2017/schedule
+tab: Schedule
+title: MMED 2017
+subtitle: Clinic Schedule
+longtitle: Clinic on Meaningful Modeling of Epidemiological Data
+summary: The eighth annual MMED clinic  ~  May 29 - June 9, 2017  ~  Muizenberg, Cape Town, South Africa
+alerttype: warning
+alertmsg: The MMED 2017 program includes a number of parallel sessions for participants with different backgrounds. <b>Track A</b> is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. <b>Track B</b> is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
+year: 2017
 ---
 
-The MMED 2016 program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
-
-*The schedule below is **preliminary** and subject to change.*
+> Note that the schedule below is preliminary and subject to change.
 
 # Schedule
 
-### Monday, 30 May
+### Monday, 29 May
 
 -   8:00 – 8:30 Registration and welcome, AIMS lobby
     -   If you have a laptop, please see Waseem in the IT office (Room 110) during registration to get set up with wifi access.
     -   Please gather in the main lecture hall by 8:30.
--   8:30 – 9:00 Introductions (all participants) and Motivation for Workshop (Pulliam and Hargrove)
+-   8:30 – 9:00 Introductions (all participants) and Motivation for Workshop
 -   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 10:45 **Organizational session:** MMED Road Map and programme overview (Pulliam)
+-   10:30 – 10:45 **Organizational session:** MMED Road Map and programme overview
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     -   If you still need wifi access, please see Jan in the IT office (Room 110) between 13:30 and 14:00 to get this set up.
--   14:00 – 15:20 **_Exercise_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: Brook)
+-   14:00 – 15:20 **_Exercise_**: Dynamical Fever and Model Worlds (in pairs) and discussion
 -   15:20 – 15:30 **_Discussion_**: Dynamical Fever and Model Worlds
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data (Bruce)
-    -   **Track B:** Foundations of dynamic modeling (Ndifon)
+    -   **Track A:** Introduction to infectious disease data
+    -   **Track B:** Foundations of dynamic modeling
 -   17:00 – 18:00 **Poster session I**
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 19:30 **Social Activity:** Ice breakers
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
-### Tuesday, 31 May
+### Tuesday, 30 May
 
--   8:30 – 9:15 **Lecture:** Mathematical assumptions of simple ODE models (Pulliam)
+-   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models
 -   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to model implementation
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Computer Session:** R Tutorials I-III (All instructors); **BScH break-out group** (Bellan, Borchering)
+-   10:30 – 12:30 **Computer Session:** R Tutorials I-III (All instructors); **BScH break-out group** (Borchering, Bellan)
     -   When you have completed R Tutorials I-III, work on one of the following: Lab 1: ODE models (required) in R and Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 _**Parallel sessions**_
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II (Delva)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II
     -   **Track B:** **Lecture:** Basic stochastic simulation models (Borchering)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** R Tutorials I-III, Lab 1: ODE models in R, or Tutorial 4: Visualizing Infectious Disease Data in R (as needed)
@@ -55,7 +59,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1
 
-### Wednesday, 1 June
+### Wednesday, 31 May
 
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options
 -   9:15 – 10:00 **Computer Session:** Lab: consequences of heterogeneity (All instructors)
@@ -73,7 +77,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2
 
-### Thursday, 2 June
+### Thursday, 1 June
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? and Lab: Study Design in Epidemiology
@@ -84,15 +88,15 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Lecture:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture (Bellan)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood (Ngonghala)
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood
 -   16:45 – 18:00 **Computer Session:** Lab 5: Introduction to Likelihood Lab (All instructors)
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
-### Friday, 3 June
+### Friday, 2 June
 
 -   8:30 – 10:00  _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's (Porco) and Lab: Study Design for Clinical Trials
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's and Lab: Study Design for Clinical Trials
     -   **Track B:** **Exercise:** Description of proposed model and assumptions
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness
@@ -106,7 +110,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (*Outbreak*)
 
-### Saturday, 4 June
+### Saturday, 3 June
 
 -   9:00 – 10:30 **Lecture:** Participatory coding of a dynamical model (Bellan, with Pulliam)
 -   10:30 – 11:00 First chance to sign up for project groups and *Coffee break*
@@ -114,12 +118,12 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
-### Sunday,5 June
+### Sunday, 4 June
 
 -   Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
 
-### Monday, 6 June
+### Monday, 5 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science (Williams)
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week (Pulliam)
@@ -134,7 +138,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#3
 
-### Tuesday, 7 June
+### Tuesday, 6 June
 
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) (Bellan)
 -   10:00 – 10:30 *Coffee break*
@@ -147,7 +151,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#4
 
-### Wednesday, 8 June
+### Wednesday, 7 June
 
 -   8:30 – 10:00 **Reading Session (all groups)** (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -162,7 +166,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#5
 
-### Thursday, 9 June
+### Thursday, 8 June
 
 -   8:30 – 10:00 **Lecture**: Modeling for policy (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -173,7 +177,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
 
-### Friday, 10 June
+### Friday, 9 June
 
 -   8:30 – 10:00 **Work Session** (All instructors)
 -   10:00 – 10:30 *Coffee break*
@@ -186,6 +190,6 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   21:00 – 23:00 **Social Activity**
 
-### Saturday, 11 June
+### Saturday, 10 June
 
 -   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
