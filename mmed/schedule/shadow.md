@@ -22,18 +22,18 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     -   If you have a laptop, please see Waseem in the IT office (Room 110) during registration to get set up with wifi access.
     -   Please gather in the main lecture hall by 8:30.
 -   8:30 – 9:00 Introductions (all participants) and Motivation for Workshop (Pulliam and Hargrove)
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models (Porco) - [Slides](./lectures/PublicHealthEpiModels.pdf)
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models (Scott) - [Slides](./lectures/PublicHealthEpiModels.pdf)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](./roadmap) and programme overview (Pulliam)
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I (Williams) - [Slides](./lectures/ThinkingAboutData1.pdf)
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases (Bellan) - [Slides](./lectures/IntrotoDisDynamics.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     -   If you still need wifi access, please see Jan in the IT office (Room 110) between 13:30 and 14:00 to get this set up.
--   14:00 – 15:20 **_Exercise_**: [Dynamical Fever](./dynamicalFever) and Model Worlds (in pairs) and discussion (Moderator: Brook)
+-   14:00 – 15:20 **_Exercise_**: [Dynamical Fever](./dynamicalFever) and Model Worlds (in pairs) and discussion (Moderator: TBD)
 -   15:20 – 15:30 **_Discussion_**: Dynamical Fever and Model Worlds (TBD)
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data (Bruce) - [Slides](./lectures/IntroIDdata.pdf)
+    -   **Track A:** Introduction to infectious disease data (TBD) - [Slides](./lectures/IntroIDdata.pdf)
     -   **Track B:** Foundations of dynamic modeling (Dushoff)
 -   17:00 – 18:00 [**Poster session I**](./posters/sessions)
 -   18:00 – 18:30 *Dinner*
@@ -43,15 +43,15 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 ### Tuesday, 30 May
 
 -   8:30 – 9:15 **Lecture:** Mathematical assumptions of simple ODE models (Pulliam) - [Slides](./lectures/assumptionsODE_2015.pdf)
--   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to model implementation (Brook) - [Slides](./lectures/SpreadsheetModels.pdf)
+-   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to model implementation (Dushoff) - Live coding example
     -   **Practice example:** [Measles](./lectures/ExampleSIRMeasles.ods)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Computer Session:** [R Tutorials](./tutorials) I-III (All instructors); **BScH break-out group** (Bellan, Borchering)
+-   10:30 – 12:30 **Computer Session:** [R Tutorials](./tutorials) I-III (All instructors); **BScH break-out group** (Borchering, Bellan, Mthombothi)
     -   When you have completed R Tutorials I-III, work on one of the following: Lab 1: ODE models (required) in R and Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
     - All R tutorials and labs are linked from [this page](./tutorials)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 _**Parallel sessions**_
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II (Delva)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II (Scott)
     -   **Track B:** **Lecture:** Basic stochastic simulation models (Borchering) - [Slides](./lectures/BasicStochasticModels_2015.pdf)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](./tutorials) I-III, Lab 1: ODE models in R, or Tutorial 4: Visualizing Infectious Disease Data in R (as needed)
