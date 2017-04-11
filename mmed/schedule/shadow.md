@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: page
 redirect: http://mmed2016.ici3d.org/schedule
 title: MMED 2016
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
@@ -13,7 +13,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 
 # Schedule
 
-### Monday, 30 May
+### Monday, 29 May
 
 -   8:00 – 8:30 Registration and welcome, AIMS lobby
     -   If you have a laptop, please see Waseem in the IT office (Room 110) during registration to get set up with wifi access.
@@ -37,7 +37,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   19:00 – 19:30 **Social Activity:** Ice breakers
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
-### Tuesday, 31 May
+### Tuesday, 30 May
 
 -   8:30 – 9:15 **Lecture:** Mathematical assumptions of simple ODE models (Pulliam) - [Slides](./lectures/assumptionsODE_2015.pdf)
 -   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to model implementation (Brook) - [Slides](./lectures/SpreadsheetModels.pdf)
@@ -59,7 +59,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1 (TBD)
 
-### Wednesday, 1 June
+### Wednesday, 31 May
 
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options (Dushoff) - [Slides](./tutorials/Heterogeneity_2015.pdf)
 -   9:15 – 10:00 **Computer Session:** [Lab](./tutorials): consequences of heterogeneity (All instructors) - [Slides](./lectures/heterogeneitySummary.pdf)
@@ -80,7 +80,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2 (TBD)
 
-### Thursday, 2 June
+### Thursday, 1 June
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology: Where does modeling fit?](./lectures/EpiStudyDesign.pdf) (TBD) and [Lab: Study Design in Epidemiology](./tutorials)
@@ -97,7 +97,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
-### Friday, 3 June
+### Friday, 2 June
 
 -   8:30 – 10:00  _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's (Porco) and [Lab: Study Design for Clinical Trials](./tutorials)
@@ -114,7 +114,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (*Outbreak*)
 
-### Saturday, 4 June
+### Saturday, 3 June
 
 -   9:00 – 10:30 **Lecture:** Participatory coding of a dynamical model (Bellan, with Pulliam)
     - Code from this session is available from the [tutorials page](./tutorials).
@@ -124,12 +124,12 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
-### Sunday,5 June
+### Sunday, 4 June
 
 -   Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
 
-### Monday, 6 June
+### Monday, 5 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science (Williams)
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week (Pulliam)
@@ -144,7 +144,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#3 (TBD)
 
-### Tuesday, 7 June
+### Tuesday, 6 June
 
 -   8:30 – 10:00 **Lecture**: [Introduction to Monte Carlo Markov Chains (MCMC)](./lectures/IntrotoMCMC.pdf) (Bellan)
 	-   Movies from this lecture are available in the Desktop/Public/MCMCmovs folder on the AIMS network.
@@ -158,7 +158,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#4 (TBD)
 
-### Wednesday, 8 June
+### Wednesday, 7 June
 
 -   8:30 – 10:00 **Reading Session (all groups):** [Gandhi 2006](https://github.com/ICI3D/MMED2015/raw/master/Readings/Gandhi2006.pdf) (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -173,7 +173,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#5 (TBD)
 
-### Thursday, 9 June
+### Thursday, 8 June
 
 -   8:30 – 10:00 **Lecture**: Modeling for policy (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -186,7 +186,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
 
-### Friday, 10 June
+### Friday, 9 June
 
 -   8:30 – 10:00 **Work Session** (All instructors)
 -   10:00 – 10:30 *Coffee break*
@@ -200,6 +200,6 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   18:00 – 18:30 *Dinner*
 -   21:00 – 23:00 **Social Activity**: TBD
 
-### Saturday, 11 June
+### Saturday, 10 June
 
 -   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
