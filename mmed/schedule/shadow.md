@@ -10,7 +10,7 @@ alerttype: success
 alertmsg: Note that links on this page do not work!
 ---
 
-The MMED 2016 program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
+The MMED 2017 program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
 *The schedule below is **preliminary** and subject to change. Materials linked from this page are also subject to change and should not be considered final until the conclusion of the relevant session.*
 
@@ -29,11 +29,11 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases (Bellan) - [Slides](./lectures/IntrotoDisDynamics.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     -   If you still need wifi access, please see Jan in the IT office (Room 110) between 13:30 and 14:00 to get this set up.
--   14:00 – 15:20 **_Exercise_**: [Dynamical Fever](./dynamicalFever) and Model Worlds (in pairs) and discussion (Moderator: TBD)
+-   14:00 – 15:20 **_Exercise_**: [Dynamical Fever](./dynamicalFever) and Model Worlds (in pairs) and discussion (Moderator: van Schalkwyk)
 -   15:20 – 15:30 **_Discussion_**: Dynamical Fever and Model Worlds (TBD)
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data (TBD) - [Slides](./lectures/IntroIDdata.pdf)
+    -   **Track A:** Introduction to infectious disease data (Ngonghala) - [Slides](./lectures/IntroIDdata.pdf)
     -   **Track B:** Foundations of dynamic modeling (Dushoff)
 -   17:00 – 18:00 [**Poster session I**](./posters/sessions)
 -   18:00 – 18:30 *Dinner*
@@ -54,8 +54,8 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
     -   **Track A:** **Lecture:** Introduction to Thinking About Data II (Scott)
     -   **Track B:** **Lecture:** Basic stochastic simulation models (Borchering) - [Slides](./lectures/BasicStochasticModels_2015.pdf)
 -   14:45 – 15:30 _**Parallel sessions**_
-    -   **Track A:** **Computer Session:** [R Tutorials](./tutorials) I-III, Lab 1: ODE models in R, or Tutorial 4: Visualizing Infectious Disease Data in R (as needed)
-    -   **Track B:** **Computer Session:** Basic stochastic simulation models cnt'd (Borchering)
+    -   **Track A:** **Computer Session:** [R Tutorials](./tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R
+    -   **Track B:** **Computer Session:** [R Tutorials](./tutorials) - Lab 1: ODE models in R (as needed), and Basic stochastic simulation models
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 **Computer Session:** [R Tutorials](./tutorials) continued (All instructors) **& Mentoring session**
 -   17:00 – 18:00 [**Poster session II**](./posters/sessions)
@@ -65,9 +65,10 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 ### Wednesday, 31 May
 
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options (Dushoff) - [Slides](./tutorials/Heterogeneity_2015.pdf)
--   9:15 – 10:00 **Computer Session:** [Lab](./tutorials): consequences of heterogeneity (All instructors) - [Slides](./lectures/heterogeneitySummary.pdf)
--   10:00 – 10:30 *Coffee break*
--   10:30 – 11:00 **Lecture:** Work with spreadsheets as a group on projector (TBD)
+-   9:15 – 10:15 **Computer Session:** [Lab](./tutorials): consequences of heterogeneity (All instructors) - [Slides](./lectures/heterogeneitySummary.pdf)
+-   10:15 – 10:30 *Coffee break*
+-   10:30 – 10:45 *Sunshine break*
+-   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare (Hargrove) (TBD)
 -   11:00 – 12:30 **Computer Session:** Harare data in groups of \<4. (All instructors)
     - Spreadsheets and data sets are available for download from [this page](./tutorials/HIV_spreadsheets).
     -   If you finish all five spreadsheets for the Harare data before lunch, move on to working on data from other countries.
@@ -77,7 +78,7 @@ The MMED 2016 program includes a number of parallel sessions for participants wi
 -   14:30 – 15:30 **Discussion:** Harare data and spreadsheet work (Hargrove)
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
-    -   **Track A:** Formulating Research Questions A (TBD)
+    -   **Track A:** Formulating Research Questions A (van Schalkwyk)
     -   **Track B:** Formulating Research Questions B (TBD)
 -   17:00 – 18:00 [**Poster session III**](./posters/sessions)
 -   18:00 – 18:30 *Dinner*
