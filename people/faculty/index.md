@@ -11,7 +11,7 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 
 ### Core Faculty
 
-**Steve Bellan, MPH, PhD** ([link](http://bellanlab.uga.edu "Steve Bellan"), [cv](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/Steve_Bellan_CV.pdf "Bellan CV")) <br>
+**Steve Bellan, MPH, PhD** ([more](./bellan "Steve Bellan")) <br>
 *ICI3D Program Director* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Assistant Professor of Epidemiology and Biostatistics <br>
@@ -38,7 +38,7 @@ Department of Ophthalmology <br>
 Francis I Proctor Institute for Research in Ophthalmology <br>
 University of California – San Francisco, San Francisco, CA, USA
 
-**Juliet Pulliam, PhD** ([link](http://pulliamlab-ufl.github.io/people/pulliam "Juliet Pulliam"), [cv](https://dl.dropbox.com/u/40277704/PulliamCV.pdf "Pulliam CV")) <br>
+**Juliet Pulliam, PhD** ([more](./pulliam "Juliet Pulliam"), [cv](https://dl.dropbox.com/u/40277704/PulliamCV.pdf "Pulliam CV")) <br>
 *ICI3D Program Director for Africa* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Associate Professor of Mathematics and<br>
@@ -67,9 +67,9 @@ South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http:/
 
 ### Workshop Faculty
 
-**Rebecca Borchering, MS** ([link](http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
+**Rebecca Borchering, MS, PhD** ([link](http://www.pulliamlab.org/people/borchering/ "Becky Borchering")) <br>
 *Faculty Member, DAIDD 2015-2016, MMED 2016-2017* <br>
-PhD candidate, Department of Mathematics <br>
+Postdoctoral researcher, Department of Biology <br>
 University of Florida, Gainesville, FL, USA
 
 **Cara Brook** ([link](http://www.princeton.edu/eeb/people/display_person.xml?netid=caraeb&display=Graduate "Cara Brook")) <br>
