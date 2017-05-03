@@ -17,7 +17,7 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 Assistant Professor of Epidemiology and Biostatistics <br>
 University of Georgia, Athens, GA, USA
 
-**Jonathan Dushoff, PhD** ([link](http://www.biology.mcmaster.ca/dushoff/ "Jonathan Dushoff")) <br>
+**Jonathan Dushoff, PhD** ([more](../dushoff/ "Jonathan Dushoff")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Associate Professor of Biology <br>
 Department of Biology <br>
