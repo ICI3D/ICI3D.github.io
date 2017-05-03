@@ -1,33 +1,33 @@
 <div class="col-md-8 col-md-offset-2">
-  <div class="team-member media">
-    <img src="{{site.url}}/assets/img/{{page.img}}" class="media-object img-circle pull-left" alt="{{ page.name }}" height="120" />
+  <div class="team-member media" style="font-size:18px">
+    <img src="{{site.url}}/assets/img/{{page.img}}" class="media-object img-circle pull-left" alt="{{ page.name }}" height="140" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ page.name }}</h3>
       <strong>{{ page.role }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p>{{ page.summary }}</p>
+      <p>{{ page.summary }}</p><br>
       <ul class="list-inline social-icon">
         {%if page.gscholar contains ""%}
-        <li><a href="https://scholar.google.com/citations?user={{ page.gscholar }}"><i class="ai ai-google-scholar"></i></a></li>
+        <li><a href="https://scholar.google.com/citations?user={{ page.gscholar }}"><i class="ai ai-google-scholar" style="font-size:30px"></i></a></li>
         {%endif%}
         {%if page.twitter contains ""%}
-        <li><a href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter" style="font-size:30px"></i></a></li>
         {%endif%}
         {%if page.linkedin contains ""%}
-        <li><a href="https://za.linkedin.com/in/{{ page.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://za.linkedin.com/in/{{ page.linkedin }}"><i class="fa fa-linkedin" style="font-size:30px"></i></a></li>
         {%endif%}
         {%if page.orcid contains ""%}
-        <li><a href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid"></i></a></li>
+        <li><a href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid" style="font-size:30px"></i></a></li>
         {%endif%}
         {%if page.impactstory contains ""%}
-        <li><a href="https://impactstory.org/u/{{ page.impactstory }}"><i class="ai ai-impactstory"></i></a></li>
+        <li><a href="https://impactstory.org/u/{{ page.impactstory }}"><i class="ai ai-impactstory" style="font-size:30px"></i></a></li>
         {%endif%}
         {%if page.github contains ""%}
-        <li><a href="https://github.com/{{ page.github }}"><i class="fa fa-github"></i></a></li>
+        <li><a href="https://github.com/{{ page.github }}"><i class="fa fa-github" style="font-size:30px"></i></a></li>
         {%endif%}
         {%if page.website contains ""%}
-        <li><a href="{{ page.website }}"><i class="fa fa-globe"></i></a></li>
+        <li><a href="{{ page.website }}"><i class="fa fa-globe" style="font-size:30px"></i></a></li>
         {%endif%}
       </ul>
   </div><!-- media-body -->
