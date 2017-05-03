@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: redirect
+redirect: ./faculty
 tab: People
 title: Faculty & Staff
 longtitle: Faculty & Staff
