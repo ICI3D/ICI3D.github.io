@@ -11,7 +11,7 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 
 ### Core Faculty
 
-**Steve Bellan, MPH, PhD** ([more](./bellan "Steve Bellan")) <br>
+**Steve Bellan, MPH, PhD** ([more](../bellan "Steve Bellan")) <br>
 *ICI3D Program Director* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Assistant Professor of Epidemiology and Biostatistics <br>
@@ -38,7 +38,7 @@ Department of Ophthalmology <br>
 Francis I Proctor Institute for Research in Ophthalmology <br>
 University of California – San Francisco, San Francisco, CA, USA
 
-**Juliet Pulliam, PhD** ([more](./pulliam "Juliet Pulliam"), [cv](https://dl.dropbox.com/u/40277704/PulliamCV.pdf "Pulliam CV")) <br>
+**Juliet Pulliam, PhD** ([more](../pulliam "Juliet Pulliam"), [cv](https://dl.dropbox.com/u/40277704/PulliamCV.pdf "Pulliam CV")) <br>
 *ICI3D Program Director for Africa* <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Associate Professor of Mathematics and<br>
