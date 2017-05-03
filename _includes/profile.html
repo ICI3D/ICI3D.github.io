@@ -1,10 +1,36 @@
 
-<img src="{{img_src}}" alt="{{page.name}}" title="{{page.name}}" width="240" style="float:right;"/>
-
-<h3 id="{{page.role}}">{{page.role}}, {{page.involvement}}</h3>
-
-<p>{{page.position}}</p>
-
-{%if page.github contains ""%}<h3 id="background_and_research_interests" style="clear:both;">Background and Research Interests</h3>{%endif%}
-
-<p>{%if page.cv_url contains ".pdf"%}<a href="{{page.cv_url}}" title="{{page.last_name}} CV">Download CV</a><br />{%endif%}{%if page.gscholar_url contains "scholar.google.com"%}<a href="{{page.gscholar_url}}" title="{{page.pub_name}}">Google Scholar profile</a><br />{%endif%}{%if page.github contains ""%}<a href="https://github.com/{{page.github}}" title="{{page.name}}">GitHub profile</a>{%endif%}</p>
+<div class="col-md-5">
+  <div class="team-member media">
+    <img src={{ page.img }} class="media-object img-circle pull-left" alt="{{ page.name }}" height="120" />
+    <div class="media-body">
+      <h3 class="media-heading team-name">{{ page.name }}</h3>
+      <strong>{{ page.role }}</strong>
+      <hr class="pull-left">
+      <div class="clearfix"></div>
+      <p>{{ page.summary }}</p>
+      <ul class="list-inline social-icon">
+        {%if page.gscholar contains ""%}
+        <li><a href="https://scholar.google.com/citations?user={{ page.gscholar }}"><i class="ai ai-google-scholar"></i></a></li>
+        {%endif%}
+        {%if page.twitter contains ""%}
+        <li><a href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter"></i></a></li>
+        {%endif%}
+        {%if page.linkedin contains ""%}
+        <li><a href="https://za.linkedin.com/in/{{ page.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
+        {%endif%}
+        {%if page.orcid contains ""%}
+        <li><a href="http://orcid.org/{{ page.orcid }}"><i class="ai ai-orcid"></i></a></li>
+        {%endif%}
+        {%if page.impactstory contains ""%}
+        <li><a href="https://impactstory.org/u/{{ page.impactstory }}"><i class="ai ai-impactstory"></i></a></li>
+        {%endif%}
+        {%if page.github contains ""%}
+        <li><a href="https://github.com/{{ page.github }}"><i class="fa fa-github"></i></a></li>
+        {%endif%}
+        {%if page.website contains ""%}
+        <li><a href="{{ page.website }}"><i class="fa fa-globe"></i></a></li>
+        {%endif%}
+      </ul>
+  </div><!-- media-body -->
+</div><!-- team-member media -->
+</div><!-- col-md-5 col-md-offset-2 -->

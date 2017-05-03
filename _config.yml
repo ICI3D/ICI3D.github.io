@@ -10,3 +10,9 @@ collections:
   profiles:
     output: true
     permalink: /people/:name
+defaults:
+  - scope:
+      path: ""
+      type: profiles
+    values:
+      layout: profile
