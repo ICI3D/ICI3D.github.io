@@ -1,6 +1,8 @@
 ---
 name: Juliet Pulliam, PhD
 type: director
+position: Associate Professor of Mathematics and<br>Director, South African Centre for Epidemiological Modelling and Analysis
+affiliation: ([SACEMA](http://www.sacema.org/ "SACEMA")) <br>Stellenbosch University, Stellenbosch, Western Cape, South Africa
 img: team/pulliam.jpg
 role: ICI3D Program Director for Africa
 summary: Juliet is the Director of the South African Centre for Epidemiological Modelling and Analysis (SACEMA) and Associate Professor of Mathematics at Stellenbosch University. She served as Program Director from 2012-2016.
