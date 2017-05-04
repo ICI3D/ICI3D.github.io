@@ -17,14 +17,14 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 Assistant Professor of Epidemiology and Biostatistics <br>
 University of Georgia, Athens, GA, USA
 
-**Jonathan Dushoff, PhD** ([more](../dushoff/ "Jonathan Dushoff")) <br>
+**Jonathan Dushoff, PhD** ([more](../dushoff "Jonathan Dushoff")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Associate Professor of Biology <br>
 Department of Biology <br>
 Department of Mathematics and Statistics <br>
 McMaster University, Hamilton, ON, Canada
 
-**John Hargrove, PhD** ([link](http://www.sacema.org/people/staff/ "SACEMA")) <br>
+**John Hargrove, PhD** ([more](../hargrove "SACEMA")) <br>
 *Faculty Member, MMED and DAIDD clinics* <br>
 Senior Research Fellow <br>
 South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.org/ "SACEMA")) <br>
