@@ -1,12 +1,12 @@
 ---
 name:
 type: director/core/workshop
+role:
+involvement:
 position:
 affiliation:
 img:
-role:
 summary:
-involvement:
 github:
 orcid:
 linkedin:
