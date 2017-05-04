@@ -11,30 +11,26 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 
 ### Administrative Staff
 
-**Sara Ervin** <br>
-*ICI3D Program Assistant* <br>
-Department of Epidemiology and Biostatistics <br>
-University of Georgia<br>
+{% for profile in site.profiles %}
+  {% if profile.type == "admin" %}
+**{{ profile.name }}** ([more](../{{ profile.title | downcase }} "{{ profile.name }}")) <br>
+*{{ profile.role }}* <br>
+{{ profile.affiliation }}
+  {% endif %}
+{% endfor %}
 
-**Rene January**<br>
-*AIMS-ICI3D Coordinator*<br>
-African Institute for Mathematical Sciences, South Africa ([AIMS-SA](http://www.aims.ac.za/ "AIMS-SA"))
-
-**Amanda October** <br>
-*SACEMA-ICI3D Coordinator* <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
-
-**Lynnemore Scheepers** <br>
-*SACEMA-ICI3D Coordinator* <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
 
 {% include centerTable.html %}
 
 ### Program Evaluator
 
-**Gavin Hitchcock, PhD** ([link](http://www.sacema.com/people/staff/ "Gavin Hitchcock")) <br>
-*ICI3D Program Evaluation Consultant* <br>
-Assistant Director for Training <br>
-South African Centre for Epidemiological Modelling and Analysis ([SACEMA](http://www.sacema.com/ "SACEMA"))
+{% for profile in site.profiles %}
+  {% if profile.type == "evaluator" %}
+**{{ profile.name }}** ([more](../{{ profile.title | downcase }} "{{ profile.name }}")) <br>
+*{{ profile.role }}* <br>
+{{ profile.position }} <br>
+{{ profile.affiliation }}
+  {% endif %}
+{% endfor %}
 
 {% include bottomTable.html %}
