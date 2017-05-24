@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: redirect
 redirect: http://www.ici3d.org/MMED2017/schedule
 tab: Schedule
 title: MMED 2017
