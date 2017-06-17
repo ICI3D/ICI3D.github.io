@@ -6,7 +6,7 @@ tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: danger
-alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, was held December 4-10, 2016 in Jacksonville and Yulee, Florida.
+alertmsg: The fifth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, was held December 4-10, 2016 in Jacksonville and Yulee, Florida.  The application for DAIDD 2017 will open in August.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -40,7 +40,7 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-8:00 Dinner break (dinner is served at 7)
 - 8:00-9:00 Faculty research talk, computer session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin the afternoon of Sunday, December 4. On Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday, December 10. **The schedule for DAIDD {{page.year}} is not yet available.**
+The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin on Sunday afternoon, and on Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday. **The preliminary schedule for DAIDD {{page.year}} we be available approximately one month before the Clinic.**
 
 Schedules from previous years:
 
