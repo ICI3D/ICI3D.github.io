@@ -7,6 +7,7 @@ position: Director of <a href="http://www.sacema.org/">SACEMA</a> & Associate Pr
 affiliation: South African Centre for Epidemiological Modelling and Analysis<br>Stellenbosch University, Stellenbosch, Western Cape, South Africa
 img: team/pulliam.jpg
 summary: Juliet is the Director of the South African Centre for Epidemiological Modelling and Analysis (SACEMA) and Associate Professor of Mathematics at Stellenbosch University. She served as Program Director from 2012-2016.
+icons: yes
 github: jrcpulliam
 orcid: 0000-0003-3314-8223
 linkedin: julietpulliam

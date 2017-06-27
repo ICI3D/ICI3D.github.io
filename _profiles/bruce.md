@@ -7,5 +7,6 @@ position: PhD candidate, University of Cape Town and<br>South African Centre for
 affiliation: Stellenbosch University, Stellenbosch, Western Cape, South Africa
 img: team/bruce.jpg
 summary: Faikah is a PhD candidate in the Department of Mathematics at Stellenbosch University. She was an MMED participant in 2011, served as an MMED mentor in 2012-2014, and joined the Workshop Faculty in 2015.
+icons: no
 github: faikah
 ---
