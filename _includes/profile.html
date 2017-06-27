@@ -1,4 +1,4 @@
-<div class="col-md-8 col-md-offset-2">
+<div class="col-md-10 col-md-offset-1">
   <div class="team-member media" style="font-size:18px">
     <img src="{{site.url}}/assets/img/{{page.img}}" class="media-object img-circle pull-left" alt="{{ page.name }}" height="140" />
     <div class="media-body">
@@ -6,7 +6,19 @@
       <strong>{{ page.role }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p>{{ page.summary }}</p><br>
+      <p style="font-size:14px"> <b>{{ page.position }}<br>{{ page.affiliation }}</b></p>
+      <p style="font-size:14px">
+      {% for dd in page.degrees %}
+        <em>{{ dd.degree }} in {{ dd.discipline }}, {{ dd.institution }} ({{ dd.year }})</em><br>
+      {% endfor %}
+      </p>
+      <p style="font-size:14px"><b>About:</b> {% if page.bio contains "" %}{{ page.bio }}{% else %}{{ page.summary }}{% endif %}</p>
+      {% if page.papers.size > 0 %}
+      <h4> Selected publication{% if page.papers.size > 1 %}s{% endif %}:</h4>
+      {% for pp in page.papers %}
+      <p style="font-size:14px">{{ pp.authors }} ({{ pp.year }}). <a href="{{ pp.link }}">{{ pp.title }}</a>. <em>{{ pp.journal }}</em></p>
+      {% endfor %}
+      {% endif %}
       <ul class="list-inline social-icon">
         {%if page.gscholar contains ""%}
         <li><a href="https://scholar.google.com/citations?user={{ page.gscholar }}"><i class="ai ai-google-scholar" style="font-size:28px"></i></a></li>

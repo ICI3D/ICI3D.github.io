@@ -1,8 +1,8 @@
 ---
 name: Calistus Ngonghala, PhD
 type: workshop
-role: Faculty Member, MMED clinic
-involvement: Faculty Member, MMED 2016-2017
+role: Faculty Member, MMED 2016-2017
+involvement: Faculty Member, MMED clinic
 position: Assistant Professor, Department of Mathematics
 affiliation: University of Florida, Gainesville, FL, USA
 img: team/ngonghala.jpg
@@ -15,4 +15,16 @@ twitter:
 impactstory:
 website:
 cv:
+bio: Calistus is an Assistant Professor of Mathematical Biology in the Department of Mathematics and Emerging Pathogens Institute (EPI) at the University of Florida in Gainesville, FL, USA. He was an MMED participant in 2010 and joined the Workshop Faculty in 2016. His research focuses on developing mathematical frameworks of coupled natural-human systems to understand the ecology of poverty from the perspective of infectious disease dynamics, agriculture (renewable resources), environmental (land-use) change and socio-economic conditions.
+papers:
+  - title: Economic inequality caused by feedbacks between poverty and the dynamics of a rare tropical disease - the case of Buruli ulcer in Sub-Saharan Africa
+    authors: Garchitorena, <b>Ngonghala</b>, Guegan, Texier, Bellanger, Roche, Bonds
+    link: http://rspb.royalsocietypublishing.org/content/282/1818/20151426
+    journal: Proceedings of Royal Society B (Biological Sciences)
+    year: 2015
+  - title: Poverty, disease, and the ecology of complex systems
+    authors: <b>Ngonghala</b>, Plucinski, Murray, Farmer, Barrett, Keenan, Bonds
+    link: http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001827
+    journal: PLoS Biology
+    year: 2014
 ---

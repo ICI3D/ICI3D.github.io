@@ -1,8 +1,8 @@
 ---
 name: Cara Brook
 type: workshop
-role: Faculty Member, MMED and DAIDD clinics
-involvement: Faculty Member, DAIDD 2015, MMED 2016
+role: Faculty Member, DAIDD 2015, MMED 2016
+involvement: Faculty Member, MMED and DAIDD clinics
 position: PhD candidate, Department of Ecology and Evolutionary Biology
 affiliation: Princeton University, Princeton, NJ, USA
 img: BrookCE.jpg

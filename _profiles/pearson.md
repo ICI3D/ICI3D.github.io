@@ -1,8 +1,8 @@
 ---
 name: Carl Pearson, MSES, PhD
 type: workshop
-role: Faculty Member, DAIDD clinic
-involvement: Faculty Member, DAIDD 2016
+role: Faculty Member, DAIDD 2016
+involvement: Faculty Member, DAIDD clinic
 position: Founder, Very Good Research and Development
 affiliation:
 img: team/pearson.jpg
