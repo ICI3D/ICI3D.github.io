@@ -64,7 +64,7 @@ PhD student in Epidemiology at University of California – San Francisco (UCSF)
 - Project: estimating tsetse fly mortality from entomological surveillance data
 
 **Roger Ying** (2015)<br>
-MD/PhD student at University of Washington
+MD student at Cornell University
 
 - Host institution: SACEMA
 - I3D faculty mentor: Prof. Brian Williams
