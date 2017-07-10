@@ -20,14 +20,12 @@ In reverse chronological order, ICI3D programs have been funded by
 
 
 Please acknowledge the ICI3D program and relevant funding sources in
-any papers or conference presentations that either arose during an
-ICI3D program or that were sufficiently influenced by attendance of an
+any papers or conference presentations that either (1) arose during an
+ICI3D program or (2) were sufficiently influenced by attendance of an
 ICI3D program such that you believe it warrants
 acknowledgement. Please use the above funding summary to determine
-which funding sources should be acknowledged for your work. An
-example funding statment is below:
-
-For a project that arose during MMED 2014:
+which funding sources should be acknowledged for your work. See below for an
+example funding statment for a project that arose during MMED 2014:
 
 "This project arose during the 2014 Clinic on the Meaningful Modeling
 of Epidemiological Data (MMED), which is part of the International
