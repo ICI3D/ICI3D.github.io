@@ -8,15 +8,15 @@ summary: The ICI3D Program has received funding from a variety of sources. Parti
 
 In reverse chronological order, ICI3D programs have been funded by
 
-* **MMED 2017**: NIH NIGMS U01GM087719, WHO Research & Development
+* **MMED 2017**: National Institute for General Medical Sciences U01GM087719, World Health Organization Research & Development
   Blueprint, SACEMA
-* **DAIDD 2016**: NSF 1700060, SACEMA
-* **MMED 2012-2016**, **DAIDD 2012-2015**: NIH NIGMS R25GM102149, SACEMA
-* **I3D 2012-2016**: NIH NIGMS R25GM102149
-* **MMED 2011**: NSF Award DEB-1134964, SACEMA
-* **MMED 2010**: NSF DMS-829652, NIH/Fogarty Framework Programs for Global
+* **DAIDD 2016**: National Science Foundation 1700060, SACEMA
+* **MMED 2012-2016**, **DAIDD 2012-2015**: NIH National Institute for General Medical Sciences R25GM102149, SACEMA
+* **I3D 2012-2016**: National Institute for General Medical Sciences R25GM102149
+* **MMED 2011**: National Science Foundation Award DEB-1134964, SACEMA
+* **MMED 2010**: National Science Foundation DMS-829652, NIH/Fogarty Framework Programs for Global
   Health Innovations R24TW008822, SACEMA
-* **MMBD 2009**: NSF DMS-829652
+* **MMBD 2009**: National Science Foundation DMS-829652
 
 
 Please acknowledge the ICI3D program and relevant funding sources in
