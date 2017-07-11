@@ -10,7 +10,7 @@ In reverse chronological order, ICI3D programs have been funded by
 
 * **MMED 2017**: National Institute for General Medical Sciences U01GM087719, World Health Organization Research & Development
   Blueprint, SACEMA
-* **DAIDD 2016**: National Science Foundation 1700060, SACEMA
+* **DAIDD 2016**: National Science Foundation 1700060, NIH National Institute for General Medical Sciences R25GM102149, SACEMA
 * **MMED 2012-2016**, **DAIDD 2012-2015**: NIH National Institute for General Medical Sciences R25GM102149, SACEMA
 * **I3D 2012-2016**: National Institute for General Medical Sciences R25GM102149
 * **MMED 2011**: National Science Foundation Award DEB-1134964, SACEMA
