@@ -38,5 +38,5 @@ Please note the following
 * The ICI3D name was created in 2012 when we added additional clinics,
 though earlier Clinics are still considered as part of the same continuous program
 development.
-* After our first year, we changed the name of our flaship Clinic from
+* After our first year, we changed the name of our flagship Clinic from
 *Meaningful Modeling of Biological Data* (2009) to *Meaningful Modeling of Epidemiological Data* (2010 and later).
