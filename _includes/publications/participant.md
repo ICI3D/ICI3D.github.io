@@ -1,8 +1,10 @@
 <div markdown='1'>
 
-_Ackly, SF_ [g] and **JW Hargrove**. (2017) [A dynamic model for estimating adult female mortality from ovarian dissection data for the tsetse fly _Glossina pallidipes_ Austen sampled in Zimbabwe][https://doi.org/10.1371/journal.pntd.0005813]. _**PLoS Neglected Tropical Diseases**_ 11(8): e0005813. doi: 10.1371/journal.pntd.0005813
+_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (In press) Resource-driven encounters among consumers and implications for the spread of infectious disease. _**Journal of the Royal Society Interface**_. ([BioRxiv preprint](https://doi.org/10.1101/091850), December 2016. doi:10.1101/091850)
 
-_Lord, JS_ [p], _Z Mthombothi_ [g], _VK Lagat_ [g], _F Atuhaire_ [g], and **JW Hargrove**. (2017) [Host-seeking efficiency can explain population dynamics of the tsetse fly _Glossina morsitans morsitans_ in response to host density decline][https://doi.org/10.1371/journal.pntd.0005730]. _**PLoS Neglected Tropical Diseases**_ 11(7): e0005730. doi: 10.1371/journal.pntd.0005730
+_Ackley, SF_ [g] and **JW Hargrove**. (2017) [A dynamic model for estimating adult female mortality from ovarian dissection data for the tsetse fly _Glossina pallidipes_ Austen sampled in Zimbabwe](https://doi.org/10.1371/journal.pntd.0005813). _**PLoS Neglected Tropical Diseases**_ 11(8): e0005813. doi: 10.1371/journal.pntd.0005813
+
+_Lord, JS_ [p], _Z Mthombothi_ [g], _VK Lagat_ [g], _F Atuhaire_ [g], and **JW Hargrove**. (2017) [Host-seeking efficiency can explain population dynamics of the tsetse fly _Glossina morsitans morsitans_ in response to host density decline](https://doi.org/10.1371/journal.pntd.0005730). _**PLoS Neglected Tropical Diseases**_ 11(7): e0005730. doi: 10.1371/journal.pntd.0005730
 
 _Means, A_ [g], _K Risher_ [g], _E Ujeneza_ [g], _I Maposa_, _J Nondi_, and **SE Bellan** [p]. (2016) [Impact of age and sex on CD4+ cell count trajectories following treatment initiation: an analysis of the Tanzanian HIV treatment database](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164148). _**PLoS ONE**_ 11(10): e0164148. doi: 10.1371/journal.pone.0164148
 
