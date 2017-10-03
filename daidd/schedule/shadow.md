@@ -41,7 +41,6 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 4:00-5:45 Dynamical Fever - computer exercise and discussion ([Eva Ujeneza]({{site.absoluteurl}}/people/faculty/))
 - 5:45-6:00 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.absoluteurl}}/people/faculty/)) - [Download](../Materials/modelTaxonomy)
 - 6:00-6:30 Welcome reception
-- 8:00-9:00 [Faculty research presentations](../Materials/researchPresentations) ([Borchering]({{site.absoluteurl}}/people/faculty/), [Ujeneza]({{site.absoluteurl}}/people/faculty/))
 
 ### Tuesday, 12 Dec
 
