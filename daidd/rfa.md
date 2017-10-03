@@ -6,7 +6,7 @@ subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
 applink: https://ugeorgia.qualtrics.com/jfe/form/SV_8CgSigl2zn3ZqsZ
 alerttype: success
-alertmsg: The deadline for receipt of applications is <strong>September 15</strong> for applicants based at institutions outside the US and <strong>Octber 1</strong> US-based applicants. Late or incomplete applications will not be considered.
+alertmsg: The deadline for receipt of applications is <strong>September 15</strong> for applicants based at institutions outside the US and <strong>October 15</strong> US-based applicants. Late or incomplete applications will not be considered.
 ---
 
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the fifth annual Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD). This 1-week intensive modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from North America and Africa, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
@@ -18,7 +18,7 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 Funding is available to cover room and board for Clinic participants from the US and Africa. Additional funds to support travel are available for a small number of participants and may be requested during the application process but are not guaranteed. The application process for the Clinic is expected to be highly competitive.
 
 - The deadline for receipt of applications from _individuals based at institutions outside the US_ for DAIDD 2017 is September 15, 2017 at 5pm Eastern.
-- The deadline for receipt of applications from _individuals based at US institutions_ for DAIDD 2017 is October 1, 2017 at 5pm Eastern..
+- The deadline for receipt of applications from _individuals based at US institutions_ for DAIDD 2017 is October 15, 2017 at 5pm Eastern.
 
 Late or incomplete applications will not be considered. **Application instructions are available via the application form on the UGA website.**
 
