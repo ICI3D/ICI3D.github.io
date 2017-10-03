@@ -17,12 +17,11 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 18:00 Early arrivals may meet in the lobby for an informal group dinner
 
 ### Sunday, 10 Dec
--   14:30-15:00 **Required for international participants only:** Check-in for B-1 visa holders ([Bellan]({{site.absoluteurl}}/people/faculty/))
 - 15:00 Hotel check-in available for all participants
 - 16:00-16:30 Welcome and introductions
-- 16:30-16:45 What are we doing here? ([Steve Bellan]({{site.absoluteurl}}/people/faculty/))  - [Download roadmap](../roadmap/DAIDD2016roadmap.pdf), Slides to be added
+- 16:30-16:45 What are we doing here? ([Steve Bellan]({{site.absoluteurl}}/people/faculty/)) - [Download roadmap](../roadmap/DAIDD2016roadmap.pdf), Slides to be added
 - 16:45-17:30 What is Science: models and data ([Brian Williams]({{site.absoluteurl}}/people/faculty/)) - [Slides](../Materials/Brian%20Williams%20What%20is%20Science.pdf)
-- 17:30-17:45 Working with the DAIDD 2016 Dropbox Folder ([Carl Pearson]({{site.absoluteurl}}/people/faculty/))
+- 17:30-17:45 Working with the DAIDD 2017 Dropbox Folder ([Carl Pearson]({{site.absoluteurl}}/people/faculty/))
     - _Make sure your slides are uploaded for tomorrow's morning session!_
 - 17:45-18:30 Ice breakers ([Gavin Hitchcock]({{site.absoluteurl}}/people/staff/))
 - 18:30 Dinner as a group
@@ -30,13 +29,13 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 ### Monday, 11 Dec
 - 7:00 Transfer to White Oak
     - breakfast upon arrival
-- 9:00-10:30 Research pitches (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/faculty/))
+- 8:40-10:30 Research pitches (Moderator: [Jonathan Dushoff]({{site.absoluteurl}}/people/faculty/))
 - 10:30-11:00 Morning break
 - 11:00 - 12:30 Simplification for generalization 1: Intuitive aspects of dynamics and introduction to model worlds ([Juliet Pulliam]({{site.absoluteurl}}/people/faculty/)) - [Slides](../Materials/Pulliam_S4G1.pdf), Reference: [Tran _et al_ (2014) _PLOS One_](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114479 "Tran et al 2014")
 - 12:30-2:00 Lunch
 - 2:00-2:15 Introduction to [White Oak](http://www.whiteoakwildlife.org/wop)
 - 2:30-2:45 Overview of research plan development and structure ([Juliet Pulliam]({{site.absoluteurl}}/people/faculty/))
-- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Cari van Schalkwyk]({{site.absoluteurl}}/people/faculty/)) - [Step-by-step guide](../Materials/researchQuestions)
+- 2:45-3:40 Writing exercise: formulating research questions for modeling projects ([Rebecca Borchering]({{site.absoluteurl}}/people/faculty/)) - [Step-by-step guide](../Materials/researchQuestions)
 - 3:40-4:00 Afternoon break
 - 4:00-5:45 Dynamical Fever - computer exercise and discussion ([Eva Ujeneza]({{site.absoluteurl}}/people/faculty/))
 - 5:45-6:00 Dynamical Fever - model description, modeling terminology and taxonomy ([Juliet Pulliam]({{site.absoluteurl}}/people/faculty/)) - [Download](../Materials/modelTaxonomy)
@@ -44,7 +43,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 ### Tuesday, 12 Dec
 
-- 8:45-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
 - 9:00-10:30 The SIR model family - conceptual framework and introduction to difference and differential equations ([Jonathan Dushoff]({{site.absoluteurl}}/people/faculty/)) -[Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/family.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks), [Exercise](../Materials/SIRmodelFamily)
   - [Spreadsheet](http://tinyurl.com/SIR-DAIDD-2016); [Previous spreadsheet (includes spreadsheet Gillespie)](http://tinyurl.com/SIR-DAIDD-2015)
 - 10:30-11:00 Morning break
@@ -56,12 +55,13 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
   [Bellan _et al._ (2015) _Lancet Inf Dis_](http://bellanlab.publichealth.uga.edu/wp-content/uploads/2016/09/BellanEtAl-SLEbola-LancetID-2015.pdf)
 - 4:15-4:45 Afternoon break - _Make sure your research question is in the researchQuestions folder on Dropbox before the next session!_
 - 4:45-6:00 Exercise: Creating a model world to address a research question ([Juliet Pulliam]({{site.absoluteurl}}/people/faculty/)) - [Step-by-step guide](../Materials/modelWorld) - [Ebola Papers by ICI3D Faculty](http://ebola.ici3d.org)
+- 8:00-9:00 Mid-session feedback ([Gavin Hitchcock]({{site.absoluteurl}}/people/staff/))
 
 ### Wednesday, 13 Dec
-- 8:45-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
 - 9:00-11:00 Stochastic simulation models ([Becky Borchering]({{site.absoluteurl}}/people/faculty/)) - [Slides](https://www.dropbox.com/s/678dx9io8fqnxyg/Borchering_stochastic_simulation_DAIDD2016.pdf?dl=1) - [Stochastic Simulation Code](https://github.com/ICI3D/RTutorials/raw/15f3f2d1c6b8d99c9762617c700e0e8bbf206482/spillover_introductions.R)
 - 11:00-11:30 Morning break
-- 11:30-12:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([Steve Bellan]({{site.absoluteurl}}/people/faculty/))  - [Slides](../Materials/Bellan-LifeCycleModelingProject-AcuteHIV.pdf), Reference: [Bellan et al. (2015) _PLOS Medicine_](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001801)
+- 11:30-12:30 Modeling in practice: The life cycle of a modeling project, from conception to publication ([TBD]({{site.absoluteurl}}/people/faculty/))  - [Slides](../Materials/Bellan-LifeCycleModelingProject-AcuteHIV.pdf), Reference: [Bellan et al. (2015) _PLOS Medicine_](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001801)
 - 12:30-2:00 Lunch break
 - 2:00-3:45 Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.absoluteurl}}/people/faculty/)) - [Slides](https://github.com/dushoff/disease_model_talks/tree/master/git_push/heterogeneity.draft.pdf), [Source for slides](https://github.com/dushoff/disease_model_talks/), [Exercise summary](../Materials/heterogeneityTutorialSummary.pdf)
 - 3:45-4:15 Afternoon break
@@ -71,25 +71,25 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 ### Thursday, 14 Dec
 
-- 8:45-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
-- 9:00-10:45 Writing exercise - description of proposed model and assumptions ([Cari van Schalkwyk]({{site.absoluteurl}}/people/faculty/)) - Groups (to be added)
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
+- 9:00-10:45 Writing exercise - description of proposed model and assumptions ([John Hargrove]({{site.absoluteurl}}/people/faculty/)) - Groups (to be added)
 - 10:45-10:55 Regroup after feedback ([Steve Bellan]({{site.absoluteurl}}/people/faculty/))
 - 10:55-11:00 Group Photo
 - 11:00-1:00 Game Drive
 - 1:00-2:00 Lunch
 - 2:00-3:15 Models and data: introduction to model fitting  ([Steve Bellan]({{site.absoluteurl}}/people/faculty/)) - [Slides](../Materials/Bellan-ModelsData-IntrotoModelFitting.pdf)
 - 3:15-3:45  Afternoon break
-- 3:45-4:30 Model fitting tutorial (All [faculty]({{site.absoluteurl}}/people/faculty/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
+- 3:45-4:30 Model fitting tutorial ([John Hargrove]({{site.absoluteurl}}/people/faculty/)) - [Boxcar Model Slides](../Materials/boxcarModels.pdf)
 - 4:30-6:00 Writing exercise & mentored working session (All [faculty]({{site.absoluteurl}}/people/faculty/))
 - 8:00-9:00 Social activity ([Steve Bellan]({{site.absoluteurl}}/people/faculty/))
 
 ### Friday, 15 Dec
 
-- 8:45-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
+- 8:40-9:00 [Faculty research presentations](../Materials/researchPresentations) ([TBD]({{site.absoluteurl}}/people/faculty/))
 - 9:00-10:30 Use of models in public health decision-making: Dengue vaccination roll-out ([Carl Pearson]({{site.absoluteurl}}/people/faculty/)) - [Slides](https://docs.google.com/presentation/d/1JqrGCGnlZLgguxWxeyEEwOBbJYnQaglXbRrq2P_x2Nc/pub?start=false&loop=false&delayms=3000) - [Flasche _et al_. 2016](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181), [Hladish _et al_. 2016 ](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661)
 - 10:30-11:00 Morning break
 - 11:00-12:00 Model evaluation and comparison ([Jonathan Dushoff]({{site.absoluteurl}}/people/faculty/)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
-- 12:00-12:30 Simplification for generalization 2: Models and the bigger picture ([Juliet Pulliam]({{site.absoluteurl}}/people/faculty/)) - [Slides](../Materials/Pulliam_S4G2.pdf)
+- 12:00-12:30 Simplification for generalization 2: Models and the bigger picture ([Steve Bellan]({{site.absoluteurl}}/people/faculty/)) - [Slides](../Materials/Pulliam_S4G2.pdf)
 - 12:30-2:00 Lunch break
 - 2:00-3:30 Mentored working session (All [faculty]({{site.absoluteurl}}/people/faculty/)) - [Group assignments](https://www.dropbox.com/s/si7qr82eew4eo3s/groupAssignments.pdf?dl=1)
     - _Be sure to submit your **written model description** and **final (digital) model diagram** before your one-on-one meeting_. (See [instructions](../Materials/instructions))
