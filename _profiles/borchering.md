@@ -32,7 +32,7 @@ bio: Becky received her PhD in Mathematics from the University of Florida (UF) i
 papers:
   - title: Resource-driven encounters and the induction of disease among consumers
     authors: <b>Borchering</b>, <b>Bellan</b>, Flynn, <b>Pulliam</b>, McKinley
-    link: http://dx.doi.org/10.1101/091850
-    journal: bioRxiv
-    year: 2016
+    link: http://rsif.royalsocietypublishing.org/content/14/135/20170555
+    journal: Journal of the Royal Society Interface
+    year: 2017
 ---
