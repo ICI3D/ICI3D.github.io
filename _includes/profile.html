@@ -16,7 +16,7 @@
       {% if page.papers.size > 0 %}
       <h4> Selected publication{% if page.papers.size > 1 %}s{% endif %}:</h4>
       {% for pp in page.papers %}
-      <p style="font-size:14px">{{ pp.authors }} ({{ pp.year }}). <a href="{{ pp.link }}">{{ pp.title }}</a>. <em>{{ pp.journal }}</em></p>
+      <p style="font-size:14px">{{ pp.authors }}. ({{ pp.year }}) <a href="{{ pp.link }}">{{ pp.title }}</a>. <em>{{ pp.journal }}</em></p>
       {% endfor %}
       {% endif %}
       {% if page.icons == "yes" %}
