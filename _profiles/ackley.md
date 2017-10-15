@@ -6,7 +6,7 @@ home: USA
 former: PhD student in Epidemiology, UCSF
 position: PhD student in Epidemiology
 affiliation: University of California – San Francisco (UCSF)
-img: transmission.png
+img: scholars/ackley.jpg
 year: 2014
 host: South African Centre for Epidemiological Modelling and Analysis
 mentor: Prof. John Hargrove
