@@ -8,88 +8,44 @@ summary: The I3D Exchange Program provides an opportunity for former participant
 
 {% include topTable.html %}
 
-### Exchange visits to North America
+<h2 style="color: #15378a">Exchange visits to North America</h2>
+<br>
 
-**Joseph Sempa** (2014)<br>
-Researcher at Infectious Diseases Institute, Uganda (IDI)
-
-- Host institution: University of Texas at Austin
--  I3D faculty mentor: Dr. Steve Bellan
--  Project: evaluating cumulative viral load as a predictor of opportunistic infection and mortality in HIV patients
-
-**Ernest Mwebaze** (2014) <br>
-PhD student at Makerere University in Uganda
-
-- Host institution: University of California – San Francisco (UCSF)
-- I3D faculty mentor: Prof. Travis Porco
-- Project: using partially observed Markov Processes as an inference tool for infectious disease dynamics, with applications to trachoma and leprosy
-
-**Welile Sikhondze** (2015) <br>
-PhD student at University of Cape Town
-
-- Host institution: University of California – San Francisco (UCSF)
-- I3D faculty mentor: Prof. Travis Porco
-- Project: modeling the impact of novel diagnostic methods on TB incidence
-
-**Joseph Nondi** (2015) <br>
-Researcher at the Ministry of Health and Social Welfare, Tanzania
-
-- Host institution: McMaster University
-- I3D faculty mentor: Prof. Jonathan Dushoff
-- Project: evaluating care and treatment of pediatric HIV in Tanzania
-
-**Roxanne Beauclair** (2016)<br>
-PhD student, University of Ghent and SACEMA
-
-- Host institution: McMaster University
-- I3D faculty mentor: Prof. Jonathan Dushoff
-- Project: evaluating the effect of age-mixing patterns on HIV transmission in Malawi
-
-**Bewketu Bekele** (2016)<br>
-Lecturer, Debre Markos University in Ethiopia
-
-- Host institution: McMaster University
-- I3D faculty mentor: Prof. Jonathan Dushoff
-- Project: epidemic dynamics of HIV with treatment dropout
+{% for profile in site.profiles %}
+{% if profile.type == "i3d_toNA" %}
+  <div class="team-member media" style="font-size:18px">
+    <img src="{{site.url}}/assets/img/{{profile.img}}" class="media-object img-circle pull-left" alt="{{ profile.name }}" height="105" />
+    <div class="media-body">
+      <h3 class="media-heading team-name">{{ profile.name }} ({{ profile.year }})</h3>
+      <strong>{{ profile.home }}</strong>
+      <hr class="pull-left">
+      <div class="clearfix"></div>
+      <p style="font-size:14px"> <strong>{{ profile.former }}</strong></p>
+      <p style="font-size:14px">(<a href="../{{ profile.title | downcase}}">more info</a>)</p>
+  </div><!-- media-body -->
+</div><!-- team-member media -->
+  {% endif %}
+{% endfor %}
 
 {% include centerTable.html %}
 
-### Exchange visits to Africa
+<h2 style="color: #15378a">Exchange visits to Africa</h2>
+<br>
 
-**Sarah Ackley** (2014)<br>
-PhD student in Epidemiology at University of California – San Francisco (UCSF)
-
-- Host institution: SACEMA
-- I3D faculty mentor: Prof. John Hargrove
-- Project: estimating tsetse fly mortality from entomological surveillance data
-
-**Roger Ying** (2015)<br>
-MD student at Cornell University
-
-- Host institution: SACEMA
-- I3D faculty mentor: Prof. Brian Williams
-- Project: developing improved modeling tools for use by public health officials to inform decision-making for HIV-related policies
-
-**Florian Marx, MD** (2016)<br>
-Postdoctoral researcher, Division of Global Health Equity, Brigham and Women's Hospital and Harvard Medical School
-
-- Host institution: SACEMA
-- I3D faculty mentor: Prof. Brian Williams
-- Project: assessing the cost effectiveness of two TB interventions in high-risk populations: isoniazid preventive therapy and targeted active case finding
-
-**Avery McIntosh** (2016)<br>
-PhD student in Biostatistics at Boston University
-
-- Host institution: SACEMA
-- I3D faculty mentor: Prof. Alex Welte
-- Project: developing tools and integrating methods for HIV incidence estimation
-
-**Jennifer Lord, PhD** (2016)<br>
-Courtesy Postdoctoral Fellow, University of Florida and<br>
-Postdoctoral researcher, Liverpool School of Tropical Medicine
-
-- Host institution: SACEMA
-- I3D faculty mentor: Prof. John Hargrove
-- Project: modeling environmental impacts on tsetse fly population dynamics
+{% for profile in site.profiles %}
+{% if profile.type == "i3d_toAfrica" %}
+  <div class="team-member media" style="font-size:18px">
+    <img src="{{site.url}}/assets/img/{{profile.img}}" class="media-object img-circle pull-left" alt="{{ profile.name }}" height="105" />
+    <div class="media-body">
+      <h3 class="media-heading team-name">{{ profile.name }} ({{ profile.year }})</h3>
+      <strong>{{ profile.home }}</strong>
+      <hr class="pull-left">
+      <div class="clearfix"></div>
+      <p style="font-size:14px"> <strong>{{ profile.former }}</strong></p>
+      <p style="font-size:14px">(<a href="../{{ profile.title | downcase}}">more info</a>)</p>
+  </div><!-- media-body -->
+</div><!-- team-member media -->
+  {% endif %}
+{% endfor %}
 
 {% include bottomTable.html %}

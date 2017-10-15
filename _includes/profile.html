@@ -6,6 +6,11 @@
       <strong>{{ page.role }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
+      {% if page.type contains "i3d"%}
+      <p style="font-size:14px"><b>Project:</b> {{page.project}}
+      <br><b>Host:</b> {{page.mentor}}, {{page.host}}
+      <br><b>Current position:</b> {{page.position}}, {{page.affiliation}}</p>
+      {% else %}
       <p style="font-size:14px"> <b>{{ page.position }}<br>{{ page.affiliation }}</b></p>
       <p style="font-size:14px">
       {% for dd in page.degrees %}
@@ -13,6 +18,13 @@
       {% endfor %}
       </p>
       <p style="font-size:14px"><b>About:</b> {% if page.bio contains "" %}{{ page.bio }}{% else %}{{ page.summary }}{% endif %}</p>
+      {% endif %}
+      {% if page.outputs.size > 0 %}
+      <h4> Output{% if page.outputs.size > 1 %}s{% endif %}:</h4>
+      {% for pp in page.outputs %}
+      <p style="font-size:14px">{{ pp.authors }}. ({{ pp.year }}) <a href="{{ pp.link }}">{{ pp.title }}</a>. <em>{{ pp.journal }}</em></p>
+      {% endfor %}
+      {% endif %}
       {% if page.papers.size > 0 %}
       <h4> Selected publication{% if page.papers.size > 1 %}s{% endif %}:</h4>
       {% for pp in page.papers %}
