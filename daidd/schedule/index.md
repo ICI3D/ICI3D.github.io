@@ -1,6 +1,4 @@
 ---
 layout: redirect
-redirect: http://www.ici3d.org/DAIDD2016/schedule
+redirect: http://www.ici3d.org/DAIDD2017/schedule
 ---
-
-Contents moved to [shadow](./shadow).
