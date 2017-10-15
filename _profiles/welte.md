@@ -4,7 +4,7 @@ type: core
 role: Faculty Member, MMED and DAIDD clinics
 position: Research Professor
 affiliation: South African Centre for Epidemiological Modelling and Analysis<br>Stellenbosch University, Stellenbosch, Western Cape, South Africa
-img: team/welte.png
+img: team/welte.jpg
 summary: Alex is a Research Professor at the South African Centre for Epidemiological Modelling and Analysis (SACEMA) and Stellenbosch University. He served as the Director of SACEMA from 2010-2016 and the ICI3D Program Director for Africa from 2012-2016. Alex has been a member of the ICI3D Core Faculty since the program started in 2012.
 github: alexwelte
 orcid:

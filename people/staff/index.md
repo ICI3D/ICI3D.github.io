@@ -9,27 +9,44 @@ subtitle: International Clinics on Infectious Disease Dynamics and Data
 
 {% include topTable.html %}
 
-### Administrative Staff
+<h2 style="color: #15378a">Administrative Staff</h2>
+<br>
 
 {% for profile in site.profiles %}
   {% if profile.type == "admin" %}
-**{{ profile.name }}** ([more](../{{ profile.title | downcase }} "{{ profile.name }}")) <br>
-*{{ profile.role }}* <br>
-{{ profile.affiliation }}
+  <div class="team-member media" style="font-size:18px">
+    <img src="{{site.url}}/assets/img/{{profile.img}}" class="media-object img-circle pull-left" alt="{{ profile.name }}" height="115" />
+    <div class="media-body">
+      <h3 class="media-heading team-name">{{ profile.name }}</h3>
+      <strong>{{ profile.role }} <br>{% if profile.type == "director" %}{{ profile.involvement }} <br>{% endif %}</strong>
+      <hr class="pull-left">
+      <div class="clearfix"></div>
+      <p style="font-size:14px"> <em>{{ profile.position }}<br>{{ profile.affiliation }}</em></p>
+      <p style="font-size:14px">(<a href="../{{ profile.title | downcase}}">more info</a>)</p>
+  </div><!-- media-body -->
+</div><!-- team-member media -->
   {% endif %}
 {% endfor %}
 
 
 {% include centerTable.html %}
 
-### Program Evaluator
+<h2 style="color: #15378a">Program Evaluator</h2>
+<br>
 
 {% for profile in site.profiles %}
   {% if profile.type == "evaluator" %}
-**{{ profile.name }}** ([more](../{{ profile.title | downcase }} "{{ profile.name }}")) <br>
-*{{ profile.role }}* <br>
-{{ profile.position }} <br>
-{{ profile.affiliation }}
+  <div class="team-member media" style="font-size:18px">
+    <img src="{{site.url}}/assets/img/{{profile.img}}" class="media-object img-circle pull-left" alt="{{ profile.name }}" height="115" />
+    <div class="media-body">
+      <h3 class="media-heading team-name">{{ profile.name }}</h3>
+      <strong>{{ profile.role }} <br>{% if profile.type == "director" %}{{ profile.involvement }} <br>{% endif %}</strong>
+      <hr class="pull-left">
+      <div class="clearfix"></div>
+      <p style="font-size:14px"> <em>{{ profile.position }}<br>{{ profile.affiliation }}</em></p>
+      <p style="font-size:14px">(<a href="../{{ profile.title | downcase}}">more info</a>)</p>
+  </div><!-- media-body -->
+</div><!-- team-member media -->
   {% endif %}
 {% endfor %}
 
