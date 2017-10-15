@@ -1,6 +1,6 @@
 <div markdown='1'>
 
-_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (In press) Resource-driven encounters among consumers and implications for the spread of infectious disease. _**Journal of the Royal Society Interface**_. ([BioRxiv preprint](https://doi.org/10.1101/091850), December 2016. doi:10.1101/091850)
+_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (2017) [Resource-driven encounters among consumers and implications for the spread of infectious disease](http://rsif.royalsocietypublishing.org/content/14/135/20170555). _**Journal of the Royal Society Interface**_. doi: 10.1098/rsif.2017.0555  ([BioRxiv preprint](https://doi.org/10.1101/091850), December 2016. doi:10.1101/091850)
 
 _Ackley, SF_ [g] and **JW Hargrove**. (2017) [A dynamic model for estimating adult female mortality from ovarian dissection data for the tsetse fly _Glossina pallidipes_ Austen sampled in Zimbabwe](https://doi.org/10.1371/journal.pntd.0005813). _**PLoS Neglected Tropical Diseases**_ 11(8): e0005813. doi: 10.1371/journal.pntd.0005813
 
