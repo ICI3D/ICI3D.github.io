@@ -29,16 +29,17 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 Specific session times will vary by day, but the general daily structure will be as follows:
 
+- 8:40-9:00 Faculty research talk
 - 9:00-10:30 Lecture/discussion and/or tutorial
 - 10:30-11:00 Morning break
 - 11:00-12:30 Lecture/discussion and/or tutorial
 - 12:30-2:00 Lunch break
 - 3:00-3:30 Lecture/discussion and/or tutorial
-- 3:30-4:00 Afternoon break
-- 4:00-5:00 Lecture/discussion and/or tutorial
+- 3:15-3:45 Afternoon break
+- 3:45-5:00 Lecture/discussion and/or tutorial
 - 5:00-6:00 Exercise or working session
 - 6:00-8:00 Dinner break (dinner is served at 7)
-- 8:00-9:00 Faculty research talk, computer session, or social activity
+- 8:00-9:00 Working session, feedback session, or social activity
 
 The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin on Sunday afternoon, and on Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday. **The [preliminary schedule for DAIDD {{page.year}}](./schedule) is now available.**
 
