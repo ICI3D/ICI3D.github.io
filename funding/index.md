@@ -35,7 +35,8 @@ supported by National Institute of General Medical Sciences award
 R25GM102149 and by the South African DST-NRF Centre of Excellence in
 Epidemiological Modelling and Analysis (South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA))
 
-Please note the following
+Please note the following:
+
 * The ICI3D name was created in 2012 when we added additional clinics,
 though earlier Clinics are still considered as part of the same continuous program
 development.
