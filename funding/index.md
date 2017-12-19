@@ -8,14 +8,15 @@ summary: The ICI3D Program has received funding from a variety of sources. Parti
 
 In reverse chronological order, ICI3D programs have been funded by
 
+* **DAIDD 2017**: National Science Foundation 1762196, National Institute for General Medical Sciences U01GM087719, World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
 * **MMED 2017**: National Institute for General Medical Sciences U01GM087719, World Health Organization Research & Development
-  Blueprint, SACEMA
-* **DAIDD 2016**: National Science Foundation 1700060, NIH National Institute for General Medical Sciences R25GM102149, SACEMA
-* **MMED 2012-2016**, **DAIDD 2012-2015**: NIH National Institute for General Medical Sciences R25GM102149, SACEMA
+  Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **DAIDD 2016**: National Science Foundation 1700060, NIH National Institute for General Medical Sciences R25GM102149, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **MMED 2012-2016** & **DAIDD 2012-2015**: NIH National Institute for General Medical Sciences R25GM102149, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
 * **I3D 2012-2016**: National Institute for General Medical Sciences R25GM102149
-* **MMED 2011**: National Science Foundation Award DEB-1134964, SACEMA
+* **MMED 2011**: National Science Foundation Award DEB-1134964, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
 * **MMED 2010**: National Science Foundation DMS-829652, NIH/Fogarty Framework Programs for Global
-  Health Innovations R24TW008822, SACEMA
+  Health Innovations R24TW008822, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
 * **MMBD 2009**: National Science Foundation DMS-829652
 
 
@@ -25,14 +26,14 @@ ICI3D program or (2) were sufficiently influenced by attendance of an
 ICI3D program such that you believe it warrants
 acknowledgement. Please use the above funding summary to determine
 which funding sources should be acknowledged for your work. See below for an
-example funding statment for a project that arose during MMED 2014:
+example funding statement for a project that arose during MMED 2014:
 
 "This project arose during the 2014 Clinic on the Meaningful Modeling
 of Epidemiological Data (MMED), which is part of the International
 Clinics on Infectious Disease Dynamics and Data (ICI3D). MMED 2014 was
 supported by National Institute of General Medical Sciences award
 R25GM102149 and by the South African DST-NRF Centre of Excellence in
-Epidemiological Modelling and Analysis (SACEMA)
+Epidemiological Modelling and Analysis (South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA))
 
 Please note the following
 * The ICI3D name was created in 2012 when we added additional clinics,
