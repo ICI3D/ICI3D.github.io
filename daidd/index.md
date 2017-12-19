@@ -1,11 +1,11 @@
 ---
 layout: page
 title: DAIDD
-year: 2017
+year: 2018
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: warning
+alerttype: danger
 alertmsg: The sixth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, will be held held December 10-16, 2017 in Jacksonville and Yulee, Florida.
 ---
 
@@ -41,10 +41,11 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-8:00 Dinner break (dinner is served at 7)
 - 8:00-9:00 Working session, feedback session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin on Sunday afternoon, and on Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday. **The [preliminary schedule for DAIDD {{page.year}}](./schedule) is now available.**
+The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin on Sunday afternoon, and on Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday. **The schedule for DAIDD {{page.year}} is not yet available.**
 
 Schedules from previous years:
 
+- [DAIDD 2017](./schedule/2017 "DAIDD 2017 schedule")
 - [DAIDD 2016](./schedule/2016 "DAIDD 2016 schedule")
 - [DAIDD 2015](./schedule/2015 "DAIDD 2015 schedule")
 - [DAIDD 2014](./schedule/2014 "DAIDD 2014 schedule")
