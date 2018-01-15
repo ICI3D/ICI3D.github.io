@@ -24,5 +24,5 @@ Late or incomplete applications will not be considered. Application instructions
 
 <br>
 {%if page.alerttype == "success"%}
-[Apply now »](../development "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
+[Apply now »](https://ugeorgia.qualtrics.com/jfe/form/SV_1yVmx7f0woe0uyh "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
