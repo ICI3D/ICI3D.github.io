@@ -4,6 +4,7 @@ baseurl: ''
 markdown: kramdown
 exclude: ['index.html-OLD','people.md-OLD',redirect.html,README.md,run.sh,.wiki,template.md]
 highlighter: rouge
+year: 2018
 gems:
   - jemoji
 collections:
