@@ -2,7 +2,7 @@
 
 _Fox, SJ_, JC Miller, and LA Meyers. (2017) [Seasonality in risk of pandemic influenza emergence](https://doi.org/10.1371/journal.pcbi.1005749). _**PLoS Computational Biology**_ 13(10): e1005749. doi: 10.1371/journal.pcbi.1005749
 
-_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (2017) [Resource-driven encounters among consumers and implications for the spread of infectious disease](http://rsif.royalsocietypublishing.org/content/14/135/20170555). _**Journal of the Royal Society Interface**_ 14(135). doi: 10.1098/rsif.2017.0555  ([BioRxiv preprint](https://doi.org/10.1101/091850), December 2016. doi:10.1101/091850)
+_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (2017) [Resource-driven encounters among consumers and implications for the spread of infectious disease](http://rsif.royalsocietypublishing.org/content/14/135/20170555). _**Journal of the Royal Society Interface**_ 14(135). doi: 10.1098/rsif.2017.0555 
 
 _Ackley, SF_ [g] and **JW Hargrove**. (2017) [A dynamic model for estimating adult female mortality from ovarian dissection data for the tsetse fly _Glossina pallidipes_ Austen sampled in Zimbabwe](https://doi.org/10.1371/journal.pntd.0005813). _**PLoS Neglected Tropical Diseases**_ 11(8): e0005813. doi: 10.1371/journal.pntd.0005813
 
