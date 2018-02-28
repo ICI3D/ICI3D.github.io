@@ -4,6 +4,7 @@ title: Request for Applications
 longtitle: Request for Applications to Attend MMED 2018
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 tab: MMED
+year: 2018
 alerttype: success
 alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 28 - June 8, 2018 at the African Institute for Mathematical Science in Muizenberg, South Africa.
 ---
@@ -17,8 +18,8 @@ Students and researchers with a demonstrated interest in infectious disease rese
 
 Funding is available to cover room, board, and travel costs for a limited number of Clinic participants. The application process for the Clinic is highly competitive. Preference will be given to applicants that have the most to gain from Clinic participation.
 
-- The deadline for receipt of applications from **individuals based at institutions outside Africa** for MMED 2017 is February 15, 2018 at 5pm Eastern (New York).
-- The deadline for receipt of applications from **individuals based at African institutions** for MMED 2017 is March 1, 2018 at 5pm Eastern (New York).
+- The deadline for receipt of applications from **individuals based at institutions outside Africa** for MMED {{page.year}} is February 15, {{page.year}} at 5pm Eastern (New York).
+- The deadline for receipt of applications from **individuals based at African institutions** for MMED {{page.year}} is March 1, {{page.year}} at 5pm Eastern (New York).
 
 Late or incomplete applications will not be considered. Application instructions are available on the Application Form.
 
