@@ -5,8 +5,8 @@ longtitle: Request for Applications to Attend MMED 2018
 subtitle: Clinic on Meaningful Modeling of Epidemiological Data
 tab: MMED
 year: 2018
-alerttype: success
-alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 28 - June 8, 2018 at the African Institute for Mathematical Science in Muizenberg, South Africa.
+alerttype: danger
+alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 28 - June 8, 2018 at the African Institute for Mathematical Science in Muizenberg, South Africa. The application process for MMED 2018 has closed.
 ---
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the ninth annual Clinic on Meaningful Modeling of Epidemiological Data (MMED). This 2-week modeling clinic will bring together graduate students, postdoctoral scholars, and other researchers from North America and Africa, with the goal of engaging the participants in epidemiological modeling projects that use real data to grapple with practical questions in a meaningful way.
 
