@@ -1,8 +1,12 @@
 <div markdown='1'>
 
+_Beauclair, R_, **J Dushoff**, and **W Delva**. (2018) [Partner age differences and associated sexual risk behaviours among adolescent girls and young women in a cash transfer programme for schooling in Malawi](https://doi.org/10.1186/s12889-018-5327-7). _**BMC Public Health**_ 18: 403. doi: 10.1186/s12889-018-5327-7
+
+_Grantz, KH_, _W Chabaari_, _RK Samuel_, _B Gershom_, L Blum, L Worden, SK Ackley, F Liu, TM Lietman, AP Galvani, L Prajna, and **TC Porco**. (2018) [Spatial distribution of leprosy in India: an ecological study](https://doi.org/10.1186/s40249-018-0402-y). _**Infectious Diseases of Poverty**_ 7: 20. doi: 10.1186/s40249-018-0402-y
+
 _Fox, SJ_, JC Miller, and LA Meyers. (2017) [Seasonality in risk of pandemic influenza emergence](https://doi.org/10.1371/journal.pcbi.1005749). _**PLoS Computational Biology**_ 13(10): e1005749. doi: 10.1371/journal.pcbi.1005749
 
-_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (2017) [Resource-driven encounters among consumers and implications for the spread of infectious disease](http://rsif.royalsocietypublishing.org/content/14/135/20170555). _**Journal of the Royal Society Interface**_ 14(135). doi: 10.1098/rsif.2017.0555 
+_Borchering, RK_ [g], **SE Bellan**, JM Flynn [g], **JRC Pulliam**, and SA McKinley. (2017) [Resource-driven encounters among consumers and implications for the spread of infectious disease](http://rsif.royalsocietypublishing.org/content/14/135/20170555). _**Journal of the Royal Society Interface**_ 14(135). doi: 10.1098/rsif.2017.0555
 
 _Ackley, SF_ [g] and **JW Hargrove**. (2017) [A dynamic model for estimating adult female mortality from ovarian dissection data for the tsetse fly _Glossina pallidipes_ Austen sampled in Zimbabwe](https://doi.org/10.1371/journal.pntd.0005813). _**PLoS Neglected Tropical Diseases**_ 11(8): e0005813. doi: 10.1371/journal.pntd.0005813
 
