@@ -1,21 +1,21 @@
 ---
-layout: redirect
-redirect: http://www.ici3d.org/MMED2017/schedule
+layout: page
+redirect: http://www.ici3d.org/MMED2018/schedule
 tab: Schedule
-title: MMED 2017
+title: MMED 2018
 subtitle: Clinic Schedule
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
-summary: The eighth annual MMED clinic  ~  May 29 - June 9, 2017  ~  Muizenberg, Cape Town, South Africa
+summary: The ninth annual MMED clinic  ~  May 28 - June 8, 2018  ~  Muizenberg, Cape Town, South Africa
 alerttype: warning
-alertmsg: The MMED 2017 program includes a number of parallel sessions for participants with different backgrounds. <b>Track A</b> is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. <b>Track B</b> is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
-year: 2017
+alertmsg: The MMED 2018 program includes a number of parallel sessions for participants with different backgrounds. <b>Track A</b> is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. <b>Track B</b> is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
+year: 2018
 ---
 
 > Note that the schedule below is preliminary and subject to change.
 
 # Schedule
 
-### Monday, 29 May
+### Monday, 28 May
 
 -   8:00 – 8:30 Registration and welcome, AIMS lobby
     -   If you have a laptop, please see Waseem in the IT office (Room 110) during registration to get set up with wifi access.
@@ -39,7 +39,7 @@ year: 2017
 -   19:00 – 19:30 **Social Activity:** Ice breakers
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
-### Tuesday, 30 May
+### Tuesday, 29 May
 
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models
 -   9:15 – 10:00 **Lecture** and **Computer Session:** Introduction to model implementation
@@ -59,7 +59,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#1
 
-### Wednesday, 31 May
+### Wednesday, 30 May
 
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options
 -   9:15 – 10:00 **Computer Session:** Lab: consequences of heterogeneity (All instructors)
@@ -77,7 +77,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#2
 
-### Thursday, 1 June
+### Thursday, 31 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? and Lab: Study Design in Epidemiology
@@ -93,7 +93,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
-### Friday, 2 June
+### Friday, 1 June
 
 -   8:30 – 10:00  _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's and Lab: Study Design for Clinical Trials
@@ -110,7 +110,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (*Outbreak*)
 
-### Saturday, 3 June
+### Saturday, 2 June
 
 -   9:00 – 10:30 **Lecture:** Participatory coding of a dynamical model (Bellan, with Pulliam)
 -   10:30 – 11:00 First chance to sign up for project groups and *Coffee break*
@@ -118,12 +118,12 @@ year: 2017
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
-### Sunday, 4 June
+### Sunday, 3 June
 
 -   Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
 
-### Monday, 5 June
+### Monday, 4 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science (Williams)
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week (Pulliam)
@@ -138,7 +138,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#3
 
-### Tuesday, 6 June
+### Tuesday, 5 June
 
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) (Bellan)
 -   10:00 – 10:30 *Coffee break*
@@ -151,7 +151,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#4
 
-### Wednesday, 7 June
+### Wednesday, 6 June
 
 -   8:30 – 10:00 **Reading Session (all groups)** (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -166,7 +166,7 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Faculty Research Lecture \#5
 
-### Thursday, 8 June
+### Thursday, 7 June
 
 -   8:30 – 10:00 **Lecture**: Modeling for policy (Williams)
 -   10:00 – 10:30 *Coffee break*
@@ -177,7 +177,7 @@ year: 2017
 -   16:00 – 17:30 **Work Session & Mentoring Session** (All instructors)
 -   18:00 – 18:30 *Dinner*
 
-### Friday, 9 June
+### Friday, 8 June
 
 -   8:30 – 10:00 **Work Session** (All instructors)
 -   10:00 – 10:30 *Coffee break*
@@ -190,6 +190,6 @@ year: 2017
 -   18:00 – 18:30 *Dinner*
 -   21:00 – 23:00 **Social Activity**
 
-### Saturday, 10 June
+### Saturday, 9 June
 
 -   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
