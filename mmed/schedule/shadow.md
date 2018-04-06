@@ -10,7 +10,6 @@ alerttype: danger
 alertmsg: Note that links on this page do not work!
 ---
 
-
 ### Sunday, 27 May
 
 -   17:00 – 18:00 Registration and welcome, AIMS lobby
@@ -160,7 +159,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Pulliam](../team/pulliam))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan)) (with [Bellan](../team/bellan), [Green](../team/green), [Mthombothi](../team/mthombothi),  [Pulliam](../team/pulliam))
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan)) (with [Bellan](../team/bellan), [Green](../team/green), [Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts]((https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
