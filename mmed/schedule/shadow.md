@@ -1,6 +1,6 @@
 ---
 layout: page
-redirect: http://www.ici3d.org/MMED2017/schedule/shadow
+redirect: http://www.ici3d.org/MMED2018/schedule/shadow
 tab: Schedule
 title: MMED 2018
 subtitle: Clinic Schedule
@@ -20,21 +20,21 @@ alertmsg: Note that links on this page do not work!
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   If you have a laptop, please see Jan in the IT office (Room 110) during registration to get set up with wifi access.
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ([Green](../team/green), [Pulliam](../team/pulliam), and [Hargrove](../team/hargrove))
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541811)
+-   8:30 – 9:00 Welcome and Motivation for Workshop ([Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam), and [Hargrove](../team/hargrove))
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Pulliam](../team/pulliam))
--   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541904)
--   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Bellan](../team/bellan)) - [Slides](https://ndownloader.figshare.com/files/8541817)
+-   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Williams](../team/williams)) - [Slides](https://ndownloader.figshare.com/files/8541904)
+-   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541817)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     -   If you still need wifi access, please see Jan in the IT office (Room 110) between 13:30 and 14:00 to get this set up.
     - If you plan to use your laptop for the 15:00 computer exercise, Cari and Juliet will help you get set up at 12:30 in the main lecture hall.
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ([Ngonghala](../team/ngonghala)) - [Slides](https://ndownloader.figshare.com/files/8544970)
+    -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970)
     -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
--   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [van Schalkwyk](../team/vanschalkwyk))
+-   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Ujeneza](../team/ujeneza))
 -   15:30 – 16:00 *Tea* and **poster set-up**
--   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [van Schalkwyk](../team/vanschalkwyk))
+-   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Ujeneza](../team/ujeneza))
 -   16:50 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/pulliam)) - [Slides](../Materials/modelWorlds.pdf)
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
@@ -45,7 +45,7 @@ alertmsg: Note that links on this page do not work!
 
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8544958)
 -   9:15 – 10:00 **Lecture:** Introduction to model implementation
-    ([Dushoff](../team/dushoff)) - [Live coding example](../tutorials/DushoffLiveSIRcoding.R)
+    ([Pearson](../team/pearson)) - [Live coding example](../tutorials/DushoffLiveSIRcoding.R)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (with [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [Pulliam](../team/pulliam)); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
     - All R tutorials and labs are linked from [this page](../tutorials)
@@ -53,7 +53,7 @@ alertmsg: Note that links on this page do not work!
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 _**Parallel sessions**_ (Note: for this session only, Track A participants may attend the Track B session.)
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541667)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541667)
     -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering](../team/borchering)) - [Slides](https://ndownloader.figshare.com/files/8541847)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
@@ -63,18 +63,17 @@ alertmsg: Note that links on this page do not work!
     - Sign up for mentoring sessions with [Hargrove](../team/hargrove), [Williams](../team/williams), or [Dushoff](../team/dushoff)!
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Green](../team/green), [Mthombothi](../team/mthombothi), Ngognghala, [Scott](../team/scott)) &amp; **Mentoring session** (from 15:45)
 -   16:50 – 17:00 **Discussion:**
-    - Lab 1 Summary ([Pulliam](../team/pulliam)) - [Slides](../tutorials/Lab1_summary.pdf)
-    - Tutorial 4 Summary ([Bellan](../team/bellan)) - [Slides](../tutorials/Bellan-Tutorial4_Summary.pdf)
+    - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
+    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - [Slides](../tutorials/Bellan-Tutorial4_Summary.pdf)
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks ([Sheetal Silal](../talks/13asilal), [Reshma Kassanjee](../talks/13bkassanjee))
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD)
 
 ### Wednesday, 30 May
 
--   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and
-    modeling options ([Dushoff](../team/dushoff)) -
+-   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/dushoff)) -
     [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-HeterogeneityHandouts.pdf)
--   9:15 – 10:15 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (with [Bellan](../team/bellan), [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi)) -  Summary ([Gershom](../team/gershom)) - [Slides](../tutorials/Gershom-HeterogeneityTutorialSummary.pdf)
+-   9:15 – 10:15 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (with [Bellan](../team/bellan), [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi)) -  Summary ([Ying](../team/ying)) - [Slides](../tutorials/Gershom-HeterogeneityTutorialSummary.pdf)
 -   10:15 – 10:30 *Coffee break*
 -   10:30 – 10:45 *Sunshine break*
 -   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([Hargrove](../team/hargrove))
@@ -86,7 +85,7 @@ alertmsg: Note that links on this page do not work!
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 15:30 on Wed 31 May.).**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups. (with [Borchering](../team/borchering), [Green](../team/green), [Gershom](../team/gershom), [Ngonghala](../team/ngonghala), [van Schalkwyk](../team/vanschalkwyk))
--   14:30 – 15:30 **Discussion:** Harare data and spreadsheet work ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
+-   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
     -   **Track A:** Formulating Research Questions A ([van Schalkwyk](../team/vanschalkwyk))
@@ -98,36 +97,35 @@ alertmsg: Note that links on this page do not work!
 ### Thursday, 31 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
-    - Lab 3 Summary ([Scott](../team/scott)) - Slides to be added
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
+    - Lab 3 Summary ([Bruce](../team/bruce)) - Slides to be added
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Pulliam](../team/pulliam)) - [Slides](../Materials/creatingAModelWorld.pdf), [Assignment and examples](../Materials/modelWorld)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
--   12:00 – 12:30 **Discussion:** MMED research projects ([van Schalkwyk](../team/vanschalkwyk))
+-   12:00 – 12:30 **Discussion:** MMED research projects ([Pulliam](../team/pulliam))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical
-    model (Bellan, with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model (Bellan or Pearson, with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Bellan](../team/bellan)) - [Slides](https://ndownloader.figshare.com/files/8541898)
--   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [van Schalkwyk](../team/vanschalkwyk))
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541898)
+-   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with [Pulliam](../team/pulliam), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [van Schalkwyk](../team/vanschalkwyk))
     - Lab 5 Summary ([Green](../team/green)) - [Slides](../tutorials/BellanGreen_LikelihoodLabSummary.pdf)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([Sourya Shrestha](../talks/15shrestha))
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk (TBD)
 
 ### Friday, 1 June
 
 -   8:30 – 10:00  _**Parallel sessions**_
-        -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
+        -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([van Schalkwyk](../team/vanschalkwyk)) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
-    - Lab 4 Summary ([van Schalkwyk](../team/vanschalkwyk)) - Slides to be added
+    - Lab 4 Summary ([Bruce](../team/bruce)) - Slides to be added
     -   **Track B:** **Exercise:** Description of proposed model and assumptions ([Pulliam](../team/pulliam))
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
 Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
 -   11:15 - 12:30 **Computer Session:** Lab: MLE fitting of an SIR model to prevalence data (with [Bellan](../team/bellan), [Borchering](../team/borchering), [Green](../team/green), [Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam))
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
-    - Lab Summary ([Mthombothi](../team/mthombothi)) - Slides to be added
+    - Lab Summary ([Pearson](../team/pearson)) - Slides to be added
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday.
 -   14:00 – 15:30 **Mentor presentations** ([Buri Gershom](../talks/16agershom), [Kathleen Green](../talks/16bgreen), [Zinhle Mthombothi](../talks/16cmthombothi); Moderator: [Dushoff](../team/dushoff))
@@ -140,11 +138,11 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
--   9:00 – 9:45 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work in progress from the WHO Blueprint for Research & Development) ([Bellan](../team/bellan)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
+-   9:00 – 9:45 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work in progress from the WHO Blueprint for Research & Development) ([Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
 -   9:45 – 10:30 **Computer Session:** Tutorial catch-up, as needed (with [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [Scott](../team/scott))
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Lecture:** Participatory coding for Variability,
-    Sampling Distributions, and Simulation Lecture ([Bellan](../team/bellan))  - [Code on Tutorials page](../tutorials)
+    Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
