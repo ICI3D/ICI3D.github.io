@@ -160,7 +160,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan)) (with [Bellan](../team/bellan), [Green](../team/green), [Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts]((https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [Bellan](../team/bellan), [Borchering](../team/borchering), [Pulliam](../team/pulliam), [Scott](../team/scott)
