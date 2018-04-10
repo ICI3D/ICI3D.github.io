@@ -102,7 +102,7 @@ alertmsg: Note that links on this page do not work!
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Pulliam](../team/pulliam)) - [Slides](../Materials/creatingAModelWorld.pdf), [Assignment and examples](../Materials/modelWorld)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
--   12:00 – 12:30 **Discussion:** MMED research projects ([Pulliam](../team/pulliam))
+-   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model (Bellan or Pearson, with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
@@ -130,7 +130,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday.
 -   14:00 – 15:30 **Mentor presentations** ([Buri Gershom](../talks/16agershom), [Kathleen Green](../talks/16bgreen), [Zinhle Mthombothi](../talks/16cmthombothi); Moderator: [Dushoff](../team/dushoff))
 -   15:30 – 16:00 *Tea*
--   16:00 – 17:00 **MMED Projects** (Moderator: [Dushoff](../team/dushoff))
+-   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
     - Project group sign-up will be available after this session
 -   17:00 – 18:00 **Mid-session Feedback** (Moderator: [Hitchcock](../team/hitchcock))
 -   18:00 – 18:30 *Dinner*
