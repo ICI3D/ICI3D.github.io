@@ -21,7 +21,7 @@ alertmsg: Note that links on this page do not (necessarily) work!
     -   If you have a laptop, please see Jan in the IT office (Room 110) during registration to get set up with wifi access.
     -   **Please gather in the main lecture hall by 8:30.**
 -   8:30 – 9:00 Welcome and Motivation for Workshop ([Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam), and [Hargrove](../team/hargrove))
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Bellan](../team/bellan) or [Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Pulliam](../team/pulliam))
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Williams](../team/williams)) - [Slides](https://ndownloader.figshare.com/files/8541904)
@@ -57,11 +57,10 @@ alertmsg: Note that links on this page do not (necessarily) work!
     -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering](../team/borchering)) - [Slides](https://ndownloader.figshare.com/files/8541847)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
-    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Lab 2A: Basic stochastic simulation models (with [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Green](../team/green), Kassanjee)
+    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Lab 2A: Basic stochastic simulation models (with [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Green](../team/green), [Kassanjee](../team/kassanjee))
     - Lab 2A Summary ([Borchering](../team/borchering)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - Sign up for mentoring sessions with [Hargrove](../team/hargrove), [Williams](../team/williams), or [Dushoff](../team/dushoff)!
--   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Green](../team/green), [Mthombothi](../team/mthombothi), Ngognghala, [Scott](../team/scott)) &amp; **Mentoring session** (from 15:45)
+-   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Green](../team/green), [Mthombothi](../team/mthombothi), Ngognghala, [Scott](../team/scott))
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
     - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - [Slides](../tutorials/Bellan-Tutorial4_Summary.pdf)
@@ -92,26 +91,26 @@ alertmsg: Note that links on this page do not (necessarily) work!
     -   **Track B:** Formulating Research Questions B ([Borchering](../team/borchering))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:30 – 21:00 **Social activity:** Drumming
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD)
 
 ### Thursday, 31 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bellan](../team/bellan), [Gershom](../team/gershom), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
-    - Lab 3 Summary ([Bruce](../team/bruce)) - Slides to be added
+    - Lab 3 Summary ([vanschalkwyk](../team/vanschalkwyk)) - Slides to be added
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Pulliam](../team/pulliam)) - [Slides](../Materials/creatingAModelWorld.pdf), [Assignment and examples](../Materials/modelWorld)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model (Bellan or Pearson, with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Bellan](../team/bellan) or [Pearson](../team/pearson), with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541898)
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Bellan](../team/bellan) or [Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541898)
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with [Pulliam](../team/pulliam), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [van Schalkwyk](../team/vanschalkwyk))
     - Lab 5 Summary ([Green](../team/green)) - [Slides](../tutorials/BellanGreen_LikelihoodLabSummary.pdf)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk (TBD)
+-   19:30 – 21:00 **Social activity:** Drumming
 
 ### Friday, 1 June
 
@@ -134,15 +133,17 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Project group sign-up will be available after this session
 -   17:00 – 18:00 **Mid-session Feedback** (Moderator: [Hitchcock](../team/hitchcock))
 -   18:00 – 18:30 *Dinner*
--   19:30 – 21:30 **Social Activity:** Movie night (*Perfect Sense*)
+-   19:30 – 21:30 **Social Activity:** Movie night (TBD)
 
 ### Saturday, 2 June
 
--   9:00 – 9:45 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work in progress from the WHO Blueprint for Research & Development) ([Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
+> **NB: Move reading session back to Saturday (or remove)** Decision tree session can go in second week somewhere. Let's give someone else an opportunity to develop reading session (Carl?). How much time does it need?
+
+-   9:00 – 9:45 **Reading session:**
 -   9:45 – 10:30 **Computer Session:** Tutorial catch-up, as needed (with [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [Scott](../team/scott))
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Lecture:** Participatory coding for Variability,
-    Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
+    Sampling Distributions, and Simulation Lecture ([Bellan](../team/bellan) or [Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -154,92 +155,84 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 ### Monday, 4 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science ([Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
--   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Pulliam](../team/pulliam))
+-   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Pulliam](../team/pulliam) or [Borchering](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan)) (with [Bellan](../team/bellan), [Green](../team/green), [Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam))
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan) or [Pearson](../team/pearson)) (with [Bellan](../team/bellan), [Green](../team/green), [Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: [Bellan](../team/bellan), [Borchering](../team/borchering), [Pulliam](../team/pulliam), [Scott](../team/scott)
+    - 16:30 – 17:30 **Mentoring Session**: TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks
-	- [Steve Bellan](../team/bellan) - [Reexamining HIV acute infectivity](../talks/22bellan) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanAcuteHIV_ResearchTalk.pdf)
-	- [Calistus Ngonghala](../team/ngonghala) - [General ecological models for human subsistence, health and poverty](../talks/22ngonghala) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Calistus_MMED_2017.pdf)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD)
 
 ### Tuesday, 5 June
 
--   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Bellan](../team/bellan)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+-   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Bellan](../team/bellan) or [Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with [Bellan](../team/bellan), [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Green](../team/green))
     - Labs 7-8 Summary ([Bellan](../team/bellan)) - Slides to be added
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
+-   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff) or [Grebe](../team/grebe)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
 -   14:45 – 15:30  **Work Session**
     -   14:45 – 15:30 _Optional_ **Computer session**: [R Tutorials](../tutorials) - Data wrangling ([Dushoff](../team/dushoff), [Pulliam](../team/pulliam)) (with [Dushoff](../team/dushoff), [Green](../team/green), [Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam), [van Schalkwyk](../team/vanschalkwyk))
     - Tutorial 5 Summary ([Mwangi](../team/mwangi)) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - [Cari](../team/vanschalkwyk), [Calistus](../team/ngonghala), [Brian](../team/williams), [Jonathan](../team/dushoff)
+    - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00
-    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Brian Williams](../team/williams) - Scientific certainty and public health action: where does the balance lie?
+    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan Dushoff](../team/dushoff) - TBD
 
 ### Wednesday, 6 June
 
--   8:30 – 10:00 **Reading Session** ([Williams](../team/williams))
-    - **To be read in advance (spend 1 hour total on this):**
-		- Spend 45 minutes reading [Williams et al. 2017](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Williams2017.pdf)
-		-  Spend 15 minutes reading [Korenromp 2015](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Korenromp2015.pdf)
-	    - *Reading Questions*: When reading the above two papers, please try to identify how their assumptions about the following differ:
-			1. antiretroviral treatment (ART) efficacy
-			1. antiretroviral treatment (ART) coverage
-			1. risk heterogeneity
-    - Additional references for use during the session: [UNAIDS 2016](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/UNAIDS2016.pdf),
+-   8:30 – 9:30 **Lecture**:  Model assessment ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - Slides to be added
+-   9:30 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [Scott](../team/scott))
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Sign up to go to on Saturday's field trip by 13:00.** (You will need to be logged into GitHub to sign up.)
 -   14:00 – 15:30 **Work Session** (Project groups)
+    - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - [Scott](../team/scott), [Hargrove](../team/hargrove), [Bellan](../team/bellan), [Van Schalkwyk](../team/vanschalkwyk)
+    - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Note that the research talk has been rescheduled for Thursday due to the storm.**
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk  
 
 ### Thursday, 7 June
+
+-   8:30 – 9:15 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work from the WHO Blueprint for Research & Development) ([Bellan](../team/bellan) or [Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
+-   9:15 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with [Dushoff](../team/dushoff), [Gershom](../team/gershom), [Green](../team/green), [Ngonghala](../team/ngonghala), [Scott](../team/scott))
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 12:30 **Work Session** (Project groups) - Mentors
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+-   14:00 – 15:30 **Work Session** (Project groups)
+    - 14:00 – 15:00 _Optional Session:_ Data wrangling II ([Grebe](../team/grebe) or [Pearson](../team/pearson))
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:30 **Work Session** (Project groups)
+    - 16:30 – 17:30 **Mentoring Session** - TBD
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 **Work session** (Project groups)
+
+### Friday, 8 June
 
 -   8:30 – 9:15 **Discussion**: Modeling for policy ([Williams](../team/williams))
 -   9:15 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Work Session** (Mentors)
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:00 _Optional Session:_ Model assessment ([Dushoff](../team/dushoff)) - Slides to be added
--   15:30 – 16:00 *Tea*
--   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - [Pulliam](../team/pulliam), [Ngonghala](../team/ngonghala), [Williams](../team/williams), [Dushoff](../team/dushoff)
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk  
-    - Florian Marx - [Population-level impact of tuberculosis control interventions targeted to former TB patients in high-incidence settings](../talks/24marx)
-
-### Friday, 8 June
-
--   8:30 – 10:00 **Work Session** (Project groups)
--   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
-    - 10:30 – 11:30 **Mentoring Session** - [Dushoff](../team/dushoff), [Borchering](../team/borchering), [Hargrove](../team/hargrove), [Bellan](../team/bellano)
+    - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:45 **Final presentations**
 -   15:45 – 16:00 *Tea*
 -   16:05 – 17:05 **Final Feedback Session** (Moderator: [Hitchcock](../team/hitchcock))
 -   17:15 – 17:45 Closing session
 -   18:00 – 18:30 *Dinner*
--   21:00 – 23:00 **Social Activity**: TBD
+-   20:00 – 22:00 **Social Activity**: TBD
 
 ### Saturday, 9 June
 
