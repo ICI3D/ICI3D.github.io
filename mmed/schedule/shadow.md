@@ -137,7 +137,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
-> **NB: Move reading session back to Saturday (or remove)** Decision tree session can go in second week somewhere. Let's give someone else an opportunity to develop reading session (Carl?). How much time does it need?
+> **NB: Move reading session back to Saturday (or remove)** Decision tree session can go in second week somewhere. Let's give someone else an opportunity to develop reading session (Carl? Florian?). How much time does it need?
 
 -   9:00 – 9:45 **Reading session:**
 -   9:45 – 10:30 **Computer Session:** Tutorial catch-up, as needed (with TBD)
@@ -155,18 +155,18 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 ### Monday, 4 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science ([Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
--   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Pulliam](../team/pulliam) or [Borchering](../team/borchering))
+-   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Borchering](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan) or [Pearson](../team/pearson)) (with TBD)
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan) or [Grebe](../team/grebe)) (with TBD)
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD) _OR_ GitHub practice and troubleshooting ([Pearson](../team/pearson)) and/or optional tutorial catch-up
+-   19:00 – 20:00 GitHub practice and troubleshooting ([Pearson](../team/pearson)) and/or optional tutorial catch-up
 
 ### Tuesday, 5 June
 
@@ -176,7 +176,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with TBD) - Slides to be added
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff) or [Grebe](../team/grebe)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
+-   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
 -   14:45 – 15:30  **Work Session**
     -   14:45 – 15:30 _Optional_ **Computer session**: [R Tutorials](../tutorials) - Data wrangling ([Dushoff](../team/dushoff), [Pulliam](../team/pulliam)) (with TBD)
     - Tutorial 5 Summary ([Mwangi](../team/mwangi)) - Slides to be added
@@ -189,7 +189,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Wednesday, 6 June
 
--   8:30 – 9:30 **Lecture**:  Model assessment ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - Slides to be added
+-   8:30 – 9:30 **Lecture**:  Model assessment ([Dushoff](../team/dushoff)) - Slides to be added
 -   9:30 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with TBD)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
