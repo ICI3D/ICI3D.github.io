@@ -6,37 +6,37 @@
         <span class="sr-only">Toggle Navigation</span>
         <i class="fa fa-bars"></i>
       </button>
-      <a href="{{ site.url }}">
+      <a href="{{ site.subdomainurl}}">
       <h1><span style="color:white; font-family: Comfortaa;">{{ site.title }}</span></h1></a>
     </div>
     <!-- MAIN NAVIGATION -->
     <div id="clinic-nav" class="navbar-collapse collapse navbar-mega-menu">
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown {% if page.tab == 'Preparation' %}active{%endif%}">
-          <a href="{{ site.url }}/preparation" class="dropdown-toggle" style="line-height:15px">PREPARATION</a>
+          <a href="{{ site.subdomainurl}}/preparation" class="dropdown-toggle" style="line-height:15px">PREPARATION</a>
         </li>
         <li class="dropdown {% if page.tab == 'Logistics' %}active{%endif%}">
-          <a href="{{ site.url }}/logistics" class="dropdown-toggle" style="line-height:15px">LOGISTICS</a>
+          <a href="{{ site.subdomainurl}}/logistics" class="dropdown-toggle" style="line-height:15px">LOGISTICS</a>
         </li>
         <li class="dropdown {% if page.tab == 'Roadmap' %}active{%endif%}">
-          <a href="{{ site.url }}/roadmap" class="dropdown-toggle" style="line-height:15px">ROADMAP</a>
+          <a href="{{ site.subdomainurl}}/roadmap" class="dropdown-toggle" style="line-height:15px">ROADMAP</a>
         </li>
         <li class="dropdown {% if page.tab == 'Schedule' %}active{%endif%}">
-          <a href="{{ site.url }}/schedule" class="dropdown-toggle" style="line-height:15px">SCHEDULE</a>
+          <a href="{{ site.subdomainurl}}/schedule" class="dropdown-toggle" style="line-height:15px">SCHEDULE</a>
         </li>
         <li class="dropdown {% if page.tab == 'Participants' %}active{%endif%}">
-          <a href="{{ site.url }}/participants" class="dropdown-toggle" style="line-height:15px">PARTICIPANTS</a>
+          <a href="{{ site.subdomainurl}}/participants" class="dropdown-toggle" style="line-height:15px">PARTICIPANTS</a>
         </li>
         <li class="dropdown {% if page.tab == 'Instructors' %}active{%endif%}">
-          <a href="{{ site.url }}/team" class="dropdown-toggle" style="line-height:15px">INSTRUCTORS</a>
+          <a href="{{ site.subdomainurl}}/team" class="dropdown-toggle" style="line-height:15px">INSTRUCTORS</a>
         </li>
         {% if site.title contains "MMED" %}
         <li class="dropdown {% if page.tab == 'Projects' %}active{%endif%}">
-          <a href="{{ site.url }}/projects" class="dropdown-toggle" style="line-height:15px">PROJECTS</a>
+          <a href="{{ site.subdomainurl}}/projects" class="dropdown-toggle" style="line-height:15px">PROJECTS</a>
         </li>
         {% endif %}
         <li class="dropdown {% if page.tab == 'Resources' %}active{%endif%}">
-          <a href="{{ site.url }}/resources" class="dropdown-toggle" style="line-height:15px">RESOURCES</a>
+          <a href="{{ site.subdomainurl}}/resources" class="dropdown-toggle" style="line-height:15px">RESOURCES</a>
         </li>
       </ul>
     </div>
