@@ -106,7 +106,7 @@ alertmsg: Note that links on this page do not (necessarily) work!
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Bellan](../team/bellan) or [Pearson](../team/pearson), with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Bellan](../team/bellan) or [Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541898)
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Bellan](../team/bellan) or [Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with TBD)
     - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk)) - [Slides](../tutorials/BellanGreen_LikelihoodLabSummary.pdf)
 -   18:00 – 18:30 *Dinner*
