@@ -1,6 +1,6 @@
 ---
 layout: page
-redirect: http://www.ici3d.org/MMED2018/schedule
+redirect: http://www.ici3d.org/MMED/schedule
 tab: Schedule
 title: MMED 2018
 subtitle: Clinic Schedule
