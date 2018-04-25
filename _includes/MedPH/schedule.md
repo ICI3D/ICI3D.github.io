@@ -79,7 +79,7 @@ Assignments
 
 Assignments
 
-- **Final poster revisions (email to Becky) due Friday 22:30 PM** 
+- **Final poster revisions (email to Becky) due Friday 22:30 PM**
 - Complete [Tutorial III](#computerlabs) – due Sun PM
 - ** turn in figures and code from Tutorial III Questions by email to Zinhle**
 
@@ -94,6 +94,6 @@ Assignments
 
 ### Monday, 29 June through Friday, 9 June
 
-See [MMED schedule](http://www.ici3d.org/MMED2017/schedule)
+See [MMED schedule](http://www.ici3d.org/MMED/schedule)
 
 </div>

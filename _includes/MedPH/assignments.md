@@ -10,8 +10,8 @@ All sources for information, figures, and wording must be properly cited. Before
 
 - [Stellenbosch guidelines on academic integrity](http://www.sun.ac.za/english/faculty/education/Documents/plagiaat_nov2010_eng.pdf)
 - Examples of plagiarism versus acceptable paraphrasing and summarizing
-  1.  [1st](http://www.lib.usm.edu/legacy/plag/paraphrasing.php) 
-  2.  [2nd](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing) 
+  1.  [1st](http://www.lib.usm.edu/legacy/plag/paraphrasing.php)
+  2.  [2nd](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing)
   3. [3rd](http://writing.wisc.edu/Handbook/QPA_paraphrase.html)
 
 ### Group poster project
@@ -48,7 +48,7 @@ Examples from previous years
 - **Step III:** As a group, develop a research question based on a pattern observed in one or more of the time series datasets.
 - **Step IV:** Figure out how to use a mechanistic infectious disease transmission model (ie, an SIR or SEIR type model) to address your research question. Remember that the type of model you use will depend on your research question, and you should try to use the simplest model possible that allows you to address your question. For example, if you are interested in what drives the period of observed cycles (and changes in the period over time), you will likely need to use a model that includes seasonal dynamics); however, if you're interested in comparing the relative incidence of different diseases in the same population at the same point of time, you may be able to use a non-seasonal model.
 - **Step V:** Develop and implement a research plan to address your research question through a combination of data analysis and model development.
-- **Step VI:** Use the [poster template](./PosterTemplate.pptx) to design a poster on your project. Be sure to include background information, your research question, a description of your approach, your results, your conclusions, and next steps/further questions.
+- **Step VI:** Use the [poster template]({{page.repo}}/blob/master/assignments/PosterTemplate.pptx) to design a poster on your project. Be sure to include background information, your research question, a description of your approach, your results, your conclusions, and next steps/further questions.
 
 ### Final written project
 
