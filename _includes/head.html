@@ -25,4 +25,16 @@
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.url }}{{ site.path }}/assets/ico/ici3d72x72.png">
 	<link rel="apple-touch-icon-precomposed" href="{{ site.url }}{{ site.path }}/assets/ico/ici3d57x57.png">
 	<link rel="shortcut icon" href="{{ site.url }}{{ site.path }}/assets/ico/favicon.ico">
+  <!-- JAVASCRIPTS -->
+  {% if page.layout == 'medph.page' %}
+  <script>
+  $(document).ready(function(){
+    $("a[href^='#tab_']").on('click',function(e){
+      var target = $(this).attr('href').replace("tab_","");
+      $('a[href="'+target+'"]').click();
+      return false;
+      })
+    })
+  </script>
+  {% endif %}
 </head>
