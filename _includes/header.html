@@ -16,10 +16,10 @@
       <li><a href="{{ site.absoluteurl }}">Home</a></li>
       {% endunless %}
       {% if page.tab != page.title %}
-        <li><a href="{{ site.url }}/{{ page.tab | downcase }}/">{{ page.tab }}</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/{{ page.tab | downcase }}/">{{ page.tab }}</a></li>
       {% endif %}
       {% if page.parent contains "" %}
-        <li><a href="{{ site.url }}/{{ page.parent }}"/>{{ page.parent }}</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/{{ page.parent }}"/>{{ page.parent }}</a></li>
       {% endif %}
       <li class="active">{{ page.title }}</li>
     </ol>
