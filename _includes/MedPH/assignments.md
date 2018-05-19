@@ -8,7 +8,7 @@ There will be two major assignments for this course, a group poster presentation
 
 All sources for information, figures, and wording must be properly cited. Before submitting any assignments for this class, please **review the following**:
 
-- [Stellenbosch guidelines on academic integrity](http://www.sun.ac.za/english/faculty/education/Documents/plagiaat_nov2010_eng.pdf)
+- [Stellenbosch guidelines on academic integrity](https://www.sun.ac.za/english/research-innovation/Research-Development/Documents/Policies%20and%20Guidelines/ENGLISH/SU%20Plagiarism%20Policy_2016.pdf)
 - Examples of plagiarism versus acceptable paraphrasing and summarizing
   1.  [1st](http://www.lib.usm.edu/legacy/plag/paraphrasing.php)
   2.  [2nd](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing)
@@ -28,11 +28,11 @@ Examples from previous years
 #### Data Sets
 
 - Poster projects will be completed in groups, TBD:
-    1. **London<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsLondon.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataLondon.Rdata?raw=true)) - Jeremy, Noluvuyo, Tasiu
-    2. **Zaire 1976 Ebola Epidemic<sup>2</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsZaireEbola.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataZaireEbola.Rdata?raw=true)) - Mulalo, Tremaine, Daniel
-    3. **Liberia 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/LiberiaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true)) - Sihle, Wynand, Ndamulelo
-    4. **Sierra Leone 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/SLEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true)) - Oratilwe, Melissa, Rendani
-    5. **Guinea 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/GuineaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true)) - Thabang, Shané, Mmatlou, Mncedisi
+    1. **London<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsLondon.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataLondon.Rdata?raw=true))
+    2. **Zaire 1976 Ebola Epidemic<sup>2</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsZaireEbola.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataZaireEbola.Rdata?raw=true))
+    3. **Liberia 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/LiberiaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    4. **Sierra Leone 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/SLEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    5. **Guinea 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/GuineaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
 
 <sup>1</sup> Data made available courtesy of **Prof. David Earn, Dept. of Mathematics, McMaster University**. The data files are available online from the International Infectious Disease Data Archive (IIDDA, <http://iidda.mcmaster.ca>) and were first published in either *D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) A simple model for complex dynamical transitions in epidemics Science 287(5453): 667-670.* or *C. T. Bauch and D. J. D. Earn (2003) Transients and Attractors in Epidemics. Proceedings of the Royal Society of London Series B 270:1573-1578.* **Note that use of these data is only permitted for the purposes of this course, and any outside use must receive prior approval from Prof. Earn.**
 
