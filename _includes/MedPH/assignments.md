@@ -45,7 +45,7 @@ Examples from previous years
 
 ### Final written project
 
-- [Project instructions](./Project_guidelines_2018.pdf) "Guidelines for the final project")
+- [Project instructions]({{page.repo}}/blob/master/Project_guidelines_2018.pdf) "Guidelines for the final project")
 - Your final project can be based on your poster project or your MMED group project. You will have lot of free time during the last week of MMED to write this.
 - A list of suggested topics for MMED group projects is available at [on this page]({{ site.url }}/projects).
 

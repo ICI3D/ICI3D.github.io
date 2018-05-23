@@ -8,7 +8,9 @@ You can visit these pages to find general information on many diseases and speci
 - [Research and Policy for Infectious Disease Dynamics (RAPIDD program)](http://scholar.google.com/citations?hl=en&user=ngDeGF8AAAAJ) - publications on the dynamics of infectious diseases, with a emphasis on data-driven modeling methods
 - [Project Tycho](http://www.tycho.pitt.edu/) - long-term data sets on many infectious diseases in the US
 
-All data to be used in the projects are made available courtesy of **Professor David Earn, Department of Mathematics, McMaster University**. The data files are available online from the International Infectious Disease Data Archive (IIDDA, <http://iidda.mcmaster.ca>). **Note that use of these data is only permitted for the purposes of this course, and any outside use must receive prior approval from Prof. Earn.** These data were originally analyzed in the following two publications:
+### For groups working on Measles
+
+Measles data to be used in the projects are made available courtesy of **Professor David Earn, Department of Mathematics, McMaster University**. The data files are available online from the International Infectious Disease Data Archive (IIDDA, <http://iidda.mcmaster.ca>). **Note that use of these data is only permitted for the purposes of this course, and any outside use must receive prior approval from Prof. Earn.** These data were originally analyzed in the following two publications:
 
 - [D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) A simple model for complex dynamical transitions in epidemics Science 287(5453): 667-670.]({{page.repo}}/blob/master/references/Earn2000.pdf?raw=true)
 - [C. T. Bauch and D. J. D. Earn (2003) Transients and Attractors in Epidemics. Proceedings of the Royal Society of London Series B 270:1573-1578.]({{page.repo}}/blob/master/references/Bauch2003.pdf?raw=true)

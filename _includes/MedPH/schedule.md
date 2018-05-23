@@ -19,14 +19,15 @@ Assignments
 - Skim [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Tues PM
 
 ### Tuesday, 22 May
-- 9:00 - 10:00		    [Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf)
+- 9:00 - 10:00		[Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf)
 - 10:00 - 10:30     Project discussion and development
 -  10:30 – 11:00 	Coffee break
--  11:00 – 12:00	Classical example (Measles): Discussion session
+-  11:00 – 11:30	Classical example (Measles): Reading session
+-  11:30 - 12:00     Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf)
 -  12:00 – 13:00	[Dynamics of directly transmitted pathogens]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_III.pdf)
--  13:00 – 14:00 	Lunch
--  14:00 – 14:30	Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf)
--  15:00 – 17:00	[Tutorial II & benchmark questions](#computerlabs), project development
+-  13:00 – 14:00 	Lunch (Finish reading Panum)
+-  14:00 – 15:00	Classical example (Measles): Discussion session
+-  15:00 – 17:00	[Tutorial II & benchmark questions](#computerlabs), project development 
 
 Assignments
 
@@ -53,7 +54,7 @@ Assignments
 
 ### Thursday, 24 May
 
-- 9:00 – 10:00		[Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf) and case study: [Dengue, Chikungunya & Aging Mosquitos]({{page.repo}}/raw/master/lectures/Bellan-DengueChik.pdf)
+- 9:00 – 10:00		[Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) 
 - 10:00 – 10:30  	Computer labs and project development
 - 10:30 – 11:00 	Coffee break
 - 11:00 – 13:00		Project development and progress reports
