@@ -26,7 +26,7 @@ Assignments
 -  12:00 – 13:00	[Dynamics of directly transmitted pathogens]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_III.pdf)
 -  13:00 – 14:00 	Lunch
 -  14:00 – 14:30	Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf)
--  15:00 – 17:00	[Tutorial II & benchmark questions](#computerlabs), project development 
+-  15:00 – 17:00	[Tutorial II & benchmark questions](#computerlabs), project development
 
 Assignments
 
@@ -41,7 +41,7 @@ Assignments
 -  11:00 – 11:45	[Binomial Distribution Tutorial](#computerlabs)
 -  11:45 - 13:00	[Transmission in Finite Populations]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf)
 -  13:00 – 14:00 	Lunch
-- 14:00 Fill out [quick form for MMED](http://www.ici3d.org/MMED2017/logistics/logisticsForm)
+- 14:00 Fill out [quick form for MMED](http://www.ici3d.org/MMED/logistics/logisticsForm)
 -  14:00 – 15:00 	Project development (present on progress)
 -  15:00 – 17:00	[Tutorial III: simple stochastic models of epidemics](#computerlabs)
 
