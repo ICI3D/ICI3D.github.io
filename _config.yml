@@ -8,12 +8,12 @@ year: 2018
 gems:
   - jemoji
 collections:
-  profiles:
+  team:
     output: true
     permalink: /people/:name
 defaults:
   - scope:
       path: ""
-      type: profiles
+      type: team
     values:
       layout: profile
