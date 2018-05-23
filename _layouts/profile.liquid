@@ -5,6 +5,10 @@
 	<!-- WRAPPER -->
 	 <div class="wrapper">
      {%include navbar.html%}
+     {% if site.title contains "D" %}
+      {%include clinicNavbar.html%}
+      {%include header.html%}
+     {%endif%}
      {% if page.alertmsg contains "" %}
         <div class="alert alert-{{page.alerttype}} alert-dismissible" role="alert">
           							<button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
