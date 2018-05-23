@@ -11,17 +11,19 @@ summary: The ICI3D program faculty consists of core faculty, who are regular ins
 <h2 style="color: #15378a">Core Faculty</h2>
 <br>
 
-{% for profile in site.profiles %}
-  {% if profile.type == "core" or profile.type == "director" %}
+{% for profile in site.team %}
+{% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
+{% assign member = site.data.team[key] %}
+  {% if member.type == "core" or member.type == "director" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{profile.img}}" class="media-object img-circle pull-left" alt="{{ profile.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
-      <h3 class="media-heading team-name">{{ profile.name }}</h3>
-      <strong>{{ profile.role }} <br>{% if profile.type == "director" %}{{ profile.involvement }} <br>{% endif %}</strong>
+      <h3 class="media-heading team-name">{{ member.name }}</h3>
+      <strong>{{ member.role }} <br>{% if member.type == "director" %}{{ member.involvement }} <br>{% endif %}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> <em>{{ profile.position }}<br>{{ profile.affiliation }}</em></p>
-      <p style="font-size:14px">(<a href="../{{ profile.title | downcase}}">more info</a>)</p>
+      <p style="font-size:14px"> <em>{{ member.position }}<br>{{ member.affiliation }}</em></p>
+      <p style="font-size:14px">(<a href="../{{ key }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -32,17 +34,19 @@ summary: The ICI3D program faculty consists of core faculty, who are regular ins
 <h2 style="color: #15378a">Workshop Faculty</h2>
 <br>
 
-{% for profile in site.profiles %}
-{% if profile.type == "workshop" %}
+{% for profile in site.team %}
+{% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
+{% assign member = site.data.team[key] %}
+{% if member.type == "workshop" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{profile.img}}" class="media-object img-circle pull-left" alt="{{ profile.name }}" height="115" />
+    <img src="{{site.url}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
-      <h3 class="media-heading team-name">{{ profile.name }}</h3>
-      <strong>{{ profile.involvement }}</strong>
+      <h3 class="media-heading team-name">{{ member.name }}</h3>
+      <strong>{{ member.involvement }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> <em>{{ profile.position }}<br>{{ profile.affiliation }}</em></p>
-      <p style="font-size:14px">(<a href="../{{ profile.title | downcase}}">more info</a>)</p>
+      <p style="font-size:14px"> <em>{{ member.position }}<br>{{ member.affiliation }}</em></p>
+      <p style="font-size:14px">(<a href="../{{ key | downcase}}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
