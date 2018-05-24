@@ -6,7 +6,7 @@ involvement: Faculty Member, MMED clinic
 position: Researcher
 affiliation: South African Centre for Epidemiological Modelling and Analysis<br>Stellenbosch University, Stellenbosch, Western Cape, South Africa
 img: team/grebe.jpg
-summary: Cari is a PhD candidate in Epidemiology and Biostatistics at University of Cape Town and a Researcher at SACEMA. She was an MMED participant in 2012 and a DAIDD participant in 2014. Cari served as an MMED mentor in 2014 and 2016 and joined the Workshop Faculty in 2016.
+summary: Eduard is a Researcher at SACEMA. He was an MMED participant in 2016 and joined the Workshop Faculty in 2018.
 github: eduardgrebe
 orcid:
 linkedin:
@@ -32,5 +32,5 @@ degrees:
     discipline: Value and Policy Studies
     institution: Stellenbosch University
     year: 2002
-bio: Eduard is a Researcher at SACEMA. He was an MMED participant in 2016 and joined the Workshop Faculty in 2018.
+bio: Eduard is a Researcher at SACEMA who works primarily on HIV incidence estimation. He was the principal analyst for the CEPHIA collaboration, an international consortium established to independently evaluate HIV incidence assays (i.e. laboratory tests for ‘recent’ HIV infection, used in cross-sectional incidence estimation) and serves on the World Health Organisation’s technical working group on HIV incidence assays. He is also the maintainer of the open source inctools package for the R statistical programming language, which provides implementations of standard methods for cross- sectional incidence estimation and for ‘calibrating’ tests for recent infection. He has a background in social science, having obtained his PhD in economics from the University of Cape Town for work on HIV/AIDS policy and civil society health activism in Sub-Saharan Africa.
 ---
