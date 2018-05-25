@@ -15,4 +15,33 @@ twitter:
 impactstory:
 website:
 cv:
+degrees:
+  - degree: PhD
+    discipline: Physics
+    institution: The George Washington University
+    year: 2012
+  - degree: MSES
+    discipline: Mechincal Engineering
+    institution: The Naval Post Graduate School
+    year: 2006
+  - degree: BS
+    discipline: Mathematics & Physics
+    institution: Duke University
+    year: 2003
+papers:
+  - title: The long-term safety, public health impact, and cost-effectiveness of routine vaccination with a recombinant, live-attenuated dengue vaccine (Dengvaxia) - a model comparison study
+    authors: Flasche, Jit, Rodríguez-Barraquer, Coudeville, Recker, Koelle, Milne, Hladish, Perkins, Cummings, Dorigatti, Laydon, España, Kelso, Longini, Lourenco, <b>Pearson</b>, Reiner, Mier-y-Terán-Romero, Vannice, Ferguson
+    link: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181
+    journal: PLoS Medicine
+    year: 2017
+  - title: Projected impact of dengue vaccination in Yucatán, Mexico
+    authors: Hladish, <b>Pearson</b>, Chao, Rojas, Recchia, Gómez-Dantés, M Halloran, <b>Pulliam</b>, Longini
+    link: http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661
+    journal: PLOS Neglected Tropical Diseases
+    year: 2016
+  - title: Challenges to Understanding Dark Networks
+    authors: <b>Pearson</b>, Singer, Airoldi
+    journal: in Illuminating Dark Networks (editor L Gerdes)
+    year: 2015
+bio: Carl is a Science and Technology Exchange Liaison Officer for USAFRICOM. He is also the Founder of Very Good Research and Development, a company based in Gainesville, FL, USA, and a Research Fellow at SACEMA. He was a Faculty Observer at MMED 2015 and joined the Workshop Faculty in 2016.
 ---
