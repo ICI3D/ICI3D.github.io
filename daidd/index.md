@@ -13,6 +13,11 @@ alertmsg: The sixth annual <strong>Clinic on Dynamical Approaches to Infectious 
 [Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD{{page.year}}/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
+
+{%if page.alerttype == "success"%}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
+{%endif%}
+
 ## Intended audience
 
 This clinic targets public health researchers and population biologists interested in studying infectious diseases.
@@ -20,10 +25,6 @@ This clinic targets public health researchers and population biologists interest
 ## Selection criteria
 
 Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to sixteen places for applicants from US-based institutions and up to eight places for applicants based at African institutions.
-
-{%if page.alerttype == "success"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
-{%endif%}
 
 ## Schedule
 

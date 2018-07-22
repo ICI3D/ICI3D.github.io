@@ -1,14 +1,14 @@
 ---
 layout: page
 title: MMED
-year: 2018
+year: 2019
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 audience: This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
 selection: Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined.
-alerttype: warning
-alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 28 - June 8, 2018 at the African Institute for Mathematical Science in Muizenberg, South Africa.
+alerttype: danger
+alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held May 28 - June 8, 2018 at the African Institute for Mathematical Science in Muizenberg, South Africa. Please check back in mid-January for information about MMED 2019.
 ---
 {%if page.alerttype == "warning"%}
 [Go to MMED {{page.year}} »](http://www.ici3d.org/MMED/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
@@ -42,10 +42,11 @@ The general daily structure will be as follows:
 - 18:00-19:00 Dinner break (*Dinner is served from 18:00 to 18:30.*)
 - 19:00-20:00 Faculty research talk, computer session, or social activity
 
-We will start earlier on the first day, and end early on Saturday of the first week. The Clinic will officially end by 5pm on Friday of the second week. There will be an optional field trip on Saturday of the second week for participants who wish to attend. The preliminary [schedule for MMED {{page.year}}](./schedule) is now available.
+We will start earlier on the first day, and end early on Saturday of the first week. The Clinic will officially end by 5pm on Friday of the second week. There will be an optional field trip on Saturday of the second week for participants who wish to attend. The preliminary [schedule for MMED {{page.year}}](./schedule) will be available approximately one month before the Clinic.
 
 Schedules from previous years:
 
+- [MMED 2018](./schedule/2018 "MMED 2018 schedule")
 - [MMED 2017](./schedule/2017 "MMED 2017 schedule")
 - [MMED 2016](./schedule/2016 "MMED 2016 schedule")
 - [MMED 2015](./schedule/2015 "MMED 2015 schedule")
