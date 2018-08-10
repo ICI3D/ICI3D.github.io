@@ -6,7 +6,7 @@ tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: danger
-alertmsg: The sixth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, was held December 10-16, 2017 in Jacksonville and Yulee, Florida.
+alertmsg: Information about DAIDD 2018 will be available no later than September. Please check back soon, and thank you for your patience.
 ---
 
 {%if page.alerttype == "warning"%}
