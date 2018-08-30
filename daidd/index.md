@@ -6,7 +6,7 @@ tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: danger
-alertmsg: Information about DAIDD 2018 will be available no later than September. Please check back soon, and thank you for your patience.
+alertmsg: Information about DAIDD 2018 will be available in September. Please check back soon, and thank you for your patience.
 ---
 
 {%if page.alerttype == "warning"%}
