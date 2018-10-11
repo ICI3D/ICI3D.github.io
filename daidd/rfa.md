@@ -15,7 +15,7 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 **Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. Applicants with a good grounding in statistics and experience with data collection will be preferred. This workshop is not intended for those with substantial prior experience in dynamical modeling.**
 
-The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
+The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR 30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
 
 The application process for the Clinic is competitive. **The deadline for receipt of applications is 25 October 2018.** Additional applications may be considered after the deadline, on a space-available basis. Applicants who will need a visa to visit South Africa are strongly encouraged to apply by 25 October. Incomplete applications will not be considered.
 
