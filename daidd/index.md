@@ -15,7 +15,7 @@ alertmsg: DAIDD 2018 will be held 16-22 December in Stellenbosch, South Africa. 
 
 
 {%if page.alerttype == "success"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Objectives
