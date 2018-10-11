@@ -5,8 +5,8 @@ year: 2018
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: info
-alertmsg: DAIDD 2018 will be held 16-22 December in Stellenbosch, South Africa. Additional information has been updated on this page. Application instructions will be available soon. We apologize for the delay and thank you for your patience.
+alerttype: success
+alertmsg: DAIDD 2018 will be held 16-22 December in Stellenbosch, South Africa. Additional information has been updated on this page. The application is now open.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -18,6 +18,17 @@ alertmsg: DAIDD 2018 will be held 16-22 December in Stellenbosch, South Africa. 
 [Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 
+## Objectives
+
+The Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD) aims to provide participants with:
+
+-	An understanding of dynamic principles and their role in the epidemiology of infectious diseases
+-	A familiarity with diverse modeling frameworks
+-	Guided experience with construction of simple models
+-	A conceptual framework for fitting models to data
+-	Experience creating a model world to address a research question
+-	A set of identified resources for continued learning
+
 ## Intended audience
 
 This clinic targets public health researchers and population biologists interested in studying infectious diseases.
@@ -28,7 +39,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (and visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants in early November.
+The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants in early November.
 
 ## Venue
 
