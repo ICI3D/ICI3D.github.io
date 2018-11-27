@@ -10,7 +10,7 @@ alertmsg: DAIDD 2018 will be held 16-22 December in Stellenbosch, South Africa. 
 ---
 
 {%if page.alerttype == "warning"%}
-[Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD{{page.year}}/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
+[Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 
