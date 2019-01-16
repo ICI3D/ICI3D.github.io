@@ -27,7 +27,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR$30,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants.
+The course registration fee is to be determined. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants.
 
 ## Schedule
 
