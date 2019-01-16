@@ -16,6 +16,8 @@ During the first week of the Clinic, all participants will be required to presen
 
 Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. The Clinic targets participants with a strong quantitative background and some prior knowledge of mathematical modeling in epidemiology but limited experience integrating data and models to address applied questions in infectious disease dynamics.
 
+The course registration fee is ZAR 30,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
+
 The application process for the Clinic is highly competitive. Preference will be given to applicants that have the most to gain from Clinic participation. Late or incomplete applications will not be considered.
 
 - The deadline for receipt of applications from **individuals based at institutions outside Africa** for MMED {{page.year}} is February 15, {{page.year}} at 5pm Eastern (New York).
