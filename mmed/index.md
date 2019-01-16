@@ -5,10 +5,8 @@ year: 2019
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
-audience: This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
-selection: Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined.
 alerttype: danger
-alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held May 28 - June 8, 2018 at the African Institute for Mathematical Science in Muizenberg, South Africa. Please check back in mid-January for information about MMED 2019.
+alertmsg: The tenth annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held May 27 - June 7, 2019 at the African Institute for Mathematical Science in Muizenberg, South Africa. The application will open soon.
 ---
 {%if page.alerttype == "warning"%}
 [Go to MMED {{page.year}} »](http://www.ici3d.org/MMED/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
@@ -21,11 +19,11 @@ alertmsg: The ninth annual <strong>Clinic on the Meaningful Modeling of Epidemio
 
 ## Intended audience
 
-This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior researchers based at institutions in the US, Canada, or Africa. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
+This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior / early career researchers and can be based at institutions anywhere in the world. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
 
 ## Selection criteria
 
-Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants from US-based institutions; the number of students from African institutions is yet to be determined.
+Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants based outside Africa and up to ten places for applicants from African institutions.
 
 ## Schedule
 

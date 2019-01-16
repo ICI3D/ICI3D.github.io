@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Request for Applications
-longtitle: Request for Applications to Attend DAIDD 2018
-subtitle: Clinic on Dynamical Approaches to Infectious Disease Data
+longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
-applink: http://www.ici3d.org/daidd/apply
-alerttype: success
+alerttype: danger
 alertmsg: Please note that DAIDD 2018 will be held in Stellenbosch, South Africa from 16-22 December. We are excited to offer this clinic on the African continent for the first time! We expect future DAIDD clinics will be held in Florida, USA, as in previous years.
 ---
 
@@ -19,8 +17,9 @@ The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR 30,
 
 The application process for the Clinic is competitive. **The deadline for receipt of applications is 25 October 2018.** Additional applications may be considered after the deadline, on a space-available basis. Applicants who will need a visa to visit South Africa are strongly encouraged to apply by 25 October. Incomplete applications will not be considered.
 
-**Detailed application instructions are available via the application form, linked below.**
-
 {%if page.alerttype == "success"%}
+
+**Detailed application instructions are available via the application form, which is linked below.**
+
 [Apply now »]({{page.applink}} "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
