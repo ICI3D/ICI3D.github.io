@@ -6,18 +6,18 @@ longtitle: ICI3D Program Acknowledgements
 summary: The ICI3D Program has received funding from a variety of sources. Participants are requested to acknowledge both the overall program and the funding for the year/s they attended.
 ---
 
-In reverse chronological order, ICI3D programs have been funded by
+In reverse chronological order, ICI3D programs have been funded by:
 
-* **DAIDD 2017**: National Science Foundation 1762196, National Institute for General Medical Sciences U01GM087719, World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
-* **MMED 2017**: National Institute for General Medical Sciences U01GM087719, World Health Organization Research & Development
-  Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
-* **DAIDD 2016**: National Science Foundation 1700060, NIH National Institute for General Medical Sciences R25GM102149, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
-* **MMED 2012-2016** & **DAIDD 2012-2015**: NIH National Institute for General Medical Sciences R25GM102149, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
-* **I3D 2012-2016**: National Institute for General Medical Sciences R25GM102149
-* **MMED 2011**: National Science Foundation Award DEB-1134964, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
-* **MMED 2010**: National Science Foundation DMS-829652, NIH/Fogarty Framework Programs for Global
-  Health Innovations R24TW008822, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
-* **MMBD 2009**: National Science Foundation DMS-829652
+* **DAIDD 2018**: South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **MMED 2018**: World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **DAIDD 2017**: National Science Foundation (1762196), National Institute for General Medical Sciences (U01GM087719), World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **MMED 2017**: National Institute for General Medical Sciences (U01GM087719), World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **DAIDD 2016**: National Science Foundation (1700060), NIH National Institute for General Medical Sciences (R25GM102149), South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **MMED 2012-2016** & **DAIDD 2012-2015**: NIH National Institute for General Medical Sciences (R25GM102149), South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **I3D 2012-2016**: National Institute for General Medical Sciences (R25GM102149)
+* **MMED 2011**: National Science Foundation Award (DEB-1134964), South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **MMED 2010**: National Science Foundation (DMS-829652), NIH/Fogarty Framework Programs for Global Health Innovations (R24TW008822), South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
+* **MMBD 2009**: National Science Foundation (DMS-829652)
 
 
 Please acknowledge the ICI3D program and relevant funding sources in
