@@ -6,6 +6,8 @@ longtitle: ICI3D Program Publications
 summary: Includes work funded by the ICI3D program grant from NIGMS and products from MMED 2010-2012, which predated that award.
 ---
 
+_Key_: ICI3D participant = _italic_, ICI3D faculty = **bold**, Graduate Student = [g], Post-Doctoral Researcher = [p], Undergraduate = [u]
+
 <div class="panel-group" id="accordion">
 							<div class="panel panel-default">
 								<div class="panel-heading">
@@ -50,5 +52,3 @@ summary: Includes work funded by the ICI3D program grant from NIGMS and products
 								</div>
 							</div>
 						</div>
-
-_Key_: ICI3D participant = _italic_, ICI3D faculty = **bold**, Graduate Student = [g], Post-Doctoral Researcher = [p], Undergraduate = [u]
