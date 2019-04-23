@@ -1,10 +1,11 @@
 ---
 name: Thumbi Mwangi, PhD
-type: mentor
-role: Mentor
-img: mentors/mwangi.png
+type: workshop
+role: Faculty Member, MMED 2019
+involvement: Faculty Member, MMED clinic
+img: team/mwangi.png
 position: Wellcome Trust Fellow
-affiliation: Center for Global Health Research, Kenya Medical Research Institute
+affiliation: Center for Global Health Research, Kenya Medical Research Institute<br>Paul G Allen School for Global Animal Health, Washington State University
 degrees:
   - degree: PhD
     discipline: Infectious disease epidemiology
