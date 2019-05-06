@@ -1,6 +1,6 @@
 <div markdown="1">
 
-### Monday, 21 May
+### Monday, 20 May
 
 -  9:00 – 9:20		Introductions, Overview of course (structure and expectations)
 -  9:20 – 10:30		[Introduction to public health, epidemiology, and infectious diseases]({{page.repo}}/raw/master/lectures/Intro_PH_Epi_ID.pdf)
@@ -18,7 +18,7 @@ Assignments
 - [Read Panum (Measles)](./panum.html) – due Tues AM
 - Skim [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Tues PM
 
-### Tuesday, 22 May
+### Tuesday, 21 May
 - 9:00 - 10:00		[Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf)
 - 10:00 - 10:30     Project discussion and development
 -  10:30 – 11:00 	Coffee break
@@ -36,7 +36,7 @@ Assignments
 - Read [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) – due Wed AM
 - Progress on projects – due Wed PM
 
-### Wednesday, 23 May
+### Wednesday, 22 May
 -  9:00 – 10:30 	Contemporary example (Rabies): Discussion session
 -  10:30 – 11:00 	Coffee break
 -  11:00 – 11:45	[Binomial Distribution Tutorial](#computerlabs)
@@ -52,7 +52,7 @@ Assignments
 - Complete [Tutorial III](#computerlabs) – due Sun PM
 - ** turn in figures and code from Tutorial III Questions by email to Zinhle**
 
-### Thursday, 24 May
+### Thursday, 23 May
 
 - 9:00 – 10:00		[Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) 
 - 10:00 – 10:30  	Computer labs and project development
@@ -68,7 +68,7 @@ Assignments
 - Complete [Tutorial III](#computerlabs) – due Sun PM
 - ** turn in figures and code from Tutorial III Questions by email to Zinhle**
 
-### Friday, 25 May
+### Friday, 24 May
 
 - 9:00 – 10:30 Practice presentations and feedback
 - 10:30 – 11:00 Coffee break
@@ -92,7 +92,7 @@ Assignments
 
 (Free day)
 
-### Monday, 28 June through Friday, 8 June
+### Monday, 27 June through Friday, 7 June
 
 See [MMED schedule](http://www.ici3d.org/MMED/schedule)
 
