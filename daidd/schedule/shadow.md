@@ -1,7 +1,7 @@
 ---
 layout: redirect
-redirect: http://www.ici3d.org/DAIDD2017/schedule/shadow
-title: DAIDD 2017
+redirect: http://www.ici3d.org/DAIDD/schedule/shadow
+title: DAIDD
 tab: Schedule
 subtitle: Shadow Schedule
 alerttype: warning

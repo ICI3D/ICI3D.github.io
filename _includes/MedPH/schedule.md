@@ -27,7 +27,7 @@ Assignments
 -  12:00 – 13:00	[Dynamics of directly transmitted pathogens]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_III.pdf)
 -  13:00 – 14:00 	Lunch (Finish reading Panum)
 -  14:00 – 15:00	Classical example (Measles): Discussion session
--  15:00 – 17:00	[Tutorial II & benchmark questions](#computerlabs), project development 
+-  15:00 – 17:00	[Tutorial II & benchmark questions](#computerlabs), project development
 
 Assignments
 
@@ -54,7 +54,7 @@ Assignments
 
 ### Thursday, 23 May
 
-- 9:00 – 10:00		[Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) 
+- 9:00 – 10:00		[Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf)
 - 10:00 – 10:30  	Computer labs and project development
 - 10:30 – 11:00 	Coffee break
 - 11:00 – 13:00		Project development and progress reports
@@ -84,11 +84,11 @@ Assignments
 - ** turn in figures and code from Tutorial III Questions by email to Zinhle**
 
 
-### Saturday, 26 May
+### Saturday, 25 May
 
 (Free day)
 
-### Sunday, 27 June
+### Sunday, 26 June
 
 (Free day)
 

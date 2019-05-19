@@ -1,12 +1,26 @@
 ---
 name: Faikah Bruce, MSc
 type: workshop
-role: Faculty Member, MMED 2015-2016
+role: Faculty Member, MMED 2015-2016, MMED 2018
 involvement: Faculty Member, MMED clinic
-position: PhD candidate, University of Cape Town and<br>South African Centre for Epidemiological Modelling and Analysis
-affiliation: Stellenbosch University, Stellenbosch, Western Cape, South Africa
+position: PhD candidate, South African Centre for Epidemiological Modelling and Analysis
+affiliation: Stellenbosch University, Stellenbosch, South Africa
 img: team/bruce.jpg
 summary: Faikah is a PhD candidate in the Department of Mathematics at Stellenbosch University. She was an MMED participant in 2011, served as an MMED mentor in 2012-2014, and joined the Workshop Faculty in 2015.
+degrees:
+  - degree: MSc
+    discipline: Mathematical Sciences
+    institution: Stellenbosch University
+    year: 2013
+  - degree: Postgraduate Diploma
+    discipline: Mathematical Sciences
+    institution: African Institute for Mathematical Sciences – South Africa
+    year: 2010
+  - degree: BSc (Hons)
+    discipline: Applied Mathematics
+    institution: Nelson Mandela University
+    year: 2007
 icons: no
 github: faikah
+bio: Faikah obtained her BSc and BSc Hon in Applied Mathematics at Nelson Mandela University, Port Elizabeth, South Africa in 2008. She continued her studies to obtain a postgraduate diploma in Mathematical Sciences from the African Institute for Mathematical Sciences – South Africa in 2010, then proceeded to join the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA) to obtain a Master of Science in Mathematical Sciences from Stellenbosch University in 2013. Still with SACEMA, she is currently a PhD student at Stellenbosch University. She was an MMED participant in 2011, served as an MMED mentor in 2012-2014, and joined the Workshop Faculty in 2015. She is currently serving as the ICI3D Program Assistant. Her research so far has focused on the development and use of mathematical models to characterize, understand, and eventually to manage the epidemic of HIV and other sexually transmitted infections in South Africa. She is currently developing a stochastic, individual-based model to simulate the impact of various HIV prevention methods on the incidence of HIV and HSV-2, and their interaction, among adolescents. She has developed a risk scoring algorithm that aims to help individuals better understand their risk of acquiring HIV and how they could decrease this risk by adopting various HIV mitigation strategies. This application has been used in a project (part of the CHAMPS project) that assessed the acceptability of HIV pre-exposure prophylaxis among adolescents in Masiphumelele, South Africa. The application was developed as part of her PhD.
 ---

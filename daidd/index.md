@@ -6,12 +6,28 @@ tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: danger
-alertmsg: The sixth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong>, hosted by the University of Georgia’s Department of Epidemiology and Biostatistics, was held December 10-16, 2017 in Jacksonville and Yulee, Florida.
+alertmsg: The seventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> was held 16-22 December in Stellenbosch, South Africa. Please check back in mid-August for information about DAIDD 2019.
 ---
 
 {%if page.alerttype == "warning"%}
-[Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD{{page.year}}/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
+[Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
+
+
+{%if page.alerttype == "success"%}
+[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
+{%endif%}
+
+## Objectives
+
+The Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD) aims to provide participants with:
+
+-	An understanding of dynamic principles and their role in the epidemiology of infectious diseases
+-	A familiarity with diverse modeling frameworks
+-	Guided experience with construction of simple models
+-	A conceptual framework for fitting models to data
+-	Experience creating a model world to address a research question
+-	A set of identified resources for continued learning
 
 ## Intended audience
 
@@ -19,11 +35,15 @@ This clinic targets public health researchers and population biologists interest
 
 ## Selection criteria
 
-Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to sixteen places for applicants from US-based institutions and up to eight places for applicants based at African institutions.
+Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to twenty-four places available and encourage applications from researchers based anywhere in the world.
 
-{%if page.alerttype == "success"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
-{%endif%}
+## Course fees
+
+The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants in early November.
+
+## Venue
+
+This year is the first time DAIDD will be held in Africa. The venue will be [Mont Fluer Conference Centre](http://montfleur.co.za/) in Stellenbosch, South Africa, which provides an ideal setting for this intensive workshop. Participants should arrive at the venue between 14:00 and 15:00 on Sunday 16 October. Information regarding arrangements for local transportation, including airport transfers, will be provided prior to the workshop.
 
 ## Schedule
 
@@ -41,7 +61,7 @@ Specific session times will vary by day, but the general daily structure will be
 - 6:00-8:00 Dinner break (dinner is served at 7)
 - 8:00-9:00 Working session, feedback session, or social activity
 
-The introductory and closing sessions will be held in Jacksonville, FL. The Clinic will begin on Sunday afternoon, and on Monday morning, we will travel as a group to [White Oak Conservation's Conference Center](http://www.whiteoakwildlife.org/wop/conferences/) in Yulee, FL. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 2pm on Saturday. **The schedule for DAIDD {{page.year}} is not yet available.**
+The Clinic will begin at 16:00 on Sunday afternoon. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 14:00 on Saturday. **The full schedule for DAIDD {{page.year}} is not yet available.**
 
 Schedules from previous years:
 

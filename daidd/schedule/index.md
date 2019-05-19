@@ -1,6 +1,6 @@
 ---
 layout: page
-redirect: http://www.ici3d.org/DAIDD2018/schedule
+redirect: http://www.ici3d.org/DAIDD/schedule
 title: DAIDD Schedule
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data

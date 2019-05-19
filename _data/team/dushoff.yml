@@ -1,11 +1,12 @@
 ---
 name: Jonathan Dushoff, PhD
-type: core
-role: Faculty Member, MMED and DAIDD clinics
-position: Associate Professor of Biology
+type: director
+role: Acting Program Director for North America
+involvement: Faculty Member, MMED and DAIDD clinics
+position: Professor of Biology
 affiliation: Department of Biology <br>Department of Mathematics and Statistics <br>McMaster University, Hamilton, ON, Canada
 img: team/dushoff.jpg
-summary: Jonathan is an Associate Professor of Biology in the Department of Biology and Department of Mathematics and Statistics at McMaster University. He has been on the ICI3D Core Faculty since the program started in 2012.
+summary: Jonathan is a Professor of Biology in the Department of Biology and Department of Mathematics and Statistics at McMaster University. He has been on the ICI3D Core Faculty since the program started in 2012.
 icons: yes
 github: dushoff
 gscholar: yVwAcxMAAAAJ
@@ -36,5 +37,5 @@ papers:
     link: https://www.ncbi.nlm.nih.gov/pubmed/28325495
     journal: Epidemics
     year: 2017
-bio: Jonathan is an Associate Professor of Biology at McMaster University in Hamilton, Canada, with cross appointments in the Department of Mathematics and Statistics, and the Institute for Infectious Disease Research. He has taught short courses annually in South Africa since 2007, starting with predecessors of the MMED clinic, and has been involved from the beginning in building and maintaining the ICI3D program. Jonathan has a broad interest in understanding the dynamics of infectious diseases by combining theoretical, statistical and computational approaches. Current interests include HIV control and the HIV treatment cascade; control of canine rabies; and disease forecasting.
+bio: Jonathan is a Professor of Biology at McMaster University in Hamilton, Canada, with cross appointments in the Department of Mathematics and Statistics, and the Institute for Infectious Disease Research. He has taught short courses annually in South Africa since 2007, starting with predecessors of the MMED clinic, and has been involved from the beginning in building and maintaining the ICI3D program. Jonathan has a broad interest in understanding the dynamics of infectious diseases by combining theoretical, statistical and computational approaches. Current interests include HIV control and the HIV treatment cascade; control of canine rabies; and disease forecasting.
 ---

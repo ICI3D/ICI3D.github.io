@@ -1,8 +1,9 @@
 {% assign key = page.relative_path | split: '/' | last | split: '.' | first %}
 {% assign person = site.data.team[key] %}
+
 <div class="col-md-10 col-md-offset-1">
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{person.img}}" class="media-object img-circle pull-left" alt="{{ person.name }}" height="140" />
+    <img src="{{site.url}}{{site.path}}/assets/img/{{person.img}}" class="media-object img-circle pull-left" alt="{{ person.name }}" height="140" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ person.name }}</h3>
       <strong>{{ person.role }}</strong>
