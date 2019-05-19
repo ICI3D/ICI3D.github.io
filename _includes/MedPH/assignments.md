@@ -26,12 +26,11 @@ Examples from previous years
 #### Data Sets
 
 - Poster projects will be completed in groups, TBD:
-    1. **Nigeria Lassa Fever Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsNigeriaLF.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataNigeriaLF.Rdata?raw=true))
-    2. **Democratic Republic of Congo Ebola Epidemic<sup>2</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsDRC_Ebola.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataDRC_Ebola.Rdata?raw=true))
+    1. **Liberia 2014-2016 Ebola Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/LiberiaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    2. **Sierra Leone 2014-2016 Ebola Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/SLEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    3. **Guinea 2014-2016 Ebola Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/GuineaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
 
-<sup>1</sup> Data made available courtesy of **Dr. Caitlin Rivers, Johns Hopkins Center for Health Security** (https://github.com/cmrivers/ebola_drc) GitHub repository and cleaned by Becky. The original data files are available online from the WHO Disease Outbreak Network ( <http://www.who.int/csr/don/en/>), WHO situation reports (<http://www.who.int/ebola/situation-reports/drc-2018/en/>), and the DRC Ministry of Health mailing list. 
-
-<sup>2</sup> Data made available courtesy of **Dr. Simon Frost, Dept of Veterinary Medicine, University of Cambridge** (https://github.com/sdwfrost/nigeria-lassa-data) GitHub repository and cleaned by Becky.
+<sup>1</sup> Data from the [Humanitarian Data Exchange](https://data.humdata.org/dataset/rowca-ebola-cases) and cleaned by Steve Bellan.
 
 #### Instructions
 
@@ -45,7 +44,7 @@ Examples from previous years
 
 ### Final written project
 
-- [Project instructions]({{page.repo}}/blob/master/Project_guidelines_2018.pdf) "Guidelines for the final project")
+- [Project instructions]({{page.repo}}/blob/master/Project_guidelines_2019.pdf) "Guidelines for the final project")
 - Your final project can be based on your poster project or your MMED group project. You will have lot of free time during the last week of MMED to write this.
 - A list of suggested topics for MMED group projects is available at [on this page]({{ site.url }}/projects).
 
@@ -88,15 +87,17 @@ Examples from previous years
 - Previous projects:
     1. **London<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsLondon.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataLondon.Rdata?raw=true))
     2. **Zaire 1976 Ebola Epidemic<sup>2</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsZaireEbola.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataZaireEbola.Rdata?raw=true))
-    3. **Liberia 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/LiberiaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
-    4. **Sierra Leone 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/SLEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
-    5. **Guinea 2014-2016 Ebola Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/GuineaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    3. **Nigeria Lassa Fever Epidemic<sup>3</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsNigeriaLF.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataNigeriaLF.Rdata?raw=true))
+    4. **Democratic Republic of Congo Ebola Epidemic<sup>4</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/figsDRC_Ebola.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/dataDRC_Ebola.Rdata?raw=true))
+
 
 <sup>1</sup> Data made available courtesy of **Prof. David Earn, Dept. of Mathematics, McMaster University**. The data files are available online from the International Infectious Disease Data Archive (IIDDA, <http://iidda.mcmaster.ca>) and were first published in either *D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) A simple model for complex dynamical transitions in epidemics Science 287(5453): 667-670.* or *C. T. Bauch and D. J. D. Earn (2003) Transients and Attractors in Epidemics. Proceedings of the Royal Society of London Series B 270:1573-1578.* **Note that use of these data is only permitted for the purposes of this course, and any outside use must receive prior approval from Prof. Earn.**
 
 <sup>2</sup> Data from [Camacho a., Kucharski a. J, Funk S, Breman J, Piot P, Edmunds WJ. Potential for large outbreaks of Ebola virus disease. Epidemics 2014](http://linkinghub.elsevier.com/retrieve/pii/S1755436514000528) supplementary material and cleaned by Becky.
 
-<sup>3</sup> Data from the [Humanitarian Data Exchange](https://data.humdata.org/dataset/rowca-ebola-cases) and cleaned by Steve.
+<sup>3</sup> Data made available courtesy of **Dr. Caitlin Rivers, Johns Hopkins Center for Health Security** (https://github.com/cmrivers/ebola_drc) GitHub repository and cleaned by Becky. The original data files are available online from the WHO Disease Outbreak Network ( <http://www.who.int/csr/don/en/>), WHO situation reports (<http://www.who.int/ebola/situation-reports/drc-2018/en/>), and the DRC Ministry of Health mailing list. 
+
+<sup>4</sup> Data made available courtesy of **Dr. Simon Frost, Dept of Veterinary Medicine, University of Cambridge** (https://github.com/sdwfrost/nigeria-lassa-data) GitHub repository and cleaned by Becky.
 
 
 Readings
