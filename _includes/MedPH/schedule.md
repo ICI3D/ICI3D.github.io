@@ -9,12 +9,12 @@
 -  12:00 – 13:00	[Tutorial I: Introduction to R and Epidemic curves](#computerlabs)
 -  13:00 – 14:00 	Lunch
 -  14:00 – 15:00 	Tutorial I continued
--  15:00 – 15:30	[Introduction to projects]({{page.repo}}/raw/master/Project_guidelines_2017.pdf)
+-  15:00 – 15:30	[Introduction to projects]({{page.repo}}/raw/master/Project_guidelines_2019.pdf)
 -  15:30 – 16:00	[Read Panum (Measles)](./panum.html)
 
 Assignments
 
-- Complete [Tutorial I](#computerlabs)
+- Complete [Tutorial I](#computerlabs) – due Tues AM **email to Zinhle at zinhle@aims.ac.za***
 - [Read Panum (Measles)](./panum.html) – due Tues AM
 - Skim [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Tues PM
 
