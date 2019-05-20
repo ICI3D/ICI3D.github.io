@@ -26,9 +26,9 @@ Examples from previous years
 #### Data Sets
 
 - Poster projects will be completed in groups, TBD:
-    1. **Liberia 2014-2016 Ebola Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/LiberiaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
-    2. **Sierra Leone 2014-2016 Ebola Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/SLEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
-    3. **Guinea 2014-2016 Ebola Epidemic<sup>1</sup>:** ([download figures]({{page.repo}}/blob/master/projectData/GuineaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    1. **Liberia 2014-2016 Ebola Epidemic<sup>1</sup>: Abigail and Dylan** ([download figures]({{page.repo}}/blob/master/projectData/LiberiaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    2. **Sierra Leone 2014-2016 Ebola Epidemic<sup>1</sup>: Priyanka and Mandilakhe** ([download figures]({{page.repo}}/blob/master/projectData/SLEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
+    3. **Guinea 2014-2016 Ebola Epidemic<sup>1</sup>: Richard, Stephan, and Nicola** ([download figures]({{page.repo}}/blob/master/projectData/GuineaEVD.pdf?raw=true), [download data]({{page.repo}}/blob/master/projectData/WAevddat.Rdata?raw=true))
 
 <sup>1</sup> Data from the [Humanitarian Data Exchange](https://data.humdata.org/dataset/rowca-ebola-cases) and cleaned by Steve Bellan.
 
