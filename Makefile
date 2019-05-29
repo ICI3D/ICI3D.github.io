@@ -6,11 +6,20 @@ target pngtarget pdftarget vtarget acrtarget: notarget
 
 ##################################################################
 
-
 # make files
+Sources = Makefile README.md LICENSE.md
+Ignore += .gitignore 
 
-Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
-include stuff.mk
+msrepo = https://github.com/dushoff
+ms = makestuff
+-include $(ms)/os.mk
+
+Ignore += $(ms)
+Makefile: $(ms)/Makefile
+$(ms)/Makefile:
+	git clone $(msrepo)/$(ms)
+	ls $@
+
 # include $(ms)/perl.def
 
 ##################################################################
@@ -20,9 +29,6 @@ include stuff.mk
 ######################################################################
 
 ### Makestuff
-
-## Change this name to download a new version of the makestuff directory
-# Makefile: start.makestuff
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
