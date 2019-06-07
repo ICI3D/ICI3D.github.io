@@ -8,6 +8,7 @@ summary: The ICI3D Program has received funding from a variety of sources. Parti
 
 In reverse chronological order, ICI3D programs have been funded by:
 
+* **MMED 2019**: South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA), National Institute for General Medical Sciences (U01GM087719 and U24GM132013)
 * **DAIDD 2018**: South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
 * **MMED 2018**: World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
 * **DAIDD 2017**: National Science Foundation (1762196), National Institute for General Medical Sciences (U01GM087719), World Health Organization Research & Development Blueprint, South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA)
