@@ -32,7 +32,8 @@
 
 - [Visualizing Infectious Disease Data in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/visualizeData.R)
 - [Gillespie algorithm](././tutorials/gillespie)
-- [spillover SIR implemented with Gillespie algorithm](https://raw.githubusercontent.com/ICI3D/RTutorials/master/spillover_introductions.R)
+- [spillover SIR implemented with Gillespie algorithm](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R)
 - [ODE Models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and steps for constructing a [seasonal SEIR model](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.w.seasonal.R) from the model in the ODE lab
 
 </div>
+
