@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DAIDD
-year: 2018
+year: 2019
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
@@ -39,11 +39,11 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is US$2,250 or €2,000. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants in early November.
+The course registration fee is US$2,350 or €2,100. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants by early November.
 
 ## Venue
 
-This year is the first time DAIDD will be held in Africa. The venue will be [Mont Fluer Conference Centre](http://montfleur.co.za/) in Stellenbosch, South Africa, which provides an ideal setting for this intensive workshop. Participants should arrive at the venue between 14:00 and 15:00 on Sunday 16 October. Information regarding arrangements for local transportation, including airport transfers, will be provided prior to the workshop.
+DAIDD will be held at [Mont Fluer Conference Centre](http://montfleur.co.za/) in Stellenbosch, South Africa, which provides an ideal setting for this intensive workshop. Participants should arrive at the venue between 14:00 and 15:00 on Sunday 16 October. Information regarding arrangements for local transportation, including airport transfers, will be provided prior to the workshop.
 
 ## Schedule
 
@@ -65,6 +65,7 @@ The Clinic will begin at 16:00 on Sunday afternoon. There will be a mid-session 
 
 Schedules from previous years:
 
+- [DAIDD 2018](www.ici3d.org/DAIDD/schedule/2018 "DAIDD 2018 schedule")
 - [DAIDD 2017](./schedule/2017 "DAIDD 2017 schedule")
 - [DAIDD 2016](./schedule/2016 "DAIDD 2016 schedule")
 - [DAIDD 2015](./schedule/2015 "DAIDD 2015 schedule")
