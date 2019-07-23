@@ -43,7 +43,7 @@ The course registration fee is US$2,350 or €2,100. A discounted fee of ZAR$30,
 
 ## Venue
 
-DAIDD will be held at [Mont Fluer Conference Centre](http://montfleur.co.za/) in Stellenbosch, South Africa, which provides an ideal setting for this intensive workshop. Participants should arrive at the venue between 14:00 and 15:00 on Sunday 16 October. Information regarding arrangements for local transportation, including airport transfers, will be provided prior to the workshop.
+DAIDD will be held at [Mont Fleur Conference Centre](http://montfleur.co.za/) in Stellenbosch, South Africa, which provides an ideal setting for this intensive workshop. Participants should arrive at the venue between 14:00 and 15:00 on Sunday. Information regarding arrangements for local transportation, including airport transfers, will be provided prior to the workshop.
 
 ## Schedule
 
@@ -54,14 +54,13 @@ Specific session times will vary by day, but the general daily structure will be
 - 10:30-11:00 Morning break
 - 11:00-12:30 Lecture/discussion and/or tutorial
 - 12:30-2:00 Lunch break
-- 3:00-3:30 Lecture/discussion and/or tutorial
-- 3:15-3:45 Afternoon break
-- 3:45-5:00 Lecture/discussion and/or tutorial
-- 5:00-6:00 Exercise or working session
+- 2:00-3:30 Lecture/discussion and/or tutorial
+- 3:30-4:00 Afternoon break
+- 4:00-6:00 Exercise and/or working session
 - 6:00-8:00 Dinner break (dinner is served at 7)
 - 8:00-9:00 Working session, feedback session, or social activity
 
-The Clinic will begin at 16:00 on Sunday afternoon. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 14:00 on Saturday. **The full schedule for DAIDD {{page.year}} is not yet available.**
+The Clinic will begin at 16:00 on Sunday afternoon. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 14:00 on Saturday. **The full schedule for DAIDD {{page.year}} will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
 
