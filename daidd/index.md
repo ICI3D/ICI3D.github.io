@@ -5,8 +5,8 @@ year: 2019
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: danger
-alertmsg: The eighth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 15-21 December in Stellenbosch, South Africa. The application for DAIDD 2019 will open in mid-August.
+alerttype: success
+alertmsg: The eighth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 15-21 December in Stellenbosch, South Africa. The application for DAIDD 2019 is now open.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -39,7 +39,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is US$2,350 or €2,100. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants by early November.
+The course registration fee is ZAR 30,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants by early November.
 
 ## Venue
 

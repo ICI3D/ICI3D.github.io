@@ -3,8 +3,9 @@ layout: page
 title: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
-alerttype: danger
+alerttype: success
 alertmsg: The eighth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 15-21 December in Stellenbosch, South Africa. The deadline for receipt of applications is <strong>September 15</strong>.
+applink: ./apply
 ---
 
 The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the annual Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD). This 1-week intensive modeling clinic will provide an introduction to dynamical models used in the study of infectious disease dynamics. The Clinic will bring together graduate students, postdoctoral students, and researchers from around the world, and instruction will focus on how the complex dynamics of pathogen transmission influence study design and data collection for addressing problems in infectious disease research.
@@ -13,9 +14,9 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 **Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. Applicants with a good grounding in statistics and experience with data collection will be preferred. This workshop is not intended for those with substantial prior experience in dynamical modeling.**
 
-The course registration fee is US$2,350 or €2,100. A discounted fee of ZAR$30,000 is available to participants from low and middle income countries. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
+The course registration fee is ZAR 30,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable).
 
-The application process for the Clinic is competitive. **The deadline for receipt of applications is 15 September 2019.** Additional applications may be considered after the deadline, on a space-available basis. Applicants who will need a visa to visit South Africa are strongly encouraged to apply by 15 September. Incomplete applications will not be considered.
+The application process for the Clinic is competitive. **The deadline for receipt of applications is 15 September 2019.** Additional applications may be considered after the deadline, on a space-available basis. Applicants who will need a visa to visit South Africa or wish to be considered for scholarship support are strongly encouraged to apply by 15 September. Incomplete applications will not be considered.
 
 {%if page.alerttype == "success"%}
 
