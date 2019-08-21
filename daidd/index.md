@@ -64,7 +64,7 @@ The Clinic will begin at 16:00 on Sunday afternoon. There will be a mid-session 
 
 Schedules from previous years:
 
-- [DAIDD 2018](www.ici3d.org/DAIDD/schedule/2018 "DAIDD 2018 schedule")
+- [DAIDD 2018](http://www.ici3d.org/DAIDD/schedule/2018 "DAIDD 2018 schedule")
 - [DAIDD 2017](./schedule/2017 "DAIDD 2017 schedule")
 - [DAIDD 2016](./schedule/2016 "DAIDD 2016 schedule")
 - [DAIDD 2015](./schedule/2015 "DAIDD 2015 schedule")
