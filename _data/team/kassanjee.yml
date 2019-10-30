@@ -1,10 +1,11 @@
 ---
 name: Reshma Kassanjee, PhD
-type: mentor
-role: Mentor
+type: workshop
+role: Faculty Member, DAIDD 2019
+involvement: Faculty Member, DAIDD clinic
 img: mentors/kassanjee.jpg
-position: Statistical Consultant
-affiliation: University of Cape Town
+position: Senior Research Officer
+affiliation: Centre for Infectious Disease Epidemiology and Research (CIDER)<br>University of Cape Town
 degrees:
   - degree: PhD
     discipline: Computational and Applied Mathematics
@@ -14,5 +15,5 @@ degrees:
     discipline: Statistics
     institution: Wits University
     year: 2007
-bio: Dr Reshma Kassanjee is currently a statistical consultant at the University of Cape Town, providing support to researchers from a diversity of fields – from ecology to psychology. Previously a researcher at SACEMA, focused primarily on the development of methodologies to estimate HIV incidence, her core interests remain in the areas of public health and epidemiology. Through a recent collaboration with Vaccines for Africa, Reshma is now also exploring the area of mathematical modelling for assessing interventions.
+bio: Dr Reshma Kassanjee Senior Research Officer at Centre for Infectious Disease Epidemiology and Research (CIDER), University of Cape Town.
 ---
