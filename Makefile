@@ -1,5 +1,8 @@
-# ICI3D.github.io
+# http://ICI3D.github.io
 ## ICI3D/io
+
+# http://localhost:4000/
+# http://localhost:4000/daidd/schedule/shadow.html
 
 current: target
 -include target.mk
