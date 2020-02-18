@@ -6,9 +6,9 @@ tab: MMED
 applink: http://www.ici3d.org/mmed/apply
 year: 2020
 alerttype: success
-alertmsg: The eleventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held June 1-12, 2020 at the African Institute for Mathematical Sciences in Muizenberg, South Africa. The application for MMED 2020 will open in January.
+alertmsg: The eleventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held June 1-12, 2020 at the African Institute for Mathematical Sciences in Muizenberg, South Africa. The application for MMED 2020 is now open.
 ---
-The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the tenth annual Clinic on Meaningful Modeling of Epidemiological Data (MMED). This 2-week modeling clinic will bring together graduate students, postdoctoral scholars, and other researchers from Africa and around the world, with the goal of engaging the participants in epidemiological modeling projects that use real data to grapple with practical questions in a meaningful way.
+The International Clinics on Infectious Disease Dynamics and Data (ICI3D) Program invites applications to the annual Clinic on Meaningful Modeling of Epidemiological Data (MMED). This 2-week modeling clinic will bring together graduate students, postdoctoral scholars, and other researchers from Africa and around the world, with the goal of engaging the participants in epidemiological modeling projects that use real data to grapple with practical questions in a meaningful way.
 
 The Clinic will consist of a series of lectures, discussions, and tutorials that will guide participants through the process of developing data‐based, dynamical models of disease spread and using models to answer public health questions. Participants are encouraged to bring data sets and questions to the Clinic, and to start collaborative projects with each other or the organizers. Various statistical and dynamical modeling paradigms will be explored. Computer exercises and group projects will reinforce and extend the concepts covered, and participants will gain experience using tools such as R, R Studio, git, and GitHub for collaborative projects. Please review [the schedule from MMED 2019](http://www.ici3d.org/MMED/schedule/2019) for additional information on the topics covered.
 
@@ -16,7 +16,7 @@ During the first week of the Clinic, all participants will be required to presen
 
 Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. The Clinic targets participants with a strong quantitative background and some prior knowledge of mathematical modeling in epidemiology but limited experience integrating data and models to address applied questions in infectious disease dynamics.
 
-The course registration fee is ZAR 40,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
+The course registration fee is ZAR 42,500. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
 
 The application process for the Clinic is highly competitive. Preference will be given to applicants that have the most to gain from Clinic participation. Late or incomplete applications will not be considered.
 

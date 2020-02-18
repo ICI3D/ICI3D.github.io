@@ -5,8 +5,8 @@ year: 2020
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
-alerttype: danger
-alertmsg: The eleventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held June 1-12, 2020 at the African Institute for Mathematical Sciences in Muizenberg, South Africa. The application for MMED 2020 will open in January.
+alerttype: success
+alertmsg: The eleventh annual <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held June 1-12, 2020 at the African Institute for Mathematical Sciences in Muizenberg, South Africa. Applications to attend MMED 2020 are due 8 March 2020.
 ---
 {%if page.alerttype == "warning"%}
 [Go to MMED {{page.year}} »](http://www.ici3d.org/MMED/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
@@ -27,7 +27,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 40,000. The registration fee includes room and board for the duration of the Clinic, as well as all course materials and activities. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants.
+The course registration fee is ZAR 42,500. The registration fee includes room and board for the duration of the Clinic, as well as all course materials and activities. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants.
 
 ## Schedule
 
@@ -48,6 +48,7 @@ We will start earlier on the first day, and end early on Saturday of the first w
 
 Schedules from previous years:
 
+- [MMED 2019](./schedule/2018 "MMED 2019 schedule")
 - [MMED 2018](./schedule/2018 "MMED 2018 schedule")
 - [MMED 2017](./schedule/2017 "MMED 2017 schedule")
 - [MMED 2016](./schedule/2016 "MMED 2016 schedule")
