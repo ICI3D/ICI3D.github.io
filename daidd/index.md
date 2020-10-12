@@ -6,7 +6,7 @@ tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: danger
-alertmsg: The eighth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> was held 15-21 December in Stellenbosch, South Africa. We are currently considering how to develop a virtual programme for DAIDD 2020. Please check back soon for additional information.
+alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 13-19 December. This will be the first virtual edition of the programme. Please check back soon for additional information.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -35,35 +35,67 @@ This clinic targets public health researchers and population biologists interest
 
 ## Selection criteria
 
-Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to twenty-four places available and encourage applications from researchers based anywhere in the world.
+Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to twenty-one places available and encourage applications from researchers based anywhere in the world.
 
 ## Course fees
 
-The course registration fee is ZAR 30,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants by early November.
+The course registration fee is ZAR 2,500. A small number of scholarships will be available for Clinic participants from Africa. Instructions for paying the course fee will be made available to successful applicants by mid November.
 
 ## Venue
 
-DAIDD will be held at [Mont Fleur Conference Centre](http://montfleur.co.za/) in Stellenbosch, South Africa, which provides an ideal setting for this intensive workshop. Participants should arrive at the venue between 14:00 and 15:00 on Sunday. Information regarding arrangements for local transportation, including airport transfers, will be provided prior to the workshop.
+DAIDD 2020 will be held online via Microsoft Teams.
 
 ## Schedule
 
-Specific session times will vary by day, but the general daily structure will be as follows:
+Specific session times will vary by day. The general daily structure will be as follows:
 
-- 8:40-9:00 Faculty research talk
-- 9:00-10:30 Lecture/discussion and/or tutorial
-- 10:30-11:00 Morning break
-- 11:00-12:30 Lecture/discussion and/or tutorial
-- 12:30-2:00 Lunch break
-- 2:00-3:30 Lecture/discussion and/or tutorial
-- 3:30-4:00 Afternoon break
-- 4:00-6:00 Exercise and/or working session
-- 6:00-8:00 Dinner break (dinner is served at 7)
-- 8:00-9:00 Working session, feedback session, or social activity
+In _South African Standard Time_:
 
-The Clinic will begin at 16:00 on Sunday afternoon. There will be a mid-session evaluation on Wednesday evening. The Clinic will officially end by 14:00 on Saturday. **The full schedule for DAIDD {{page.year}} will be available via the Clinic website approximately 1 month before the Clinic.**
+- 11:00-13:00 Independent work session (African faculty available)
+- 13:00-14:00 Lunch break
+- 14:00-16:00 Independent work session (African faculty available)
+- 16:00- 16:30 Afternoon break
+- 16:30-18:30 Interactive session (all faculty and participants)
+- 18:30-19:30 Evening break
+- 19:30-21:30 Interactive session
+
+In _British Standard Time_:
+
+- 9:00-11:00 Independent work session (African faculty available)
+- 11:00-12:00 Morning break
+- 12:00-14:00 Independent work session (African faculty available)
+- 14:00- 14:30 Afternoon break
+- 14:30-16:30 Interactive session (all faculty and participants)
+- 16:30-17:30 Evening break
+- 17:30-19:30 Interactive session
+
+In _Eastern Standard Time_:
+
+- 9:30-11:30 Interactive session (all faculty and participants)
+- 11:30-12:30 Lunch break
+- 12:30-14:30 Interactive session (all faculty and participants)
+- 14:30- 15:00 Afternoon break
+- 15:00-17:00 Independent work session (American faculty available)
+- 17:00-18:00 Evening break
+- 18:00-20:00 Independent work session (American faculty available)
+
+In _Pacific Standard Time_:
+
+- 6:30-8:30 Interactive session (all faculty and participants)
+- 8:30-9:30 Morning break
+- 9:30-11:30 Interactive session (all faculty and participants)
+- 11:30-12:00 Lunch break
+- 12:00-14:00 Independent work session (American faculty available)
+- 14:00-15:00 Afternoon break
+- 15:00-17:00 Independent work session (American faculty available)
+
+_Participants from other time zones are welcome, as long as they can participate fully in the scheduled interactive sessions and reserve approximately 4 hours a day for independent work._
+
+There will be a mid-session evaluation on Wednesday. **The full schedule for DAIDD {{page.year}} will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
 
+- [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")
 - [DAIDD 2018](http://www.ici3d.org/DAIDD/schedule/2018 "DAIDD 2018 schedule")
 - [DAIDD 2017](./schedule/2017 "DAIDD 2017 schedule")
 - [DAIDD 2016](./schedule/2016 "DAIDD 2016 schedule")
