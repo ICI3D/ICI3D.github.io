@@ -5,7 +5,7 @@ year: 2020
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: danger
+alerttype: success
 alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 13-19 December. This will be the first virtual edition of the programme. Please check back soon for additional information.
 ---
 
@@ -43,7 +43,7 @@ The course registration fee is ZAR 2,500. A small number of scholarships will be
 
 ## Venue
 
-DAIDD 2020 will be held online via Microsoft Teams.
+DAIDD 2020 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
 
 ## Schedule
 
@@ -57,7 +57,7 @@ In _South African Standard Time_:
 - 16:00- 16:30 Afternoon break
 - 16:30-18:30 Interactive session (all faculty and participants)
 - 18:30-19:30 Evening break
-- 19:30-21:30 Interactive session
+- 19:30-21:30 Interactive session (all faculty and participants)
 
 In _British Standard Time_:
 
@@ -67,7 +67,7 @@ In _British Standard Time_:
 - 14:00- 14:30 Afternoon break
 - 14:30-16:30 Interactive session (all faculty and participants)
 - 16:30-17:30 Evening break
-- 17:30-19:30 Interactive session
+- 17:30-19:30 Interactive session (all faculty and participants)
 
 In _Eastern Standard Time_:
 

@@ -4,7 +4,7 @@ title: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
 alerttype: success
-alertmsg: The eighth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 15-21 December in Stellenbosch, South Africa. The deadline for receipt of applications is <strong>September 25</strong>.
+alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 13-19 December. The deadline for receipt of applications is <strong>November 2</strong>.
 applink: ./apply
 ---
 
@@ -14,9 +14,9 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 **Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. Applicants with a good grounding in statistics and experience with data collection will be preferred. This workshop is not intended for those with substantial prior experience in dynamical modeling.**
 
-The course registration fee is ZAR 30,000. The registration fee includes room and board for the duration of the Clinic, as well as course materials. A small number of full and partial scholarships may be available for Clinic participants from the US and Africa. Participants are responsible for covering their own travel expenses (including visa fees, where applicable).
+The course registration fee is ZAR 2,500. A small number of scholarships are available for Clinic participants based at African institutions. All participants must have access to high-speed internet for the duration of the Clinic.
 
-The application process for the Clinic is competitive. **The deadline for receipt of applications is 25 September 2019.** Additional applications may be considered after the deadline, on a space-available basis. Applicants who will need a visa to visit South Africa or wish to be considered for scholarship support are strongly encouraged to apply by 25 September. Incomplete applications will not be considered.
+The application process for the Clinic is competitive. **The deadline for receipt of applications is 2 November 2020.** Incomplete applications will not be considered.
 
 {%if page.alerttype == "success"%}
 
