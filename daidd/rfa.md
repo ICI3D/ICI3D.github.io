@@ -14,7 +14,7 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 **Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. Applicants with a good grounding in statistics and experience with data collection will be preferred. This workshop is not intended for those with substantial prior experience in dynamical modeling.**
 
-The course registration fee is ZAR 2,500. A small number of scholarships are available for Clinic participants based at African institutions. All participants must have access to high-speed internet for the duration of the Clinic.
+The course registration fee is ZAR 2,500. A small number of scholarships are available for Clinic participants. All participants must have access to high-speed internet for the duration of the Clinic.
 
 The application process for the Clinic is competitive. **The deadline for receipt of applications is 2 November 2020.** Incomplete applications will not be considered.
 
