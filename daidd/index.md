@@ -39,7 +39,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 2,500. A small number of scholarships will be available for Clinic participants from Africa. Instructions for paying the course fee will be made available to successful applicants by mid November.
+The course registration fee is ZAR 2,500. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by mid November.
 
 ## Venue
 
