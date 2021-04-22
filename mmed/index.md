@@ -1,12 +1,12 @@
 ---
 layout: page
 title: MMED
-year: 2020
+year: 2021
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
-alerttype: danger
-alertmsg: The eleventh <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held in May/June 2021 at the African Institute for Mathematical Sciences in Muizenberg, South Africa. Please check back in January for information on MMED 2021.
+alerttype: success
+alertmsg: The eleventh <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 28 June - 9 July. This will be the first virtual edition of the programme. The application deadline is 10 May.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -28,24 +28,59 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 42,500. The registration fee includes room and board for the duration of the Clinic, as well as all course materials and activities. A small number of full and partial scholarships are available. Participants are responsible for covering their own travel expenses (including visa fees, where applicable). Instructions for paying the course fee will be made available to successful applicants.
+The course registration fee is ZAR 6,000. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
+
+## Venue
+
+MMED 2021 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
 
 ## Schedule
 
-The general daily structure will be as follows:
+Specific session times will vary by day. The general daily structure will be as follows:
 
-- 8:30-10:00 Lecture/discussion and/or tutorial
-- 10:00-10:30 Coffee break
-- 10:30-12:30 Lecture/discussion and/or tutorial
-- 12:30-14:00 Lunch break (*Lunch is served from 12:30 to 13:00.*)
-- 14:00-15:30 Lecture/discussion and/or tutorial
-- 15:30-16:00 Tea break
-- 16:00-17:00 Lecture/discussion and/or tutorial
-- 17:00-18:00 Poster session or mentored working session
-- 18:00-19:00 Dinner break (*Dinner is served from 18:00 to 18:30.*)
-- 19:00-20:00 Faculty research talk, computer session, or social activity
+In _South African Standard Time_:
 
-We will start earlier on the first day, and end early on Saturday of the first week. The Clinic will officially end by 5pm on Friday of the second week. There will be an optional field trip on Saturday of the second week for participants who wish to attend. The preliminary [schedule for MMED {{page.year}}](./schedule) will be available approximately one month before the Clinic.
+- 11:00-13:00 Independent work session (African faculty available)
+- 13:00-14:00 Lunch break
+- 14:00-16:00 Independent work session (African faculty available)
+- 16:00- 16:30 Afternoon break
+- 16:30-18:30 Interactive session (all faculty and participants)
+- 18:30-19:30 Evening break
+- 19:30-21:30 Interactive session (all faculty and participants)
+
+In _British Standard Time_:
+
+- 9:00-11:00 Independent work session (African faculty available)
+- 11:00-12:00 Morning break
+- 12:00-14:00 Independent work session (African faculty available)
+- 14:00- 14:30 Afternoon break
+- 14:30-16:30 Interactive session (all faculty and participants)
+- 16:30-17:30 Evening break
+- 17:30-19:30 Interactive session (all faculty and participants)
+
+In _Eastern Standard Time_:
+
+- 9:30-11:30 Interactive session (all faculty and participants)
+- 11:30-12:30 Lunch break
+- 12:30-14:30 Interactive session (all faculty and participants)
+- 14:30- 15:00 Afternoon break
+- 15:00-17:00 Independent work session (American faculty available)
+- 17:00-18:00 Evening break
+- 18:00-20:00 Independent work session (American faculty available)
+
+In _Pacific Standard Time_:
+
+- 6:30-8:30 Interactive session (all faculty and participants)
+- 8:30-9:30 Morning break
+- 9:30-11:30 Interactive session (all faculty and participants)
+- 11:30-12:00 Lunch break
+- 12:00-14:00 Independent work session (American faculty available)
+- 14:00-15:00 Afternoon break
+- 15:00-17:00 Independent work session (American faculty available)
+
+_Participants from other time zones are welcome, as long as they can participate fully in the scheduled interactive sessions and reserve approximately 4 hours a day for independent work._
+
+There will be a mid-session evaluation on Wednesday. **The full schedule for MMED {{page.year}} will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
 
