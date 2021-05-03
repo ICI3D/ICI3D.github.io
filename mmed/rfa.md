@@ -21,7 +21,7 @@ The course registration fee is ZAR 6,000. A small number of scholarships are ava
 
 The application process for the Clinic is highly competitive. Preference will be given to applicants that have the most to gain from Clinic participation.  Late or incomplete applications will not be considered.
 
-- The deadline for receipt of applications for MMED {{page.year}} is May 10, {{page.year}} at 5pm Eastern (New York).
+- The deadline for receipt of applications for MMED {{page.year}} is May 17, {{page.year}} at 5pm Eastern (New York).
 
 {%if page.alerttype == "success"%}
 
