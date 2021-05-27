@@ -14,11 +14,12 @@
 
 Assignments
 
-- Complete [Tutorial I](#computerlabs) – due Tues AM **email to Zinhle at zinhle@aims.ac.za***
+- Complete [Tutorial I](#computerlabs) – due Tues AM **email to Zinhle at zinhle@aims.ac.za**
 - [Read Panum (Measles)](./panum.html) – due Tues AM
 - Skim [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Tues PM
 
 ### Tuesday, 21 May
+
 - 9:00 - 10:00		[Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf)
 - 10:00 - 10:30     Project discussion and development
 -  10:30 – 11:00 	Coffee break
