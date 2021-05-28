@@ -1,6 +1,6 @@
 <div markdown="1">
 
-### Monday, 20 May
+### Tuesday, 22 June
 
 -  9:00 – 9:20		Introductions, Overview of course (structure and expectations)
 -  9:20 – 10:30		[Introduction to public health, epidemiology, and infectious diseases]({{page.repo}}/raw/master/lectures/Intro_PH_Epi_ID.pdf)
@@ -18,7 +18,7 @@ Assignments
 - [Read Panum (Measles)](./panum.html) – due Tues AM
 - Skim [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Tues PM
 
-### Tuesday, 21 May
+### Wednesday, 23 June
 
 - 9:00 - 10:00		[Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf)
 - 10:00 - 10:30     Project discussion and development
@@ -37,7 +37,7 @@ Assignments
 - Read [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) – due Wed AM
 - Progress on projects – due Wed PM
 
-### Wednesday, 22 May
+### Thursday, 24 June
 -  9:00 – 10:30 	Contemporary example (Rabies): Discussion session
 -  10:30 – 11:00 	Coffee break
 -  11:00 – 11:45	[Binomial Distribution Tutorial](#computerlabs)
@@ -53,7 +53,7 @@ Assignments
 - Complete [Tutorial III](#computerlabs) – due Sun PM
 - ** turn in figures and code from Tutorial III Questions by email to Zinhle**
 
-### Thursday, 23 May
+### Friday, 25 June
 
 - 9:00 – 10:00		[Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf)
 - 10:00 – 10:30  	Computer labs and project development
