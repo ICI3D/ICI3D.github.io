@@ -32,7 +32,7 @@ Assignments
 
 - Complete [Tutorial II & benchmark questions](#computerlabs)
 - ** turn in figure (and code) from Tutorial II,  Questions 3 and 4 by email to Zinhle at zinhle@aims.ac.za**
-- Progress on projects – due Thur PM
+- Progress on projects – due Thur AM
 
 ### Thursday, 24 June
 
