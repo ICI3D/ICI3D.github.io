@@ -4,7 +4,6 @@ title: Tutorials
 tab: Tutorials
 longtitle: ICI3D Tutorials
 summary: R tutorials and labs from the MMED and DAIDD clinics.
-parent: Resources
 alerttype: warning
 alertmsg: Instructional materials are available under a <a href="http://creativecommons.org/licenses/by/4.0/"> CC-BY International License</a> unless otherwise stated.
 ---
