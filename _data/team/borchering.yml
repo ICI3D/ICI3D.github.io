@@ -46,8 +46,8 @@ papers:
     link: https://doi.org/10.1038/s41467-019-13628-x
     journal: Nature Communications
     year: 2019
-  - title:  COVID-19 reopening strategies at the county level in the face of uncertainty - Multiple Models for Outbreak Decision Support
-    authors: Shea, <b>Borchering</b>, Probert, Howerton, Bogich, Li, van Panhuis et al.
+  - title:  COVID-19 reopening strategies at the county level in the face of uncertainty - multiple models for outbreak decision support
+    authors: Shea, <b>Borchering</b>, Probert, Howerton, Bogich, Li, van Panhuis <em>et al</em>
     link: https://doi.org/10.1101/2020.11.03.20225409
     journal: medRxiv
     year: 2020
@@ -56,9 +56,9 @@ papers:
     link: https://doi.org/10.1073/pnas.2012327118
     journal: Proceedings of the National Academy of Sciences
     year: 2021
-  - title:  Modeling of Future COVID-19 Cases, Hospitalizations, and Deaths, by Vaccination Rates and Nonpharmaceutical Intervention Scenarios — United States, April–September 2021.
-    authors: <b>Borchering</b>, Viboud, Howerton, Smith, Truelove, Reich et al.
+  - title:  Modeling of future COVID-19 cases, hospitalizations, and deaths, by vaccination rates and nonpharmaceutical intervention scenarios — United States, April–September 2021
+    authors: <b>Borchering</b>, Viboud, Howerton, Smith, Truelove, Reich <em>et al</em>
     link: https://www.cdc.gov/mmwr/volumes/70/wr/mm7019e3.htm
-    journal: MMWR Morb Mortal Wkly Rep.
+    journal: MMWR
     year: 2021
 ---
