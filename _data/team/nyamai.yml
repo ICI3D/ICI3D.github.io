@@ -4,7 +4,7 @@ type: mentor
 role: Mentor
 img: mentors/nyamai.png
 position: PhD candidate
-affiliation: Center for Epidemiological Modelling and Analysis, University of Nairobi
+affiliation: Center for Epidemiological Modelling and Analysis<br>University of Nairobi
 degrees:
   - degree: MSc
     discipline: Environmental Governance
