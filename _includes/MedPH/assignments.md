@@ -2,7 +2,7 @@
 
 ### Major Assignments
 
-There will be two major assignments for this course, a group poster presentation (given during the MMED Clinic) and a final written project (due June 12).
+There will be two major assignments for this course, a short oral presentation (given during the MMED Clinic) and a final written project (due July 12).
 
 ### Academic Integrity and Plagiarism
 
@@ -44,43 +44,39 @@ Examples from previous years
 
 ### Final written project
 
-- [Project instructions]({{page.repo}}/blob/master/Project_guidelines_2019.pdf) "Guidelines for the final project")
-- Your final project can be based on your poster project or your MMED group project. You will have lot of free time during the last week of MMED to write this.
-- A list of suggested topics for MMED group projects is available at [on this page]({{ site.url }}/projects).
-
+- [Project instructions]({{page.repo}}/blob/master/Project_guidelines.pdf)
+- Your final project can be based on your project proposal or your MMED group project. You will have lot of free time during the last week of MMED to write this.
+- A list of suggested topics for MMED group projects will be made available at [on this page]({{ site.url }}/projects).
 - [Example written project]({{page.repo}}/blob/master/assignments/LourensTrachoma2013.pdf?raw=true)
-
-### For Tuesday
-
-- Read the measles paper in detail
-- Skim the rabies paper
-- Finish Tutorial 1
 
 ### For Wednesday
 
-- Complete Tutorial 2
-    - **Submit answers to Tutorial 2, Questions 3 and 4 by email to Zinhle at zinhle@aims.ac.za**
-- Read Hampson et al. 2009 ([Rabies]({{page.repo}}/blob/master/readings/Hampson2009.pdf?raw=true)) – due Wed AM
-- Steps I and II for poster projects – due Wed PM
+- Finish Tutorial 1
+    - **Submit answers to Tutorial 1 BMQs by email to Zinhle at zinhle@aims.ac.za**
+- Read Hampson _et al_. 2009 ([Rabies]({{page.repo}}/blob/master/readings/Hampson2009.pdf?raw=true)) – due Wed AM
+- Consider possible topics for projects (browse the information available under the references tab for ideas)
+    - Come prepared to discuss at least one disease and at least one question that interest you - due Wed PM
 
 ### For Thursday
 
-- Complete Tutorial lab 3
-    - **Submit answer to Tutorial 3, Question 3 by email to Zinhle** – due Sunday PM
-- Steps III and IV for poster project development – due Thurs AM
-- Begin poster planning
+- Complete Tutorial 2
+    - **Submit answers to Tutorial 2 BMQs 3 and 4 by email to Zinhle at zinhle@aims.ac.za**
+- Progress on project proposal – due Thurs AM
+    - Decide on a topic and research question
+    - Read at least one relevant article
+    - Identify potential data source/s
+    - Take careful notes on relevant background information (making sure you keep track of sources and any direct quotes)
 
 ### For Friday
 
-- Complete Tutorial lab III
-    - **Submit answer to Tutorial 3, Question 3 by email to Zinhle** – due Sunday PM
-- Continue project development
-- Prepare poster presentation – first draft due Fri AM
+- Complete Tutorial lab 3
+    - **Submit answer to Tutorial 3, Question 3 by email to Zinhle** – due Friday AM
+- Continue proposal development
+- Draft of presentation for practice - due Friday PM
 
-### For Saturday
+### For Sunday
 
-- Finish poster revision based on feedback and additional practice presentations (as needed)
-- (Saturday is a free day for those whose poster and presentation are finalized by the end of the day on Friday)
+- Finalize presentations, as needed (submit slides by Sun PM)
 
 ### Supplemental Data
 
@@ -95,7 +91,7 @@ Examples from previous years
 
 <sup>2</sup> Data from [Camacho a., Kucharski a. J, Funk S, Breman J, Piot P, Edmunds WJ. Potential for large outbreaks of Ebola virus disease. Epidemics 2014](http://linkinghub.elsevier.com/retrieve/pii/S1755436514000528) supplementary material and cleaned by Becky.
 
-<sup>3</sup> Data made available courtesy of **Dr. Caitlin Rivers, Johns Hopkins Center for Health Security** (https://github.com/cmrivers/ebola_drc) GitHub repository and cleaned by Becky. The original data files are available online from the WHO Disease Outbreak Network ( <http://www.who.int/csr/don/en/>), WHO situation reports (<http://www.who.int/ebola/situation-reports/drc-2018/en/>), and the DRC Ministry of Health mailing list. 
+<sup>3</sup> Data made available courtesy of **Dr. Caitlin Rivers, Johns Hopkins Center for Health Security** (https://github.com/cmrivers/ebola_drc) GitHub repository and cleaned by Becky. The original data files are available online from the WHO Disease Outbreak Network ( <http://www.who.int/csr/don/en/>), WHO situation reports (<http://www.who.int/ebola/situation-reports/drc-2018/en/>), and the DRC Ministry of Health mailing list.
 
 <sup>4</sup> Data made available courtesy of **Dr. Simon Frost, Dept of Veterinary Medicine, University of Cambridge** (https://github.com/sdwfrost/nigeria-lassa-data) GitHub repository and cleaned by Becky.
 
