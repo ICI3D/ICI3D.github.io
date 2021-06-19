@@ -1,23 +1,19 @@
 use strict;
 use 5.10.0;
 
-my @faculty = qw(
-	paradza bruce hargrove dushoff mthombothi scott borchering pulliam
-	vanschalkwyk kassanjee pearson
-);
-
 my %faculty;
-
-## Sorry to be lazy; faculty file must end with a blank line
 
 while(<>){
 	last if /^\s*$/;
-	my $(tag, $name) = /(\S*)\s+(.*);
-	say "$name ($tag)";
+	die ("Blank line needed at end of faculty file") if /--/;
+	die ("Invalid faculty line (use tabs to delimit)?") unless /\t/;
+	my ($tag, $name) = /(.*)\t(.*)/;
+	$faculty{$tag} = $name;
 }
 
 while(<>){
 	last if m|/HEAD|;
+	die "/HEAD needed after shadow header" if /###.*Monday/;
 }
 
 my $linktext = "{{site.subdomainurl}}/team";
@@ -32,18 +28,8 @@ while(<>){
 	next if /SHADOW/;
 	s/HIDE.*//;
 	s/NOTE.*//;
-	foreach my $f (@faculty){
-	s|\($f\)|[Masimba Paradza]($linktext/paradza/)|;
+	foreach my $tag (keys %faculty){
+		s|\($tag\)|[$faculty{$tag}]($linktext/$tag/)|;
 	}
-	s|\(bruce\)|[Faikah Bruce]($linktext/bruce/)|;
-	s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
-	s|\(dushoff\)|[Jonathan Dushoff]($linktext/dushoff/)|;
-	s|\(mthombothi\)|[Zinhle Mthombothi]($linktext/mthombothi/)|;
-	s|\(scott\)|[Jim Scott]($linktext/scott/)|;
-	s|\(borchering\)|[Becky Borchering]($linktext/borchering/)|;
-	s|\(pulliam\)|[Juliet Pulliam]($linktext/pulliam/)|;
-	s|\(vanschalkwyk\)|[Cari van Schalkwyk]($linktext/vanschalkwyk/)|;
-	s|\(kassanjee\)|[Reshma Kassanjee]($linktext/kassanjee/)|;
-	s|\(pearson\)|[Carl Pearson]($linktext/pearson/)|;
 	say;
 }
