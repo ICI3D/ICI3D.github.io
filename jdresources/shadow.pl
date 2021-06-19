@@ -35,15 +35,21 @@ while(<>){
 	foreach my $f (@faculty){
 	s|\($f\)|[Masimba Paradza]($linktext/paradza/)|;
 	}
+	s|\(bolton\)|[Larisse Bolton]($linktext/bolton/)|;
+	s|\(borchering\)|[Becky Borchering]($linktext/borchering/)|;
 	s|\(bruce\)|[Faikah Bruce]($linktext/bruce/)|;
 	s|\(hargrove\)|[John Hargrove]($linktext/hargrove/)|;
+	s|\(hladish\)|[Tom Hladish]($linktext/hladish/)|;
 	s|\(dushoff\)|[Jonathan Dushoff]($linktext/dushoff/)|;
+	s|\(kassanjee\)|[Reshma Kassanjee]($linktext/kassanjee/)|;
+	s|\(li\)|[Mike Li]($linktext/li/)|;
 	s|\(mthombothi\)|[Zinhle Mthombothi]($linktext/mthombothi/)|;
+	s|\(mwangi\)|[Thumbi Mwangi]($linktext/mwangi/)|;
+	s|\(nyamai\)|[Mutono Nyamai]($linktext/nyamai/)|;
 	s|\(scott\)|[Jim Scott]($linktext/scott/)|;
-	s|\(borchering\)|[Becky Borchering]($linktext/borchering/)|;
+	s|\(reiner\)|[Bobby Reiner]($linktext/reiner/)|;
+	s|\(pearson\)|[Carl Pearson]($linktext/pearson/)|;
 	s|\(pulliam\)|[Juliet Pulliam]($linktext/pulliam/)|;
 	s|\(vanschalkwyk\)|[Cari van Schalkwyk]($linktext/vanschalkwyk/)|;
-	s|\(kassanjee\)|[Reshma Kassanjee]($linktext/kassanjee/)|;
-	s|\(pearson\)|[Carl Pearson]($linktext/pearson/)|;
 	say;
 }
