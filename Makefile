@@ -18,6 +18,8 @@ vim_session:
 
 ######################################################################
 
+Sources += $(wildcard jdresources/*)
+
 ### Makestuff
 
 Sources += Makefile
