@@ -8,10 +8,10 @@ affiliation: London School of Hygiene & Tropical Medicine<br>London, United King
 img: team/pearson.jpg
 summary: Carl is a Research Fellow at the London School of Hygiene & Tropical Medicine, focusing on Ebola. He is also affiliated with SACEMA. He was a Faculty Observer at MMED 2015 and joined the Workshop Faculty in 2016.
 github: pearsonca
-orcid:
+orcid: 0000-0003-0701-7860
 linkedin:
 gscholar: XKRJAXwAAAAJ
-twitter:
+twitter: cap1024
 impactstory:
 website:
 cv:
@@ -29,6 +29,21 @@ degrees:
     institution: Duke University
     year: 2003
 papers:
+  - title: Pre-vaccination testing could expand coverage of two-dose COVID vaccines
+    authors: <b>Pearson</b>, Clifford, Pulliam, Eggo
+    link: https://wellcomeopenresearch.org/articles/6-105
+    journal: Wellcome Open Research
+    year: 2021
+  - title: Projected early spread of COVID-19 in Africa through 1 June 2020
+    authors: <b>Pearson</b>, Van Schalkwyk, Foss, O’Reilly, SACEMA Modelling and Analysis Response Team, CMMID COVID-19 Working Group, Pulliam
+    link: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.18.2000543
+    journal: Eurosurveillance
+    year: 2020
+  - title: Serostatus testing and dengue vaccine cost–benefit thresholds
+    authors: <b>Pearson</b>, Abbas, Clifford, Flasche, Hladish
+    link: https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0234
+    journal: Journal of the Royal Society Interface
+    year: 2019
   - title: The long-term safety, public health impact, and cost-effectiveness of routine vaccination with a recombinant, live-attenuated dengue vaccine (Dengvaxia) - a model comparison study
     authors: Flasche, Jit, Rodríguez-Barraquer, Coudeville, Recker, Koelle, Milne, Hladish, Perkins, Cummings, Dorigatti, Laydon, España, Kelso, Longini, Lourenco, <b>Pearson</b>, Reiner, Mier-y-Terán-Romero, Vannice, Ferguson
     link: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181
@@ -39,10 +54,5 @@ papers:
     link: http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661
     journal: PLOS Neglected Tropical Diseases
     year: 2016
-  - title: Challenges to Understanding Dark Networks
-    authors: <b>Pearson</b>, Singer, Airoldi
-    link: https://www.amazon.com/Illuminating-Dark-Networks-Clandestine-Organizations/dp/1107102693
-    journal: in Illuminating Dark Networks (editor L Gerdes)
-    year: 2015
 bio: Carl is a Research Fellow at the London School of Hygiene & Tropical Medicine, focusing on Ebola. He is also affiliated with SACEMA. He was a Faculty Observer at MMED 2015 and joined the Workshop Faculty in 2016.
 ---
