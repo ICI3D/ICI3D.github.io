@@ -30,12 +30,12 @@ degrees:
     year: 2003
 papers:
   - title: Pre-vaccination testing could expand coverage of two-dose COVID vaccines
-    authors: <b>Pearson</b>, Clifford, Pulliam, Eggo
+    authors: <b>Pearson</b>, Clifford, <b>Pulliam</b>, Eggo
     link: https://wellcomeopenresearch.org/articles/6-105
     journal: Wellcome Open Research
     year: 2021
   - title: Projected early spread of COVID-19 in Africa through 1 June 2020
-    authors: <b>Pearson</b>, Van Schalkwyk, Foss, O’Reilly, SACEMA Modelling and Analysis Response Team, CMMID COVID-19 Working Group, Pulliam
+    authors: <b>Pearson</b>, <b>van Schalkwyk</b>, Foss, O’Reilly, SACEMA Modelling and Analysis Response Team, CMMID COVID-19 Working Group, <b>Pulliam</b>
     link: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.18.2000543
     journal: Eurosurveillance
     year: 2020
