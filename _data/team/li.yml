@@ -1,0 +1,43 @@
+---
+name: Michael Li, PhD
+type: Observer 
+role: Faculty Observer 
+position: Senior Scientist
+affiliation: Public Health Risk Science Division<br>Public Health Agency of Canada
+summary: Michael is a scientist in the Public Health Risk Science division at the Public Health Agency of Canada (PHAC). He is a theoretical/computational infectious disease modeler.
+icons: yes
+github: wzmli
+gscholar: 9PjVipUAAAAJ 
+twitter: MLiwz1
+cv: 
+degrees:
+  - degree: PhD
+    discipline: Biology
+    institution: McMaster University
+    year: 2019
+  - degree: MSc 
+  	 discipline: Statistic
+	 institution: McMaster University
+	 year: 2015
+  - degree: Hon BSc
+    discipline: Mathematics and Statistics
+    institution: University of Toronto
+    year: 2013
+papers:
+  - title: Patterns of seasonal and pandemic influenza-associated health care and mortality in Ontario, Canada 
+    authors: <b>Li</b>, Bolker, <b>Dushoff</b>, Ma, Earn
+    link: https://doi.org/10.1186/s12889-019-7369-x
+    journal: BMC Public Health
+    year: 2019
+  - title: Fitting mechanistic epidemic models to data: A comparison of simple Markov chain Monte Carlo approaches
+    authors: <b>Li</b>, <b>Dushoff</b>, Bolker
+    link: https://doi.org/10.1177/0962280217747054
+    journal: Statistical Methods in Medical Research
+    year: 2018
+  - title: Two approaches to forecast Ebola synthetic epidemics
+    authors: Champredon, <b>Li</b>, Bolker, <b>Dushoff</b>
+    link: https://www.ncbi.nlm.nih.gov/pubmed/28325495
+    journal: Epidemics
+    year: 2017
+bio: Michael is a scientist in the Public Health Risk Science division at the Public Health Agency of Canada (PHAC). He is a theoretical/computational infectious disease modeler.  He focuses on human-related diseases (COVID-19, influenza, and HIV) and some wildlife diseases (canine rabies), especially in forecasting epidemic outbreaks, retrospective analysis of the evolution of infectious diseases, and intervention strategies/policies for disease control. In addition, Michael has a broad research interest in theoretical and applied statistics, mathematical biology, ecology & evolution, public health, and computations. 
+---
