@@ -2,7 +2,8 @@
 ## ICI3D/io
 
 # http://localhost:4000/
-# http://localhost:4000/daidd/schedule/shadow.html
+# http://localhost:4000/MMED/schedule/shadow.html
+# http://localhost:4000/MMED/team
 
 current: target
 -include target.mk
