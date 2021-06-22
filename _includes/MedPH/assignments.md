@@ -10,13 +10,18 @@ All sources for information, figures, and wording must be properly cited. Before
 
 - [Stellenbosch guidelines on academic integrity](https://www.sun.ac.za/english/research-innovation/Research-Development/Documents/Policies%20and%20Guidelines/ENGLISH/SU%20Plagiarism%20Policy_2016.pdf)
 - Examples of plagiarism versus acceptable paraphrasing and summarizing
-  1.  [1st](http://www.lib.usm.edu/legacy/plag/paraphrasing.php)
-  2.  [2nd](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing)
-  3. [3rd](http://writing.wisc.edu/Handbook/QPA_paraphrase.html)
+    - [From the Academic Integrity Office at MIT](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing)
+    - [From The Writing Center at University of Wisconsin – Madison](http://writing.wisc.edu/Handbook/QPA_paraphrase.html)
 
-### Oral presentations
+### Oral presentations (project proposals)
 
-Additional information will be provided soon.
+During the first week of MMED, you will have to give a short "Research Pitch" in one of the evening sessions. We will help you develop your presentation throughout Week 1 of MedPH.
+
+- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+    - You should focus on a project idea that's of interest to you and would be feasible to conduct with available resources (e.g. existing data sets).
+    - The presentation should include enough background information to motivate the proposed research and should clearly state the research question. You should also briefly summarize the proposed approach to the research question.
+    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that will help you explain key aspects of the proposed research. Please keep the text on your slide to a minimum.
+    - You will be kept to time.
 
 ### Final written project
 
