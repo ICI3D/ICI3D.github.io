@@ -1,4 +1,4 @@
-# http://ICI3D.github.io
+# http://ICI3D.github.io/MMED/team
 ## ICI3D/io
 
 # http://localhost:4000/
