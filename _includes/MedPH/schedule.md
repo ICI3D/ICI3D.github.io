@@ -17,6 +17,7 @@ Assignments
 - Complete [Tutorial I](#computerlabs) – due Wed AM **email to Zinhle at zinhle@aims.ac.za**
 - Read [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Wed AM
 - Start thinking about possible projects (see Assignments tab for more details)
+- Review material on Academic Integrity and Plagiarism (see Assignments tab for more details)
 
 ### Wednesday, 23 June
 
