@@ -37,5 +37,6 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 -include makestuff/git.mk
+## -include makestuff/submod.mk
 -include makestuff/visual.mk
 -include makestuff/projdir.mk
