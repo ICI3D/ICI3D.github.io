@@ -46,7 +46,7 @@ Assignments
 -  11:00 – 11:45 [Binomial Distribution Tutorial](#computerlabs)
 -  11:45 - 13:00 [Transmission in Finite Populations]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf) (Juliet)
 -  13:00 – 14:00 Lunch
--  14:00 – 15:00 Project development (present on progress)
+-  14:00 – 15:00 Project development (present on progress at 14:15)
 -  15:00 – 17:00 [Tutorial III: simple stochastic models of epidemics](#computerlabs)
 
 Assignments
@@ -61,8 +61,8 @@ Assignments
 - 9:00 – 10:00 [Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) (Zinhle)
 - 10:00 – 10:30  Discussion of BMQs from Tutorial 3 (Juliet)
 - 10:30 – 11:00 Coffee break
-- 11:00 - 12:30 Project development and presentation revisions
-- 12:30 – 13:00 Practice presentations and feedback (Moderator: Juliet)
+- 11:00 – 11:30 Practice presentations and feedback (Moderator: Juliet)
+- 11:30 - 13:00 Project development and presentation revisions
 - 13:00 – 14:00 Lunch
 - 14:00 - 14:30 Wrap-up and preparation for next week (Zinhle)
 - 14:30 – 17:00 Unstructured time: Presentation revision based on feedback and additional practice presentations (as needed)
