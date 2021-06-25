@@ -64,12 +64,17 @@ Assignments
 - 11:00 – 11:30 Practice presentations and feedback (Moderator: Juliet)
 - 11:30 - 13:00 Project development and presentation revisions
 - 13:00 – 14:00 Lunch
-- 14:00 - 14:30 Wrap-up and preparation for next week (Zinhle)
-- 14:30 – 17:00 Unstructured time: Presentation revision based on feedback and additional practice presentations (as needed)
+- 14:00 - 15:00 Teleconference on SARS-CoV-2 variants of concern
+- 15:15 - 15:45 Wrap-up and preparation for next week (Zinhle)
+- 15:45 – 17:00 Unstructured time: Presentation revision based on feedback and additional practice presentations (as needed)
 
 Assignments
 
-- Finalize presentations, as needed (submit slides by Sun PM)
+- Finalize presentations, as needed (submit final slides by Sun PM)
+- Complete the remaining items for [MMED preparation](http://www.ici3d.org/MMED/preparation/)
+    - Software installation
+    - Introduciton to Git
+    - Readings (recommended but not required)
 - Rest up for the weeks ahead!
 
 
