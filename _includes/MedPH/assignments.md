@@ -59,7 +59,11 @@ During the first week of MMED, you will have to give a short "Research Pitch" in
 ### For Sunday
 
 - Finalize presentations, as needed (submit slides by Sun PM)
-
+- Complete the remaining items for [MMED preparation](http://www.ici3d.org/MMED/preparation/)
+    - Software installation
+    - Introduciton to Git
+    - Readings (recommended but not required)
+- Rest up for the weeks ahead!
 
 Readings
 ========
