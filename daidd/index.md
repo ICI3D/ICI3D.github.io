@@ -1,12 +1,12 @@
 ---
 layout: page
 title: DAIDD
-year: 2020
+year: 2021
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: danger
-alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> was held on 13-19 December. This was the first virtual edition of the programme.
+alerttype: success
+alertmsg: The tenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 12-18 December via Microsoft Teams. The application deadline is 4 November 2021.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -31,19 +31,19 @@ The Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD) aims to pr
 
 ## Intended audience
 
-This clinic targets public health researchers and population biologists interested in studying infectious diseases.
+This Clinic targets public health researchers and population biologists interested in studying infectious diseases.
 
 ## Selection criteria
 
-Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to twenty-one places available and encourage applications from researchers based anywhere in the world.
+Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to twenty-four places available and encourage applications from researchers based anywhere in the world.
 
 ## Course fees
 
-The course registration fee is ZAR 2,500. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by mid November.
+The course registration fee is ZAR 3,000 or US$215. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by early December.
 
 ## Venue
 
-DAIDD 2020 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
+DAIDD 2021 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
 
 ## Schedule
 
@@ -95,6 +95,7 @@ There will be a mid-session evaluation on Wednesday. **The full schedule for DAI
 
 Schedules from previous years:
 
+- [DAIDD 2020](http://www.ici3d.org/DAIDD/schedule/2020 "DAIDD 2020 schedule")
 - [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")
 - [DAIDD 2018](http://www.ici3d.org/DAIDD/schedule/2018 "DAIDD 2018 schedule")
 - [DAIDD 2017](./schedule/2017 "DAIDD 2017 schedule")

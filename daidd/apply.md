@@ -5,7 +5,7 @@ title: Apply
 ---
 <div align="center">
 <br>
-<h3>The application deadline for DAIDD 2020 has passed.</h3>
+<h3>The application for DAIDD 2021 is due on 4 November at 23:59 SAST / 17:59 Eastern.</h3>
 <br>
-<!---iframe src="https://survey.az1.qualtrics.com/jfe/form/SV_5AYDTrORkRFDoGN" width="95%" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe--->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvX-bQkkNIPPY0_J6JjlPEoGMJUjlI1fastXAYt3nMUAU8OQ/viewform?embedded=true" width="90%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
