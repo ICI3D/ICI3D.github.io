@@ -5,8 +5,8 @@ year: 2021
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
-alerttype: warning
-alertmsg: The eleventh <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 28 June - 9 July. This will be the first virtual edition of the programme. The extended application deadline is 26 May.
+alerttype: danger
+alertmsg: The eleventh <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held on 28 June - 9 July via Microsoft Teams.
 ---
 
 {%if page.alerttype == "warning"%}
