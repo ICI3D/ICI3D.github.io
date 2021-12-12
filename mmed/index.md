@@ -5,8 +5,8 @@ year: 2021
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
-alerttype: warning
-alertmsg: The eleventh <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 28 June - 9 July. This will be the first virtual edition of the programme. The extended application deadline is 26 May.
+alerttype: danger
+alertmsg: The eleventh <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> was held on 28 June - 9 July via Microsoft Teams.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -48,35 +48,35 @@ In _South African Standard Time_:
 - 18:30-19:30 Evening break
 - 19:30-21:30 Interactive session (all faculty and participants)
 
-In _British Standard Time_:
+In _British Summer Time_:
 
-- 9:00-11:00 Independent work session (African faculty available)
-- 11:00-12:00 Morning break
-- 12:00-14:00 Independent work session (African faculty available)
-- 14:00- 14:30 Afternoon break
-- 14:30-16:30 Interactive session (all faculty and participants)
-- 16:30-17:30 Evening break
-- 17:30-19:30 Interactive session (all faculty and participants)
+- 10:00-12:00 Independent work session (African faculty available)
+- 12:00-13:00 Morning break
+- 13:00-15:00 Independent work session (African faculty available)
+- 15:00- 15:30 Afternoon break
+- 15:30-17:30 Interactive session (all faculty and participants)
+- 17:30-18:30 Evening break
+- 18:30-20:30 Interactive session (all faculty and participants)
 
-In _Eastern Standard Time_:
+In _Eastern Daylight Time_:
 
-- 9:30-11:30 Interactive session (all faculty and participants)
-- 11:30-12:30 Lunch break
-- 12:30-14:30 Interactive session (all faculty and participants)
-- 14:30- 15:00 Afternoon break
-- 15:00-17:00 Independent work session (American faculty available)
-- 17:00-18:00 Evening break
-- 18:00-20:00 Independent work session (American faculty available)
+- 10:30-12:30 Interactive session (all faculty and participants)
+- 12:30-13:30 Lunch break
+- 13:30-15:30 Interactive session (all faculty and participants)
+- 15:30- 16:00 Afternoon break
+- 16:00-18:00 Independent work session (American faculty available)
+- 18:00-19:00 Evening break
+- 19:00-21:00 Independent work session (American faculty available)
 
-In _Pacific Standard Time_:
+In _Pacific Daylight Time_:
 
-- 6:30-8:30 Interactive session (all faculty and participants)
-- 8:30-9:30 Morning break
-- 9:30-11:30 Interactive session (all faculty and participants)
-- 11:30-12:00 Lunch break
-- 12:00-14:00 Independent work session (American faculty available)
-- 14:00-15:00 Afternoon break
-- 15:00-17:00 Independent work session (American faculty available)
+- 7:30-9:30 Interactive session (all faculty and participants)
+- 9:30-10:30 Morning break
+- 10:30-12:30 Interactive session (all faculty and participants)
+- 12:30-13:00 Lunch break
+- 13:00-15:00 Independent work session (American faculty available)
+- 15:00-16:00 Afternoon break
+- 16:00-18:00 Independent work session (American faculty available)
 
 _Participants from other time zones are welcome, as long as they can participate fully in the scheduled interactive sessions and reserve approximately 4 hours a day for independent work._
 
@@ -84,7 +84,7 @@ There will be a mid-session evaluation on Wednesday. **The full schedule for MME
 
 Schedules from previous years:
 
-- [MMED 2019](./schedule/2018 "MMED 2019 schedule")
+- [MMED 2019](./schedule/2019 "MMED 2019 schedule")
 - [MMED 2018](./schedule/2018 "MMED 2018 schedule")
 - [MMED 2017](./schedule/2017 "MMED 2017 schedule")
 - [MMED 2016](./schedule/2016 "MMED 2016 schedule")

@@ -37,5 +37,15 @@ papers:
     link: https://www.ncbi.nlm.nih.gov/pubmed/28325495
     journal: Epidemics
     year: 2017
-bio: Jonathan is a Professor of Biology at McMaster University in Hamilton, Canada, with cross appointments in the Department of Mathematics and Statistics, and the Institute for Infectious Disease Research. He has taught short courses annually in South Africa since 2007, starting with predecessors of the MMED clinic, and has been involved from the beginning in building and maintaining the ICI3D program. Jonathan has a broad interest in understanding the dynamics of infectious diseases by combining theoretical, statistical and computational approaches. Current interests include HIV control and the HIV treatment cascade; control of canine rabies; and disease forecasting.
+  - title: Two approaches to forecast Ebola synthetic epidemics
+    authors: Champredon, Li, Bolker, <b>Dushoff</b>
+    link: https://www.ncbi.nlm.nih.gov/pubmed/28325495
+    journal: Epidemics
+    year: 2017
+  - title: Do pubmed search
+    authors: All Pubmed indexed papers
+    link: https://pubmed.ncbi.nlm.nih.gov/?term=dushoff+J*%5BAuthor%5D
+    journal: Various journals and co-authors
+    year: 1995–
+bio: Jonathan is a Professor of Biology at McMaster University in Hamilton, Canada, with cross appointments in the Department of Mathematics and Statistics, and the Institute for Infectious Disease Research. He has taught short courses annually in South Africa since 2007, starting with predecessors of the MMED clinic, and has been involved from the beginning in building and maintaining the ICI3D program. Jonathan has a broad interest in understanding the dynamics of infectious diseases by combining theoretical, statistical and computational approaches. Current interests include HIV control and the HIV treatment cascade; control of canine rabies; disease forecasting; and understanding the role of transmission intervals in disease dynamics.
 ---

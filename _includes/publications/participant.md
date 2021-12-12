@@ -1,5 +1,7 @@
 <div markdown='1'>
 
+_Marx, F_ [p], T Cohen, NA Menzies, JA Salomon, G Theron, and R Yaesoubi. (2020) [Cost-effectiveness of post-treatment follow-up examinations and secondary prevention of tuberculosis in a high-incidence setting – a model-based analysis](https://doi.org/10.1016/S2214-109X(20)30227-8). _**The Lancet Global Health**_ 8: e1223-33. doi: 10.1016/S2214-109X(20)30227-8
+
 Black, A, F Sitas, _T Chibrawara_ [g], _Z Gill_ [g], _M Kubjane_ [g], and **BG Williams**. (2019) [HIV-attributable causes of death in the medical ward at the Chris Hani Baragwanath Hospital, South Africa](https://doi.org/10.1371/journal.pone.0215591). _**PLOS ONE**_ 14(5): e0215591. doi: 10.1371/journal.pone.0215591
 
 _Beauclair, R_ [g], **J Dushoff**, and **W Delva**. (2018) [Partner age differences and associated sexual risk behaviours among adolescent girls and young women in a cash transfer programme for schooling in Malawi](https://doi.org/10.1186/s12889-018-5327-7). _**BMC Public Health**_ 18: 403. doi: 10.1186/s12889-018-5327-7

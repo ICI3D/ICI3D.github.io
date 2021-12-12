@@ -1,4 +1,3 @@
-:hearts::hearts::hearts::hearts::hearts::hearts::hearts::hearts:
 ICI3D.github.io
 ===============
 

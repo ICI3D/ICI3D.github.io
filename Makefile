@@ -1,8 +1,9 @@
-# http://ICI3D.github.io
 ## ICI3D/io
 
+# http://ICI3D.github.io/MMED/team
 # http://localhost:4000/
-# http://localhost:4000/daidd/schedule/shadow.html
+# http://localhost:4000/MMED/schedule/shadow.html
+# http://localhost:4000/MMED/team
 
 current: target
 -include target.mk
@@ -17,6 +18,8 @@ vim_session:
 	bash -cl "vmt"
 
 ######################################################################
+
+Sources += $(wildcard jdresources/*)
 
 ### Makestuff
 
@@ -34,5 +37,6 @@ makestuff/Makefile:
 
 -include makestuff/os.mk
 -include makestuff/git.mk
+## -include makestuff/submod.mk
 -include makestuff/visual.mk
 -include makestuff/projdir.mk

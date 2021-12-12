@@ -4,7 +4,7 @@ title: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
 alerttype: success
-alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 13-19 December. The deadline for receipt of applications is <strong>November 2</strong>.
+alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 12-18 December. The deadline for receipt of applications is <strong>4 November</strong>.
 applink: ./apply
 ---
 
@@ -14,9 +14,9 @@ The Clinic will consist of a series of interactive lectures and tutorials that w
 
 **Students and researchers with a demonstrated interest in infectious disease research are encouraged to apply. Applicants with a good grounding in statistics and experience with data collection will be preferred. This workshop is not intended for those with substantial prior experience in dynamical modeling.**
 
-The course registration fee is ZAR 2,500. A small number of scholarships are available for Clinic participants. All participants must have access to high-speed internet for the duration of the Clinic.
+The course registration fee is ZAR 3,000 or US$215. A small number of scholarships are available for Clinic participants. All participants must have access to high-speed internet for the duration of the Clinic.
 
-The application process for the Clinic is competitive. **The deadline for receipt of applications is 2 November 2020.** Incomplete applications will not be considered.
+The application process for the Clinic is competitive. **The deadline for receipt of applications is 4 November 2021 at 23:59 SAST / 17:59 Eastern.** Incomplete applications will not be considered.
 
 {%if page.alerttype == "success"%}
 

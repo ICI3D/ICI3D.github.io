@@ -5,7 +5,7 @@ tab: About
 longtitle: About the ICI3D program
 ---
 <!-- PAGE CONTENT -->
-<p class="lead"><span class="dropcap dropcap-big">T</span>raining junior researchers from the US and Africa to conduct integrative research in infectious disease dynamics and to communicate their questions, methods, and findings across disciplinary boundaries.</p>
+<p class="lead"><span class="dropcap dropcap-big">T</span>raining junior researchers to conduct integrative research in infectious disease dynamics and to communicate their questions, methods, and findings across disciplinary boundaries.</p>
 <hr>
 <div class="page-content">
 			<div class="container">

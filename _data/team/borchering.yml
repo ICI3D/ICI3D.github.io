@@ -2,16 +2,16 @@
 name: Rebecca Borchering, PhD
 type: core
 role: Faculty Member, MMED and DAIDD clinics
-role.old: Faculty Member, DAIDD 2015-2017, MMED 2016-2018
+role.old: Faculty Member, DAIDD 2015-2019, MMED 2016-2019, 2021
 involvement: Faculty Member, MMED and DAIDD clinics
-position: Postdoctoral researcher, Odum School of Ecology
-affiliation: University of Georgia, Athens, GA, USA
+position: Postdoctoral researcher, the Huck Institutes of the Life Sciences
+affiliation: The Pennsylvania State University, State College, PA, USA
 img: team/borchering.jpg
-summary: Rebecca received her PhD in Mathematics from the University of Florida (UF) in 2017 and is now a postdoctoral researcher in the Odum School of Ecology at the University of Georgia. She completed a postdoc in the UF Department of Biology in 2017-2019. She was an MMED participant in 2014, served as the ICI3D Program Assistant for the 2015-2016 academic year, and joined the Workshop Faculty in 2015.
+summary: Rebecca received her PhD in Mathematics from the University of Florida (UF) in 2017 and is now a postdoctoral researcher in the in the Huck Institutes of the Life Sciences at the Pennsylvania State University. She completed a postdoc in the UF Department of Biology in 2017-2019 and a postdoc in the University of Georgia Odum School of ecology in 2019-2020. She was an MMED participant in 2014, served as the ICI3D Program Assistant for the 2015-2016 academic year, and joined the Workshop Faculty in 2015.
 icons: yes
 github: rborchering
 gscholar: JvBiQQYAAAAJ
-website: http://people.clas.ufl.edu/rborchering/research/
+website: https://rebeccaborchering.com
 degrees:
   - degree: PhD
     discipline: Mathematics
@@ -29,7 +29,7 @@ degrees:
     discipline: Philosophy
     institution: Arizona State University
     year: 2011
-bio: Becky received her PhD in Mathematics from the University of Florida (UF) in 2017 and is now a postdoctoral researcher in the Odum School of Ecology at the University of Georgia. She was an MMED participant in 2014, served as the ICI3D Program Assistant for the 2015-2016 academic year, and joined the Workshop Faculty in 2015. She uses stochastic processes to model pathogen invasion in novel host populations and is particularly interested in seasonal infectious disease dynamics.  In one project, she used a spatial model to investigate how changes in a resource landscape might influence encounter rates and pathogen transmission among consumers.  Much of her current and previous work has focused on rabies transmission in wildlife populations. She has also used epidemiological case data to study potential immune-mediated interactions between dengue virus and Zika virus. Her upcoming postdoctoral research will investigate how information on antigenic change in influenza viruses may be used to improve influenza forecasts.
+bio: Rebecca is a postdoctoral researcher in the Huck Institutes of the Life Sciences at the Pennsylvania State University. She earned a PhD in Mathematics from the University of Florida in May 2017, focusing on stochastic processes of invasion and extinction, with particular applications for seasonal rabies virus dynamics. She previously held postdoctoral positions at the Emerging Pathogens Institute and Department of Biology at the University of Florida and at the Odum School of Ecology at the University of Georgia. Her research interests center around infectious disease modeling and public health applications. She is interested in the dynamics of co-circulating pathogens and her previous work includes investigating the effects of the 2015/2016 Zika epidemic in Latin America on endemic dengue dynamics and the emergence of novel influenza B viruses in the United States. Currently, she helps lead multi-model efforts to inform decision support in the face of uncertainty during the COVID-19 pandemic. She works on both the Multiple Models for Outbreak Decision Support (<a href = "https://midasnetwork.us/mmods/">MMODS</a>) and the <a href = "https://covid19scenariomodelinghub.org/">COVID-19 Scenario Modeling Hub</a> projects.
 papers:
   - title: Resource-driven encounters and the induction of disease among consumers
     authors: <b>Borchering</b>, <b>Bellan</b>, Flynn, <b>Pulliam</b>, McKinley
@@ -41,9 +41,24 @@ papers:
     link: https://epubs.siam.org/doi/abs/10.1137/17M1155259
     journal: Multiscale Modeling & Simulation
     year: 2018
-  - title: Dengue after Zika - characterizing impacts of Zika emergence on endemic dengue transmission
+  - title: Impacts of Zika emergence in Latin America on endemic dengue transmission
     authors: <b>Borchering</b>, Huang, Mier-y-Teran-Romero, Rojas, Rodriguez-Barraquer, Katzelnick, Martinez, King, Cinkovich, Lessler, Cummings
-    link: https://www.biorxiv.org/content/10.1101/567537v1
-    journal: bioRxiv
+    link: https://doi.org/10.1038/s41467-019-13628-x
+    journal: Nature Communications
     year: 2019
+  - title:  COVID-19 reopening strategies at the county level in the face of uncertainty - multiple models for outbreak decision support
+    authors: Shea, <b>Borchering</b>, Probert, Howerton, Bogich, Li, van Panhuis <em>et al</em>
+    link: https://doi.org/10.1101/2020.11.03.20225409
+    journal: medRxiv
+    year: 2020
+  - title:   Anomalous influenza seasonality in the United States and the emergence of novel influenza B/Victoria viruses
+    authors: <b>Borchering</b>, Gunning, Gokhale, Weedop, Saidpour, Brett, Rohani
+    link: https://doi.org/10.1073/pnas.2012327118
+    journal: Proceedings of the National Academy of Sciences
+    year: 2021
+  - title:  Modeling of future COVID-19 cases, hospitalizations, and deaths, by vaccination rates and nonpharmaceutical intervention scenarios — United States, April–September 2021
+    authors: <b>Borchering</b>, Viboud, Howerton, Smith, Truelove, Reich <em>et al</em>
+    link: https://www.cdc.gov/mmwr/volumes/70/wr/mm7019e3.htm
+    journal: MMWR
+    year: 2021
 ---
