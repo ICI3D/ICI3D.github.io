@@ -12,7 +12,7 @@
 
 - Introduction to R, Tutorial 1: [Introduction to R and its quirks](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R)
 - Introduction to R, Tutorial 2: [More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R)
-    - [**Benchmark questions**]({{page.repo}}/blob/master/assignments/tutorials/Tutorial2_questions.pdf?raw=true): Answer these questions **instead of** the questions that are included in the Tutorial.
+    - [ **Benchmark questions**]({{page.repo}}/blob/master/assignments/tutorials/Tutorial2_questions.pdf?raw=true): Answer these questions **instead of** the questions that are included in the Tutorial.
 	- Question 4 Tip: **answer should look like the following**
 	  ei.star <- function(population.size, R0) {
 
@@ -21,11 +21,11 @@
 	  return(output)
 
 	  }
-    - **Assignment**: Submit your solutions to Benchmark Questions 3 and 4 to Zinhle by email.
+    - **Assignment** (*due by Wednesday evening*): Submit your solutions to Benchmark Questions 3 and 4 to Zinhle by email.
     - Supplementary file: **[seir\_2012.R]({{page.repo}}/blob/master/assignments/tutorials/seir_2012.R?raw=true)**
 - [Binomial distribution tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R)
 - Introduction to R, Tutorial 3: [Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R)
-    - **Assignment**: **In addition to** completing the benchmark questions at the end of the Tutorial, download the supplementary assignment file linked below. Work through the example of a chain binomial SIR model, then complete and submit the assignment as described in the file.
+    - **Assignment** (*due by Sunday evening*): **In addition to** completing the benchmark questions at the end of the Tutorial, download the supplementary assignment file linked below. Work through the example of a chain binomial SIR model, then complete and submit the assignment as described in the file.
     - Supplementary file: **[cb\_2012.R]({{page.repo}}/blob/master/assignments/tutorials/cb_2012.R?raw=true)**
 
 ### Other modeling tutorials
