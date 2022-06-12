@@ -2,7 +2,7 @@
 
 ### Major Assignments
 
-There will be two major assignments for this course, a short oral presentation (given during the MMED Clinic) and a final written project (due July 12).
+There will be two major assignments for this course, a short oral presentation and a final written project (due July 15).
 
 ### Academic Integrity and Plagiarism
 
@@ -15,55 +15,23 @@ All sources for information, figures, and wording must be properly cited. Before
 
 ### Oral presentations (project proposals)
 
-During the first week of MMED, you will have to give a short "Research Pitch" in one of the evening sessions. We will help you develop your presentation throughout Week 1 of MedPH.
+At the end of the second week (24 June), you will have to give a short "Research Pitch" to a small group of recent MedPH students and instructors. We will help you develop your presentation throughout Weeks 1-2 of MedPH.
 
-- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+- Prepare a short oral presentation summarizing your research (10 minutes max, using the slide template that will be provided)
     - You should focus on a project idea that's of interest to you and would be feasible to conduct with available resources (e.g. existing data sets).
     - The presentation should include enough background information to motivate the proposed research and should clearly state the research question. You should also briefly summarize the proposed approach to the research question.
-    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that will help you explain key aspects of the proposed research. Please keep the text on your slide to a minimum.
+    - We recommend selecting a few visual aids (eg, figures or diagrams) that will help you explain key aspects of the proposed research. Please keep the text on your slides to a minimum.
     - You will be kept to time.
 
 ### Final written project
 
 - [Project instructions]({{page.repo}}/blob/master/Project_guidelines.pdf)
-- Your final project can be based on your project proposal or your MMED group project. You will have lot of free time during the last week of MMED to write this.
-- A list of suggested topics for MMED group projects will be made available at [on this page]({{ site.url }}/projects).
+- Your final project should be based on your project proposal but can be modified based on feedback you receive from the faculty and others. You will have three weeks to develop and write up your project (due 15 July), and we encourage you to seek feedback as you're working on it. The instructors will be available for online meetings during the week of 27 June and will be in Muizenberg and available for in-person meetings the week of 4 July.
 - [Example written project]({{page.repo}}/blob/master/assignments/LourensTrachoma2013.pdf?raw=true)
 
-### For Wednesday
+### Other assignments
 
-- Finish Tutorial 1
-    - **Submit answers to Tutorial 1 BMQs by email to Zinhle at zinhle@aims.ac.za**
-- Read Hampson _et al_. 2009 ([Rabies]({{page.repo}}/blob/master/readings/Hampson2009.pdf?raw=true)) – due Wed AM
-- Consider possible topics for projects (browse the information available under the references tab for ideas)
-    - Come prepared to discuss at least one disease and at least one question that interest you - due Wed PM
-- Review the material on Academic Integrity and Plagiarism above
-
-### For Thursday
-
-- Complete Tutorial 2
-    - **Submit answers to Tutorial 2 BMQs 3 and 4 by email to Zinhle at zinhle@aims.ac.za**
-- Progress on project proposal – due Thurs AM
-    - Decide on a topic and research question
-    - Read at least one relevant article
-    - Identify potential data source/s
-    - Take careful notes on relevant background information (making sure you keep track of sources and any direct quotes)
-
-### For Friday
-
-- Complete Tutorial lab 3
-    - **Submit answer to Tutorial 3, Question 3 by email to Zinhle** – due Friday AM
-- Continue proposal development
-- Draft of presentation for practice - due Friday PM
-
-### For Sunday
-
-- Finalize presentations, as needed (submit slides by Sun PM)
-- Complete the remaining items for [MMED preparation](http://www.ici3d.org/MMED/preparation/)
-    - Software installation
-    - Introduciton to Git
-    - Readings (recommended but not required)
-- Rest up for the weeks ahead!
+- Your marks for the course will also depend on your participation during the first two weeks of the course and your submitted responses to the benchmark questions for the required R tutorials. See the schedule tab for details of the additional assignments and when they are due.
 
 Readings
 ========
