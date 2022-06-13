@@ -9,6 +9,9 @@
 Assignments
 
 - Install R and R Studio (if not already installed)
+    - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
+        - If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OK.
+    - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
 - Complete Introduction to R Studio tutorial
 - Complete [Tutorial I](#computerlabs) – due Tues AM **email to Zinhle at zinhle@aims.ac.za**
 - Review material on Academic Integrity and Plagiarism (see Assignments tab for more details)
