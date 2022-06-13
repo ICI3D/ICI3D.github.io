@@ -8,6 +8,8 @@
 
 Assignments
 
+- Install R and R Studio (if not already installed)
+- Complete Introduction to R Studio tutorial
 - Complete [Tutorial I](#computerlabs) – due Tues AM **email to Zinhle at zinhle@aims.ac.za**
 - Review material on Academic Integrity and Plagiarism (see Assignments tab for more details)
 
