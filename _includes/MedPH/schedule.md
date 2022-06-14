@@ -55,7 +55,7 @@ Assignments
 - Complete [Tutorial III: simple stochastic models of epidemics](#computerlabs) – due Fri AM
     - **turn in figures and code from Tutorial III Questions by email to Zinhle**
 
-### Thursday, 23 June
+### Wednesday, 22 June
 
 - 13:30 – 14:30 [Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) (Zinhle)
 - 14:30 – 15:00  Discussion of BMQs from Tutorial 3 (Juliet)
@@ -65,7 +65,7 @@ Assignments
 
 - Finalize presentations, as needed (submit final slides by Friday AM)
 
-### Friday, 24 June
+### Thursday, 23 June
 
 - 13:30 - 14:00 Research pitches
 - 14:00 - 15:15 Dynamical Fever Tutorial
