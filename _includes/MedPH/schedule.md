@@ -51,8 +51,8 @@ Assignments
 
 - Complete [Binomial Distribution Tutorial](#computerlabs)
 - Continue proposal/project development
-- Draft of presentations for practice – due Thursday
-- Complete [Tutorial III: simple stochastic models of epidemics](#computerlabs) – due Fri AM
+- Draft of presentations for practice – due Wednesday
+- Complete [Tutorial III: simple stochastic models of epidemics](#computerlabs) – due Tues AM
     - **turn in figures and code from Tutorial III Questions by email to Zinhle**
 
 ### Wednesday, 22 June
@@ -63,7 +63,7 @@ Assignments
 
 Assignments
 
-- Finalize presentations, as needed (submit final slides by Friday AM)
+- Finalize presentations, as needed (submit final slides by Thurs AM)
 
 ### Thursday, 23 June
 
@@ -76,7 +76,7 @@ Assignments
 - Complete the remaining items for [MMED preparation](http://www.ici3d.org/MMED/preparation/)
     - Software installation
     - Readings (recommended but not required)
-- Complete final project (due 15 July)
+- Complete final project (due 22 July)
 
 ### Monday, 27 June through Friday, 8 July
 
