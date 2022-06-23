@@ -4,16 +4,17 @@ current: target
 -include target.mk
 Ignore = target.mk
 
-# -include makestuff/perl.def
+-include makestuff/perl.def
 
 vim_session:
 	bash -cl "vmt"
 
 ######################################################################
 
-Sources += shadow.md
+Sources += $(wildcard *.md)
 
-index.md: shadow.md
+index.md: shadow.md shadow.pl
+	$(PUSH)
 
 ### Makestuff
 
