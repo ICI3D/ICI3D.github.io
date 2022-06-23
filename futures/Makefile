@@ -11,6 +11,8 @@ vim_session:
 
 ######################################################################
 
+Sources += shadow.md
+
 index.md: shadow.md
 
 ### Makestuff
