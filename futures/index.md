@@ -30,11 +30,11 @@ _This schedule is preliminary and subject to change._
 9:30-9:45	Workshop objectives (Juliet)
 
 10:00-10:45	The WHY of ICI3D (Moderator: Gavin)
-* NOTE Need groups
 * [25 minutes small groups; 20 minutes big group]
-	* What problem/s are we trying to solve?
-	* Why does / should ICI3D exist?
-	* What are our priorities and values?
+What problem/s are we trying to solve?
+Why does / should ICI3D exist?
+What are our priorities and values?
+* Need groups
 
 10:45-11	Morning break
 

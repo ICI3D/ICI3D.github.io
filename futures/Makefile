@@ -11,7 +11,7 @@ vim_session:
 
 ######################################################################
 
-Sources += $(wildcard *.md)
+Sources += $(wildcard *.md *.pl)
 
 index.md: shadow.md shadow.pl
 	$(PUSH)
