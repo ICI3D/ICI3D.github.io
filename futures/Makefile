@@ -1,4 +1,4 @@
-## This is ICI3D's main web repo
+## This is ICI3D's main web repo futures subdirectory
 
 current: target
 -include target.mk
@@ -10,6 +10,8 @@ vim_session:
 	bash -cl "vmt"
 
 ######################################################################
+
+index.md: shadow.md
 
 ### Makestuff
 
