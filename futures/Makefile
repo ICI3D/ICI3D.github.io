@@ -1,4 +1,5 @@
 ## This is ICI3D's main web repo futures subdirectory
+## http://www.ici3d.org/futures/
 
 current: target
 -include target.mk

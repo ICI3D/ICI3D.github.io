@@ -300,4 +300,3 @@ Surfing, breakfast at Knead, hike to Kalk Bay?, Bombay Chili dinner
 15:30-17:30	Reflections and next steps
 
 17:30	Bluebird Garage
-
