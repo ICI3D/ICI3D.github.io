@@ -1,5 +1,6 @@
 ## This is ICI3D's main web repo futures subdirectory
 ## http://www.ici3d.org/futures/
+## http://www.ici3d.org/futures/shadow.html
 
 current: target
 -include target.mk
