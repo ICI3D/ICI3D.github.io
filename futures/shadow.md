@@ -1,13 +1,19 @@
 ---
-layout: clinic
+layout: page
 title: ICI3D
 tab: Home
-subtitle: 2022 Futures meeting
-welcome: Welcome to ICI3D Futures!
-summary: ICI3D trains international cohorts of junior researchers to develop integrative research projects in infectious disease dynamics and to communicate their questions, methods, and findings across disciplinary boundaries.
+subtitle: 2022 Futures Workshop
+longtitle: ICI3D Strategy, Sustainability, and Succession Planning
+summary: Workshop ~ June 27 - July 8, 2022 ~ Stellenbosch and Muizenberg
+alerttype: success
+alertmsg: >
+  <ul style="font-size:16px">
+    <li><b>This schedule is preliminary and subject to change.</b></li>
+    <li>Reminder: Review and comment on the workshop's <b><a href="https://docs.google.com/document/d/1WVHejqSfqlRjhthZI0Rd8gEmQbam4pZxb3H30JMGLUw">draft COVID / Infection Control Protocol</a></b>.</li>
+  </ul>
 ---
 
-# ICI3D Strategy, Sustainability, and Succession Planning workshop
+# Schedule
 
 SHADOW -- SHADOW to omit line; NOTE to omit rest of line
 
@@ -15,17 +21,11 @@ SHADOW -- HIDE works like NOTE; should be used for things we want to open up at 
 
 SHADOW -- OPEN does nothing (change back to HIDE for future); I like this convention even though it's pointless to use it for a one-time meeting.
 
-## 27 June - 8 July, 2022
-
-_This schedule is preliminary and subject to change._
-
-SHADOW pedagogy, funding, structure, and mission
-
-NOTE Funding brainstorming session; tasks for follow up; report back; implement
+SHADOW pedagogy, funding, structure / governance, mission / strategy
 
 ## Monday 27 June
 
-8:30-9:00	Arrival OPEN and coffee
+8:00-9:00	Arrival, Registration, Testing, and Coffee
 
 9-9:20	ICI3D Program: Refresher / overview (Juliet)
 
@@ -34,15 +34,15 @@ NOTE Funding brainstorming session; tasks for follow up; report back; implement
 9:30-9:45	Workshop objectives (Juliet)
 
 10:00-10:45	The WHY of ICI3D (Moderator: Gavin) HIDE Need groups
-* (25 minutes small groups; 20 minutes big group)
+* SHADOW (25 minutes small groups; 20 minutes big group)
 	* What problem/s are we trying to solve?
 	* Why does / should ICI3D exist?
-	* What are our priorities and values?
+	* SHADOW What are our priorities and values?
 
 10:45-11	Morning break
 
 11-11:40	SWOT responses (Becky) and discussion
-Goal: agree on key strengths, weaknesses, opportunities, and threats that should form the basis of thinking about the future of ICI3D
+* Goal: agree on key strengths, weaknesses, opportunities, and threats that should form the basis of thinking about the future of ICI3D
 
 11:45-12:30	Guest presentation and discussion: Sheetal Silal, University of Cape Town
 * Strategic framework for capacity strengthening
@@ -50,12 +50,10 @@ Goal: agree on key strengths, weaknesses, opportunities, and threats that should
 12:30-14:00	Lunch
 
 14:00-14:30	Discussion (Moderator: John)
-* What are the communities we engage with, and where do we see our 
-* communities falling along the spectrum in Sheetal’s framework?
-* Should ICI3D tailor itself more to specific communities or aim to be global 
-* and open? If the former, what are the priority communities?
+* What are the communities we engage with, and where do we see our communities falling along the spectrum in Sheetal’s framework?
+* Should ICI3D tailor itself more to specific communities or aim to be global and open? If the former, what are the priority communities?
 
-14:30-15:10	Draft vision / mission statements in small groups [25 + 15; need groups]
+14:30-15:10	Draft vision / mission statements in small groups NOTE [25 + 15; need groups]
 
 15:10-15:40	Dawie’s thoughts and discussion
 
@@ -63,7 +61,7 @@ Goal: agree on key strengths, weaknesses, opportunities, and threats that should
 
 16:00-16:25	Field overview (Jonathan) and discussion
 * What do we think about where we might fit?
-* What are we hoping to learn from the next presentations? 
+* What are we hoping to learn from the next presentations?
 
 16:30-17:30 	Virtual presentation / discussion: Betz Halloran, Director of SISMID
 
@@ -91,22 +89,20 @@ Goal: agree on key strengths, weaknesses, opportunities, and threats that should
 
 16:00-16:30	Yang Liu (LSHTM short course/s)
 
-16:00-17:30	Reflections / discussion on training in the field, gaps
+16:00-17:30	Reflections / discussion on training in the field, **gaps**
 * Curriculum / development needs
 	* What are the gaps / needs that have been identified?
 	* Is there room to fill them within existing ICI3D program / structure?
-	* What new things are needed, and are we the right group to provide 			them?
+	* What new things are needed, and are we the right group to provide them?
 
 19:30	Workshop dinner
-
 
 ## Wednesday 29 June
 
 8:30-9:00 	Morning coffee
 
 9-10:30	Revisit SWOT with additional context from other programmes (Carl)
-* Are there new strengths, weaknesses, opportunities, or threats that we’ve 
-* identified?
+* Are there new strengths, weaknesses, opportunities, or threats that we’ve identified?
 * Start tackling the SWOT bullets in groups of 1-2
 
 10:30-11	Morning break
@@ -120,20 +116,18 @@ Goal: agree on key strengths, weaknesses, opportunities, and threats that should
 14:00-14:45	Report back on findings and progress
 
 14:45-15:30	Discussion of audience and network
-* Who are we trying to reach for each programme*?
+* Who are we trying to reach for each programme?
+    * May include programmes that don’t yet exist
 * How do we get better saturation of the audience?
 * How should we engage alumni? To what end?
 * What do we want our network to be / look like / do?
-	* May include programmes that don’t yet exist
 
 15:30-16:00	Afternoon break
 
-16:00-17:00	Small groups: objectives derived from SWOT and discussions so far
-* What are the 2-3 major goals that ICI3D should achieve in the next 3-5 			years?
-* How will we know if these goals have been met / we are on track to 
-* meet these goals (milestones)?
+16:00-17:00	Small groups: objectives derived from SWOT and discussions so far NOTE need groups
+* What are the 2-3 major goals that ICI3D should achieve in the next 3-5 years?
+* How will we know if these goals have been met / we are on track to meet these goals (milestones)?
 * What actions are needed to meet these goals?
-* [need groups]
 
 17:00-17:30	Report back and discuss
 * Revise and clarify objectives
@@ -151,16 +145,14 @@ Goal: agree on key strengths, weaknesses, opportunities, and threats that should
 
 10:30-11	Morning break
 
-11-12:30	Pedagogy and curriculum discussion
+11-12:30	Pedagogy and curriculum discussion -> teams and tasks
 * What needs development? What needs revision / updating?
 * What are priorities for the remaining time?
-	* -> teams and tasks
 
 12:30-14:00	Lunch
 
-14:00-15:30	Funding discussion 1
-* Brainstorming grant opportunities and grant components -> tasks
-* and teams
+14:00-15:30	Funding discussion 1 -> tasks and teams
+* Brainstorming grant opportunities and grant components
 
 15:30-16:00	Afternoon break
 
