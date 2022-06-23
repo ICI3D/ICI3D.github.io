@@ -21,7 +21,7 @@ _This schedule is preliminary and subject to change._
 
 ## Monday 27 June
 
-8:30-9:00	Arrival / coffee
+8:30-9:00	Arrival and coffee
 
 9-9:20	ICI3D Program: Refresher / overview (Juliet)
 
@@ -34,7 +34,7 @@ _This schedule is preliminary and subject to change._
 What problem/s are we trying to solve?
 Why does / should ICI3D exist?
 What are our priorities and values?
-* Need groups
+* 
 
 10:45-11	Morning break
 

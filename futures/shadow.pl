@@ -3,9 +3,9 @@ use 5.10.0;
 
 while(<>){
 	chomp;
-	next if /SHADOW/;
-	s/NOTE.*//;
-	s/HIDE.*//;
-	s/OPEN\b\s*//;
+	next if /\bSHADOW\b/;
+	s/\bNOTE\b.*//;
+	s/\bHIDE\b.*//;
+	s/\s*\bOPEN\b\s*/ /;
 	say;
 }

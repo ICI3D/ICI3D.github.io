@@ -9,11 +9,11 @@ summary: ICI3D trains international cohorts of junior researchers to develop int
 
 # ICI3D Strategy, Sustainability, and Succession Planning workshop
 
-SHADOW SHADOW to omit line; NOTE to omit rest of line
+SHADOW -- SHADOW to omit line; NOTE to omit rest of line
 
-SHADOW HIDE works like NOTE; should be used for things we want to open up at or right after the session
+SHADOW -- HIDE works like NOTE; should be used for things we want to open up at or right after the session
 
-SHADOW OPEN does nothing (change back to HIDE for future); I like this convention even though it's pointless to use it for a one-time meeting.
+SHADOW -- OPEN does nothing (change back to HIDE for future); I like this convention even though it's pointless to use it for a one-time meeting.
 
 ## 27 June - 8 July, 2022
 
@@ -25,7 +25,7 @@ NOTE Funding brainstorming session; tasks for follow up; report back; implement
 
 ## Monday 27 June
 
-8:30-9:00	Arrival / coffee
+8:30-9:00	Arrival OPEN and coffee
 
 9-9:20	ICI3D Program: Refresher / overview (Juliet)
 
@@ -38,7 +38,7 @@ NOTE Funding brainstorming session; tasks for follow up; report back; implement
 What problem/s are we trying to solve?
 Why does / should ICI3D exist?
 What are our priorities and values?
-* Need groups
+* HIDE Need groups
 
 10:45-11	Morning break
 
