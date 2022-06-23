@@ -33,12 +33,11 @@ NOTE Funding brainstorming session; tasks for follow up; report back; implement
 
 9:30-9:45	Workshop objectives (Juliet)
 
-10:00-10:45	The WHY of ICI3D (Moderator: Gavin)
-* [25 minutes small groups; 20 minutes big group]
-What problem/s are we trying to solve?
-Why does / should ICI3D exist?
-What are our priorities and values?
-* HIDE Need groups
+10:00-10:45	The WHY of ICI3D (Moderator: Gavin) HIDE Need groups
+* (25 minutes small groups; 20 minutes big group)
+	* What problem/s are we trying to solve?
+	* Why does / should ICI3D exist?
+	* What are our priorities and values?
 
 10:45-11	Morning break
 
