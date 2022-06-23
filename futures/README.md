@@ -14,4 +14,6 @@ The shortcut way is:
 
 to take care of updating and syncing in one step (this may or may not work depending on editor setup).
 
-The rules for how what is shown in [the schedule](http://www.ici3d.org/futures/) are at the top of [the shadow](http://www.ici3d.org/futures/shadow.html)
+__Note that it may take time for github to rebuild this giant site.__
+
+The rules for how to control what is shown in [the schedule](http://www.ici3d.org/futures/) are at the top of [the shadow](http://www.ici3d.org/futures/shadow.html)
