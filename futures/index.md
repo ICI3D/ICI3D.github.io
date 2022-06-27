@@ -43,11 +43,9 @@ alertmsg: >
 
 12:30-14:00	Lunch
 
-14:00-14:30	Discussion (Moderator: John)
+14:00-15:05	Discussion (Moderator: John)
 * What are the communities we engage with, and where do we see our communities falling along the spectrum in Sheetal’s framework?
 * Should ICI3D tailor itself more to specific communities or aim to be global and open? If the former, what are the priority communities?
-
-14:30-15:10	Draft vision / mission statements in small groups 
 
 15:10-15:40	Dawie’s thoughts and discussion
 
@@ -83,11 +81,13 @@ alertmsg: >
 
 16:00-16:30	Yang Liu (LSHTM short course/s)
 
-16:00-17:30	Reflections / discussion on training in the field, **gaps**
+16:00-16:50	Reflections / discussion on training in the field, **gaps**
 * Curriculum / development needs
 	* What are the gaps / needs that have been identified?
 	* Is there room to fill them within existing ICI3D program / structure?
 	* What new things are needed, and are we the right group to provide them?
+
+16:50-17:30	Draft vision / mission statements in small groups 
 
 19:30	Workshop dinner
 
