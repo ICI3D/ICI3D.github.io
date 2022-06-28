@@ -111,7 +111,7 @@ alertmsg: >
 
 14:45-15:30	Discussion of audience and network
 * Who are we trying to reach for each programme?
-    * May include programmes that don’t yet exist
+	* May include programmes that don’t yet exist
 * How do we get better saturation of the audience?
 * How should we engage alumni? To what end?
 * What do we want our network to be / look like / do?
