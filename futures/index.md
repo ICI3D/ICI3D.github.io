@@ -81,7 +81,7 @@ alertmsg: >
 
 16:00-16:30	Yang Liu (LSHTM short course/s)
 
-16:00-16:50	Reflections / discussion on training in the field, **gaps**
+16:30-16:50	Reflections / discussion on training in the field, **gaps**
 * Curriculum / development needs
 	* What are the gaps / needs that have been identified?
 	* Is there room to fill them within existing ICI3D program / structure?
@@ -113,6 +113,15 @@ alertmsg: >
 
 14:55-15:30 Discussion of different missions / futures
 
+<<<<<<< HEAD
+=======
+14:45-15:30	Discussion of audience and network
+* Who are we trying to reach for each programme?
+	* May include programmes that don’t yet exist
+* How do we get better saturation of the audience?
+* How should we engage alumni? To what end?
+* What do we want our network to be / look like / do?
+>>>>>>> 9e19192a02df67375c331abd1e7b6f4a41b9c365
 
 15:30-16:00	Afternoon break
 
