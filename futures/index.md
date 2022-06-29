@@ -107,26 +107,23 @@ alertmsg: >
 
 12:30-14:00	Lunch
 
-14:00-14:45	Report back on findings and progress
+14:00-14:05 Regroup and plan for the afternoon
 
-14:45-15:30	Discussion of audience and network
-* Who are we trying to reach for each programme?
-    * May include programmes that don’t yet exist
-* How do we get better saturation of the audience?
-* How should we engage alumni? To what end?
-* What do we want our network to be / look like / do?
+14:05-14:50	Continue work on SWOT evidence
+
+14:55-15:30 Discussion of different missions / futures
+
 
 15:30-16:00	Afternoon break
 
-16:00-17:00	Small groups: objectives derived from SWOT and discussions so far 
-* What are the 2-3 major goals that ICI3D should achieve in the next 3-5 years?
-* How will we know if these goals have been met / we are on track to meet these goals (milestones)?
-* What actions are needed to meet these goals?
+16:00-17:15 Various tasks
+* Consolidate and propose mission statement - JP and JD
+* Work on consolidation and evidence for MMED and DAIDD SWOTs
+* List of possible actions
+* Rappateurs work on summary / report - RB, FB, GH
+
 
 17:00-17:30	Report back and discuss
-* Revise and clarify objectives
-* Begin discussion of milestones
-* Convert into actions we can take
 
 ## Thursday 30 June
 
