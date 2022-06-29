@@ -87,7 +87,7 @@ SHADOW pedagogy, funding, structure / governance, mission / strategy
 
 16:00-16:30	Yang Liu (LSHTM short course/s)
 
-16:00-16:50	Reflections / discussion on training in the field, **gaps**
+16:30-16:50	Reflections / discussion on training in the field, **gaps**
 * Curriculum / development needs
 	* What are the gaps / needs that have been identified?
 	* Is there room to fill them within existing ICI3D program / structure?
