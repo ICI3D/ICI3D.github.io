@@ -137,12 +137,9 @@ alertmsg: >
 * Brainstorming in groups
 * Consolidation and draft list 
 
-9:30-10:30
 
 10:30-11	Morning break
 
-* What needs development? What needs revision / updating?
-* What are priorities for the remaining time?
 
 11:00-12:30	Funding discussion 1 -> tasks and teams
 * Brainstorming grant opportunities and grant components

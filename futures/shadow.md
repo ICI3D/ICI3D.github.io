@@ -157,13 +157,12 @@ SHADOW * Convert into actions we can take
 * Consolidation and draft list 
 
 SHADOW Reschedule this 9:30-10:30	Papers - overview and input -> teams and tasks
-9:30-10:30
 
 10:30-11	Morning break
 
 SHADOW 11-12:30	Pedagogy and curriculum discussion -> teams and tasks
-* What needs development? What needs revision / updating?
-* What are priorities for the remaining time?
+SHADOW * What needs development? What needs revision / updating?
+SHADOW * What are priorities for the remaining time?
 
 11:00-12:30	Funding discussion 1 -> tasks and teams
 * Brainstorming grant opportunities and grant components
