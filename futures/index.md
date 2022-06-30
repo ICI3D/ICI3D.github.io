@@ -132,49 +132,50 @@ alertmsg: >
 9-9:30 Mission statement discussion
 * What are the main planks for operationalizing the mission statement?
 
-9:30 Idealized mission activity list
-* Framework 
-* Brainstorming in groups
-* Consolidation and draft list 
-
+9:30-10:30 Scope and objectives
 
 10:30-11	Morning break
 
 
-11:00-12:30	Funding discussion 1 -> tasks and teams
-* Brainstorming grant opportunities and grant components
+11-12:30 Idealized mission activity list (and prioritization)
 
 12:30-14:00	Lunch
 
-14:00-45 Organizational shape of ICI3D
-
-???
+14:00-15:30	Funding discussion 1 -> tasks and teams
+* Brainstorming grant opportunities and grant components
 
 15:30-16:00	Afternoon break
 
-16:00-17:30 Work on tasks
-* refining planks and mission activities
-* developing funding leads and thinking about links to activities
-* (maybe) looking into advantages and practicalities of organizational structure
+16:00-17:30 Hike
+
 
 
 ## Friday 1 July
 
 8:30-9:00 	Morning coffee
 
-9-9:30	Goals for the remainder of the workshop (Juliet)
+9-9:15	Reminder of workshop goals (Juliet)
 
-9:15-10:00	Paper groups meet
+9:15-10:10	Work on assigned tasks related to funding
 
-10:00-10:30	Work session
+10:10-10:30	Report back on assigned tasks
+* starting with knowledge management, then specific funding opportunities
 
 10:30-11	Morning break
 
-11-12:30	Work session
+11-11:45 Organizational structure and HR plan
+
+11:45-12:30	Small groups: Begin execution plans for each key activity
+* MMED
+* DAIDD
+* Conference (October 2023)
+* Mentors program
+* ICI3D library
+* Mobilize / engage alumni
 
 12:30-14:00	Lunch
 
-14:00-15:30	Work session
+14:00-15:30	Specific fundraising goals and group work around grant objectives
 
 15:30-16:00	Afternoon break
 
@@ -189,6 +190,7 @@ Transition to Muizenberg
 Surfing, breakfast at Knead, hike to Kalk Bay?, Bombay Chili dinner
 
 ## Monday 4 July
+
 
 8:30-9:00 	Regroup / What is Science?
 * Goals for the day
