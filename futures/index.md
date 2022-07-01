@@ -166,9 +166,9 @@ alertmsg: >
 11-11:45 Organizational structure and HR plan
 
 11:45-12:30	Small groups: Begin execution plans for each key activity
-* MMED
-* DAIDD
-* Conference (October 2023)
+* MMED (Jun 2023)
+* DAIDD (Dec 2022?)
+* Conference (Oct 2023)
 * Mentors program
 * ICI3D library
 * Mobilize / engage alumni
