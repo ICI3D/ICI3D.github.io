@@ -27,12 +27,9 @@ SHADOW pedagogy, funding, structure / governance, mission / strategy
 
 SHADOW Papers - overview and input -> teams and tasks
 
-SHADOW 8:30-9:00 	Regroup / What is Science?
-SHADOW * Goals for the day
-
 9:00-9:15 Regroup
 
-9:15-10:30 Work session: follow up on grant opportunities (translate into KMS)
+9:15-10:30 Work session: follow up on grant opportunities (translate into [Funding knowledge-management system](https://drive.google.com/drive/folders/1JcecPbc2nOx8FVQHZOhxAJlI1EmK7x16))
 
 10:30-11 Morning break
 
@@ -83,7 +80,7 @@ SHADOW * Goals for the day
 
 8:30-9:00 	Goals for the day
 
-9-10:30 Discuss and ratify constitution and by-laws
+9-10:30 Discuss and ratify [constitution and by-laws](https://drive.google.com/drive/folders/1APQbTI5EyRZpQKWaxtMPvesWt0JAuzM_)
 
 10:30-11	Morning break
 
