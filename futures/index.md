@@ -198,6 +198,7 @@ Testing, followed by Bombay Chili dinner
 
 11-12:30 Work session:
 * Continue work on grant opportunities
+* SWOT Summary
 * Start looking at curriculum
     * MMED
     * DAIDD
