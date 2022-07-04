@@ -190,23 +190,29 @@ SHADOW 17:15-17:30	Finalize team memberships and designate team leads
 
 10:30-11	Morning break
 
-11-11:45 Organizational structure and HR plan
+11-11:45 Report back on assigned tasks
 
-11:45-12:30	Small groups: Begin execution plans for each key activity
-* MMED (Jun 2023)
-* DAIDD (Dec 2022?)
-* Conference (Oct 2023)
-* Mentors program
-* ICI3D library
-* Mobilize / engage alumni
+SHADOW 11:45-12:30	Small groups: Begin execution plans for each key activity
+SHADOW * MMED (Jun 2023)
+SHADOW * DAIDD (Dec 2022?)
+SHADOW * Conference (Oct 2023)
+SHADOW * Mentors program
+SHADOW * ICI3D library
+SHADOW * Mobilize / engage alumni
+
+11:45-12:30 Organizational structure and HR plan
 
 12:30-14:00	Lunch
 
-14:00-15:30	Specific fundraising goals and group work around grant objectives
+14:00-15:30	Organizational structure and HR plan cont'd
+
+SHADOW Specific fundraising goals and group work around grant objectives
 
 15:30-16:00	Afternoon break
 
-16:00-17:30	Report back and discussion of progress
+16:00-16:30	Organizational structure and HR plan
+
+SHADOW Report back and discussion of progress
 
 ## Saturday 2 July
 
@@ -214,28 +220,40 @@ Transition to Muizenberg
 
 ## Sunday 3 July
 
-Surfing, breakfast at Knead, hike to Kalk Bay?, Bombay Chili dinner
+Testing, followed by Bombay Chili dinner
 
 ## Monday 4 July
 
 SHADOW Papers - overview and input -> teams and tasks
 
-8:30-9:00 	Regroup / What is Science?
-* Goals for the day
+SHADOW 8:30-9:00 	Regroup / What is Science?
+SHADOW * Goals for the day
 
-9:00-10:30	Work session
+9:00-9:15 Regroup
 
-10:30-11	Morning break
+9:15-10:30 Work session: follow up on grant opportunities (translate into KMS)
 
-11-12:30	Work session
+10:30-11 Morning break
+
+11-12:30 Work session:
+* Continue work on grant opportunities
+* Start looking at curriculum
+    * MMED
+    * DAIDD
+* Documentation of timelines and processes
+    * MMED
+    * DAIDD
+    * Mentors Program
 
 12:30-14:00	Lunch
 
-14:00-15:00	Feedback and Discussion: Topic TBD
+14:00-15:00	Papers - overview and input -> teams and tasks
 
 15:00-15:30	Afternoon break
 
-15:30-17:00	Work session
+15:30-16:00 Draft Constitution and Bylaws
+
+16:00-17:00	Work session
 
 17:00-17:30	Progress reports
 
@@ -263,7 +281,7 @@ SHADOW Papers - overview and input -> teams and tasks
 
 8:30-9:00 	Goals for the day
 
-9-10:30	Work session
+9-10:30	DS-I Webinar
 
 10:30-11	Morning break
 
