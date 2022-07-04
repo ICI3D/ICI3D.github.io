@@ -41,15 +41,13 @@ alertmsg: >
 
 12:30-14:00	Lunch
 
-14:00-15:00	Papers - overview and input -> teams and tasks
+14:00-15:00	Work session
 
 15:00-15:30	Afternoon break
 
-15:30-16:00 Draft Constitution and Bylaws
+15:30-16:45	Draft constitution and bylaws (presentation and discussion)
 
-16:00-17:00	Work session
-
-17:00-17:30	Progress reports
+16:45-17:15	Papers - overview and input -> teams and tasks
 
 ## Tuesday 5 July
 
@@ -298,4 +296,4 @@ Transition to Muizenberg
 
 Testing, followed by Bombay Chili dinner
 
-## 
+##
