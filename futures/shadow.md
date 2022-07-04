@@ -52,7 +52,7 @@ SHADOW Papers - overview and input -> teams and tasks
 
 15:30-16:45	Draft constitution and bylaws (presentation and discussion)
 
-16:45-17:15	Papers - overview and input -> teams and tasks
+16:45-17:15	Papers - overview and input
 
 ## Tuesday 5 July
 
@@ -62,7 +62,9 @@ SHADOW Papers - overview and input -> teams and tasks
 
 10:30-11	Morning break
 
-11-12:30	Work session
+11-11:30 Papers - teams and tasks
+
+11:30-12:30	Work session
 
 12:30-14:00	Lunch
 
@@ -87,6 +89,8 @@ SHADOW Papers - overview and input -> teams and tasks
 12:30-14:00	Lunch
 
 14:00-15:00	Feedback and Discussion: Topic TBD
+
+NOTE 14:00 - 17:30 CABP out (departmental meeting)
 
 15:00-15:30	Afternoon break / DS-I Webinar
 
