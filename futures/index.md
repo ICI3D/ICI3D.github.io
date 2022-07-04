@@ -19,7 +19,120 @@ alertmsg: >
 
 
 
-## Monday 27 June
+## Monday 4 July
+
+
+
+9:00-9:15 Regroup
+
+9:15-10:30 Work session: follow up on grant opportunities (translate into KMS)
+
+10:30-11 Morning break
+
+11-12:30 Work session:
+* Continue work on grant opportunities
+* SWOT Summary
+* Start looking at curriculum
+    * MMED
+    * DAIDD
+* Documentation of timelines and processes
+    * MMED
+    * DAIDD
+    * Mentors Program
+
+12:30-14:00	Lunch
+
+14:00-15:00	Papers - overview and input -> teams and tasks
+
+15:00-15:30	Afternoon break
+
+15:30-16:00 Draft Constitution and Bylaws
+
+16:00-17:00	Work session
+
+17:00-17:30	Progress reports
+
+## Tuesday 5 July
+
+8:30-9:00 	Goals for the day
+
+9-10:30	Work session
+
+10:30-11	Morning break
+
+11-12:30	Work session
+
+12:30-14:00	Lunch
+
+14:00-15:00	Feedback and Discussion: Topic TBD
+
+15:00-15:30	Afternoon break
+
+15:30-17:00	Work session
+
+17:00-17:30	Progress reports
+
+## Wednesday 6 July
+
+8:30-9:00 	Goals for the day
+
+9-10:30	DS-I Webinar
+
+10:30-11	Morning break
+
+11-12:30	Work session
+
+12:30-14:00	Lunch
+
+14:00-15:00	Feedback and Discussion: Topic TBD
+
+15:00-15:30	Afternoon break
+
+15:30-17:00	Work session
+
+17:00-17:30	Progress reports
+
+## Thursday 7 July
+
+8:30-9:00 	Goals for the day
+
+9-10:30	Work session
+
+10:30-11	Morning break
+
+11-12:30	Work session
+
+12:30-14:00	Lunch
+
+14:00-15:00	Feedback and Discussion: Topic TBD
+
+15:00-15:30	Afternoon break
+
+15:30-17:00	Work session
+
+17:00-17:30	Progress reports
+
+## Friday 8 July
+
+8:30-9:00 	Goals for the day
+
+9-10:30	Work session
+
+10:30-11	Morning break
+
+11-12:30	Team reports and discussion
+
+12:30-14:00	Lunch
+
+14:00-15:00	Team reports and discussion
+
+15:00-15:30	Afternoon break
+
+15:30-17:30	Reflections and next steps
+
+17:30	Bluebird Garage
+
+Monday 27 June
 
 8:00-9:00	Arrival, Registration, Testing, and Coffee
 
@@ -186,115 +299,4 @@ Transition to Muizenberg
 
 Testing, followed by Bombay Chili dinner
 
-## Monday 4 July
-
-
-
-9:00-9:15 Regroup
-
-9:15-10:30 Work session: follow up on grant opportunities (translate into KMS)
-
-10:30-11 Morning break
-
-11-12:30 Work session:
-* Continue work on grant opportunities
-* SWOT Summary
-* Start looking at curriculum
-    * MMED
-    * DAIDD
-* Documentation of timelines and processes
-    * MMED
-    * DAIDD
-    * Mentors Program
-
-12:30-14:00	Lunch
-
-14:00-15:00	Papers - overview and input -> teams and tasks
-
-15:00-15:30	Afternoon break
-
-15:30-16:00 Draft Constitution and Bylaws
-
-16:00-17:00	Work session
-
-17:00-17:30	Progress reports
-
-## Tuesday 5 July
-
-8:30-9:00 	Goals for the day
-
-9-10:30	Work session
-
-10:30-11	Morning break
-
-11-12:30	Work session
-
-12:30-14:00	Lunch
-
-14:00-15:00	Feedback and Discussion: Topic TBD
-
-15:00-15:30	Afternoon break
-
-15:30-17:00	Work session
-
-17:00-17:30	Progress reports
-
-## Wednesday 6 July
-
-8:30-9:00 	Goals for the day
-
-9-10:30	DS-I Webinar
-
-10:30-11	Morning break
-
-11-12:30	Work session
-
-12:30-14:00	Lunch
-
-14:00-15:00	Feedback and Discussion: Topic TBD
-
-15:00-15:30	Afternoon break
-
-15:30-17:00	Work session
-
-17:00-17:30	Progress reports
-
-## Thursday 7 July
-
-8:30-9:00 	Goals for the day
-
-9-10:30	Work session
-
-10:30-11	Morning break
-
-11-12:30	Work session
-
-12:30-14:00	Lunch
-
-14:00-15:00	Feedback and Discussion: Topic TBD
-
-15:00-15:30	Afternoon break
-
-15:30-17:00	Work session
-
-17:00-17:30	Progress reports
-
-## Friday 8 July
-
-8:30-9:00 	Goals for the day
-
-9-10:30	Work session
-
-10:30-11	Morning break
-
-11-12:30	Team reports and discussion
-
-12:30-14:00	Lunch
-
-14:00-15:00	Team reports and discussion
-
-15:00-15:30	Afternoon break
-
-15:30-17:30	Reflections and next steps
-
-17:30	Bluebird Garage
+## 
