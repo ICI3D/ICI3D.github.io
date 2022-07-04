@@ -83,7 +83,7 @@ SHADOW * Goals for the day
 
 8:30-9:00 	Goals for the day
 
-9-10:30	DS-I Webinar
+9-10:30 Discuss and ratify constitution and by-laws
 
 10:30-11	Morning break
 
@@ -93,9 +93,9 @@ SHADOW * Goals for the day
 
 14:00-15:00	Feedback and Discussion: Topic TBD
 
-15:00-15:30	Afternoon break
+15:00-15:30	Afternoon break / DS-I Webinar
 
-15:30-17:00	Work session
+15:30-17:00	Work session / DS-I Webinar
 
 17:00-17:30	Progress reports
 
