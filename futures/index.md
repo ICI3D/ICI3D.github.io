@@ -73,45 +73,46 @@ alertmsg: >
 
 ## Wednesday 6 July
 
-8:30-9:00 	Goals for the day
+8:30-10:30 Discussion of Constitution and Bylaws
 
-9-10:30 Discuss and ratify [constitution and by-laws](https://drive.google.com/drive/folders/1APQbTI5EyRZpQKWaxtMPvesWt0JAuzM_)
+10:30-11 Morning break
 
-10:30-11	Morning break
+11-12:00 Proposed Functional Teams and Activity Leads
 
-11-12:30	Work session
+12:00-12:30 Work session
 
 12:30-14:00	Lunch
 
-14:00-15:00	Feedback and Discussion: Topic TBD
+14:00-15:00	Work Session
+* Discussion of RCN Concept Note
 
 
 
 15:00-15:30	Afternoon break / DS-I Webinar
 
-15:30-17:00	Work session / DS-I Webinar
+15:30-16:30	Work session / DS-I Webinar
 
-17:00-17:30	Progress reports
+16:30-17:00	Progress reports
 
 ## Thursday 7 July
 
-8:30-9:00 	Goals for the day
+7:30-10:30 Hike or other activity
 
-9-10:30	Work session
+10:30-11	Morning coffee
 
-10:30-11	Morning break
+11-11:15 Goals for the day
 
-11-12:30	Work session
+11:15-12:30	Work session
 
 12:30-14:00	Lunch
 
-14:00-15:00	Feedback and Discussion: Topic TBD
+14:00-15:00	Feedback and Discussion: DAIDD Planning (Dushoff)
 
 15:00-15:30	Afternoon break
 
-15:30-17:00	Work session
+15:30-16:30	Work session
 
-17:00-17:30	Progress reports
+16:30-17:00	Progress reports
 
 ## Friday 8 July
 
@@ -299,5 +300,3 @@ Transition to Muizenberg
 ## Sunday 3 July
 
 Testing, followed by Bombay Chili dinner
-
-##
