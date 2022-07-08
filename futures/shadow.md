@@ -113,31 +113,34 @@ NOTE 14:00 - 17:30 CABP out (departmental meeting)
 
 14:00-15:00	Feedback and Discussion: DAIDD Planning (Dushoff)
 
-15:00-15:30	Afternoon break
+15:00-15:30	Work session
 
-15:30-16:30	Work session
+15:30-16:00 Afternoon break
+
+16:00-16:30	Work session
 
 16:30-17:00	Progress reports
 
 ## Friday 8 July
 
-8:30-9:00 	Goals for the day
+8:30-8:45 	Goals for the day
 
-9-10:30	Work session
+8:45-10:30	Work session
 
 10:30-11	Morning break
+* Reminder: Check out of SC by 11:00
 
-11-12:30	Team reports and discussion
+11-12:30	Work session
 
 12:30-14:00	Lunch
 
-14:00-15:00	Team reports and discussion
+14:00-15:30	Work session
 
-15:00-15:30	Afternoon break
+15:50-16:00	Afternoon break
 
-15:30-17:30	Reflections and next steps
+16:00-17:00 Work session
 
-17:30	Bluebird Garage
+16:30-17:00	Workshop close: reflections and next steps
 
 Monday 27 June
 
