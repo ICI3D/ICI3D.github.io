@@ -1,12 +1,12 @@
 ---
 layout: page
 title: DAIDD
-year: 2021
+year: 2022
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: danger
-alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will nbe held 11-17 December 2022 on Microsoft Teams.
+alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 11-17 December 2022 on Microsoft Teams.
 ---
 
 {%if page.alerttype == "warning"%}
