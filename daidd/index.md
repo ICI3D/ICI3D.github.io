@@ -95,6 +95,7 @@ There will be a mid-session evaluation on Wednesday. **The full schedule for DAI
 
 Schedules from previous years:
 
+- [DAIDD 2021](http://www.ici3d.org/DAIDD/schedule/2021 "DAIDD 2021 schedule")
 - [DAIDD 2020](http://www.ici3d.org/DAIDD/schedule/2020 "DAIDD 2020 schedule")
 - [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")
 - [DAIDD 2018](http://www.ici3d.org/DAIDD/schedule/2018 "DAIDD 2018 schedule")
