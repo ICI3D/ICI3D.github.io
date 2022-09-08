@@ -13,7 +13,6 @@ alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectio
 [Go to DAIDD {{page.year}} »](http://www.ici3d.org/DAIDD/ "DAIDD {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
-
 {%if page.alerttype == "success"%}
 [Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
 {%endif%}

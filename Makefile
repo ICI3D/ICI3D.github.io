@@ -1,6 +1,6 @@
 ## ICI3D/io
 
-# http://ICI3D.github.io/MMED/team
+# http://ICI3D.github.io/daidd
 # http://localhost:4000/
 # http://localhost:4000/MMED/schedule/shadow.html
 # http://localhost:4000/MMED/team
@@ -22,6 +22,25 @@ vim_session:
 alldirs += futures
 
 Sources += $(wildcard jdresources/*)
+
+######################################################################
+
+## daidd DAIDD Working with Pulliam 2022 Sep 08 (Thu)
+## Maybe make a Makefile there later
+
+Sources += daidd/*.md
+
+######################################################################
+
+Sources += Gemfile.jd
+
+Ignore += Gemfile Gemfile.lock
+
+cerve: _config.yml
+	./run.sh > jekyll.log 2>&1 &
+
+Gemfile: Gemfile.jd
+	$(link)
 
 ######################################################################
 

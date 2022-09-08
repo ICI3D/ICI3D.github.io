@@ -4,7 +4,7 @@ title: Request for Applications
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
 alerttype: success
-alertmsg: The ninth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 12-18 December. The deadline for receipt of applications is <strong>4 November</strong>.
+alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 11-17 December. The deadline for receipt of applications is <strong>4 November</strong>.
 applink: ./apply
 ---
 
