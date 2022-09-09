@@ -1,7 +1,7 @@
 ## ICI3D/io
 
+# http://localhost:4000/daidd
 # http://ICI3D.github.io/daidd
-# http://localhost:4000/
 # http://localhost:4000/MMED/schedule/shadow.html
 # http://localhost:4000/MMED/team
 

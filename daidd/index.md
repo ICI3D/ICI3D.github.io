@@ -5,7 +5,7 @@ year: 2022
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: danger
+alerttype: success
 alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 11-17 December 2022 on Microsoft Teams.
 ---
 
@@ -14,7 +14,7 @@ alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectio
 {%endif%}
 
 {%if page.alerttype == "success"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
+[Application information »](./rfa "Application information"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Objectives
@@ -38,7 +38,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is TBD. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by early December.
+The course registration fee is ZAR 3,500 or US$215. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by early December.
 
 ## Venue
 
