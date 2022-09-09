@@ -14,7 +14,7 @@ alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectio
 {%endif%}
 
 {%if page.alerttype == "success"%}
-[Application information »](./rfa "Application information"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
+[Application information »](./appinfo "Application information"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 ## Objectives
