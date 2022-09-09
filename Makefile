@@ -36,6 +36,7 @@ Sources += Gemfile.jd
 
 Ignore += Gemfile Gemfile.lock
 
+Sources += _config.yml
 cerve: _config.yml
 	./run.sh > jekyll.log 2>&1 &
 
