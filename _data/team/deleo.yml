@@ -1,0 +1,49 @@
+---
+name: Giulio De Leo, PhD
+type: faculty
+role: Faculty Member, DAIDD 2022
+involvement: Faculty Member, DAIDD clinic
+position: Professor
+affiliation: Department of Earth System Science and Department of Oceans<br>Stanford Doerr School of Sustainability<br>Stanford University
+img: team/deleo.jpg
+summary: Giulio De Leo is a disease ecologist interested in investigating factors and processes driving the dynamics of coupled natural and human systems and using this knowledge to identify levers for health and conservation, i.e., ecological interventions that can improve human wellbeing and the health of the environment that underpins it.  In the last ten years, he has been particularly interested in investigating how the development of water management infrastructures to support agricultural expansion and intensification may increase the risk of transmission of schistosomiasis, one of the most important of the so called Neglected Tropical Diseases.  He co-founded "The Upstream Alliance - partners in schistosomiasis reduction" and the [Stanford Program for Disease Ecology](https://ecohealthsolutions.stanford.edu/), Health and the Environment, with the goal of developing ecological solutions to control infectious diseases with an important environmental component in their transmission cycle.
+gscholar: lmmq0XsAAAAJ
+twitter:
+cv:
+degrees:
+  - degree: PhD
+    discipline: Ecology
+    institution: University of Parma, Italy
+    year: 1993
+  - degree: MS and BS
+    discipline: Environmental Engineering
+    institution: Politecnico di Milano, Italy
+    year: 1989
+papers:
+  - title: Filamentous bacteriophages and the competitive interaction between <em>Pseudomonas aeruginosa</em> strains under antibiotic treatment - a modeling study
+    authors: Pourtois, Kratochvil, Chen, Haddock, Burgener, <b>De Leo</b>, Bollyky
+    link: https://journals.asm.org/doi/10.1128/mSystems.00193-21
+    journal: mSystems
+    year: 2021
+  - title: Cost-effectiveness of combining drug and environmental treatments for environmentally transmitted diseases
+    authors: Francois, Sokolow, <b>De Leo</b>, Sanchirco
+    link: https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0966
+    journal: Proceedings of the Royal Society B
+    year: 2020
+  - title: Concomitant Immunity and worm senescence may drive schistosomiasis epidemiological patterns - an eco-evolutionary perspective
+    authors: Buck, <b>De Leo</b>, Sokolow
+    link: https://doi.org/10.3389/fimmu.2020.00160
+    journal: Frontiers in Microbiology
+    year: 2020
+  - title: Modelled effects of prawn aquaculture on poverty alleviation and schistosomiasis control
+    authors: Hoover, Sokolow , Kemp, Sanchirico, Lund, Jones, Higginson, Riveau, Savaya, Coyle, Wood, Micheli, Casagrandi, Mari, Gatto, Rinaldo, Perez-Saez, Rohr, Sagi, Remais, <b>De Leo</b>
+    link: https://www.nature.com/articles/s41893-019-0301-7
+    journal: Nature Sustainability
+    year: 2019
+  - title: Disease ecology, health and the environment - a framework to account for ecological and socio-economic drivers in the control of neglected tropical diseases
+    authors: Garchitorena, Sokolow, Roche, Ngonghala, Jocque, Lund, Barry, Mordecai, Daily, Jones, Andrews, Bendavid, Luby, LaBeaud, Seetah, Guégan,  Bonds, <b>De Leo</b>
+    link: http://dx.doi.org/10.1098/rstb.2016.0128
+    journal: Philosophical Transactions of the Royal Society B
+    year: 2017
+bio: Giulio De Leo is a disease ecologist interested in investigating factors and processes driving the dynamics of coupled natural and human systems and using this knowledge to identify levers for health and conservation, i.e., ecological interventions that can improve human wellbeing and the health of the environment that underpins it.  In the last ten years, he has been particularly interested in investigating how the development of water management infrastructures to support agricultural expansion and intensification may increase the risk of transmission of schistosomiasis, one of the most important of the so called Neglected Tropical Diseases.  He co-founded "The Upstream Alliance - partners in schistosomiasis reduction" and the [Stanford Program for Disease Ecology](https://ecohealthsolutions.stanford.edu/), Health and the Environment, with the goal of developing ecological solutions to control infectious diseases with an important environmental component in their transmission cycle.
+---
