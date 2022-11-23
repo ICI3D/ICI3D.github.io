@@ -43,6 +43,7 @@ Ignore += Gemfile Gemfile.lock
 Sources += _config.yml
 cerve: _config.yml
 	./run.sh > jekyll.log 2>&1 &
+## cerve not working for me; run from workshop for now 2022 Nov 23 (Wed)
 
 Gemfile: Gemfile.jd
 	$(link)
