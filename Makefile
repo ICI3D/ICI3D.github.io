@@ -40,10 +40,13 @@ Sources += Gemfile.jd
 
 Ignore += Gemfile Gemfile.lock
 
-Sources += _config.yml
-cerve: _config.yml
+Sources += _config.yml $(wildcard *.config)
+cerve: 
 	./run.sh > jekyll.log 2>&1 &
-## cerve not working for me; run from workshop for now 2022 Nov 23 (Wed)
+## jd.local:
+%.local:
+	/bin/ln -fs $*.config _localconfig.yml
+
 
 Gemfile: Gemfile.jd
 	$(link)
