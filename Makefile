@@ -37,7 +37,6 @@ Sources += _data/team/*
 ######################################################################
 
 Sources += Gemfile.jd
-
 Ignore += Gemfile Gemfile.lock
 
 Sources += _config.yml $(wildcard *.config)
@@ -48,7 +47,6 @@ cerve:
 ## jd.local:
 %.local:
 	/bin/ln -fs $*.config _localconfig.yml
-
 
 Gemfile: Gemfile.jd
 	$(link)
