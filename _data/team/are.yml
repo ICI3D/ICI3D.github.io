@@ -3,9 +3,13 @@ name: Elisha Are, MSc
 type: mentor
 role: Mentor
 img: mentors/are.jpg
-position: PhD candidate, South African Centre for Epidemiological Modelling and Analysis
-affiliation: Stellenbosch University, Stellenbosch, South Africa
+position: Postdoctoral Fellow & Term Lecturer
+affiliation: Mathematics Department, Simon Fraser University, Canada
 degrees:
+  - degree: PhD
+    discipline: Mathematical Biology
+    institution: Stellenbosch University
+    year: 2015
   - degree: MSc
     discipline: Mathematics
     institution: University of Ilorin
@@ -14,5 +18,5 @@ degrees:
     discipline: Mathematics
     institution: University of Ilorin
     year: 2013
-bio: Elisha is a SACEMA PhD student, working under the supervision of Prof John Hargrove. The thrust of his PhD project is to estimate the probabilities of extinction for tsetse fly (<em>Glossina</em> spp) populations in field situations where meteorological conditions vary continuously with time. Before joining SACEMA, Elisha did his undergraduate studies (First Class Honours) and MSc (Distinction) in Mathematics at the University of Ilorin, Nigeria. He has four years teaching experience in the Department of Mathematics of the Federal University Oye-Ekiti, Nigeria.  He taught undergraduate calculus, linear algebra, geometry, and other mathematical subjects, both as a graduate assistant and as an assistant lecturer.
+bio: Elisha B. Are is an infectious disease modeller, currently working as a postdoctoral research fellow in the Department of Mathematics, Simon Fraser University, British Columbia. He also holds a research associate position with the South African Centre for Epidemiological Modelling and Analysis (SACEMA), Stellenbosch University.  Before taking up his current position at SFU, he completed his PhD in Mathematical biology at Stellenbosch University, South Africa. His PhD thesis focused on using mathematical models to quantify and predict the impact of climate change on tsetse and trypanosomiasis in Africa. He has six years of experience as a faculty member in the Mathematics Department, at Federal University Oye-Ekiti, Nigeria. He is currently interested in  understanding the role of several evolutionary, epidemiological and behavioral factors in shaping the transition of the COVID-19 pandemic to endemicity.
 ---
