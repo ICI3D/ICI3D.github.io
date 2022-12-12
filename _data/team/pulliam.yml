@@ -7,7 +7,7 @@ involvement: Faculty Member, MMED and DAIDD clinics
 position: Director of <a href="http://www.sacema.org/">SACEMA</a> & Professor of Applied Mathematics
 affiliation: South African Centre for Epidemiological Modelling and Analysis<br>Stellenbosch University, Stellenbosch, South Africa
 img: team/pulliam.jpg
-summary: Juliet is the Director of the South African Centre for Epidemiological Modelling and Analysis (SACEMA) and Professor of Applied Mathematics at Stellenbosch University. She served as Program Director from 2012-2016 and currently serves as Co-Director and Program Director for Africa.
+summary: Juliet is the Director of the South African Centre for Epidemiological Modelling and Analysis (SACEMA) and Professor of Applied Mathematics at Stellenbosch University. She served as Program Director from 2012-2016, Program Director for Africa from 2017-2022, and is currently on the ICI3D Executive Team.
 icons: yes
 github: jrcpulliam
 orcid: 0000-0003-3314-8223
@@ -42,5 +42,10 @@ papers:
     link: http://dx.doi.org/10.1098/rsif.2011.0223
     journal: Journal of the Royal Society Interface
     year: 2012
-bio: Juliet is Director of the South African DST-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA) and Professor of Applied Mathematics at Stellenbosch University (SU). She served as the inaugural ICI3D Program Director from 2012-2016 and is currently Co-Director and Program Director for Africa. Before moving to SACEMA in 2016, she was an Assistant Professor in the Department of Biology and Emerging Pathogens Institute (EPI) at the University of Florida (2011-2016) and a Research and Policy for Infectious Disease Dynamics (RAPIDD) Program Fellow in the Division of International Epidemiology and Population Studies at the Fogarty International Center, NIH (2008-2011). Juliet’s research focuses on quantitative approaches to infectious disease dynamics, with a particular focus on emerging, vector-borne, and zoonotic viruses, including Ebola, Nipah, Japanese encephalitis, dengue, and SARS-CoV-2 viruses.
+  - title: Increased risk of SARS-CoV-2 reinfection associated with emergence of Omicron in South Africa
+    authors: <b>Pulliam</b>, <b>van Schalkwyk</b>, Govender, von Gottberg, Cohen, Groome, <b>Dushoff</b>, Mlisana, and Moultrie
+    link: http://dx.doi.org/10.1126/science.abn4947
+    journal: Science
+    year: 2022
+bio: Juliet is Director of the South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA) and Professor of Applied Mathematics at Stellenbosch University (SU). She served as the inaugural ICI3D Program Director from 2012-2016 and is a member of the ICI3D Executive Team. Before moving to SACEMA in 2016, she was an Assistant Professor in the Department of Biology and Emerging Pathogens Institute (EPI) at the University of Florida (2011-2016) and a Research and Policy for Infectious Disease Dynamics (RAPIDD) Program Fellow in the Division of International Epidemiology and Population Studies at the Fogarty International Center, NIH (2008-2011). Juliet’s research focuses on quantitative approaches to infectious disease dynamics, with a particular focus on emerging, vector-borne, and zoonotic viruses, including Ebola, Nipah, Japanese encephalitis, dengue, and SARS-CoV-2 viruses.
 ---
