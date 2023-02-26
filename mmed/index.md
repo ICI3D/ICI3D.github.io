@@ -6,7 +6,7 @@ tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 alerttype: danger
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 26 June - 8 July 2023 in Muizenberg, South Africa. This page will be updated soon with information about MMED 2023.
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 26 June - 8 July 2023 in Muizenberg, South Africa. Applications for MMED 2023 will open on 10 March.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -14,7 +14,7 @@ alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological 
 {%endif%}
 
 {%if page.alerttype == "success"%}
-[Request for Applications »](./rfa "Request for Applications"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
+[Apply »](./apply "MMED {{page.year}} Application"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
 <br>
 
@@ -28,7 +28,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is TBD. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
+The course registration fee is ZAR45,000. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
 
 ## Venue
 
@@ -40,13 +40,9 @@ MMED 2023 will be held at the African Institute of Mathematical Sceinces in Muiz
 
 Schedules from previous years:
 
+- [MMED 2021](./schedule/2021 "MMED 2021 schedule")
 - [MMED 2019](./schedule/2019 "MMED 2019 schedule")
 - [MMED 2018](./schedule/2018 "MMED 2018 schedule")
 - [MMED 2017](./schedule/2017 "MMED 2017 schedule")
 - [MMED 2016](./schedule/2016 "MMED 2016 schedule")
 - [MMED 2015](./schedule/2015 "MMED 2015 schedule")
-- [MMED 2014](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2014_Clinic_Schedule "MMED 2014 schedule")
-- [MMED 2013](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2013_Clinic_Schedule "MMED 2013 schedule")
-- [MMED 2012](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2012_Clinic_Schedule "MMED 2012 schedule")
-- [MMED 2011](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2011_Clinic_Schedule "MMED 2011 schedule")
-- [MMED 2010](http://lalashan.mcmaster.ca/theobio/mmed/index.php/2010_Clinic_Schedule "MMED 2010 schedule")
