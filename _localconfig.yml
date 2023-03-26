@@ -1,3 +1,3 @@
-port: 4000
-absoluteurl: //localhost:4000
-url: //localhost:4000
+port: 2049
+absoluteurl: //localhost:2049
+url: //localhost:2049
