@@ -42,6 +42,7 @@ Ignore += Gemfile Gemfile.lock
 Sources += _config.yml $(wildcard *.config)
 Ignore += _localconfig.yml
 
+Sources += run.sh
 cerve: 
 	./run.sh > jekyll.log 2>&1 &
 ## jd.local:
