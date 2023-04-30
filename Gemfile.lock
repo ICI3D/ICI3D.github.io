@@ -1,3 +1,9 @@
+PATH
+  remote: ../jekyll-theme-ici3d
+  specs:
+    jekyll-theme-ici3d (0.1.0)
+      jekyll (~> 4.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -74,6 +80,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sass-converter
+  jekyll-theme-ici3d!
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
