@@ -14,4 +14,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-sass-converter'
 
-gem 'jekyll-theme-ici3d', :path => "../jekyll-theme-ici3d"
+gem 'jekyll-theme-ici3d', "~> 0.1.1"
