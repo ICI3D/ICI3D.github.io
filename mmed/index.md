@@ -5,8 +5,8 @@ year: 2023
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
-alerttype: success
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 26 June - 8 July 2023 in Muizenberg, South Africa. The application deadline for MMED 2023 is 10 April.
+alerttype: warning
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 26 June - 8 July 2023 in Muizenberg, South Africa. The application deadline for MMED 2023 was 10 April. Late applications will not be accepted.
 ---
 
 {%if page.alerttype == "warning"%}
