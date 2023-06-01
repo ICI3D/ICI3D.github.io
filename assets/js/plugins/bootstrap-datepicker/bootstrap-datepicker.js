@@ -443,9 +443,9 @@
 		},
 		headTemplate: '<thead>'+
 							'<tr>'+
-								'<th class="prev"><i class="glyphicon glyphicon-arrow-left"></th>'+
+								'<th class="prev">&lsaquo;</th>'+
 								'<th colspan="5" class="switch"></th>'+
-								'<th class="next"><i class="glyphicon glyphicon-arrow-right"></th>'+
+								'<th class="next">&rsaquo;</th>'+
 							'</tr>'+
 						'</thead>',
 		contTemplate: '<tbody><tr><td colspan="7"></td></tr></tbody>'
