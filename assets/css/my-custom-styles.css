@@ -12,3 +12,12 @@
     position: relative;
     top: -10%;
 }
+
+.shadow {
+  display: none;
+}
+
+.shadow-show {
+  color: #fff;
+  background-color: #000;
+}
