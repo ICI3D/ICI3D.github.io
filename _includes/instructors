@@ -1,0 +1,7 @@
+{% assign people = include.people | split:'|' -%}
+{% for person in people -%}
+{%- if forloop.length > 1 -%}
+{% if forloop.last %}and {% endif %}[{{ person }}](../team/{{ person }}){% unless forloop.last%}, {% endunless %}
+{%- else -%}
+[{{ person }}](../team/{{ person }})
+{%- endif -%}{%- endfor %}

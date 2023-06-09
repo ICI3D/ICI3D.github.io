@@ -6,3 +6,7 @@
 <script src="{{ site.absoluteurl }}/assets/js/plugins/scrollto/jquery.scrollTo-1.4.3.1-min.js"></script>
 <script src="{{ site.absoluteurl }}/assets/js/plugins/autohidingnavbar/jquery.bootstrap-autohidingnavbar.min.js"></script>
 <script src="{{ site.absoluteurl }}/assets/js/repute-scripts.js"></script>
+<script>
+hasShadow = (new URLSearchParams(window.location.search)).has("shadow");
+if (hasShadow) { $(".shadow").removeClass("shadow").addClass("shadow-show"); }
+</script>
