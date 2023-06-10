@@ -18,6 +18,12 @@
 }
 
 .shadow-show {
+  padding-left: 5px;
+  padding-right: 5px;
   color: #fff;
-  background-color: #000;
+  background-color: #7B7B7B;
+}
+
+.shadow-show a:link {
+  color: #93CCFF;
 }
