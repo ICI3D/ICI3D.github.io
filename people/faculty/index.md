@@ -8,7 +8,7 @@ summary: The ICI3D program faculty consists of core faculty, who are regular ins
 
 {% include topTable.html %}
 
-<h2 style="color: #15378a">Program Faculty</h2>
+<h2 style="color: #15378a"></h2>
 <br>
 
 {% for profile in site.team %}
