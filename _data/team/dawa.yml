@@ -4,6 +4,7 @@ type: mentor
 role: Mentor
 position: Fill in current position
 affiliation: Fill in current affiliation
+img: transmission.png
 degrees:
   - degree:
     discipline:
