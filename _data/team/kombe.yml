@@ -3,16 +3,16 @@ name: Ivy Kombe, PhD
 type: workshop
 role: Faculty Member, MMED clinic
 img: transmission.png
-position: To be added
-affiliation: To be added
+position: Postdoctoral researcher
+affiliation: Pandemic Science Institute, Nuffield Department of Medicine, Big Data Institute<br>University of Oxford
 degrees:
-  - degree: 
-    discipline: 
-    institution: 
-    year: 
-  - degree: 
-    discipline: 
-    institution: 
-    year: 
-bio: Please add short bio
+  - degree: PhD
+    discipline: Public Health and Policy
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2020
+  - degree: MSc
+    discipline: Epidemiology
+    institution: Imperial College London
+    year: 2015
+bio: Ivy is a computational epidemiologist with an interest in applying mathematical models in the field of infectious disease dynamics. She joined the University of Oxford as a postdoctoral researcher in 2020 where she has worked on models of HIV, COVID-19 and contact behaviour. Ivy was based at the KEMRI-Wellcome Trust Research Programme in Kenya from 2013 to 2020 where she worked on models of respiratory syncytial virus and COVID-19. She is interested in the development of analytical tools that can be used to inform disease intervention policies and can be used in real time to assess implementation impact. 
 ---
