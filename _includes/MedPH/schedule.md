@@ -1,85 +1,98 @@
 <div markdown="1">
 
-### Monday, 13 June
+### Monday, 19 June
 
--  13:30 – 13:50 Introductions, Overview of course (structure and expectations)
--  13:50 – 14:30 [Introduction to public health, epidemiology, and infectious diseases]({{page.repo}}/raw/master/lectures/Intro_PH_Epi_ID.pdf) (Juliet)
--  14:35 – 15:30 [Introduction to infectious disease dynamics, Part I]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_I.pdf) (Zinhle)
+-  9:00 – 9:20 Introductions, Overview of course (structure and expectations)
+-  9:20 – 10:30 [Introduction to public health, epidemiology, and infectious diseases]({{page.repo}}/raw/master/lectures/Intro_PH_Epi_ID.pdf) (Juliet)
+-  10:30 – 11:00 Coffee break
+-  11:00 – 12:00 [Introduction to infectious disease dynamics, Part I]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_I.pdf) (Zinhle)
+-  12:00 – 13:00 [Tutorial I: Introduction to R and Epidemic curves](#computerlabs)
+-  13:00 – 14:00 Lunch
+-  14:00 – 15:30 Tutorial I continued
+-  15:30 – 16:00 Break
+-  15:30 – 16:00 Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf) (Zinhle)
+-  16:00 - 16:15 Discussion of BMQs from Tutorial 1 (Juliet)
+-  16:15 - 16:30 [Introduction to projects]({{page.repo}}/raw/master/Project_guidelines.pdf) (Juliet)
 
 Assignments
 
-- Install R and R Studio (if not already installed)
-    - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
-        - If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OK.
-    - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
-- Complete Introduction to R Studio tutorial
 - Complete [Tutorial I](#computerlabs) – due Tues AM **email to Zinhle at zinhle@aims.ac.za**
+- Read [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Wed AM
+- Start thinking about possible projects (see Assignments tab for more details and References tab for ideas)
+    - For at least one data set linked from the References tab, download the data, produce a plot of the data, and come prepared to discuss your intrepretation of the data – due Wed AM
 - Review material on Academic Integrity and Plagiarism (see Assignments tab for more details)
 
-### Tuesday, 14 June
+### Tuesday, 20 June
 
--  13:30 – 13:45 [Introduction to projects]({{page.repo}}/raw/master/Project_guidelines.pdf) (Juliet)
-- 13:45 - 14:00 Discussion of BMQs from Tutorial 1 (Juliet)
--  14:00 – 14:45 Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf) (Zinhle)
-- 14:45 - 15:30 [Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf) (Zinhle)
+-  13:30 – 14:00 Check-in on progress (Zinhle and Juliet)
 
-Assignments
+### Wednesday, 21 June
 
-- Read [Hampson et al. 2009]({{page.repo}}/raw/master/readings/Hampson2009.pdf) (Rabies) – due Wed
-- Start thinking about possible projects (see Assignments tab for more details)
-
-### Wednesday, 15 June
-
--  13:30 – 14:15 Contemporary example (Rabies): Discussion session (Zinhle)
--  14:15 – 14:35 Project discussion and development (Juliet)
--  14:35 – 15:30 [Dynamics of directly transmitted pathogens]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_III.pdf) (Juliet)
+- 9:00 - 10:00 [Introduction to infectious disease dynamics, Part II]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_II.pdf) (Zinhle)
+-  10:00 – 10:30 Project discussion and development (Juliet)
+-  10:30 – 11:00 Coffee break
+-  11:00 – 12:00 Contemporary example (Rabies): Discussion session (Zinhle)
+-  12:00 – 13:00 [Dynamics of directly transmitted pathogens]({{page.repo}}/raw/master/lectures/Intro_ID_Dynamics_III.pdf) (Juliet)
+-  13:00 – 14:00 Lunch
+-  14:00 – 15:00 [Tutorial II & benchmark questions](#computerlabs)
+-  15:00 - 16:00 Policy Modelling Forum (link to be provided)
+-  16:00 – 16:30 One-on-one meeting with Zinhle
 
 Assignments
 
 - Complete [Tutorial II & benchmark questions](#computerlabs)
     - **turn in figure (and code) from Tutorial II,  Questions 3 and 4 by email to Zinhle at zinhle@aims.ac.za**
-- Progress on projects – due Monday (see Assignments tab for more details)
+- Progress on projects – due Thur AM (see Assignments tab for more details)
 
-### Monday, 20 June
+### Thursday, 22 June
 
--  13:30 - 13:50  Discussion of BMQs from Tutorial 2 (Zinhle)
--  13:50 – 14:15 Project discussion and development
-    - One-on-one meetings
--  14:15 - 15:30 [Transmission in Finite Populations]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf) (Juliet)
+-  9:00 - 9:30  Discussion of BMQs from Tutorial 2 (Zinhle)
+-  9:30 – 10:30 Project discussion and development (Juliet)
+-  10:30 – 11:00 Coffee break
+-  11:00 – 11:45 [Binomial Distribution Tutorial](#computerlabs)
+-  11:45 - 13:00 [Transmission in Finite Populations]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf) (Juliet)
+-  13:00 – 14:00 Lunch
+-  14:00 – 15:00 Project development (present on progress at 14:15)
+-  15:00 – 16:30 [Tutorial III: simple stochastic models of epidemics](#computerlabs)
 
 Assignments
 
-- Complete [Binomial Distribution Tutorial](#computerlabs)
-- Continue proposal/project development
-- Draft of presentations for practice – due Wednesday
-- Complete [Tutorial III: simple stochastic models of epidemics](#computerlabs) – due Tues AM
+- Complete [Tutorial III](#computerlabs) – due Fri AM
     - **turn in figures and code from Tutorial III Questions by email to Zinhle**
+- Continue proposal development
+- Draft of posters for practice – due Fri PM (12:30)
 
-### Wednesday, 22 June
+### Friday, 23 June
 
-- 13:30 – 14:30 [Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) (Zinhle)
-- 14:30 – 15:00  Discussion of BMQs from Tutorial 3 (Juliet)
-- 15:00 – 15:30 Practice presentations and feedback (Moderator: Juliet)
-
-Assignments
-
-- Finalize presentations, as needed (submit final slides by Thurs AM)
-
-### Thursday, 23 June
-
-- 13:30 - 14:00 Research pitches
-- 14:00 - 15:15 Dynamical Fever Tutorial
-- 15:15 - 15:30 Wrap-up and preparation for next week (Zinhle)
+- 9:00 – 10:00 [Dynamics of vector-borne pathogens]({{page.repo}}/raw/master/lectures/Dynamics_VB_Pathogens.pdf) (Zinhle)
+- 10:00 – 10:30 Discussion of BMQs from Tutorial 3 (Juliet)
+- 10:30 – 11:00 Coffee break
+- 11:00 – 11:30 Practice presentations and feedback (Moderator: Juliet)
+- 11:30 - 13:00 Project development and presentation revisions
+- 13:00 – 14:00 Lunch
+- 14:00 - 14:30 Wrap-up and preparation for next week (Zinhle)
+- 14:30 – 16:30 Unstructured time: Presentation revision based on feedback and additional practice presentations (as needed)
 
 Assignments
 
+- Finalize presentations, as needed (submit final poster by Sat AM)
 - Complete the remaining items for [MMED preparation](http://www.ici3d.org/MMED/preparation/)
     - Software installation
+    - Introduciton to Git
     - Readings (recommended but not required)
-- Complete final project (due 22 July)
+- Rest up for the weeks ahead!
 
-### Monday, 27 June through Friday, 8 July
 
-To be modified from [MMED schedule](http://www.ici3d.org/MMED/schedule)
+### Saturday, 24 June
+
+(Free day)
+
+### Sunday, 25 June
+
+(Free day)
+
+### Monday, 26 June through Friday, 8 July
+
+See [MMED schedule](http://www.ici3d.org/MMED/schedule)
 
 </div>
