@@ -2,7 +2,7 @@
 
 ### Major Assignments
 
-There will be two major assignments for this course, a short oral presentation (given during the MMED Clinic) and a final written project (due July 12).
+There will be two major assignments for this course, a poster presentation (given during the MMED Clinic) and a final written project (due July 14).
 
 ### Academic Integrity and Plagiarism
 
@@ -13,15 +13,16 @@ All sources for information, figures, and wording must be properly cited. Before
     - [From the Academic Integrity Office at MIT](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing)
     - [From The Writing Center at University of Wisconsin – Madison](http://writing.wisc.edu/Handbook/QPA_paraphrase.html)
 
-### Oral presentations (project proposals)
+### Poster presentations (project proposals)
 
-During the first week of MMED, you will have to give a short "Research Pitch" in one of the evening sessions. We will help you develop your presentation throughout Week 1 of MedPH.
+During the first week of MMED, you will have to give a short "Research Pitch" in one of the poster sessions. We will help you develop your poster and presentation throughout Week 1 of MedPH.
 
-- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+- Prepare a poster presentation summarizing your research question and approach
     - You should focus on a project idea that's of interest to you and would be feasible to conduct with available resources (e.g. existing data sets).
     - The presentation should include enough background information to motivate the proposed research and should clearly state the research question. You should also briefly summarize the proposed approach to the research question.
     - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that will help you explain key aspects of the proposed research. Please keep the text on your slide to a minimum.
     - You will be kept to time.
+    - A poster template will be provided
 
 ### Final written project
 
@@ -54,7 +55,11 @@ During the first week of MMED, you will have to give a short "Research Pitch" in
 - Complete Tutorial lab 3
     - **Submit answer to Tutorial 3, Question 3 by email to Zinhle** – due Friday AM
 - Continue proposal development
-- Draft of presentation for practice - due Friday PM
+- Draft of poster for practice - due Friday PM
+
+### For Saturday
+
+- Finalize poster presentations, as needed (submit final poster for printing by Sat AM)
 
 ### For Sunday
 
@@ -68,7 +73,7 @@ During the first week of MMED, you will have to give a short "Research Pitch" in
 Readings
 ========
 
-- [Panum's Investigation of the 1846 Measles Outbreak on the Faroe Islands](./panum.html)
+- {: .shadow}[Panum's Investigation of the 1846 Measles Outbreak on the Faroe Islands](./panum.html)
 - [Hampson *et al*. 2009]({{page.repo}}/blob/master/readings/Hampson2009.pdf?raw=true)
 
 </div>
