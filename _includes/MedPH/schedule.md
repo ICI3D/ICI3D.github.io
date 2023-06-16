@@ -10,9 +10,9 @@
 -  13:00 – 14:00 Lunch
 -  14:00 – 15:30 Tutorial I continued
 -  15:30 – 16:00 Break
--  15:30 – 16:00 Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf) (Zinhle)
--  16:00 - 16:15 Discussion of BMQs from Tutorial 1 (Juliet)
--  16:15 - 16:30 [Introduction to projects]({{page.repo}}/raw/master/Project_guidelines.pdf) (Juliet)
+-  16:00 – 16:30 Contemporary example (Rabies): [Background lecture and how to read a scientific paper]({{page.repo}}/raw/master/lectures/How_to_read_exRabies.pdf) (Zinhle)
+-  16:30 - 16:45 Discussion of BMQs from Tutorial 1 (Juliet)
+-  16:45 - 17:00 [Introduction to projects]({{page.repo}}/raw/master/Project_guidelines.pdf) (Juliet)
 
 Assignments
 
