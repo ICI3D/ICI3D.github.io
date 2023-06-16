@@ -1,12 +1,20 @@
 ---
-name: Mutono Nyamai, MSc
+name: Mutono Nyamai, PhD
 type: workshop
 role: Faculty Member, MMED clinic
 involvement: Faculty Member, MMED clinic
 img: team/nyamai.png
-position: PhD candidate
+position: Postdoctoral Scientist
 affiliation: Center for Epidemiological Modelling and Analysis<br>University of Nairobi
 degrees:
+  - degree: PhD
+    discipline:
+    institution: University of Nairobi
+    year: 2022
+  - degree: MSc
+    discipline: Data Analytics
+    institution: University of Glasgow
+    year: YYYY
   - degree: MSc
     discipline: Environmental Governance
     institution: University of Nairobi
@@ -15,5 +23,5 @@ degrees:
     discipline: Business Information and Technology
     institution: Strathmore University
     year: 2013
-bio: Mutono is a PhD candidate working under the supervision of Prof. Thumbi Mwangi. She has a PhD fellowship at the University of Nairobi and at the Washington State University Global Health Program in Kenya. Her PhD research focuses on urban water supply and demand and how these relate to health outcomes (water-borne diseases) in the City of Nairobi. She has a keen interest in data analytics and epidemiological modelling as applied to infectious diseases and is currently undertaking a part-time MSc in Data Analytics at the University of Glasgow. Her MSc project focuses on the use of Bayesian models to understand the spread of COVID-19 in Nairobi. She is interested in growing her skills in the use of mathematical modelling in developing prevention and control strategies for infectious diseases in Africa.
+bio: Mutono is a data scientist combining applied epidemiological modelling and data analytics in developing prevention and control strategies for infectious diseases in Africa. She is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. Her research at CEMA is on control and elimination of neglected tropical diseases. Previously, she has worked on understanding the transmission dynamics and control of SARS-CoV-2 and rabies in Kenya, employing mathematical modelling techniques. She holds an MSc in Data Analytics from the University of Glasgow, a MSc in Environment Governance from the University of Nairobi, and did her PhD thesis on the nexus between piped water distribution and waterborne diseases in Nairobi, a rapidly urbanising city.
 ---
