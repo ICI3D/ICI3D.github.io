@@ -1,9 +1,5 @@
 <!-- NAVBAR -->
-{% if page.layout == 'main' %}
-<nav class="navbar navbar-default navbar-transparent " role="navigation">
-{% else %}
-<nav class="navbar navbar-default " role="navigation">
-{% endif %}
+<nav class="navbar navbar-default {%- if page.layout == 'main' %} navbar-transparent{% endif %}" role="navigation">
   <div class="container">
     {% unless page.layout == "main" %}
     <div class="row">
