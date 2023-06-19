@@ -8,13 +8,13 @@ position: Postdoctoral Scientist
 affiliation: Center for Epidemiological Modelling and Analysis<br>University of Nairobi
 degrees:
   - degree: PhD
-    discipline:
+    discipline:Environment Governance and Management
     institution: University of Nairobi
     year: 2022
   - degree: MSc
     discipline: Data Analytics
     institution: University of Glasgow
-    year: YYYY
+    year: 2021
   - degree: MSc
     discipline: Environmental Governance
     institution: University of Nairobi
@@ -23,5 +23,5 @@ degrees:
     discipline: Business Information and Technology
     institution: Strathmore University
     year: 2013
-bio: Mutono is a data scientist combining applied epidemiological modelling and data analytics in developing prevention and control strategies for infectious diseases in Africa. She is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. Her research at CEMA is on control and elimination of neglected tropical diseases. Previously, she has worked on understanding the transmission dynamics and control of SARS-CoV-2 and rabies in Kenya, employing mathematical modelling techniques. She holds an MSc in Data Analytics from the University of Glasgow, a MSc in Environment Governance from the University of Nairobi, and did her PhD thesis on the nexus between piped water distribution and waterborne diseases in Nairobi, a rapidly urbanising city.
+bio: Mutono is a data scientist combining applied epidemiological modelling and data analytics in developing prevention and control strategies for infectious diseases in Africa. She is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. Her research at CEMA is on control and elimination of neglected tropical diseases. Previously, she has worked on understanding the transmission dynamics and control of SARS-CoV-2 and rabies in Kenya, employing mathematical modelling techniques. She holds an MSc in Data Analytics from the University of Glasgow, an MSc and a PhD in Environment Governance from the University of Nairobi.
 ---
