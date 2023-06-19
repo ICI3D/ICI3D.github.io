@@ -2,17 +2,21 @@
 name: Evans Omondi, PhD
 type: mentor
 role: Mentor
-position: Fill in current position
-affiliation: Fill in current affiliation
+position: Senior Lecturer- Mathematics and Statistics
+affiliation: Strathmore University
 img: transmission.png
 degrees:
-  - degree:
-    discipline:
-    institution:
+  - degree: PhD
+    discipline: Mathematical Biology
+    institution: Strathmore University
     year:
-  - degree:
-    discipline:
-    institution:
+  - degree: MSc
+    discipline: Mathematics
+    institution: Stellenbosch University
+    year: 
+  - degree: BSc
+    discipline: Applied statisics and computing
+    institution: University of Eldoret
     year:
-bio: Add a brief bio
+bio: Evans is a Senior Lecturer at the Institute of Mathematical Sciences at Strathmore University in Kenya.  He holds a Ph.D. in Mathematical Biology from Strathmore University, an MSc. in Mathematics from Stellenbosch University in South Africa, an MSc. in Mathematical Sciences from AIMS-South Africa in collaboration with Stellenbosch University, and a B.Sc. in Applied Statistics with Computing from the University of Eldoret. His primary research interests lie in building mathematical and statistical models applied in management and containment of infectious diseases.
 ---
