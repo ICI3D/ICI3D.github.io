@@ -4,7 +4,7 @@
 ### R and R studio
 
 - First, you should get comfortable using R in your computing environemnt. We encourage you to use R through the [R Studio](http://rstudio.org) interface, because it allows you to run scripts line by line or region by region which will help you move through the tutorials. R Studio is already installed on the AIMS computers and should be accessible through the Applications tab.
-- Introduction to R Studio: [Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/introRstudio.R)
+- Introduction to R Studio: [Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_0.R)
 
 ### Introduction to R
 
