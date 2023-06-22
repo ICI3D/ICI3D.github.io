@@ -49,10 +49,10 @@ Assignments
 -  9:00 - 9:30  Discussion of BMQs from Tutorial 2 (Zinhle)
 -  9:30 – 10:30 Project discussion and development (Juliet)
 -  10:30 – 11:00 Coffee break
--  11:00 – 11:45 [Binomial Distribution Tutorial](#computerlabs)
--  11:45 - 13:00 [Transmission in Finite Populations]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf) (Juliet)
+-  11:00 – 12:00 [Binomial Distribution Tutorial](#computerlabs)
+-  12:00 - 13:00 [Transmission in Finite Populations]({{page.repo}}/raw/master/lectures/FinitePopModels.pdf) (Juliet)
 -  13:00 – 14:00 Lunch
--  14:00 – 15:00 Project development (present on progress at 14:15)
+-  14:00 – 15:00 Project development (present on progress at 14:45)
 -  15:00 – 16:30 [Tutorial III: simple stochastic models of epidemics](#computerlabs)
 
 Assignments

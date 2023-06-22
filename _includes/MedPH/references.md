@@ -30,9 +30,10 @@ This paper gives a nice explanation of the relationship between infectious disea
 ### For groups working on Ebola
 
 - WHO Ebola Response Team. [Ebola Virus Disease in West Africa - The First 9 Months of the Epidemic and Forward Projections]({{page.repo}}/blob/master/references/EbolaFirst9Months.pdf?raw=true). N Engl J Med 2014.
-- Chowell G, Hengartner NW, Castillo-Chavez C, Fenimore PW, Hyman JM. [The basic reproductive number of Ebola and the effects of public health measures: The cases of Congo and Uganda]({{page.repo}}/blob/master/references/ChowellEbola2004.pdf?raw=true). J Theor Biol 2004; 229: 119–26.
+- Chowell G, Hengartner NW, Castillo-Chavez C, Fenimore PW, Hyman JM. [The basic reproductive number of Ebola and the effects of public health measures: The cases of Congo and Uganda]({{page.repo}}/blob/master/references/ChowellEbola2005.pdf?raw=true). J Theor Biol 2004; 229: 119–26.
 - Bellan SE, Pulliam JRC, Dushoff J, Meyers LA. [Ebola control: effect of asymptomatic infection and acquired immunity]({{page.repo}}/blob/master/references/BellanAsymptomaticEbola2014.pdf?raw=true). Lancet 2014. (accompanying [SEIR model code](http://ebola.ici3d.org/Lancet/ebolaSEIR.R))
-- [Kucharski et al. (2015). Measuring the impact of Ebola control measures in Sierra Leone. PNAS.]({{page.repo}}/blob/master/references/KucharskiPNAS2015.pdf)
+- [Kucharski et al. (2015). Measuring the impact of Ebola control measures in Sierra Leone. PNAS.]({{page.repo}}/blob/master/references/KucharskiPNAS2015.pdf?raw=true)
+- Reference on the impact of awareness on transmission: [Weitz et al. (2020). Awareness-driven behavior changes can shift the shape of epidemics away from peaks and toward plateaus, shoulders, and oscillations. PNAS.]({{page.repo}}/blob/master/references/Weitz_2020.pdf?raw=true) (Note that this paper was motivated by COVID-19 but also has relevance to other diseases, including Ebola.)
 
 ### Data Sets
 
