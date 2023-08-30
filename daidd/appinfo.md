@@ -3,7 +3,7 @@ layout: page
 title: Application information
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
-alerttype: success
+alerttype: warning
 alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 11-17 December. The deadline for receipt of applications is <strong>1 November</strong>.
 applink: ./apply
 ---
@@ -46,13 +46,12 @@ Saturday). All participants *must* have access to high-speed internet
 for the duration of the Clinic.
 
 The application process for the Clinic is competitive. **The deadline
-for receipt of applications is 1 November 2022 at 23:59 SAST.**
+for receipt of applications is 1 November 2023 at 23:59 SAST.**
 Incomplete applications will not be considered.
+
+**Detailed application instructions are available via [the application form](https://forms.gle/WkpwG3MjrTC7YpQo7).**
 
 {%if page.alerttype == "success"%}
 
-**Detailed application instructions are available via the application form, which is linked below.**
-
 [Apply now »]({{page.applink}} "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 {%endif%}
-
