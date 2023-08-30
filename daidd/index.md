@@ -1,12 +1,12 @@
 ---
 layout: page
 title: DAIDD
-year: 2022
+year: 2023
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
-alerttype: danger
-alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> was held 11-17 December 2022 on Microsoft Teams.
+alerttype: success
+alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 10-16 December 2023 on Microsoft Teams.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -38,11 +38,11 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 3,500 or US$215. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by early December.
+The course registration fee is ZAR 4000. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by early December.
 
 ## Venue
 
-DAIDD 2022 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
+DAIDD 2023 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
 
 ## Schedule
 
@@ -94,6 +94,7 @@ There will be a mid-session evaluation on Wednesday. **The full schedule for DAI
 
 Schedules from previous years:
 
+- [DAIDD 2022](http://www.ici3d.org/DAIDD/schedule/2022 "DAIDD 2022 schedule")
 - [DAIDD 2021](http://www.ici3d.org/DAIDD/schedule/2021 "DAIDD 2021 schedule")
 - [DAIDD 2020](http://www.ici3d.org/DAIDD/schedule/2020 "DAIDD 2020 schedule")
 - [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")
