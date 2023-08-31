@@ -48,8 +48,11 @@ cerve:
 %.local:
 	/bin/ln -fs $*.config _localconfig.yml
 
-Gemfile: Gemfile.jd
-	$(link)
+## When is sudo needed here???
+## jd.gm:
+%.gm: Gemfile.%
+	$(LNF) $< Gemfile
+	sudo bundle install
 
 ######################################################################
 
