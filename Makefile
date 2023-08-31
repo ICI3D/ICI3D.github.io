@@ -48,11 +48,7 @@ cerve:
 %.local:
 	/bin/ln -fs $*.config _localconfig.yml
 
-## When is sudo needed here???
-## jd.gm:
-%.gm: Gemfile.%
-	$(LNF) $< Gemfile
-	sudo bundle install
+## Gemfile is under revision control; have not tested whether it works on JD/ubuntu 2023 Aug 31 (Thu)
 
 ######################################################################
 
