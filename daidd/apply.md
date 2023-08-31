@@ -2,7 +2,11 @@
 layout: page
 tab: DAIDD
 title: Apply
+alerttype: warning
 ---
+
+{%if page.alerttype == "success"%}
+[Apply now »]({{page.applink}} "Application Form"){:class="btn btn-{{page.alerttype}} btn-lg btn-rounded-3x"}
 <div align="center">
 <br>
 <h3>The application for DAIDD 2023 is due on 1 November at 23:59 SAST / 17:59 Eastern.</h3>
@@ -11,3 +15,4 @@ title: Apply
 <br>
 <iframe src="https://docs.google.com/forms/d/1jIhqAmwOjE53HntT3FkTutZhMnrA4AFWzwlW5Z8uEqo/viewform?embedded=true" width="90%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
+{%endif%}
