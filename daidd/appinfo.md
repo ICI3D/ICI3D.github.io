@@ -4,13 +4,13 @@ title: Application information
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 tab: DAIDD
 alerttype: warning
-alertmsg: The eleventh annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 10-16 December. The deadline for receipt of applications is <strong>20 October</strong>.
+alertmsg: The twelfth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held on 10-16 December. The deadline for receipt of applications is <strong>20 October</strong>.
 applink: ./apply
 ---
 
 
 The International Clinics on Infectious Disease Dynamics and Data
-(ICI3D) Program invites applications to the eleventh annual Clinic on
+(ICI3D) Program invites applications to the twelfth annual Clinic on
 Dynamical Approaches to Infectious Disease Data (DAIDD). This 1-week
 intensive modeling clinic will provide an introduction to dynamical
 models used in the study of infectious disease dynamics. The Clinic will
