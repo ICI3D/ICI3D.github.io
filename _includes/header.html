@@ -2,11 +2,14 @@
 <div class="page-header {% if page.tab != "About" %}has-intro{% endif %}">
   <div class="container">
     <div class="left pull-left">
-      <h1 class="page-title">{{ page.longtitle }}</h1>
+      {% if page.longtitle contains "" %}
+        <h1 class="page-title">{{ page.longtitle }}</h1>
+      {% else %}
+        <h1 class="page-title">{{ site.longtitle }}</h1>
+      {% endif %}
       {% if page.summary contains "" %}
         <p class="page-header-intro">{{ page.summary }}</p>
       {% endif %}
-      <h1 class="page-title">{{ site.longtitle }}</h1>
       {% if site.summary contains "" %}
         <p class="page-header-intro">{{ site.summary }}</p>
       {% endif %}

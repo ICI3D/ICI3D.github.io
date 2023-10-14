@@ -12,6 +12,9 @@
     <!-- MAIN NAVIGATION -->
     <div id="clinic-nav" class="navbar-collapse collapse navbar-mega-menu">
       <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown {% if page.tab == 'Info' %}active{%endif%}">
+          <a href="{{ site.subdomainurl}}/info" class="dropdown-toggle" style="line-height:15px">INFO</a>
+        </li>
         <li class="dropdown {% if page.tab == 'Preparation' %}active{%endif%}">
           <a href="{{ site.subdomainurl}}/preparation" class="dropdown-toggle" style="line-height:15px">PREPARATION</a>
         </li>
