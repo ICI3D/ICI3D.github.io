@@ -12,6 +12,14 @@
  		<div class="page-content">
  			<div class="container">
         <h1><span style="color: #15378a">{{page.subtitle}}</span></h1>
+        {% if page.archive == true %}
+          <blockquote>
+            <p>
+              This is an archived version of the schedule from the {{page.title}} clinic{% if page.summary 
+contains ""%} ({{page.summary}}){% endif %}. Some links may not work at this time.
+            </p>
+          </blockquote>
+        {% endif %}
 
          {{ content }}
        </div>
