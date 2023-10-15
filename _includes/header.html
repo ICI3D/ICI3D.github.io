@@ -8,7 +8,9 @@
         <h1 class="page-title">{{ site.longtitle }}</h1>
       {% endif %}
       {% if page.summary contains "" %}
+	{% if page.archive != true %}
         <p class="page-header-intro">{{ page.summary }}</p>
+	{% endif %}
       {% endif %}
       {% if site.summary contains "" %}
         <p class="page-header-intro">{{ site.summary }}</p>
