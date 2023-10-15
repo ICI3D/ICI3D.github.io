@@ -1,3 +1,4 @@
+{% if site.takingapps == true %}
 <!DOCTYPE HTML>
 <html lang="en-US">
     <head>
@@ -13,3 +14,32 @@
         If you are not redirected automatically, follow <a href='{{ site.applink }}'>this link</a>.
     </body>
 </html>
+{% else %}
+<!DOCTYPE html>
+<html lang="en" class="fullscreen">
+{%include head.html%}
+  <body>
+	<!-- WRAPPER -->
+	 <div class="wrapper">
+     {%include navbar.html%}
+     {%include clinicNavbar.html%}
+     {%include header.html%}
+     {% include alert alerttype=page.alerttype alertmsg=page.alertmsg %}
+     <!-- PAGE CONTENT -->
+ 		<div class="page-content">
+ 			<div class="container">
+        <h1><span style="color: #15378a">{{page.subtitle}}</span></h1>
+
+        {{ content }}
+       </div>
+     </div>
+     <!-- END PAGE CONTENT -->
+         {% include footer.html %}
+    </div>
+    <!-- END WRAPPER -->
+    <!-- JAVASCRIPTS -->
+    {% include jsblock.html %}
+
+  </body>
+</html>
+{% endif %}
