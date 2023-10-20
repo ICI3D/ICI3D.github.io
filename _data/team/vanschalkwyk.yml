@@ -1,8 +1,10 @@
 ---
 name: Cari van Schalkwyk, PhD
-type: core
-role: Clinic Director for DAIDD 2023<br>Faculty Member, MMED and DAIDD clinics
-involvement: Faculty Member, DAIDD 2016-2019, MMED 2017, 2019, 2021, 2023
+type: director
+role: Associate Director<br>Clinic Director for DAIDD 2023
+role.old: Faculty Member, MMED and DAIDD clinics
+role.older:  Faculty Member, DAIDD 2016-2019, 2022-2023, MMED 2017, 2019, 2021, 2023
+involvement: Faculty Member, MMED and DAIDD clinics
 position: Senior Researcher
 affiliation: South African Centre for Epidemiological Modelling and Analysis<br>Stellenbosch University, Stellenbosch, South Africa
 img: team/vanschalkwyk.jpg
