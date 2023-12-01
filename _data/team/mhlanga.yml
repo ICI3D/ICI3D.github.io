@@ -1,12 +1,16 @@
 ---
-name: Laurette Mhlanga, MSc
+name: Laurette Mhlanga, PhD
 type: mentor
 role: Mentor
 img: mentors/mhlanga.jpg
-position: PhD candidate, South African Centre for Epidemiological Modelling and Analysis
-affiliation: Stellenbosch University, Stellenbosch, South Africa
+position: Postdoctoral Research Fellow
+affiliation: Loyola University (previously based at Northwestern University)
 degrees:
-  - degree: MSc
+   - degree: PhD
+    discipline: Epidemiology
+    institution: Stellenbosch University (SACEMA)
+    year: 2022
+    - degree: MSc
     discipline: Mathematical Sciences
     institution: AIMS-Tanzania
     year: 2016
@@ -18,5 +22,5 @@ degrees:
     discipline: Statistics
     institution: University of Zimbabwe
     year: 
-bio: Laurette Mhlanga is PhD student at SACEMA, enrolled in the Department of Global Health at Stellenbosch University. She holds an MSc in Mathematical Sciences from AIMS Tanzania, MSc in Operations Research from NUST – Zimbabwe, a double major in Statistics and Biochemistry plus BSc special honors in Statistics, both from the University of Zimbabwe. Currently, she is working under the supervision of Prof Alex Welte on a project that involves the construction of a comprehensive survey analysis benchmarking platform and developing guidance on the primary challenges of data smoothing faced by surveys intending to estimate HIV incidence.
+bio: Laurette Mhlanga has a background in quantitative analysis, focusing on infectious disease modeling, surveillance, and public health.  She has a Ph.D. in Epidemiology from Stellenbosch University. Laurette is currently a Postdoctoral Research Fellow with the Urban Malaria Team at Loyola University (previously based at Northwestern University). Her research aims to understand the complex and heterogeneous transmission dynamics of malaria in urban areas. She is dedicated to developing urban microstratification models, specifically for Nigeria and creating algorithmic tools to enhance the implementation of malaria interventions.  Laurette is driven by a desire to make a significant global impact, advocating for improved scientific communication to influence policy and shape national strategic plans.
 ---
