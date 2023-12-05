@@ -6,7 +6,7 @@
     <hr class="pull-left">
     <div class="clearfix"></div>
     <p style="font-size:14px"> <b>{{ person.position }}<br>{{ person.affiliation }}</b></p>
-    <p style="font-size:14px">(<a href="{{site.url}}/team/{{ key }}">more info</a>)</p>
+    <p style="font-size:14px">(<a href="../team/{{ key }}">more info</a>)</p>
     {% if person.icons == "yes" %}
     <ul class="list-inline social-icon">
       {%if person.gscholar contains ""%}
