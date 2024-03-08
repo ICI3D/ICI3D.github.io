@@ -1,12 +1,12 @@
 ---
 layout: page
 title: MMED
-year: 2023
+year: 2024
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 alerttype: warning
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 26 June - 8 July 2023 in Muizenberg, South Africa. The application deadline for MMED 2023 was 10 April. Late applications will not be accepted.
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 17-29 June 2024 in Muizenberg, South Africa.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -28,11 +28,11 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR45,000. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
+The course registration fee is currently planned to be ZAR35,000. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
 
 ## Venue
 
-MMED 2023 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
+MMED 2024 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
 
 ## Schedule
 
@@ -40,6 +40,7 @@ MMED 2023 will be held at the African Institute of Mathematical Sceinces in Muiz
 
 Schedules from previous years:
 
+- [MMED 2023](./schedule/2023 "MMED 2023 schedule")
 - [MMED 2021](./schedule/2021 "MMED 2021 schedule")
 - [MMED 2019](./schedule/2019 "MMED 2019 schedule")
 - [MMED 2018](./schedule/2018 "MMED 2018 schedule")
