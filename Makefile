@@ -31,6 +31,7 @@ Sources += $(wildcard jdresources/*)
 ## Maybe make a Makefile there later
 
 Sources += daidd/*.md
+Sources += mmed/*.md
 
 ######################################################################
 
