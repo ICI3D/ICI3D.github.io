@@ -4,6 +4,8 @@
 # http://ICI3D.github.io/daidd
 # http://localhost:4000/MMED/schedule/shadow.html
 # http://localhost:4000/MMED/team
+# http://localhost:4000/MMED/apply
+# http://localhost:4000/mmed/apply
 
 current: target
 -include target.mk
@@ -42,7 +44,7 @@ Ignore += Gemfile Gemfile.lock
 Sources += _config.yml $(wildcard *.config)
 Ignore += _localconfig.yml
 
-cerve: 
+cerve: jekyll.log
 	./run.sh > jekyll.log 2>&1 &
 ## jd.local:
 %.local:
