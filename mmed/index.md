@@ -10,7 +10,7 @@ alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological 
 ---
 
 {%if page.alerttype == "warning"%}
-[Go to MMED {{page.year}} »](http://www.ici3d.org/MMED/ "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
+[Go to MMED {{page.year}} »](http://www.ici3d.org/MMED/info "MMED {{page.year}}"){:class="btn btn-primary btn-lg btn-rounded-3x pull-right"}
 {%endif%}
 
 {%if page.alerttype == "success"%}
