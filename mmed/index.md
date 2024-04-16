@@ -40,7 +40,7 @@ MMED 2024 will be held at the African Institute of Mathematical Sceinces in Muiz
 
 Schedules from previous years:
 
-- [MMED 2023](./schedule/2023 "MMED 2023 schedule")
+- [MMED 2023](../MMED/schedule/2023 "MMED 2023 schedule")
 - [MMED 2021](./schedule/2021 "MMED 2021 schedule")
 - [MMED 2019](./schedule/2019 "MMED 2019 schedule")
 - [MMED 2018](./schedule/2018 "MMED 2018 schedule")
