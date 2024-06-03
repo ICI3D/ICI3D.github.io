@@ -1,7 +1,8 @@
 {% assign people = include.people | split:'|' -%}
 {% for person in people -%}
+{% assign pobj = site.data.team[person] %}
 {%- if forloop.length > 1 -%}
-{% if forloop.last %}and {% endif %}[{{ person | capitalize }}](../team/{{ person }}){% unless forloop.last %}, {% endunless %}
+{% if forloop.last %}and {% endif %}[{{ pobj.firstname | capitalize }}](../team/{{ person }}){% unless forloop.last %}, {% endunless %}
 {%- else -%}
-[{{ person | capitalize }}](../team/{{ person }})
+[{{ pobj.firstname | capitalize }}](../team/{{ person }})
 {%- endif -%}{%- endfor %}
