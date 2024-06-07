@@ -4,17 +4,8 @@ lastname: Dawa
 firstname: Jeanette
 type: mentor
 role: Mentor
-position: Fill in current position
-affiliation: Fill in current affiliation
-img: transmission.png
-degrees:
-  - degree:
-    discipline:
-    institution:
-    year:
-  - degree:
-    discipline:
-    institution:
-    year:
-bio: Add a brief bio
+position: Scientific Manager
+affiliation: CEMA, University of Nairobi
+img: team/dawa.png
+bio: Jeanette Dawa (MBChB, MSc, PhD) is a public health specialist/epidemiologist with a background in medicine, public health and infectious disease modelling. She works at CEMA as the scientific manager tasked with growing the international profile of CEMA as a center of excellence in providing timely and quality insights from data that support decision making in health and lead to more fruitful engagement between academia, policy makers and the public.
 ---
