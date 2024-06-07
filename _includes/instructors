@@ -1,8 +1,13 @@
 {% assign people = include.people | split:'|' -%}
 {% for person in people -%}
-{% assign pobj = site.data.team[person] %}
-{%- if forloop.length > 1 -%}
-{% if forloop.last %}and {% endif %}[{{ pobj.firstname | capitalize }}](../team/{{ person }}){% unless forloop.last %}, {% endunless %}
+{%- assign pobj = site.data.team[person] -%}
+{%- if pobj -%}
+{%- capture disp %}[{{ pobj.firstname | capitalize }}](../team/{{ person }}){% endcapture -%}
 {%- else -%}
-[{{ pobj.firstname | capitalize }}](../team/{{ person }})
+{%- assign disp = person -%}
+{%- endif -%}
+{%- if forloop.length > 1 -%}
+{% if forloop.last %}and {% endif %}{{ disp }}{% unless forloop.last %}, {% endunless %}
+{%- else -%}
+{{ disp }}
 {%- endif -%}{%- endfor %}
