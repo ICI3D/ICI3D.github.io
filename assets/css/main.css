@@ -26,7 +26,7 @@ body.layout-boxed {
   background-color: #ccc;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, summary {
   margin-top: 5px;
   font-family: "Roboto Condensed", sans-serif;
   color: #656565;
@@ -7157,4 +7157,12 @@ ul.nav-categories > li > a:hover {
     float: none;
     width: 100%;
   }
+}
+
+summary {
+  display: list-item;
+  font-weight: 500;
+  line-height: 1.1;
+  margin-bottom: 10px;
+  font-size: 30px;
 }
