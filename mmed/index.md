@@ -1,12 +1,12 @@
 ---
 layout: page
 title: MMED
-year: 2024
+year: 2025
 tab: Programs
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 alerttype: warning
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 17-29 June 2024 in Muizenberg, South Africa.
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 9-27 June 2025 in Muizenberg, South Africa.
 ---
 
 {%if page.alerttype == "warning"%}
@@ -32,7 +32,7 @@ The course registration fee is currently planned to be ZAR35,000. The fee includ
 
 ## Venue
 
-MMED 2024 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
+MMED 2025 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
 
 ## Schedule
 
