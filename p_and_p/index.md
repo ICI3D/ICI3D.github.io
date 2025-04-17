@@ -12,7 +12,7 @@ alertmsg: All publications and presentations supported through I3D P&P must ackn
 
 ## Presentation support
 
-Limited funds are available to support scientific conference presentations by ICI3D program participants on work developed at the [MMED clinic](../mmed), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d). Requests should be sent, with a copy of the abstract and acceptance letter, to <pandp@ici3d.org>.
+Limited funds are available to support scientific conference presentations by ICI3D program participants on work developed at the [MMED clinic](../MMED), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d). Requests should be sent, with a copy of the abstract and acceptance letter, to <pandp@ici3d.org>.
 
 - Requests for funds to cover _conference regsitration_ should be submitted at least 3 weeks before the meeting's 'early registration' deadline.
 - Requests for funds to cover non-registration travel expenses should be submitted at least 1 month prior to the first day of proposed travel.
@@ -20,4 +20,4 @@ Limited funds are available to support scientific conference presentations by IC
 
 ## Publication support
 
-Publications of work developed at the [MMED clinic](../mmed), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d) may request support for payment of open access publication fees. Requests should be sent, with a copy of the accepted manuscript, to <pandp@ici3d.org>.
+Publications of work developed at the [MMED clinic](../MMED), [DAIDD clinic](../daidd), or through an [I3D exchange](../i3d) may request support for payment of open access publication fees. Requests should be sent, with a copy of the accepted manuscript, to <pandp@ici3d.org>.
