@@ -6,8 +6,9 @@ type: workshop
 role: Faculty Member, MMED clinic
 involvement: Faculty Member, MMED clinic
 img: team/nyamai.jpeg
-position: Postdoctoral Scientist
-affiliation: Center for Epidemiological Modelling and Analysis<br>University of Nairobi
+position: Senior Research Fellow
+affiliation: Center for Epidemiological Modelling and Analysis, University of Nairobi
+  <br>Assistant Professor, Paul G Allen School for Global Health, Washington State University
 degrees:
   - degree: PhD
     discipline: Environment Governance and Management
@@ -25,5 +26,6 @@ degrees:
     discipline: Business Information and Technology
     institution: Strathmore University
     year: 2013
-bio: Mutono is a data scientist combining applied epidemiological modelling and data analytics in developing prevention and control strategies for infectious diseases in Africa. She is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. Her research at CEMA is on control and elimination of neglected tropical diseases. Previously, she has worked on understanding the transmission dynamics and control of SARS-CoV-2 and rabies in Kenya, employing mathematical modelling techniques. She holds an MSc in Data Analytics from the University of Glasgow, an MSc and a PhD in Environment Governance from the University of Nairobi.
+bio: Mutono is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi, and an Assistant Professor at the Paul G Allen School for Global Health, Washington State University. She specializes in applied epidemiological modeling to generate evidence to guide and support the control and elimination of neglected tropical diseases (NTDs). Her current research focuses on estimating the burden of visceral leishmaniasis in East Africa and identifying suitable habitat areas for its transmission, modeling to develop tailored treatment strategies for schistosomiasis and soil-transmitted helminths, and works in close collaboration with the Ministry of Health in Kenya. Additionally, she is an active member of the NTD Modelling Consortium and the African Modelling Network for NTDs, contributing to collaborative efforts that accelerate progress toward NTD elimination goals in Africa.
+
 ---
