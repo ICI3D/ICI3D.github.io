@@ -1,4 +1,5 @@
 ## ICI3D/io
+## Somehow both this and mmed are back to serving on 4000 so that they can't be tested together 2025 Jun 08 (Sun)
 
 # http://localhost:4000/daidd
 # http://ICI3D.github.io/daidd
@@ -6,6 +7,7 @@
 # http://localhost:4000/MMED/team
 # http://localhost:4000/MMED/apply
 # http://localhost:4000/mmed/apply
+# http://localhost:4000/
 
 current: target
 -include target.mk
