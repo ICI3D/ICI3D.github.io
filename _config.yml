@@ -9,6 +9,9 @@ collections:
   team:
     output: true
     permalink: /people/:name
+    order:
+      - mwangi.md
+      - vanschalkwyk.md
 defaults:
   - scope:
       path: ""
