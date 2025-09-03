@@ -94,9 +94,7 @@ _Participants from other time zones are welcome, as long as they can participate
 
 There will be a mid-session evaluation on Wednesday. -->
 
-**TThe full schedule for DAIDD 2025 will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.
-
-**
+**TThe full schedule for DAIDD 2025 will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
 
