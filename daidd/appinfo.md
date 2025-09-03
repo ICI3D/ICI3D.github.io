@@ -38,12 +38,7 @@ grounding in statistics and experience with data collection will be
 preferred. This workshop is not intended for those with substantial
 prior experience in dynamical modeling.
 
-The course registration fee is ZAR 18000. A small number of
-scholarships are available. Although the Clinic is virtual, applicants
-are expected to give a full-time commitment for the week (\~8 hours per
-day, plus four hours per day on the opening Sunday and closing
-Saturday). All participants *must* have access to high-speed internet
-for the duration of the Clinic.
+The course registration fee is ZAR 28000, which includes meals and accommodation.
 
 The application process for the Clinic is competitive. **The deadline
 for receipt of applications is 01 October 2025 at 23:59 SAST.**
