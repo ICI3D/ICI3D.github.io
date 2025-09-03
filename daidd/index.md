@@ -1,12 +1,12 @@
 ---
 layout: page
 title: DAIDD
-year: 2023
+year: 2025
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: warning
-alertmsg: The twelfth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held 10-16 December 2023 on Microsoft Teams. The application deadline for DAIDD 2023 was 20 October 2023. Late applications will not be accepted.
+alertmsg: The thirteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held at AIMS-SA, Muizenberg, on 07-13 December 2025. The application deadline for DAIDD 2025 was 01 October 2025. Late applications will not be accepted.
 
 ---
 
@@ -39,14 +39,15 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 3500. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by early December.
+The course registration fee is ZAR 28000, which includes meals and accommodation. Instructions for paying the course fee will be made available to successful applicants by mid October.
 
 ## Venue
 
-DAIDD 2023 will be held online via Microsoft Teams. All participants must have access to high-speed internet for the duration of the Clinic.
+DAIDD 2025 will be held at AIMS-SA, Muizenberg, South Africa.
 
 ## Schedule
 
+<!-- NOT DISPLAYING ONLINE DAIDD info
 Specific session times will vary by day. The general daily structure will be as follows:
 
 In _South African Standard Time_:
@@ -91,7 +92,11 @@ In _Pacific Standard Time_:
 
 _Participants from other time zones are welcome, as long as they can participate fully in the scheduled interactive sessions and reserve approximately 4 hours a day for independent work._
 
-There will be a mid-session evaluation on Wednesday. **The full schedule for DAIDD {{page.year}} will be available via the Clinic website approximately 1 month before the Clinic.**
+There will be a mid-session evaluation on Wednesday. -->
+
+**TThe full schedule for DAIDD 2025 will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.
+
+**
 
 Schedules from previous years:
 
