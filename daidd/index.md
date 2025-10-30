@@ -98,6 +98,7 @@ There will be a mid-session evaluation on Wednesday. -->
 
 Schedules from previous years:
 
+- [DAIDD 2023](http://www.ici3d.org/DAIDD/schedule/2023 "DAIDD 2023 schedule")
 - [DAIDD 2022](http://www.ici3d.org/DAIDD/schedule/2022 "DAIDD 2022 schedule")
 - [DAIDD 2021](http://www.ici3d.org/DAIDD/schedule/2021 "DAIDD 2021 schedule")
 - [DAIDD 2020](http://www.ici3d.org/DAIDD/schedule/2020 "DAIDD 2020 schedule")
