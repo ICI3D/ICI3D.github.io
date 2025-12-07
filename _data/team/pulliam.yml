@@ -2,23 +2,20 @@
 name: Juliet Pulliam, PhD
 lastname: Pulliam
 firstname: Juliet
-type: founding
+type: workshop
 role: Founding Faculty Member
 role.old: MMED Director<br>ICI3D Co-Director<br>Program Director for Africa
 involvement: Faculty Member, MMED and DAIDD clinics
-position: Director of <a href="http://www.sacema.org/">SACEMA</a> & Professor of Applied Mathematics
-affiliation: South African Centre for Epidemiological Modelling and Analysis<br>Stellenbosch University, Stellenbosch, South Africa
+position: Extraordinary Professor of Applied Mathematics
+affiliation: Stellenbosch University, Stellenbosch, South Africa
 img: team/pulliam.jpg
-summary: Juliet is the Director of the South African Centre for Epidemiological Modelling and Analysis (SACEMA) and Professor of Applied Mathematics at Stellenbosch University. She served as Program Director from 2012-2016, Program Director for Africa from 2017-2022, and is currently on the ICI3D Executive Team.
+summary: Juliet is an Extraordinary Professor of Applied Mathematics at Stellenbosch University and former Director of the South African Centre for Epidemiological Modelling and Analysis (<a href="http://www.sacema.org/">SACEMA</a>). She served as Program Director from 2012-2016, Program Director for Africa from 2017-2022, and on the ICI3D Executive Team from 2022-2024. She currently works for the US CDC but is contributing to the DAIDD workshop in her personal capacity as an approved outside activity.
 icons: yes
 github: jrcpulliam
 orcid: 0000-0003-3314-8223
 linkedin: julietpulliam
 gscholar: N9CMMiQAAAAJ
-twitter: SACEMAdirector
-impactstory: SACEMAdirector
 link: http://jrcpulliam.github.io
-cv: https://dl.dropbox.com/u/40277704/PulliamCV.pdf?dl=1
 degrees:
   - degree: PhD
     discipline: Ecology and Evolutionary Biology
@@ -49,5 +46,5 @@ papers:
     link: http://dx.doi.org/10.1126/science.abn4947
     journal: Science
     year: 2022
-bio: Juliet is Director of the South African DSI-NRF Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA) and Professor of Applied Mathematics at Stellenbosch University (SU). She served as the inaugural ICI3D Program Director from 2012-2016 and is a member of the ICI3D Executive Team. Before moving to SACEMA in 2016, she was an Assistant Professor in the Department of Biology and Emerging Pathogens Institute (EPI) at the University of Florida (2011-2016) and a Research and Policy for Infectious Disease Dynamics (RAPIDD) Program Fellow in the Division of International Epidemiology and Population Studies at the Fogarty International Center, NIH (2008-2011). Juliet’s research focuses on quantitative approaches to infectious disease dynamics, with a particular focus on emerging, vector-borne, and zoonotic viruses, including Ebola, Nipah, Japanese encephalitis, dengue, and SARS-CoV-2 viruses.
+bio: Juliet is an Extraordinary Professor of Applied Mathematics at Stellenbosch University (SU) and former Director of the South African Centre for Epidemiological Modelling and Analysis (<a href="http://www.sacema.org/">SACEMA</a>). She is a member of the founding faculty and served as the inaugural ICI3D Program Director from 2012-2016, as well as Program Director for Africa from 2017-2022, and on the ICI3D Executive Team from 2022-2024. Before moving to SACEMA in 2016, she was an Assistant Professor in the Department of Biology and Emerging Pathogens Institute (EPI) at the University of Florida (2011-2016) and a Research and Policy for Infectious Disease Dynamics (RAPIDD) Program Fellow in the Division of International Epidemiology and Population Studies at the Fogarty International Center, NIH (2008-2011). Juliet’s research focuses on quantitative approaches to infectious disease dynamics, with a particular focus on emerging, vector-borne, and zoonotic viruses, including Ebola, Nipah, Japanese encephalitis, dengue, and SARS-CoV-2 viruses.  She currently works for the US CDC but is contributing to the DAIDD workshop in her personal capacity as an approved outside activity.
 ---
