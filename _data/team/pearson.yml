@@ -4,7 +4,7 @@ lastname: Pearson
 firstname: Carl
 type: core
 role: Clinic Director for MMED '23, '24; Clinic Director for SEAMS<br>Faculty Member, SEAMS, MMED, and DAIDD
-involvement: Faculty Member, DAIDD 2016-2020, MMED 2018, 2021, 2023
+involvement: Faculty Member, DAIDD 2016-2020, MMED 2018, 2021, 2023, SEAMS 2014 on
 position: Research Assistant Professor
 affiliation: University of North Carolina at Chapel Hill<br>North Carolina, USA
 img: team/pearson.jpg
@@ -30,6 +30,16 @@ degrees:
     institution: Duke University
     year: 2003
 papers:
+  - title: "paramix: An R package for parameter discretisation in compartmental models, with application to calculating years of life lost"
+    authors: Goodfellow, <b>Pearson</b>, Procter
+    link: https://doi.org/10.1371/journal.pcbi.1013420
+    journal: PLoS Computational Biology
+    year: 2025
+  - title: "Heavy-tailed sexual contact networks and monkeypox epidemiology in the global outbreak, 2022"
+    authors: Endo, Murayama, <b>Abbott</b>, Ratnayake, <b>Pearson</b>, Edmunds, Fearon, Funk 
+    link: https://doi.org/10.1126/science.add4507
+    journal: Science
+    year: 2023  
   - title: Pre-vaccination testing could expand coverage of two-dose COVID vaccines
     authors: <b>Pearson</b>, Clifford, <b>Pulliam</b>, Eggo
     link: https://wellcomeopenresearch.org/articles/6-105
@@ -45,15 +55,5 @@ papers:
     link: https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0234
     journal: Journal of the Royal Society Interface
     year: 2019
-  - title: The long-term safety, public health impact, and cost-effectiveness of routine vaccination with a recombinant, live-attenuated dengue vaccine (Dengvaxia) - a model comparison study
-    authors: Flasche, Jit, Rodríguez-Barraquer, Coudeville, Recker, Koelle, Milne, <b>Hladish</b>, Perkins, Cummings, Dorigatti, Laydon, España, Kelso, Longini, Lourenco, <b>Pearson</b>, Reiner, Mier-y-Terán-Romero, Vannice, Ferguson
-    link: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002181
-    journal: PLoS Medicine
-    year: 2017
-  - title: Projected impact of dengue vaccination in Yucatán, Mexico
-    authors: <b>Hladish</b>, <b>Pearson</b>, Chao, Rojas, Recchia, Gómez-Dantés, M Halloran, <b>Pulliam</b>, Longini
-    link: http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004661
-    journal: PLOS Neglected Tropical Diseases
-    year: 2016
-bio: Carl is a Research Fellow at the London School of Hygiene & Tropical Medicine, focusing on Ebola. He is also affiliated with SACEMA. He was a Faculty Observer at MMED 2015 and joined the Workshop Faculty in 2016.
+bio: Carl is a Research Assistant Professor at the University of North Carolina, in the Atlantic Coast Center for Infectious Disease Dynamics and Analytics (<a href="https://accidda.org" target="_blank">ACCIDDA<a/>) focusing on <a href="https://github.com/ACCIDDA">tools development</a>. He is also affiliated with SACEMA. He was a Faculty Observer at MMED 2015, joined the Workshop Faculty in 2016, and subsequently served as MMED Director. He has also developed and run the SEAMS Workshop since inception.
 ---
