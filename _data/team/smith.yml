@@ -1,0 +1,55 @@
+---
+name: Claire Perrin Smith, MHS, PhD
+lastname: Smith
+firstname: Claire
+type: observer
+role: Faculty Observer
+involvement: Faculty Observer for MMED '26
+position: Postdoctoral Research Fellow
+affiliation: University of North Carolina at Chapel Hill
+img: team/smith.jpeg
+summary: Claire is a Postdoctoral Research Fellow at the Univeristy of North Carolina at Chapel Hill where she is part of Atlantic Coast Center for Infectious Disease Dynamics and Analytics.
+github: csmith701
+orcid: 0000-0003-1069-9460
+linkedin:
+gscholar: OzDsVtEAAAAJ
+twitter: 
+impactstory:
+website:
+cv:
+degrees:
+  - degree: PhD
+    discipline: Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2024
+  - degree: MHS
+    discipline: Biostatistics
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2024
+  - degree: BA
+    discipline: Applied Mathematics
+    institution: Yale University
+    year: 2017
+papers:
+  - title: First- and Second-Order Social Contact Network Structure in Southern China
+    authors: <b>Smith</b>, Read, Riley, Cummings, Kwok, Jiang, Lessler
+    link: https://royalsocietypublishing.org/rsif/article/22/232/20250232/355664
+    journal: Journal of the Royal Society Interface
+    year: 2025
+  - title: The Trajectory of Antibody Responses One Year Following SARSCoV-2 Infection among Indigenous Individuals in the Southwest United States
+    authors: <b>Smith</b>, Hartman, Kugler, Little, Baker, Fairlie, Fernandez, Hagen, Honie, Laeyendecker, Midgely, Parker, Sandoval, Takahashi, Hammitt, Sutcliffe
+    link: https://www.mdpi.com/1999-4915/16/10/1573
+    journal: Viruses
+    year: 2024
+  - title: Estimating the Transmisison Potential of Symptomatic and Asymptomatic Cholera Cases from Household Microbiological and Clinical Data
+    authors: <b>Smith</b>, Lessler, Hedge, Bhuiyan, Islam, Ahmmed, Chowdhury, Khan, LaRocque, Charles, Weil, Calderwood, Ryan, Harris, Azman, Qadri, Wiens
+    link: https://www.medrxiv.org/content/10.64898/2026.01.09.26343785v1
+    journal: medRxiv
+    year: 2026
+  - title: In-Person Schooling and Associated COVID-19 Risk in the United States over Spring Semester 2021
+    authors: Wiens, <b>Smith</b>, Badillo-Goicoechea, Grantz, Grabowski, Azman, Stuart, Lessler
+    link: https://www.science.org/doi/full/10.1126/sciadv.abm9128
+    journal: Science Advances
+    year: 2022
+bio: Claire is a Postdoctoral Research Fellow at the Univeristy of North Carolina at Chapel Hill where she is part of Atlantic Coast Center for Infectious Disease Dynamics and Analytics. Her work focuses on the development of inferential methods for infectious disease dynamics.
+---
