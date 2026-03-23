@@ -3,8 +3,8 @@ name: Lauren Brown, MSc
 lastname: Brown
 firstname: Lauren
 type: workshop
-role: Faculty Member, DAIDD 2025
-involvement: Faculty Member, DAIDD clinic
+role: Faculty Member, DAIDD 2025, MMED 2026
+involvement: Faculty Member, DAIDD clinic, MMED Clinic
 img: mentors/brown.jpg
 position: Junior Researcher<br>South African Centre for Epidemiological Modelling and Analysis
 affiliation: Stellenbosch University, Stellenbosch, South Africa
@@ -21,5 +21,5 @@ degrees:
     discipline: Mathematics
     institution: Stellenbosch University
     year: 2019
-bio: Lauren Brown is a Junior Researcher at SACEMA, mainly working on polio transmission modelling in Southern Africa and coordinating SACEMA's first policy modelling fellowship. She holds an MSc in Applied Mathematics, her thesis was entitled "Mathematical modelling of tuberculosis in South Africa - investigating the impact of interventions on population-level incidence and mortality". She holds a BSc degree in Biomathematics, majoring in Biochemistry and Applied Mathematics, and a BSc Honours degree in the same.
+bio: Lauren Brown is a Junior Researcher at SACEMA. She holds an MSc in Applied Mathematics, focusing on the impact of interventions to reduce TB burden in South Africa through mathematical modelling and has previously worked on polio transmission modelling in Southern Africa. Lauren is also a PhD candidate, working on developing a mathematical model of paediatric TB in South Africa at SACEMA.
 ---
