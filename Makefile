@@ -32,8 +32,12 @@ Sources += $(wildcard jdresources/*)
 ## daidd DAIDD Working with Pulliam 2022 Sep 08 (Thu)
 ## Maybe make a Makefile there later
 
-Sources += $(wildcar daidd/*.md)
+Sources += $(wildcard daidd/*.md)
 Sources += $(wildcard mmed/*.md)
+
+######################################################################
+
+Sources += tutorials/index.md
 
 ######################################################################
 

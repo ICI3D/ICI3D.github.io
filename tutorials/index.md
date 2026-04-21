@@ -14,8 +14,8 @@ alertmsg: Instructional materials are available under a <a href="http://creative
 - Tutorial 1: [Introduction to R and its quirks](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R)
 - Tutorial 2: [More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R)
 - Tutorial 3: [Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R)
-- Tutorial 4: [Visualizing Infectious Disease Data in R](www.ici3d.org/MMED/visualizeData)
-- Tutorial 5: [Data cleaning and management in R](www.ici3d.org/MMED/dataCleaning)
+- Tutorial 4: [Visualizing Infectious Disease Data in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_4.R)
+- Tutorial 5: [Data cleaning and management in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R)
 
 ## ICI3D R package
 
