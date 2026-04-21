@@ -38,8 +38,8 @@ remotes::install_github('ICI3D/ici3d-pkg') # BEFORE RUNNING THIS MAKE SURE YOUR 
 
 ## Labs
 
-- Lab 1: [ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R)
-- Lab 2: [Consequences of heterogeneity](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab2_Heterogeneity.R)
+- Lab 1: [ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R)
+- Lab 2: [Consequences of heterogeneity](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_Heterogeneity.R)
     - [Download data file](https://raw.githubusercontent.com/ICI3D/RTutorials/master/HetSIR_functions.Rdata)
     - Note that a newer version of this tutorial is also available through the ICI3D R package. To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 
@@ -57,13 +57,13 @@ ICI3D::heterogeneityTutorial()
 </div>
 </div>
 
-- Lab 3: [Study Design in Epidemiology lab](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R)
-- Lab 4: [Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R)
+- Lab 3: [Study Design in Epidemiology lab](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R)
+- Lab 4: [Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R)
     - [Download data file](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
-- Lab 5: [Introduction to Likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R)
-- Lab 6: [MLE fitting of a dynamic model](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R)
-- Lab 7: [MCMC fitting of a binomial distribution](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R)
-- Lab 8: [MCMC fitting of a dynamic model](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R)
+- Lab 5: [Introduction to Likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R)
+- Lab 6: [MLE fitting of a dynamic model](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MLE_SIV_HIV.R)
+- Lab 7: [MCMC fitting of a binomial distribution](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R)
+- Lab 8: [MCMC fitting of a dynamic model](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R)
     - **Note:** Download [this file](https://raw.githubusercontent.com/ICI3D/RTutorials/master/MCMC_SI_runs.Rdata) to avoid having to wait for long MCMC chains to be sampled.
 
 ## Exercises and Examples
