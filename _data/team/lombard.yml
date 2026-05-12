@@ -1,0 +1,25 @@
+---
+name: Belinda Lombard, MSc
+lastname: Lombard
+firstname: Belinda
+type: mentor
+role: Mentor
+involvement: 
+img: team/lombard.jpg
+position: PhD Student
+affiliation: Department of mathematics, University of Birmingham, United Kingdom
+degrees:
+  - degree: MSc 
+    discipline: Applied Mathematics
+    institution: Stellenbosch University
+    year: 2023
+  - degree: BSc (Hons)  
+    discipline: Mathematics
+    institution: Stellenbosch University
+    year: 2021
+  - degree: BSc 
+    discipline: Mathematics and Computer Science
+    institution: University of Cape Town
+    year: 2020
+bio: Belinda is a PhD student in Applied Mathematics at the University of Birmingham, where her research focuses on mathematical modelling of cortisol dynamics and the HPA axis. She holds an MSc in Applied Mathematics from Stellenbosch University, where she worked on simulation-based validation of a model for detecting changes in SARS-CoV-2 reinfection risk. Her broader interests include infectious disease modelling, data-driven mathematical modelling, and computational approaches to biological systems.
+---
