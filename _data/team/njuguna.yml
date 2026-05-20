@@ -1,0 +1,17 @@
+---
+name: Brian Njuguna, BSc
+lastname: Njuguna
+firstname: Brian
+type: mentor
+role: Mentor
+involvement: 
+img: team/njuguna.jpeg
+position: Assistant Research Fellow, MSc student (University of Nairobi)
+affiliation: Centre for Epidemiological Modelling and Analysis (CEMA)
+degrees:
+  - degree: BSc
+    discipline: Statistics
+    institution: Egerton University
+    year: 2024
+bio: Brian Njuguna is an Assistant Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA). He uses mathematical and spatial modelling to study infectious diseases, drawing on health systems data to inform public health decisions in Kenya and the wider African region. Much of his work involves building Bayesian geostatistical models for neglected tropical diseases such as schistosomiasis and soil-transmitted helminths, as well as vaccine-preventable diseases like measles. Brian holds a BSc in Statistics from Egerton University and is currently pursuing an MSc in Data Science at the University of Nairobi. Brian join the ICI3D team as a participant in MMED 2024.
+---
