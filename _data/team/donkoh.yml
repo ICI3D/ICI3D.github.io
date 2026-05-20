@@ -1,0 +1,21 @@
+---
+name: Vincent Donkoh, MPhil
+lastname: Donkoh
+firstname: Vincent
+type: observer
+role: Faculty Observer
+involvement: Faculty Observer for MMED 2026
+position: PhD Candidate
+affiliation: G-WAC, Kwame Nkrumah University of Science and Technology (KNUST)
+img: team/donkoh.jpg
+degrees:
+  - degree: MPhil
+    discipline: Applied Mathematics
+    institution: Kwame Nkrumah University of Science and Technology
+    year: 2019
+  - degree: BSc
+    discipline: Mathematics
+    institution: Kwame Nkrumah University of Science and Technology
+    year: 2016
+bio: Vincent Donkoh is a PhD Candidate in Scientific Computing and Industrial Modelling at the National Institute for Mathematical Sciences, Kwame Nkrumah University of Science and Technology (KNUST), and affiliated with the German-West African Centre for Global Health and Pandemic Prevention (G-WAC). His research focuses on mathematical modelling, scientific computing, optimization, and data-driven systems for real-world applications in education and public health. He holds an MPhil in Applied Mathematics (2019) and a BSc in Mathematics (2016) from KNUST. Vincent has contributed to interdisciplinary projects involving infectious disease modelling, pandemic preparedness, automated timetabling systems, and scalable digital learning platforms. Beyond research, he works at the intersection of software engineering and learning technologies, with experience designing large-scale digital systems supporting learners and institutions across multiple countries.
+---
