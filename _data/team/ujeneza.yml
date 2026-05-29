@@ -1,12 +1,12 @@
 ---
-name: Eva Ujeneza, MSc
+name: Eva Liliane Ujeneza, MSc
 lastname: Ujeneza
 firstname: Eva
-type: inactive
-role: Faculty Member, DAIDD 2016, MMED 2018
+type: active
+role: Faculty Member, DAIDD 2016, MMED 2018, 2026
 involvement: Faculty Member, MMED and DAIDD clinics
-position: PhD candidate, Stellenbosch University and
-affiliation: South African Centre for Epidemiological Modelling and Analysis
+position: Research Fellow in Mathematical Epidemiology & Coordinator, Epidemic Response Lab (ERL)
+affiliation: African Institute for Mathematical Sciences (AIMS) Research and Innovation Centre, Rwanda
 img: team/ujeneza.jpg
 summary: Eva is a PhD candidate in the Department of Mathematics at Stellenbosch University. She was an MMED participant in 2014, served as an MMED mentor in 2015-2016, and joined the Workshop Faculty in 2016.
 github: EvaLiliane
@@ -24,17 +24,22 @@ degrees:
     year: 2014
   - degree: Postgraduate Diploma
     discipline: Mathematical Sciences
-    institution: African Institute for Mathematical Sciences
+    institution: African Institute for Mathematical Sciences - South Africa
     year: 2011
   - degree: BSc
     discipline: Applied Mathematics
     institution: National University of Rwanda
-    year: 2009
-bio: Eva completed an undergraduate (Honours) degree in Applied Mathematics, at the National University of Rwanda. She then attended the African Institute for Mathematical Sciences (AIMS) in South Africa and obtained a postgraduate diploma in Mathematical Sciences. In June 2014, she obtained a Master of Science in Environmental and Geographical Sciences (Climate Modeling) from the University of Cape Town, after which she joined the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA) as a PhD student. Eva is registered in the Department of Mathematics at Stellenbosch University, and her research focuses on how to use mathematical models to describe the reconstitution of the immune system in HIV-infected patients that are on highly active antiretroviral therapy. She was an MMED participant in 2014, served as an MMED mentor in 2015-2016, and joined the Workshop Faculty in 2016.
+    year: 2010
+bio: Eva Liliane Ujeneza is a mathematician and epidemiological modeller whose work focuses on applying mathematical and statistical methods to infectious diseases, climate-health interactions, and epidemic preparedness. She is a Research Fellow in Mathematical Epidemiology and Coordinator of the Epidemic Response Lab (ERL) at the African Institute for Mathematical Sciences (AIMS) Research and Innovation Centre in Kigali, Rwanda. Her research includes modeling immune system reconstitution in HIV-infected patients receiving antiretroviral therapy, COVID-19 transmission and intervention strategies, climate-sensitive disease dynamics, and, more recently, Mpox transmission and control in the Democratic Republic of Congo. She currently contributes to MRC- and Gates Foundation-funded Mpox projects implemented in collaboration with the South Kivu Provincial Health Division. Eva has been actively involved in the MMED and DAIDD communities for over a decade, first as a participant, later as a mentor, and subsequently as faculty. She has contributed to the design and delivery of training in infectious disease modelling, epidemiology, data analysis, and scientific programming, both in person and through online learning initiatives. Beyond research, she coordinates MSc internship programs in Mathematical Epidemiology and Malaria Modelling, mentors early-career African scientists, and supports capacity building in quantitative public health across the continent.
 papers:
-  - title: Impact of Age and Sex on CD4+ Cell Count Trajectories following Treatment Initiation - An Analysis of the Tanzanian HIV Treatment Database
-    authors: Means, Risher, <b>Ujeneza</b>, I Maposa, J Nondi, <b>Bellan</b>
-    link: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0164148
-    journal: PLOS ONE
-    year: 2016
+  - title: A mechanistic model for long-term immunological outcomes in South African HIV-infected children and adults receiving ART
+    authors: <b>EL Ujeneza</b>, W Ndifon, S Sawry, G Fatti, J Riou, MA Davies, M Nieuwoudt, IeDEA-Southern Africa collaboration
+    link: https://doi.org/10.7554/eLife.42390
+    journal: eLife
+    year: 2021
+  - title: A pooled testing strategy for identifying SARS-CoV-2 at low prevalence
+    authors: Mutesa, L, Ndishimye, P, Butera, Y, Uwineza, A, Rutayisire, R, Musoni, E, Rujeni, N, Nyatanyi, T, Ntagwabira, E, Semakula, M, Musanabaganwa, C, Nyamwasa, D, Ndashimye, M, <b>Ujeneza, EL<b>, Mwikarago, IE, Muvunyi, CM, Mazarati, JB, Nsanzimana, S, Turok, N, & Ndifon, W
+    link: https://doi.org/10.1038/s41586-020-2885-5
+    journal: Nature
+    year: 2021
 ---
