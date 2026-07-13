@@ -1,0 +1,181 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ici3d.org/schemas/schedule-cohort.schema.json",
+  "title": "ICI3D clinic schedule (one cohort-year)",
+  "type": "object",
+  "required": ["timezone", "tracks", "weeks"],
+  "additionalProperties": false,
+  "properties": {
+    "clinic":            { "type": "string", "pattern": "^[a-z][a-z0-9-]*$" },
+    "year":              { "type": "integer", "minimum": 2000, "maximum": 2100 },
+    "status":            { "enum": ["draft", "published", "archive"], "default": "published" },
+    "title":             { "type": "string" },
+    "location_name":     { "type": "string" },
+    "timezone":          { "$ref": "#/$defs/ianaTz" },
+    "display_timezones": { "type": "array", "minItems": 1, "uniqueItems": true,
+                           "items": { "$ref": "#/$defs/ianaTz" } },
+    "tracks":            { "type": "array", "minItems": 1, "uniqueItems": true,
+                           "items": { "type": "string", "minLength": 1 } },
+    "faculty":           { "type": "array", "uniqueItems": true,
+                           "items": { "$ref": "#/$defs/personKey" } },
+    "locations":         { "type": "object",
+                           "additionalProperties": { "type": "string", "minLength": 1 } },
+    "meal_defaults":     { "type": "object",
+                           "additionalProperties": {
+                             "type": "object", "additionalProperties": false,
+                             "required": ["start", "end"],
+                             "properties": { "start": { "$ref": "#/$defs/hhmm" },
+                                             "end": { "$ref": "#/$defs/hhmm" } } } },
+    "weeks":             { "type": "array", "minItems": 1,
+                           "items": { "$ref": "#/$defs/week" } }
+  },
+  "$defs": {
+    "hhmm":    { "type": "string", "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$" },
+    "isoDate": { "type": "string", "format": "date",
+                 "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "ianaTz":  { "type": "string",
+                 "pattern": "^[A-Za-z][A-Za-z0-9_+\\-]*(/[A-Za-z0-9_+\\-]+)+$" },
+    "personKey":     { "type": "string", "pattern": "^[a-z][a-z0-9_-]*$" },
+    "instructorKey": { "type": "string", "pattern": "^[A-Za-z][A-Za-z0-9_-]*$" },
+
+    "external": {
+      "type": "object",
+      "required": ["name"],
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "url":  { "type": "string", "minLength": 1 }
+      }
+    },
+
+    "instructor": {
+      "oneOf": [
+        { "$ref": "#/$defs/instructorKey" },
+        { "$ref": "#/$defs/external" }
+      ]
+    },
+
+    "link": {
+      "type": "object",
+      "required": ["url"],
+      "additionalProperties": false,
+      "properties": {
+        "text":     { "type": "string", "minLength": 1 },
+        "url":      { "type": "string", "minLength": 1 },
+        "deadline": { "$ref": "#/$defs/hhmm" }
+      }
+    },
+
+    "note": {
+      "oneOf": [
+        { "type": "string", "minLength": 1 },
+        { "type": "object",
+          "required": ["text"],
+          "additionalProperties": false,
+          "properties": {
+            "text":   { "type": "string", "minLength": 1 },
+            "shadow": { "type": "boolean", "default": false }
+          } }
+      ]
+    },
+
+    "week": {
+      "type": "object",
+      "required": ["days"],
+      "additionalProperties": false,
+      "properties": {
+        "title":       { "type": "string" },
+        "collapsible": { "type": "boolean", "default": false },
+        "open":        { "type": "boolean", "default": false },
+        "days":        { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/day" } }
+      }
+    },
+
+    "day": {
+      "type": "object",
+      "required": ["date"],
+      "additionalProperties": false,
+      "properties": {
+        "date":     { "$ref": "#/$defs/isoDate" },
+        "label":    { "type": "string" },
+        "sessions": { "type": "array", "items": { "$ref": "#/$defs/session" } },
+        "links":    { "type": "array", "items": { "$ref": "#/$defs/link" } },
+        "notes":    { "type": "array", "items": { "$ref": "#/$defs/note" } }
+      }
+    },
+
+    "session": {
+      "type": "object",
+      "required": ["kind"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "enum": ["lecture", "discussion", "computer-session", "live-coding",
+                   "group-work", "organizing", "activity", "poster", "reading",
+                   "social", "meal", "coffee", "tea", "break",
+                   "note", "raw", "todo"]
+        },
+        "start":       { "$ref": "#/$defs/hhmm" },
+        "end":         { "$ref": "#/$defs/hhmm" },
+        "track":       { "type": "string", "minLength": 1 },
+        "tracks":      { "type": "array", "minItems": 1, "uniqueItems": true,
+                         "items": { "type": "string", "minLength": 1 } },
+        "instructors_by_track": {
+                         "type": "object",
+                         "additionalProperties": {
+                           "type": "array",
+                           "items": { "$ref": "#/$defs/instructor" } } },
+        "choice":      { "type": "string", "minLength": 1 },
+        "title":       { "type": "string", "minLength": 1 },
+        "shadow":      { "type": "boolean", "default": false },
+        "guest":       { "type": "boolean", "default": false },
+        "speaker":     { "type": "string", "minLength": 1 },
+        "instructors": { "type": "array", "items": { "$ref": "#/$defs/instructor" } },
+        "location":    { "type": "string", "minLength": 1 },
+        "links":       { "type": "array", "items": { "$ref": "#/$defs/link" } },
+        "notes":       { "type": "array", "items": { "$ref": "#/$defs/note" } },
+        "time_note":   { "type": "string" },
+        "meal":        { "enum": ["breakfast", "lunch", "dinner"] },
+        "text":        { "type": "string" },
+        "html":        { "type": "string" },
+        "source":      { "type": "string" }
+      },
+      "not": { "required": ["track", "tracks"] },
+      "allOf": [
+        {
+          "if":   { "properties": { "kind": { "enum":
+                    ["lecture", "discussion", "computer-session", "live-coding",
+                     "group-work", "organizing", "activity", "poster", "reading"] } },
+                    "required": ["kind"] },
+          "then": { "required": ["start", "end", "title"],
+                    "anyOf": [ { "required": ["track"] }, { "required": ["tracks"] } ] }
+        },
+        {
+          "if":   { "properties": { "kind": { "enum": ["coffee", "tea", "break"] } },
+                    "required": ["kind"] },
+          "then": { "required": ["start", "end"] }
+        },
+        {
+          "if":   { "properties": { "kind": { "const": "meal" } }, "required": ["kind"] },
+          "then": { "required": ["start", "end", "meal"] }
+        },
+        {
+          "if":   { "properties": { "kind": { "const": "social" } }, "required": ["kind"] },
+          "then": { "required": ["title"] }
+        },
+        {
+          "if":   { "properties": { "kind": { "const": "note" } }, "required": ["kind"] },
+          "then": { "required": ["text"], "properties": { "shadow": { "const": true } } }
+        },
+        {
+          "if":   { "properties": { "kind": { "const": "raw" } }, "required": ["kind"] },
+          "then": { "required": ["html"] }
+        },
+        {
+          "if":   { "properties": { "kind": { "const": "todo" } }, "required": ["kind"] },
+          "then": { "required": ["source"] }
+        }
+      ]
+    }
+  }
+}

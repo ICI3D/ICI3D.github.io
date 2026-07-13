@@ -1,0 +1,19 @@
+# Shared role tokens for ICI3D clinic schedules (#54 data loop).
+#
+# An `instructors:` / `faculty:` entry in a schedule YAML is one of:
+#   - a person KEY that must resolve to _data/team/<key>.yml  (hard-checked, Tier 1a)
+#   - a ROLE token listed here                                (allowed, no person record)
+#   - an external object {name, url}                          (skipped by Tier 1)
+#
+# Role tokens are matched case-insensitively by tools/validate_schedule.py, so the
+# schedule may write "Tutors" / "Mentors" / "everyone" and they resolve here.
+# `tbd` is allowed but emits a non-gating WARNING (a placeholder still to be filled).
+roles:
+  - everyone        # the whole cohort (faculty + participants)
+  - all             # synonym for everyone
+  - faculty         # the assembled faculty, unspecified individuals
+  - mentors         # project mentors as a group
+  - tutors          # R/computer-session tutors as a group
+  - aims-tutors     # AIMS tutors as a group
+  - organizers      # the organizing team
+  - tbd             # placeholder — allowed but warns

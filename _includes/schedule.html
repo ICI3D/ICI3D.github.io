@@ -1,0 +1,95 @@
+{%- comment -%}
+  Shared, fixed schedule renderer for the #54 data loop.
+
+  Turns one flat cohort data file (_data/schedule/<clinic>/<year>.yml, validated by
+  tools/validate_schedule.py) into the rendered schedule. This include is NEVER edited
+  during a clinic; only the data file is. A bad data edit fails validation, it cannot
+  break the build, because no Liquid lives in the edited file.
+
+  Usage from a clinic schedule page (layout: clinic): assign the cohort to a variable,
+  then  include schedule.html  with  data=<that variable>  (the include tag cannot take a
+  bracket-subscripted value directly, so assign it first).
+  shadow:true sessions and notes are dropped here (participant view). A separate
+  faculty build would include them; see DESIGN.md / #56 for where that lives.
+{%- endcomment -%}
+{%- assign sched = include.data -%}
+{%- for week in sched.weeks -%}
+<details class="schedule-week"{% if week.open %} open{% endif %}>
+  <summary>{{ week.title }}</summary>
+  {%- for day in week.days -%}
+  <div class="schedule-day">
+    <h3>{{ day.label | default: day.date }}</h3>
+    <ul class="schedule-sessions">
+      {%- for s in day.sessions -%}
+        {%- unless s.shadow -%}
+        {%- case s.kind -%}
+          {%- when 'lecture' -%}{%- assign label = 'Lecture' -%}
+          {%- when 'discussion' -%}{%- assign label = 'Discussion' -%}
+          {%- when 'computer-session' -%}{%- assign label = 'Comp. Session' -%}
+          {%- when 'live-coding' -%}{%- assign label = 'Live coding' -%}
+          {%- when 'group-work' -%}{%- assign label = 'Group Work' -%}
+          {%- when 'organizing' -%}{%- assign label = 'Organizational' -%}
+          {%- when 'poster' -%}{%- assign label = 'Posters' -%}
+          {%- when 'reading' -%}{%- assign label = 'Reading' -%}
+          {%- when 'social' -%}{%- assign label = 'Social event' -%}
+          {%- when 'meal' -%}{%- assign label = s.meal | capitalize -%}
+          {%- when 'coffee' -%}{%- assign label = 'Coffee' -%}
+          {%- when 'tea' -%}{%- assign label = 'Tea' -%}
+          {%- when 'break' -%}{%- assign label = 'Free' -%}
+          {%- when 'todo' -%}{%- assign label = 'TODO' -%}
+          {%- else -%}{%- assign label = '' -%}
+        {%- endcase -%}
+      <li class="session session--{{ s.kind }}">
+        {%- if s.start -%}<span class="time">{{ s.start }}{% if s.end %}&ndash;{{ s.end }}{% endif %}</span>{%- endif -%}
+        {%- if label != '' %} <span class="kind">{{ label }}</span>{% endif -%}
+        {%- comment -%} the title's own link (display text == title) is rendered AS the linked title, not repeated below {%- endcomment -%}
+        {%- assign primary_url = '' -%}
+        {%- for l in s.links -%}{%- if l.text == s.title and primary_url == '' -%}{%- assign primary_url = l.url -%}{%- endif -%}{%- endfor -%}
+        {%- if s.title -%}
+          {%- assign title_html = s.title | markdownify | remove: '<p>' | remove: '</p>' | strip -%}
+          <span class="title">{% if primary_url != '' %}<a href="{{ primary_url }}">{{ title_html }}</a>{% else %}{{ title_html }}{% endif %}</span>
+        {%- endif -%}
+        {%- comment -%} who: single-track instructor list {%- endcomment -%}
+        {%- if s.instructors and s.instructors.size > 0 -%}
+          <span class="who">(
+          {%- for key in s.instructors -%}
+            {%- assign person = site.data.team[key] -%}
+            {%- if person -%}<a href="{{ site.baseurl }}/team/{{ key }}/">{{ person.name }}</a>{%- else -%}{{ key }}{%- endif -%}
+            {%- unless forloop.last %}, {% endunless -%}
+          {%- endfor -%}
+          {%- if s.location %}, {{ sched.locations[s.location] | default: s.location }}{% endif -%})</span>
+        {%- elsif s.instructors_by_track -%}
+          <span class="who">(
+          {%- for pair in s.instructors_by_track -%}
+            {{ pair[0] }}:
+            {%- for key in pair[1] -%} {% assign person = site.data.team[key] %}{% if person %}<a href="{{ site.baseurl }}/team/{{ key }}/">{{ person.name }}</a>{% else %}{{ key }}{% endif %}{%- unless forloop.last %},{% endunless -%}{%- endfor -%}
+            {%- unless forloop.last %}; {% endunless -%}
+          {%- endfor -%})</span>
+        {%- elsif s.location -%}
+          <span class="who">({{ sched.locations[s.location] | default: s.location }})</span>
+        {%- endif -%}
+        {%- comment -%} extra resource links (everything except the primary title link rendered above) {%- endcomment -%}
+        {%- assign n_extra = 0 -%}
+        {%- for l in s.links -%}{%- unless l.url == primary_url and l.text == s.title -%}{%- assign n_extra = n_extra | plus: 1 -%}{%- endunless -%}{%- endfor -%}
+        {%- if n_extra > 0 %} <span class="links">[{% for l in s.links %}{% unless l.url == primary_url and l.text == s.title %}<a href="{{ l.url }}">{{ l.text | default: 'link' }}</a>{% unless forloop.last %} {% endunless %}{% endunless %}{% endfor %}]</span>{% endif -%}
+        {%- assign has_notes = false -%}
+        {%- for n in s.notes -%}{%- unless n.shadow %}{%- assign has_notes = true -%}{%- endunless -%}{%- endfor -%}
+        {%- if has_notes -%}
+          <ul class="notes">{%- for n in s.notes -%}{%- unless n.shadow -%}<li>{{ n.text | default: n | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>{%- endunless -%}{%- endfor -%}</ul>
+        {%- endif -%}
+      </li>
+        {%- endunless -%}
+      {%- endfor -%}
+    </ul>
+    {%- assign has_day_notes = false -%}
+    {%- for n in day.notes -%}{%- unless n.shadow %}{%- assign has_day_notes = true -%}{%- endunless -%}{%- endfor -%}
+    {%- if day.links.size > 0 or has_day_notes -%}
+    <ul class="schedule-day-extras">
+      {%- for l in day.links -%}<li><a href="{{ l.url }}">{{ l.text | default: 'link' }}</a>{% if l.deadline %} (by {{ l.deadline }}){% endif %}</li>{%- endfor -%}
+      {%- for n in day.notes -%}{%- unless n.shadow -%}<li>{{ n.text | default: n | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>{%- endunless -%}{%- endfor -%}
+    </ul>
+    {%- endif -%}
+  </div>
+  {%- endfor -%}
+</details>
+{%- endfor -%}

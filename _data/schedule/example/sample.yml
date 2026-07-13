@@ -1,0 +1,97 @@
+# Synthetic example cohort for the #54 schedule data loop.
+#
+# This is NOT a real clinic schedule. It documents the flat-data format and gives
+# the validator (tools/validate_schedule.py) and renderer (_includes/schedule.html)
+# something to exercise in CI. Real per-clinic schedules live in their own clinic
+# repos; where a clinic's build reads that data from is the #56 topology decision.
+#
+# Instructor entries are either a role token (see _data/schedule/roles.yml) or a
+# person key that resolves to _data/team/<key>.yml. This example uses both.
+clinic: example
+year: 2099
+status: draft
+title: Example Clinic 2099
+timezone: Africa/Johannesburg
+display_timezones:
+  - Africa/Johannesburg
+  - America/New_York
+tracks:
+  - main
+locations:
+  main-hall: Main Hall
+  comp-lab: Comp. Lab
+faculty:
+  - faculty
+  - pulliam
+weeks:
+  - title: "Week 1: Foundations"
+    open: true
+    days:
+      - date: "2099-01-05"
+        label: "Monday, 5 Jan"
+        sessions:
+          - start: "09:00"
+            end: "09:15"
+            kind: organizing
+            track: main
+            title: "Welcome and orientation"
+            instructors: [organizers]
+            location: main-hall
+          - start: "09:15"
+            end: "10:30"
+            kind: lecture
+            track: main
+            title: "Introduction to dynamical models"
+            instructors: [pulliam]
+            location: main-hall
+            links:
+              - {text: "slides", url: "https://example.org/slides/intro"}
+          - start: "10:30"
+            end: "11:00"
+            kind: tea
+          - start: "11:00"
+            end: "12:30"
+            kind: computer-session
+            track: main
+            title: "Tutorial 1: R and the SIR model"
+            instructors: [tutors]
+            location: comp-lab
+          - start: "12:30"
+            end: "13:30"
+            kind: meal
+            meal: lunch
+          - start: "13:30"
+            end: "15:00"
+            kind: discussion
+            track: main
+            title: "Model assumptions and their consequences"
+            instructors: [faculty]
+            location: main-hall
+          # a faculty-only (shadow) row: present in the source, dropped from the
+          # rendered participant view by the renderer.
+          - start: "15:00"
+            end: "15:30"
+            kind: organizing
+            track: main
+            title: "Faculty debrief"
+            shadow: true
+            instructors: [faculty]
+        notes:
+          - text: "Bring a laptop with R installed."
+      - date: "2099-01-06"
+        label: "Tuesday, 6 Jan"
+        sessions:
+          - start: "09:00"
+            end: "10:30"
+            kind: lecture
+            track: main
+            title: "Stochastic models"
+            instructors: [pulliam]
+            location: main-hall
+          - start: "10:30"
+            end: "12:00"
+            kind: group-work
+            track: main
+            title: "Project scoping"
+            instructors: [mentors]
+            location: main-hall
