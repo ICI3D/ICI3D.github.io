@@ -1,12 +1,8 @@
-# Gate schedule DATA edits (#54).
+# Validate this repo's own schedule data (#54) using the shared composite action.
 #
-# A Jekyll build stays green even when a schedule is wrong, because Liquid renders
-# an undefined value or a broken reference as the empty string. This workflow runs
-# tools/validate_schedule.py (Tier 0 schema + Tier 1 referential: people keys must
-# resolve against _data/team, sessions non-overlapping within a track, end >= start)
-# so a bad edit fails a check with a clear, annotated error instead of silently
-# shipping a broken page. Make it a REQUIRED status check in branch protection to
-# actually gate merges.
+# The same action (.github/actions/validate-schedule) is what clinic repos call
+# after checking out ICI3D.github.io as a submodule, so the validation logic is
+# maintained once here and pulled in everywhere else.
 name: Validate schedule data
 
 on:
@@ -16,6 +12,7 @@ on:
       - '_data/team/**'          # people data feeds Tier-1 resolution
       - 'schemas/**'
       - 'tools/validate_schedule.py'
+      - '.github/actions/validate-schedule/**'
       - '.github/workflows/schedule-validate.yml'
   push:
     branches: ['master']
@@ -24,6 +21,7 @@ on:
       - '_data/team/**'
       - 'schemas/**'
       - 'tools/validate_schedule.py'
+      - '.github/actions/validate-schedule/**'
   workflow_dispatch:
 
 permissions:
@@ -34,22 +32,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install validator dependencies
-        run: python -m pip install --quiet pyyaml jsonschema
-
-      - name: Validate every cohort schedule
-        run: |
-          shopt -s nullglob
-          files=(_data/schedule/*/*.yml)
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No cohort schedule files under _data/schedule/<clinic>/ — nothing to validate."
-            exit 0
-          fi
-          echo "Validating: ${files[*]}"
-          python3 tools/validate_schedule.py "${files[@]}" --github
+      - uses: ./.github/actions/validate-schedule

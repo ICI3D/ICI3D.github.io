@@ -1,0 +1,45 @@
+name: 'Validate ICI3D schedule data'
+description: >
+  Runs the shared schedule validator (Tier 0 JSON Schema + Tier 1 referential:
+  instructor keys resolve, sessions non-overlapping within a track, end >= start)
+  on a clinic's schedule YAML. Designed to be called from a clinic repo that
+  vendors ICI3D.github.io as a submodule, so the validator, schema, role tokens,
+  and people data all come from one shared source. The clinic workflow just
+  checks out (with submodules) and calls this action.
+inputs:
+  paths:
+    description: >
+      Glob of schedule data files to validate, relative to the calling repo's
+      root. Defaults to every cohort file under _data/schedule/<clinic>/.
+    required: false
+    default: '_data/schedule/*/*.yml'
+runs:
+  using: 'composite'
+  steps:
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install validator dependencies
+      shell: bash
+      run: python -m pip install --quiet pyyaml jsonschema
+
+    - name: Validate schedule data
+      shell: bash
+      env:
+        PATHS: ${{ inputs.paths }}
+        # validate_schedule.py lives two levels up from this action dir, in the
+        # shared repo's tools/. Its schema / roles / people-dir defaults are
+        # resolved relative to its own location, so they point at the shared
+        # repo's schemas/, _data/schedule/roles.yml, and _data/team.
+        VALIDATOR: ${{ github.action_path }}/../../../tools/validate_schedule.py
+      run: |
+        shopt -s nullglob
+        files=($PATHS)
+        if [ ${#files[@]} -eq 0 ]; then
+          echo "No schedule files matching '$PATHS' — nothing to validate."
+          exit 0
+        fi
+        echo "Validating: ${files[*]}"
+        python3 "$VALIDATOR" "${files[@]}" --github
