@@ -3,7 +3,7 @@
 # The hook (.pre-commit-config.yaml -> tools/validate_schedule.py) is the SAME
 # check contributors run locally with `pre-commit install`, so local and CI
 # validation are one source of truth. Clinic repos run the equivalent check on
-# their own schedule data (see DESIGN.md for the consumer setup).
+# their own schedule data via the distributed pre-commit hook (see ici3d_schedule/README.md).
 name: Validate schedule data
 
 on:
