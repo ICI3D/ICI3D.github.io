@@ -11,8 +11,9 @@ on:
     paths:
       - '_data/schedule/**'
       - '_data/team/**'          # people data feeds Tier-1 resolution
-      - 'schemas/**'
+      - 'ici3d_schedule/**'
       - 'tools/validate_schedule.py'
+      - 'pyproject.toml'
       - '.pre-commit-config.yaml'
       - '.github/workflows/schedule-validate.yml'
   push:
@@ -20,8 +21,9 @@ on:
     paths:
       - '_data/schedule/**'
       - '_data/team/**'
-      - 'schemas/**'
+      - 'ici3d_schedule/**'
       - 'tools/validate_schedule.py'
+      - 'pyproject.toml'
       - '.pre-commit-config.yaml'
   workflow_dispatch:
 
