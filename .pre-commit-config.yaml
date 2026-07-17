@@ -1,0 +1,23 @@
+# Local validation for ICI3D clinic schedule data (#54 "flat data -> validate -> render").
+#
+# Contributors editing _data/schedule/<clinic>/<year>.yml get the SAME check CI
+# runs, on every commit:
+#
+#     pip install pre-commit && pre-commit install
+#
+# CI (.github/workflows/schedule-validate.yml) runs this same hook, so local and
+# CI validation share one source of truth: tools/validate_schedule.py. roles.yml
+# is validator config (allowed role tokens), not a schedule document, so it is
+# excluded from the matched files.
+repos:
+  - repo: local
+    hooks:
+      - id: validate-schedule
+        name: Validate ICI3D schedule data (Tier 0 schema + Tier 1 references)
+        entry: python tools/validate_schedule.py
+        language: python
+        additional_dependencies:
+          - pyyaml
+          - jsonschema
+        files: ^_data/schedule/.*\.ya?ml$
+        exclude: ^_data/schedule/roles\.ya?ml$

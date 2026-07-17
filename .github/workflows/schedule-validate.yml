@@ -1,8 +1,9 @@
-# Validate this repo's own schedule data (#54) using the shared composite action.
+# Validate this repo's own schedule data (#54) via the shared pre-commit hook.
 #
-# The same action (.github/actions/validate-schedule) is what clinic repos call
-# after checking out ICI3D.github.io as a submodule, so the validation logic is
-# maintained once here and pulled in everywhere else.
+# The hook (.pre-commit-config.yaml -> tools/validate_schedule.py) is the SAME
+# check contributors run locally with `pre-commit install`, so local and CI
+# validation are one source of truth. Clinic repos run the equivalent check on
+# their own schedule data (see DESIGN.md for the consumer setup).
 name: Validate schedule data
 
 on:
@@ -12,7 +13,7 @@ on:
       - '_data/team/**'          # people data feeds Tier-1 resolution
       - 'schemas/**'
       - 'tools/validate_schedule.py'
-      - '.github/actions/validate-schedule/**'
+      - '.pre-commit-config.yaml'
       - '.github/workflows/schedule-validate.yml'
   push:
     branches: ['master']
@@ -21,7 +22,7 @@ on:
       - '_data/team/**'
       - 'schemas/**'
       - 'tools/validate_schedule.py'
-      - '.github/actions/validate-schedule/**'
+      - '.pre-commit-config.yaml'
   workflow_dispatch:
 
 permissions:
@@ -32,4 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ./.github/actions/validate-schedule
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: pre-commit/action@v3.0.1
+        with:
+          extra_args: validate-schedule --all-files
