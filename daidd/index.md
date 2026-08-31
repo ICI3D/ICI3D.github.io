@@ -1,12 +1,12 @@
 ---
 layout: page
 title: DAIDD
-year: 2025
+year: 2026
 tab: Programs
 longtitle: Clinic on Dynamical Approaches to Infectious Disease Data
 summary: DAIDD is a week-long modeling clinic that provides an introduction to dynamical models used in the study of infectious disease dynamics. Instruction focuses on the conceptual foundations of modeling and model formulation for infectious disease research.
 alerttype: warning
-alertmsg: The thirteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held at AIMS-SA, Muizenberg, on 07-13 December 2025. The application deadline for DAIDD 2025 was 01 October 2025. Late applications will not be accepted.
+alertmsg: The fourteenth annual <strong>Clinic on Dynamical Approaches to Infectious Disease Data (DAIDD)</strong> will be held in Nairobi, Kenya, 28 November - 05 December 2026. The application deadline for DAIDD is 22 September 2026. Late applications will not be accepted.
 
 ---
 
