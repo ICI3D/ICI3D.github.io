@@ -39,11 +39,11 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR 28000, which includes meals and accommodation. Instructions for paying the course fee will be made available to successful applicants by mid October.
+The course registration fee is TBC, which includes meals and accommodation. Instructions for paying the course fee will be made available to successful applicants by mid October.
 
 ## Venue
 
-DAIDD 2025 will be held at AIMS-SA, Muizenberg, South Africa.
+DAIDD 2026 will be held in Nairobi, Kenya.
 
 ## Schedule
 
@@ -94,10 +94,11 @@ _Participants from other time zones are welcome, as long as they can participate
 
 There will be a mid-session evaluation on Wednesday. -->
 
-**The full schedule for DAIDD 2025 will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2019](http://www.ici3d.org/DAIDD/schedule/2019 "DAIDD 2019 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.**
+**The full schedule for DAIDD 2025 will follow similar structure to previous in-person DAIDD Clinics (e.g., [DAIDD 2025](http://www.ici3d.org/DAIDD/schedule/2025 "DAIDD 2025 schedule")). The schedule will be available via the Clinic website approximately 1 month before the Clinic.**
 
 Schedules from previous years:
 
+- [DAIDD 2025](http://www.ici3d.org/DAIDD/schedule/2025 "DAIDD 2025 schedule")
 - [DAIDD 2023](http://www.ici3d.org/DAIDD/schedule/2023 "DAIDD 2023 schedule")
 - [DAIDD 2022](http://www.ici3d.org/DAIDD/schedule/2022 "DAIDD 2022 schedule")
 - [DAIDD 2021](http://www.ici3d.org/DAIDD/schedule/2021 "DAIDD 2021 schedule")
