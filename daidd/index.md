@@ -39,7 +39,7 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is TBC, which includes meals and accommodation. Instructions for paying the course fee will be made available to successful applicants by mid October.
+The course registration fee is US$ 1100. The registration fee includes room and board for the duration of the Clinic, as well as course activities and materials. A small number of full and partial scholarships are available to cover the registration fee. Participants are responsible for covering their own travel expenses (and visa fees, where applicable).
 
 ## Venue
 
