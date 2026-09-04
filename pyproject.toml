@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ici3d-schedule"
+version = "0.1.0"
+description = "Validator, JSON Schema, and role vocabulary for ICI3D clinic schedule data (#54 flat-data loop)."
+requires-python = ">=3.9"
+dependencies = ["pyyaml", "jsonschema>=4.18"]
+
+[project.scripts]
+validate-schedule = "ici3d_schedule.validate:main"
+
+[tool.setuptools]
+packages = ["ici3d_schedule"]
+
+[tool.setuptools.package-data]
+ici3d_schedule = ["data/*.json", "data/*.yml"]

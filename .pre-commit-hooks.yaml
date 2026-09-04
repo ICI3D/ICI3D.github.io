@@ -1,0 +1,21 @@
+# Distributed pre-commit hook for ICI3D clinic repos (#54). A clinic validates its
+# schedule data against the shared, versioned schema WITHOUT vendoring it, by adding
+# to its own .pre-commit-config.yaml:
+#
+#   repos:
+#     - repo: https://github.com/ICI3D/ICI3D.github.io
+#       rev: <tag or commit sha>
+#       hooks:
+#         - id: validate-schedule
+#
+# pre-commit installs this package (schema + role tokens bundled) into an isolated
+# environment and runs it on the clinic's _data/schedule/*.yml files. Instructor keys
+# resolve against the clinic's own _data/team (the same records the renderer reads via
+# site.data.team); override with `args: [--people-dir, some/other/dir]` if needed.
+- id: validate-schedule
+  name: Validate ICI3D schedule data (Tier 0 schema + Tier 1 references)
+  description: Schema + referential validation for ICI3D clinic schedule YAML.
+  entry: validate-schedule
+  language: python
+  files: ^_data/schedule/.*\.ya?ml$
+  exclude: ^_data/schedule/roles\.ya?ml$

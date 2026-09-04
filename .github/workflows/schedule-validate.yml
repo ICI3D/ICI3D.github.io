@@ -1,0 +1,43 @@
+# Validate this repo's own schedule data (#54) via the shared pre-commit hook.
+#
+# The hook (.pre-commit-config.yaml -> tools/validate_schedule.py) is the SAME
+# check contributors run locally with `pre-commit install`, so local and CI
+# validation are one source of truth. Clinic repos run the equivalent check on
+# their own schedule data via the distributed pre-commit hook (see ici3d_schedule/README.md).
+name: Validate schedule data
+
+on:
+  pull_request:
+    paths:
+      - '_data/schedule/**'
+      - '_data/team/**'          # people data feeds Tier-1 resolution
+      - 'ici3d_schedule/**'
+      - 'tools/validate_schedule.py'
+      - 'pyproject.toml'
+      - '.pre-commit-config.yaml'
+      - '.github/workflows/schedule-validate.yml'
+  push:
+    branches: ['master']
+    paths:
+      - '_data/schedule/**'
+      - '_data/team/**'
+      - 'ici3d_schedule/**'
+      - 'tools/validate_schedule.py'
+      - 'pyproject.toml'
+      - '.pre-commit-config.yaml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: pre-commit/action@v3.0.1
+        with:
+          extra_args: validate-schedule --all-files
