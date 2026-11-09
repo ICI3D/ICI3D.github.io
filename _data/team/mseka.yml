@@ -1,0 +1,36 @@
+---
+name: Upendo Mseka, MPH
+lastname: Upendo
+firstname: Mseka
+type: mentor
+role: Mentor
+involvement: 
+img: team/mseka.jpg
+position: PhD Student
+affiliation: Malawi Liverpool Wellcome Research Programme
+degrees:
+  - degree: PhD
+    discipline: Global Health
+    institution: Liverpool School of Tropical Medicine
+    year: in progress
+  - degree: Master of Public Health
+    discipline: Global Health
+    institution: The University of Queensland
+    year: 2019
+  - degree: Bachelor of Medicine and Surgery
+    discipline: 
+    institution: Guangxi Medical University
+    year: 2016
+papers:
+  - title: Omicron B.1.1.529 variant infections associated with severe disease are uncommon in a COVID-19 under-vaccinated, high SARS-CoV-2 seroprevalence population in Malawi
+    authors: <b>Mseka, U</b>, Mandolo, J, Nyoni, K, Divala, O, Kambalame, D, Mapemba D, Kamzati, M, Chibwe I, Henrion, M, Manda, K, Thindwa, D, Mvula, M, Odala, B, Kamng’ona R, Dzinza, N, Jere, K, Feasey, N, Ho, A, Amoah, A, Gordon, M, Swarthout, T, Crampin, A, Heyderman, R, Kagoli, M, Chitsa-Banda, E, Mitambo, C, Phuka, J, Chilima, B, Kasambara, W, Jambo, K,and Chauma-Mwale, A
+    link: https://doi.org/10.1016/j.eclinm.2022.101800
+    journal: eClinicalMedicine
+    year: 2023
+  - title: Updated fine-scale location data for Blantyre district collected using a low-cost approach
+    authors: Baluwa, C, Kalonde, P, <b>Mseka, U</b>, Tsoka, O, Kajanga, K, Chimphondah, F, Aaron, P, Chimbalanga, F, Chiepa, B, Nkolokosa, C, Ndeketa, L, Musicha, P, Jambo, K, Stanton, M, and Chirombo, J
+    link: https://doi.org/10.1038/s41597-025-05605-5
+    journal: Scientific Data
+    year: 2025
+bio: Upendo Mseka is a PhD student based at Malawi Liverpool Wellcome Research Programme. Her doctoral research focuses on developing a mathematical model that integrates serological, epidemiological, and vaccination data to better understand measles and rubella transmission dynamics in Malawi. Upendo holds a Bachelor of Medicine and Surgery from Guangxi Medical University and a Master of Public Health from The University of Queensland.
+---
